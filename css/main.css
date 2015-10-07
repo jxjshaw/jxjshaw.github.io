@@ -27,13 +27,13 @@
 .bullshit {
 
 	color: #000000;
-	font-family: helvetica;
-	letter-spacing: 1pt;
-	font-size: 130%;
-	opacity: 0.55;
-	padding-top: 12%;
-	padding-bottom: 90%;
-	font-weight: lighter;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 0pt;
+	font-size: 18pt;
+	opacity: 0.67;
+	padding-top: 5%;
+	padding-bottom: 0%;
+	font-weight: 500;
 
 
 }
@@ -41,7 +41,7 @@
 
 .title-logo {
 
-	padding-top: 30%;
+	padding-top: 50%;
 }
 
 
@@ -61,7 +61,7 @@ div.mcfield-group {
 
 	border-width: 0px;
 	border-radius: 0px;
-	font-family: helvetica;
+ 	font-family: 'Roboto', sans-serif;
 	font-size: 8pt;
 	letter-spacing: 1pt;
 
@@ -100,3 +100,31 @@ div.mcfield-group {
 }
 
 
+h1 {
+
+
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 1pt;
+	opacity: 0.87;
+	font-weight: 200;
+	font-size: 36pt
+	
+}
+
+a {
+
+
+color: #000000;
+text-decoration: none;
+
+
+}
+
+a:hover {
+
+text-decoration: none;
+color: #00000;
+
+
+}
