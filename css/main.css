@@ -39,6 +39,7 @@ img.title-logo {
 
 .title-secondary a {
   color: #337ab7;
+  font-weight: 400;
 }
 
 .title-secondary a:hover {
