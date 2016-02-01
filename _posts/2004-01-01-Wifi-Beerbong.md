@@ -1,0 +1,40 @@
+---
+layout: post
+categories: project-item
+img-path: images/bb2.gif
+project-title: Wifi Beerbong
+---
+
+<div class="container-fluid">
+  <div class="row text-center">
+   <div class="description"> 
+    <div class="tagline"> 
+      <h4 class="title-secondary">The best or nothing</h4>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="container-fluid">
+  <div class="description"> 
+    <div class="row text-left ">
+
+      <div class="col-sm-10 col-sm-offset-1">
+
+        <h1 class="title-main-about">Advanxed UX</h1>
+
+        <p class="lead">I work in the design studio at Mercedes Benz R&D Center North America, which is basically the branch responsible for business innovation, self driving, fuel cell technolgy, advanced design, etc. <p>
+
+
+
+          <p class="lead"> More specifically, I'm on the Advanced UX ceoncepts and enablers team. I'm working on speech interaction and natural language stuff, kinda like siri. I can't show you what's actually been going down until next year's CES, but you can have a look at some projects done by our team in the past: </p>
+
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/GAz42C5Vvt8" frameborder="0" allowfullscreen></iframe>
+
+
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/fBwmH7TAupI" frameborder="0" allowfullscreen></iframe>
+
+        </div>
+      </div>
+    </div>
+  </div>
