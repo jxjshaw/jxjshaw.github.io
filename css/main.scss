@@ -88,6 +88,11 @@ img.content-image {
   margin-bottom: 30px;
 }
 
+img.content-image-vertical {
+  width: 50%;
+  margin-bottom: 30px;
+}
+
 iframe {
   width: 100%;
   height: 400px;
@@ -104,6 +109,16 @@ iframe {
   -webkit-text-fill-color: transparent;
   letter-spacing: 15pt;
   font-size: 4em;
+}
+
+.footer-text {
+  font-family: TakeOut;
+  color: white;  /* Fallback: assume this color ON TOP of image */
+  background: url(../images/header.gif) ;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 0pt;
+  font-size: 1em;
 }
 
 a:hover {

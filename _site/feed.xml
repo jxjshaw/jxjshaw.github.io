@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nice Website</title>
+    <description>Some description about this nice website.</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 01 Feb 2016 03:17:28 -0800</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2016 03:17:28 -0800</lastBuildDate>
+    <generator>Jekyll v3.1.0</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;div class=&quot;container-fluid&quot;&gt;
+  &lt;div class=&quot;description&quot;&gt; 
+    &lt;div class=&quot;row&quot;&gt;
+
+      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+        &lt;div class=&quot;container-fluid&quot;&gt;
+          &lt;div class=&quot;row text-center&quot;&gt;
+           &lt;div class=&quot;description&quot;&gt; 
+            &lt;div class=&quot;tagline&quot;&gt; 
+              &lt;h4 class=&quot;title-secondary&quot;&gt;The best or nothing&lt;/h4&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+      &lt;div class=&quot;container-fluid&quot;&gt;
+        &lt;div class=&quot;description&quot;&gt; 
+          &lt;div class=&quot;row&quot;&gt;
+
+            &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+
+              &lt;h1 class=&quot;title-main-about&quot;&gt;Advanxed UX&lt;/h1&gt;
+
+              &lt;p class=&quot;lead&quot;&gt;I work in the design studio at Mercedes Benz R&amp;amp;D Center North America, which is basically the branch responsible for business innovation, self driving, fuel cell technolgy, advanced design, etc. &lt;p&gt;
+
+
+
+                &lt;p class=&quot;lead&quot;&gt; More specifically, I&#39;m on the Advanced UX ceoncepts and enablers team. I&#39;m working on speech interaction and natural language stuff, kinda like siri. I can&#39;t show you what&#39;s actually been going down until maybe next year&#39;s CES, but you can have a look at some projects done by our team in the past: &lt;/p&gt;
+
+                &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GAz42C5Vvt8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+
+                &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fBwmH7TAupI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+              
+            
+          
+        
+      
+    
+  
+
+&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate>
+        <link>http://yourdomain.com/project-item/Mercedes/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/Mercedes/</guid>
+        
+        
+        <category>project-item</category>
+        
+      </item>
+    
+      <item>
+        <title>Airquail</title>
+        <description>&lt;div class=&quot;container-fluid&quot;&gt;
+  &lt;div class=&quot;description&quot;&gt; 
+    &lt;div class=&quot;row text-left&quot;&gt;
+
+      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Problem&lt;/h1&gt;
+
+
+        
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;The Hardware&lt;/h1&gt;
+
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/h1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/h2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/h3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+        
+
+        
+        &lt;h1 class=&quot;title-main-about&quot;&gt;The Webapp&lt;/h1&gt;
+        &lt;p&gt; first webapp &lt;/p&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/app3.png&quot; alt=&quot;Jeff&quot; /&gt;
+
+        &lt;p&gt; most recent webapp &lt;/p&gt;
+
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/DemoDesktop.png&quot; alt=&quot;Jeff&quot; /&gt;
+
+        
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Readings taken from our device&lt;/h1&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss1.png&quot; alt=&quot;Jeff&quot; /&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss2.png&quot; alt=&quot;Jeff&quot; /&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss3.png&quot; alt=&quot;Jeff&quot; /&gt;
+        
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Demo Day&lt;/h1&gt;
+
+        &lt;p class=&quot;lead&quot;&gt; After our 12 week accelerator I presented our progress at demo day. You can check out the video here. &lt;/p&gt;
+
+
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 01 Jan 2008 00:00:00 -0800</pubDate>
+        <link>http://yourdomain.com/project-item/AirQuail/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/AirQuail/</guid>
+        
+        
+        <category>project-item</category>
+        
+      </item>
+    
+      <item>
+        <title> </title>
+        <description>&lt;div class=&quot;container-fluid&quot;&gt;
+  &lt;div class=&quot;description&quot;&gt; 
+    &lt;div class=&quot;row text-left&quot;&gt;
+      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Fedup&lt;/h1&gt;
+
+
+
+        &lt;p class=&quot;lead&quot;&gt;It&#39;s crazy that in the 21st century law enforcement/legal system still rely heavily on foggy testimony and paper police reports. So we built a complete ecosystem for users to directly document, review and share evidence without having to go through anyone else. &lt;/p&gt;
+
+        &lt;iframe src=&quot;https://www.youtube.com/embed/xdvQbL0FFj8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Design considerations&lt;/h1&gt;
+
+        &lt;p class=&quot;lead&quot;&gt; Visually, the goal was to make the android app look like a badge worn by an officer - it goes along with our mission making citizens feel more empowered. &lt;/p&gt;
+
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/a1.png&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+
+        &lt;p class=&quot;lead&quot;&gt;  At the same time, we wanted to protect user privacy and allow them to run the app from their pocket. For this reason, we went recording audio instead of recording Video. Video would have also made our technology less usable in conditions with poor lighting.&lt;/p&gt;
+
+        &lt;p class=&quot;lead&quot;&gt; Unlike our android app, the web component carried a lighter layout intended for use on the desktop. Whether it&#39;s the victim organizing an account the day after, lawyers browsing client folders, or public viewers browsing fact-oriented stories, the key was to deisgn a pleasant layout that supports a wide variety of media without dumbing content down. &lt;p&gt;
+
+
+
+
+          &lt;h1 class=&quot;title-main-about&quot;&gt;Update&lt;/h1&gt;
+
+          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/banner.png&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+
+          &lt;p class=&quot;lead&quot;&gt; After deciding to continue this project, we connected with the American Civil Liberties Union and entered an official partnership with them. We also connected with the Harvard Law&#39;s Berkman Center. The goal of working with these larger organizations was gain access to more data for our web component.&lt;/p&gt;
+
+        
+
+      
+    
+  
+&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Mon, 01 Jan 2007 00:00:00 -0800</pubDate>
+        <link>http://yourdomain.com/project-item/Fed-Up/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/Fed-Up/</guid>
+        
+        
+        <category>project-item</category>
+        
+      </item>
+    
+      <item>
+        <title> </title>
+        <description>&lt;div class=&quot;container-fluid&quot;&gt;
+  &lt;div class=&quot;description&quot;&gt; 
+    &lt;div class=&quot;row text-left&quot;&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+      &lt;h1 class=&quot;title-main-about&quot;&gt;Chimehack 2&lt;/h1&gt;
+
+      &lt;p class=&quot;lead&quot;&gt;Over the summer, I went to Chimehack2 with a few friends. It&#39;s a hackathon hosted by twitter to promote hacking for change.&lt;/p&gt;
+
+
+      &lt;iframe height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/86ECVBcPWcg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+
+
+
+      &lt;h1 class=&quot;title-main-about&quot;&gt;Making college a safer space&lt;/h1&gt;
+
+      &lt;p class=&quot;lead&quot;&gt; One of the categories for Chimehack was campus safety. To brainstorm, we thought back on our experiences with campus safety. Usually when your friend goes missing, they&#39;re not picking up their phone and you don&#39;t know whether or not their phone is dead. They&#39;re probably not in enough danger to call campus safety, but that doesn&#39;t mean you&#39;re not concerned for your friend. &lt;/p&gt;
+
+      &lt;p class=&quot;lead&quot;&gt; That&#39;s why we built an iOS app called asOne. It&#39;s a better way to communicate in groups when going out. Instead of annoying group messages, we create temporary friend groups that shares information about each member&#39;s location, battery level, and the time they want to go home. &lt;/p&gt;
+
+
+      &lt;h1 class=&quot;title-main-about&quot;&gt;The Design Process&lt;/h1&gt;   
+
+      &lt;p class=&quot;lead&quot;&gt; Because we had 48 hours to build everything, I had about 12 hours to work through the user flow and freeze visual design. We formed teams friday night, so I spent the next morning designing and going through decisions with my teamates, and started exporting assets just after lunch. &lt;/p&gt;
+
+      &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/asonef.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+      &lt;p class=&quot;lead&quot;&gt; Usability was my key concern, so I spent a large chunk of my time refining the onboarding process. Because we were at Twitter, we receieved a lot of feedback about the challenges when creating a product that only works  when many users choose to engage. They just started promoting Periscope at the time, and even for them, it was hard to predict the public&#39;s reception of Periscope.
+
+
+
+        &lt;p class=&quot;lead&quot;&gt; Here&#39;s a screenshot of the splash screen, illustrating the brand and styling.&lt;/p&gt;
+        &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a6.png&quot; alt=&quot;Jeff&quot; /&gt;
+        &lt;p class=&quot;lead&quot;&gt; One goal of Chimehack 2 was to promote inclusivness in technology. Likewise, the goal of our app was to make it easier for friend groups to stay together when out on a weekend. A key theme throughout the weekend was inclusiveness, so stylistically I wanted to convey friendliness and draw a diverse user base. To convey friendliess I went with warm passionate colors and our heart shaped logo. The best thing I could do to make sure we didn&#39;t attract the traditional tech-y user base was to make the app look less stereotypical, hence the granjon/roman typeface that you may recognise when walking around a mall...&lt;/p&gt;   
+
+
+        &lt;p class=&quot;lead&quot;&gt; The resting screen&lt;/p&gt;
+        &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a1.png&quot; alt=&quot;Jeff&quot; /&gt;
+        &lt;p class=&quot;lead&quot;&gt;  We used the facebook SDK when generating user accounts so our avators are pulled from our profiles. Key features include
+
+          - displaying distance from friend based on location info
+          - displaying battery life
+
+
+          As well as user friendly conviniences such as
+
+          - predefined status updates 
+          - push notifications for entire group
+
+          You can&#39;t see our our friend Revan&#39;s battery status because he has an adroid and we built this for iOS. We&#39;re all the same distance apart because we were standing next to eachother.
+
+
+        &lt;/p&gt;   
+
+
+        &lt;p class=&quot;lead&quot;&gt; The detail screen.&lt;/p&gt;
+        &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a5.png&quot; alt=&quot;Jeff&quot; /&gt;
+        &lt;p class=&quot;lead&quot;&gt; Usually when you&#39;ve assembled your group, there&#39;s one person missing. When calling doesn&#39;t work, we have an inline map that points you in the direction of that person. &lt;/p&gt;
+        &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/asone.gif&quot; alt=&quot;Jeff&quot; /&gt;   
+
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Conclusion&lt;/h1&gt;
+
+        &lt;p class=&quot;lead&quot;&gt; We built this app because this was a tool missing from our everyday lives, and for the rest of the summer we would often use it as a tool to ping and find eachother. Since then, apple released a standalone friend finder, and we also saw an app named Companion gain popularity around college campuses. &lt;/p&gt;
+
+        &lt;p class=&quot;lead&quot;&gt; In restrospect, the technology wasn&#39;t earth shattering, but this is a great example of how fast a talented team can work when there is good chemistry: in one weekend we built something that would usually take half a year at a company. 
+
+          Check out the github
+
+          Back home&lt;/p&gt;
+
+        
+
+        
+      
+    
+&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2006 00:00:00 -0800</pubDate>
+        <link>http://yourdomain.com/project-item/As-One/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/As-One/</guid>
+        
+        
+        <category>project-item</category>
+        
+      </item>
+    
+      <item>
+        <title>Benzpay</title>
+        <description>&lt;div class=&quot;container-fluid&quot;&gt;
+  &lt;div class=&quot;description&quot;&gt; 
+    &lt;div class=&quot;row text-left&quot;&gt;
+      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Problem&lt;/h1&gt;
+
+        &lt;p class=&quot;lead&quot;&gt; This is the winning hackathon project that caught the attention of Daimler&#39;s board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to a job at Mercedes.  &lt;/p&gt;
+
+
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+        &lt;p class=&quot;lead&quot;&gt; Designing applications for the car is a little different than designing applications for the phone or the web. Unless the driver is parked, most interactions  occur without the user&#39;s complete attention.&lt;/p&gt;
+
+        &lt;p class=&quot;lead&quot;&gt;  For this reason, ensuring readability also means it&#39;s an interface easy to glance over. Additionaly, not all cars (including this c300) support touch input, so there must be a clear hierarchy when navigating through each menu. &lt;/p&gt;
+
+        &lt;p class=&quot;lead&quot;&gt; Mobile payment services provide value by either saving money or saving time. Saving time is more important than saving money for the Mercedes owner, so each feature was designed to make the driver&#39;s life faster and more effortless. Some features include using gps and bitcoin to complete transactions without the need to stop, or by automatically calculating and paying for the price to fill up at a given gas station.&lt;/p&gt;
+
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate>
+        <link>http://yourdomain.com/project-item/BenzPay/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/BenzPay/</guid>
+        
+        
+        <category>project-item</category>
+        
+      </item>
+    
+      <item>
+        <title> </title>
+        <description>&lt;div class=&quot;container-fluid&quot;&gt;
+  &lt;div class=&quot;row text-center&quot;&gt;
+   &lt;div class=&quot;description&quot;&gt; 
+    &lt;div class=&quot;tagline&quot;&gt; 
+      &lt;h4 class=&quot;title-secondary&quot;&gt;The best or nothing&lt;/h4&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container-fluid&quot;&gt;
+  &lt;div class=&quot;description&quot;&gt; 
+    &lt;div class=&quot;row text-left &quot;&gt;
+
+      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Advanxed UX&lt;/h1&gt;
+
+        &lt;p class=&quot;lead&quot;&gt;I work in the design studio at Mercedes Benz R&amp;amp;D Center North America, which is basically the branch responsible for business innovation, self driving, fuel cell technolgy, advanced design, etc. &lt;p&gt;
+
+
+
+          &lt;p class=&quot;lead&quot;&gt; More specifically, I&#39;m on the Advanced UX ceoncepts and enablers team. I&#39;m working on speech interaction and natural language stuff, kinda like siri. I can&#39;t show you what&#39;s actually been going down until next year&#39;s CES, but you can have a look at some projects done by our team in the past: &lt;/p&gt;
+
+          &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GAz42C5Vvt8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+
+          &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fBwmH7TAupI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+        
+      
+    
+  
+&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
+        <link>http://yourdomain.com/project-item/Wifi-Beerbong/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/Wifi-Beerbong/</guid>
+        
+        
+        <category>project-item</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;div class=&quot;container-fluid&quot;&gt;
+  &lt;div class=&quot;description&quot;&gt; 
+    &lt;div class=&quot;row text-left&quot;&gt;
+
+      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+       &lt;h1 class=&quot;title-main-about&quot;&gt;1972 Firebird&lt;/h1&gt;
+
+       &lt;p class=&quot;lead&quot;&gt; Basically, when I was a freshmen in college, I bought a muscle car with holes in the floor and worms in the seats. I rebuilt the motor in my dorm parking lot. After I took it back to Minnesota, I rewired the electronics and reupholstered the interior. &lt;/p&gt;
+
+
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+       &lt;p class=&quot;lead&quot;&gt; So yeah I like cars &lt;/p&gt;
+
+     &lt;/div&gt;
+   &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2003 00:00:00 -0800</pubDate>
+        <link>http://yourdomain.com/project-item/Firebird/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/Firebird/</guid>
+        
+        
+        <category>project-item</category>
+        
+      </item>
+    
+      <item>
+        <title> </title>
+        <description>&lt;div class=&quot;container-fluid&quot;&gt;
+  &lt;div class=&quot;description&quot;&gt; 
+    &lt;div class=&quot;row text-left&quot;&gt;
+
+      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Music Videos &lt;/h1&gt;
+
+        &lt;p class=&quot;lead&quot;&gt; I used to work in video production and post-production. Here are a few videos from work/fun. They&#39;ve been featured on some of those hip underground sites.&lt;/p&gt;
+
+        &lt;div class=&quot;container-fluid&quot;&gt;
+          &lt;div class=&quot;description&quot;&gt; 
+            &lt;div class=&quot;row text-left buffer3&quot;&gt;
+
+              &lt;iframe height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JkA_sGRfyKA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+              &lt;iframe height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1zxIuoUDaXA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+              &lt;iframe height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/VoGNw78eYzc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 01 Jan 2002 00:00:00 -0800</pubDate>
+        <link>http://yourdomain.com/project-item/Music-Videos/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/Music-Videos/</guid>
+        
+        
+        <category>project-item</category>
+        
+      </item>
+    
+      <item>
+        <title> </title>
+        <description>
+</description>
+        <pubDate>Mon, 01 Jan 2001 00:00:00 -0800</pubDate>
+        <link>http://yourdomain.com/project-item/More-Projects/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/More-Projects/</guid>
+        
+        
+        <category>project-item</category>
+        
+      </item>
+    
+  </channel>
+</rss>

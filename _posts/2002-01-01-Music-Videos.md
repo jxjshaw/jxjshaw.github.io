@@ -13,7 +13,7 @@ project-title: Music Videos
       <div class="col-sm-10 col-sm-offset-1">
         <h1 class="title-main-about"> Music Videos </h1>
 
-        <p class="lead"> I used to work in video production and post-production. I got into video because it was like photography, but way more challenging. Here are a few videos from work/fun. They've been featured on a few of those hip underground sites.</p>
+        <p class="lead"> I used to work in video production and post-production. Here are a few videos from work/fun. They've been featured on some of those hip underground sites.</p>
 
         <div class="container-fluid">
           <div class="description"> 
