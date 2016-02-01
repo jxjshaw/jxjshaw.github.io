@@ -4,3 +4,29 @@ categories: project-item
 img-path: images/more.gif
 project-title: More Projects
 ---
+
+
+
+
+<div class="container-fluid">
+  <div class="description"> 
+    <div class="row text-left">
+
+      <div class="col-sm-10 col-sm-offset-1">
+        <h1 class="title-main-about"> Resume </h1>
+
+
+        <div class="container-fluid">
+          <div class="description"> 
+            <div class="row text-left buffer3">
+
+
+            <embed src="../../images/rresume.pdf" alt="pdf viewer only" width="800" height="1000" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
