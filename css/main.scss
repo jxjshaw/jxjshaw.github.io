@@ -60,12 +60,30 @@ $on-laptop:        800px;
     src: url(fonts/CHINESETAKEAWAY.ttf);
 }
 
+ul {
+  margin: 0;
+  padding: 0;
+}
+
 .project-list-item {
   display: inline-block;
   list-style: none;
-  margin: 20px;
+  padding: 20px;  
 }
 
+@media (max-width: 387px) {
+  .project-list-item {
+    padding: 5px;  
+  }
+}
+
+@media (min-width: 571px) {
+  .project-col {
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
 
 .project-gif {
   width: 100px;
@@ -79,9 +97,6 @@ $on-laptop:        800px;
   font-weight: 200;
 }
 
-.main-wrapper {
-  margin-left: 40px;
-}
 
 img.content-image {
   width: 100%;
