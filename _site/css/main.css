@@ -5654,10 +5654,11 @@ ul {
   .project-col {
     width: 500px;
     margin-right: auto;
-    margin-left: auto; } }
+    margin-left: auto;
+    padding-top: 50px; } }
 .project-gif {
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
   border-radius: 50%;
   object-fit: cover; }
 
@@ -5685,7 +5686,7 @@ iframe {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   letter-spacing: 15pt;
-  font-size: 4em; }
+  font-size: 2em; }
 
 .footer-text {
   font-family: TakeOut;

@@ -18,11 +18,12 @@ project-title: More Projects
 
         <div class="container-fluid">
           <div class="description"> 
-            <div class="row text-left buffer3">
+            <div class="row text-left buffer0">
 
 
-            <embed src="../../images/rresume.pdf" alt="pdf viewer only" width="800" height="1000" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+           <embed class="resume" src="../../images/rresume.pdf" alt="pdf viewer only" width="100%" height="500px" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
 
+		
             </div>
           </div>
         </div>
