@@ -2,7 +2,7 @@
 layout: post
 categories: project-item
 img-path: images/yh.gif
-project-title: Music Videos
+project-title: Music videos
 ---
 
 
