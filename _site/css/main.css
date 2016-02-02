@@ -5796,7 +5796,7 @@ body .projectSVG {
 
 @media screen and (max-width: 800px) {
   .project-col {
-    width: 460px;
+    width: 350px;
     margin-right: auto;
     margin-left: auto;
     padding-top: 45px; }
