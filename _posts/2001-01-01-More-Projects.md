@@ -2,7 +2,7 @@
 layout: post
 categories: project-item
 img-path: images/cont.gif
-project-title: More info
+project-title: Other projects
 ---
 
 

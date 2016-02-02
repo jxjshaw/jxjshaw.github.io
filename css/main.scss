@@ -69,6 +69,7 @@ ul {
   display: inline-block;
   list-style: none;
   padding: 20px;  
+  transition: margin 0.1s ease-in-out;
 }
 
 @media (max-width: 387px) {
@@ -77,12 +78,14 @@ ul {
   }
 }
 
-@media (min-width: 571px) {
+@media (min-width: 577px) {
   .project-col {
     width: 500px;
     margin-right: auto;
     margin-left: auto;
     padding-top: 50px;
+    transition: padding-top 0.1s ease;
+
   }
 }
 
@@ -91,19 +94,24 @@ ul {
   height: 90px;
   border-radius: 50%;
   object-fit: cover;
-  opacity: 0.31;
+  opacity: 0.9;
   transition: opacity 0.3s ease;
+
+
 }
 
 .project-gif:hover {
-  opacity: 0.9;
+  opacity: 1.0;
+
 }
 
 .project-title {
   margin-top: 10px;
-  font-weight: 200;
+  font-weight: 400;
+  letter-spacing: 0.3pt;
+  transition: font-weight 0.1s ease;
+  transition: letter-spacing 0.1s ease;
 }
-
 
 img.content-image {
   width: 100%;
@@ -131,13 +139,17 @@ iframe {
   -webkit-text-fill-color: transparent;
   letter-spacing: 15pt;
   font-size: 2em;
-  transition: font-size 0.1s ease;
-   transition: letter-spacing 0.1s ease;
+  opacity: 0.85;
+  transition: opacity 0.3s ease;
+  transition: letter-spacing 0.1s ease;
+
+
+
 }
 
 .header-text:hover {
-  font-size: 2.1em;
-  letter-spacing: 8pt;
+  opacity: 0.3;
+  letter-spacing: 10pt
 }
 
 .footer-text {
@@ -234,11 +246,7 @@ h4 {
 
 }
 
-@media (max-width: 1080px) {
-  .lead {
-    font-size: 16px;
-  }
-}
+
 
 
 
@@ -311,17 +319,153 @@ body .projectSVG {
 
 
 // responsive
-@media screen and (max-width: 518px) {
+@media screen and (max-width:800px) {
+  .project-col {
+    width: 460px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 45px;
+  }
+
   .project-list-item {
-    margin: 5px;
+    margin: -13px;
   }
 
   .project-gif {
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 100px;
+    opacity: 1.0;
   }
 
+
+  .project-title {
+  margin-top: 5px;
+  font-weight: 500;
+  letter-spacing: 0.6pt;
+  font-size: 12px;
+
 }
+
+
+.header-text {
+ 
+  letter-spacing: 14pt;
+  font-size: 1.8em;
+ 
+
+
+}
+
+
+}
+
+@media screen and (min-width: 800px) {
+  .project-col {
+    width: 460px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 60px;
+  }
+
+  .project-list-item {
+    margin: -13px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .project-gif {
+    width: 100px;
+    height: 100px;
+    opacity: 0.05;
+  }
+
+
+  .project-title {
+  margin-top: 5px;
+  font-weight: 450;
+  letter-spacing: 0.3pt;
+  font-size: 12px;
+
+  .container-fluid {
+  max-width: 800px;
+}
+
+.lead {
+  font-size: 18px;
+  line-height: 40px;
+}
+
+
+
+}
+
+
+.header-text {
+ 
+  letter-spacing: 10pt;
+  font-size: 1.8em;
+ 
+
+
+}
+
+
+}
+// not ready yet
+// @media screen and (min-width: 1300px) {
+//   .project-col {
+//     width: 1000px;
+//     margin-right: auto;
+//     margin-left: auto;
+//     padding-top: 100px;
+//   }
+
+//   .project-list-item {
+//     margin: 10px;
+//     margin-left: -30px;
+//     margin-right: -30px;
+//   }
+
+//   .project-gif {
+//     width: 100px;
+//     height: 100px;
+//     opacity: 0.04;
+//     transition: opacity 0.3s ease;
+
+
+
+//   }
+
+//   .project-title {
+//   margin-top: 12px;
+//   font-weight: 200;
+//   letter-spacing: 0.3pt;
+//   font-size: 18px;
+//   max-width: 100px;
+//   margin: 0px;
+//   opacity: 0.01;
+// }
+
+// .project-title:hover {
+//   opacity: 1.0;
+// }
+
+
+// .header-text {
+ 
+//   letter-spacing: 6pt;
+//   font-size: 1.8em;
+
+ 
+
+
+// }
+
+
+// }
+
+
+
 
 
 

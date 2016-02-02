@@ -2,7 +2,7 @@
 layout: post
 categories: project-item
 img-path: images/bb2.gif
-project-title: Wifi beerbong
+project-title: Wifi Beerbong
 ---
 
 <div class="container-fluid">
