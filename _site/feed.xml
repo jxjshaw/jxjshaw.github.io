@@ -5,8 +5,8 @@
     <description>Some description about this nice website.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Feb 2016 11:14:23 -0800</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2016 11:14:23 -0800</lastBuildDate>
+    <pubDate>Tue, 02 Feb 2016 18:14:24 -0800</pubDate>
+    <lastBuildDate>Tue, 02 Feb 2016 18:14:24 -0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -15,17 +15,6 @@
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row&quot;&gt;
 
-      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-        &lt;div class=&quot;container-fluid&quot;&gt;
-          &lt;div class=&quot;row text-center&quot;&gt;
-           &lt;div class=&quot;description&quot;&gt; 
-            &lt;div class=&quot;tagline&quot;&gt; 
-              &lt;h4 class=&quot;title-secondary&quot;&gt;The best or nothing&lt;/h4&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
 
       &lt;div class=&quot;container-fluid&quot;&gt;
         &lt;div class=&quot;description&quot;&gt; 
@@ -72,12 +61,9 @@
     &lt;div class=&quot;row text-left&quot;&gt;
 
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Problem&lt;/h1&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Hardware&lt;/h1&gt;
 
 
-        
-
-        &lt;h1 class=&quot;title-main-about&quot;&gt;The Hardware&lt;/h1&gt;
 
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/h1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
@@ -194,7 +180,7 @@
 
 
 
-      &lt;h1 class=&quot;title-main-about&quot;&gt;Making college a safer space&lt;/h1&gt;
+      &lt;h1 class=&quot;title-main-about&quot;&gt;Making College a Safer Space&lt;/h1&gt;
 
       &lt;p class=&quot;lead&quot;&gt; One of the categories for Chimehack was campus safety. To brainstorm, we thought back on our experiences with campus safety. Usually when your friend goes missing, they&#39;re not picking up their phone and you don&#39;t know whether or not their phone is dead. They&#39;re probably not in enough danger to call campus safety, but that doesn&#39;t mean you&#39;re not concerned for your friend. &lt;/p&gt;
 
@@ -203,17 +189,17 @@
 
       &lt;h1 class=&quot;title-main-about&quot;&gt;The Design Process&lt;/h1&gt;   
 
-      &lt;p class=&quot;lead&quot;&gt; Because we had 48 hours to build everything, I had about 12 hours to work through the user flow and freeze visual design. We formed teams friday night, so I spent the next morning designing and going through decisions with my teamates, and started exporting assets just after lunch. &lt;/p&gt;
+      &lt;p class=&quot;lead&quot;&gt; Because we had 48 hours to build everything, I had about 12 hours to work through the user flow and freeze visual design. We formed teams friday night. I spent the next morning designing and going through tough choices with my teamates. A little after lunch, I was ready to export the assets. &lt;/p&gt;
 
       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/asonef.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-      &lt;p class=&quot;lead&quot;&gt; Usability was my key concern, so I spent a large chunk of my time refining the onboarding process. Because we were at Twitter, we receieved a lot of feedback about the challenges when creating a product that only works  when many users choose to engage. They just started promoting Periscope at the time, and even for them, it was hard to predict the public&#39;s reception of Periscope.
+      &lt;p class=&quot;lead&quot;&gt; Usability was my key concern, so I spent a large chunk of my time refining the onboarding process. Because we were at twitter, we receieved a lot of feedback about the challenges when creating a product that only works  when many users choose to engage. They just started promoting Periscope at the time, and even for such an established company, we learned that there&#39;s really no way of knowig the success until it&#39;s out there.
 
 
 
         &lt;p class=&quot;lead&quot;&gt; Here&#39;s a screenshot of the splash screen, illustrating the brand and styling.&lt;/p&gt;
         &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a6.png&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;p class=&quot;lead&quot;&gt; One goal of Chimehack 2 was to promote inclusivness in technology. Likewise, the goal of our app was to make it easier for friend groups to stay together when out on a weekend. A key theme throughout the weekend was inclusiveness, so stylistically I wanted to convey friendliness and draw a diverse user base. To convey friendliess I went with warm passionate colors and our heart shaped logo. The best thing I could do to make sure we didn&#39;t attract the traditional tech-y user base was to make the app look less stereotypical, hence the granjon/roman typeface that you may recognise when walking around a mall...&lt;/p&gt;   
+        &lt;p class=&quot;lead&quot;&gt; One goal of Chimehack 2 was to promote inclusivness in technology. Likewise, the goal of our app was to make it easier for friend groups to stay together when out on a weekend. A key theme throughout the weekend was inclusiveness, so stylistically I wanted to convey friendliness and draw a diverse user base. To convey friendliess I went with warm passionate blends and a heart shaped logo. The best thing I could do to make sure we didn&#39;t attract the traditional tech-y user base was to make the app look less stereotypical, hence the granjon/roman typeface that you may recognise when walking around a mall...&lt;/p&gt;   
 
 
         &lt;p class=&quot;lead&quot;&gt; The resting screen&lt;/p&gt;
@@ -243,13 +229,9 @@
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Conclusion&lt;/h1&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; We built this app because this was a tool missing from our everyday lives, and for the rest of the summer we would often use it as a tool to ping and find eachother. Since then, apple released a standalone friend finder, and we also saw an app named Companion gain popularity around college campuses. &lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; We built this app because this was a tool missing from our everyday lives, and for the rest of the summer we would often use it as a tool to ping and find eachother. Since then, Apple released a standalone friend finder, and we also saw an app named Companion gain popularity around college campuses. &lt;/p&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; In restrospect, the technology wasn&#39;t earth shattering, but this is a great example of how fast a talented team can work when there is good chemistry: in one weekend we built something that would usually take half a year at a company. 
-
-          Check out the github
-
-          Back home&lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; In restrospect, the technology wasn&#39;t earth shattering, but this is a great example of how fast a talented team can work when there is good chemistry. In one weekend, we shipped a product that would take a company at least half a year to assemble.&lt;/p&gt;
 
         
 
@@ -449,11 +431,12 @@
 
         &lt;div class=&quot;container-fluid&quot;&gt;
           &lt;div class=&quot;description&quot;&gt; 
-            &lt;div class=&quot;row text-left buffer3&quot;&gt;
+            &lt;div class=&quot;row text-left buffer0&quot;&gt;
 
 
-            &lt;embed src=&quot;../../images/rresume.pdf&quot; alt=&quot;pdf&quot; width=&quot;800&quot; height=&quot;1000&quot; pluginspage=&quot;http://www.adobe.com/products/acrobat/readstep2.html&quot; /&gt;
+           &lt;embed class=&quot;resume&quot; src=&quot;../../images/rresume.pdf&quot; alt=&quot;pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot; pluginspage=&quot;http://www.adobe.com/products/acrobat/readstep2.html&quot; /&gt;
 
+		
             &lt;/div&gt;
           &lt;/div&gt;
         &lt;/div&gt;
