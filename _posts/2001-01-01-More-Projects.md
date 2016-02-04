@@ -21,7 +21,12 @@ project-title: Other projects
             <div class="row text-left buffer0">
 
 
-           <embed class="resume" src="../../images/rresume.pdf" alt="pdf viewer only" width="100%" height="500px" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+<!--            <embed class="resume" src="../../images/rresume.pdf" alt="pdf viewer only" width="100%" height="500px" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html"> -->
+
+              <div class="embed-responsive embed-responsive-4by3">
+                  <iframe class="embed-responsive-item" src="../../images/rresume.pdf"></iframe>
+                </div>
+
 
 		
             </div>

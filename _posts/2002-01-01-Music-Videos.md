@@ -19,11 +19,19 @@ project-title: Music Videos
           <div class="description"> 
             <div class="row text-left buffer3">
 
-              <iframe height="315" src="https://www.youtube.com/embed/JkA_sGRfyKA" frameborder="0" allowfullscreen></iframe>
+            
+               <div class="embed-responsive embed-responsive-16by9">
+                  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JkA_sGRfyKA"></iframe>
+               </div>
 
-              <iframe height="315" src="https://www.youtube.com/embed/1zxIuoUDaXA" frameborder="0" allowfullscreen></iframe>
+               <div class="embed-responsive embed-responsive-16by9">
+                  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1zxIuoUDaXA"></iframe>
+               </div>
 
-              <iframe height="315" src="https://www.youtube.com/embed/VoGNw78eYzc" frameborder="0" allowfullscreen></iframe>
+               <div class="embed-responsive embed-responsive-16by9">
+                  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VoGNw78eYzc"></iframe>
+               </div>
+
             </div>
           </div>
         </div>
