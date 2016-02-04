@@ -5,12 +5,12 @@
     <description>Some description about this nice website.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Feb 2016 18:14:24 -0800</pubDate>
-    <lastBuildDate>Tue, 02 Feb 2016 18:14:24 -0800</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <pubDate>Wed, 03 Feb 2016 22:18:58 -0800</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2016 22:18:58 -0800</lastBuildDate>
+    <generator>Jekyll v3.1.0</generator>
     
       <item>
-        <title>Mercedes</title>
+        <title></title>
         <description>&lt;div class=&quot;container-fluid&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row&quot;&gt;
@@ -111,7 +111,7 @@
       </item>
     
       <item>
-        <title>Fed Up</title>
+        <title> </title>
         <description>&lt;div class=&quot;container-fluid&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row text-left&quot;&gt;
@@ -123,7 +123,9 @@
 
         &lt;p class=&quot;lead&quot;&gt;It&#39;s crazy that in the 21st century law enforcement/legal system still rely heavily on foggy testimony and paper police reports. So we built a complete ecosystem for users to directly document, review and share evidence without having to go through anyone else. &lt;/p&gt;
 
-        &lt;iframe src=&quot;https://www.youtube.com/embed/xdvQbL0FFj8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+         &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+          &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/xdvQbL0FFj8&quot;&gt;&lt;/iframe&gt;
+         &lt;/div&gt;
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Design considerations&lt;/h1&gt;
 
@@ -165,7 +167,7 @@
       </item>
     
       <item>
-        <title>As One</title>
+        <title> </title>
         <description>&lt;div class=&quot;container-fluid&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row text-left&quot;&gt;
@@ -174,8 +176,9 @@
 
       &lt;p class=&quot;lead&quot;&gt;Over the summer, I went to Chimehack2 with a few friends. It&#39;s a hackathon hosted by twitter to promote hacking for change.&lt;/p&gt;
 
-
-      &lt;iframe height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/86ECVBcPWcg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+        &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/86ECVBcPWcg&quot;&gt;&lt;/iframe&gt;
+      &lt;/div&gt;
 
 
 
@@ -296,7 +299,7 @@
       </item>
     
       <item>
-        <title>Wifi Beerbong</title>
+        <title> </title>
         <description>&lt;div class=&quot;container-fluid&quot;&gt;
   &lt;div class=&quot;row text-center&quot;&gt;
    &lt;div class=&quot;description&quot;&gt; 
@@ -342,7 +345,7 @@
       </item>
     
       <item>
-        <title>Firebird</title>
+        <title></title>
         <description>&lt;div class=&quot;container-fluid&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row text-left&quot;&gt;
@@ -383,7 +386,7 @@
       </item>
     
       <item>
-        <title>Music Videos</title>
+        <title> </title>
         <description>&lt;div class=&quot;container-fluid&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row text-left&quot;&gt;
@@ -397,11 +400,19 @@
           &lt;div class=&quot;description&quot;&gt; 
             &lt;div class=&quot;row text-left buffer3&quot;&gt;
 
-              &lt;iframe height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JkA_sGRfyKA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+            
+               &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+                  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/JkA_sGRfyKA&quot;&gt;&lt;/iframe&gt;
+               &lt;/div&gt;
 
-              &lt;iframe height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1zxIuoUDaXA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+               &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+                  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/1zxIuoUDaXA&quot;&gt;&lt;/iframe&gt;
+               &lt;/div&gt;
 
-              &lt;iframe height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/VoGNw78eYzc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+               &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+                  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/VoGNw78eYzc&quot;&gt;&lt;/iframe&gt;
+               &lt;/div&gt;
+
             &lt;/div&gt;
           &lt;/div&gt;
         &lt;/div&gt;
@@ -420,7 +431,7 @@
       </item>
     
       <item>
-        <title>More Projects</title>
+        <title> </title>
         <description>&lt;div class=&quot;container-fluid&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row text-left&quot;&gt;
@@ -434,7 +445,12 @@
             &lt;div class=&quot;row text-left buffer0&quot;&gt;
 
 
-           &lt;embed class=&quot;resume&quot; src=&quot;../../images/rresume.pdf&quot; alt=&quot;pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot; pluginspage=&quot;http://www.adobe.com/products/acrobat/readstep2.html&quot; /&gt;
+&lt;!--            &lt;embed class=&quot;resume&quot; src=&quot;../../images/rresume.pdf&quot; alt=&quot;pdf viewer only&quot; width=&quot;100%&quot; height=&quot;500px&quot; alt=&quot;pdf&quot; pluginspage=&quot;http://www.adobe.com/products/acrobat/readstep2.html&quot;&gt; --&gt;
+
+              &lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
+                  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;../../images/rresume.pdf&quot;&gt;&lt;/iframe&gt;
+                &lt;/div&gt;
+
 
 		
             &lt;/div&gt;
