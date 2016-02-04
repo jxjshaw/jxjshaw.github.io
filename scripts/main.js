@@ -1,6 +1,6 @@
 $(window).load(function() 
 {
    // executes when complete page is fully loaded, including all frames, objects and images
-   alert("(window).load was called - window is loaded!");
+   console.log("fadeddd");
    $("body").css("opacity", "1.0");
 });  
