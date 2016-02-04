@@ -5880,3 +5880,7 @@ body .projectSVG {
 
 .buffer-bot5 {
   margin-bottom: 100px; }
+
+body {
+  opacity: 0.0;
+  transition: opacity 0.3s ease; }
