@@ -5,8 +5,8 @@
     <description>Some description about this nice website.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Feb 2016 01:24:53 -0800</pubDate>
-    <lastBuildDate>Thu, 04 Feb 2016 01:24:53 -0800</lastBuildDate>
+    <pubDate>Fri, 05 Feb 2016 03:13:58 -0800</pubDate>
+    <lastBuildDate>Fri, 05 Feb 2016 03:13:58 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -21,20 +21,72 @@
           &lt;div class=&quot;row&quot;&gt;
 
             &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+              &lt;h1 class=&quot;title-main-about&quot;&gt;Advanced UX&lt;/h1&gt;
 
-              &lt;h1 class=&quot;title-main-about&quot;&gt;Advanxed UX&lt;/h1&gt;
-
-              &lt;p class=&quot;lead&quot;&gt;I work in the design studio at Mercedes Benz R&amp;amp;D Center North America, which is basically the branch responsible for business innovation, self driving, fuel cell technolgy, advanced design, etc. &lt;p&gt;
-
+              &lt;p class=&quot;lead&quot;&gt;I work in the design studio at &lt;b&gt;Mercedes-Benz R&amp;amp;D North America&lt;/b&gt;.  We focus on innovations such as fuelcell, self-driving, 3d graphics, and advanced design.
 
 
-                &lt;p class=&quot;lead&quot;&gt; More specifically, I&#39;m on the Advanced UX ceoncepts and enablers team. I&#39;m working on speech interaction and natural language stuff, kinda like siri. I can&#39;t show you what&#39;s actually been going down until maybe next year&#39;s CES, but you can have a look at some projects done by our team in the past: &lt;/p&gt;
 
-                &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GAz42C5Vvt8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+                &lt;p class=&quot;lead&quot;&gt; My focus within the studio covers speech interaction and natural language processing. I can&#39;t share with you the actual project I&#39;m working on, so instead I&#39;ll highlight the process and problems surrounding my AI project.  &lt;/p&gt;
 
 
-                &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fBwmH7TAupI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+                &lt;h1 class=&quot;title-main-about&quot;&gt;Designing intelligence&lt;/h1&gt;
 
+                &lt;p class=&quot;lead&quot;&gt;
+                Most people I&#39;ve talked to are not sold on the value of siri, alexa, and similar natural language voice interfaces. Some interfaces may disapoint users by sounding smarter than they really are, but what people really mean to say is that the voice interface isn&#39;t smart enough. &lt;p&gt;
+
+                &lt;p class=&quot;lead&quot;&gt;
+                At first, that may seem like an easy problem to grasp. Smart design means putting the user first, meaning.. (1) start with a need (2) design an intuitive layout, (3) provide interactive content, (4) optimize by testing &lt;p&gt;
+
+                &lt;p class=&quot;lead&quot;&gt;
+                Unfortunately, this isn&#39;t the case. &lt;b&gt;When designing for intelligence, simple is not better&lt;/b&gt;. The goal is to make the interface replicate the thought process of a human - not a puppet you can pinch and drag like clickbait. The point is to avoid explicit visuals and overt commands. I&#39;m really excited about this shift because it&#39;s a chance for us ourselves to become smarter and more human. &lt;p&gt;
+
+                &lt;p class=&quot;lead&quot;&gt;
+                So how do you replicate the intelligence of a human? In my case, it&#39;s through a voice agent. So I&#39;ve been working on how the agent understands what you&#39;re saying as well as how it should talk back. These are the types of problems I&#39;ve spent my time solving:
+                &lt;p&gt;
+
+                
+               
+
+
+                &lt;ul&gt;
+                  &lt;li&gt; &lt;p class=&quot;lead&quot;&gt; &lt;b&gt; How do you dynamically create and update non-verbal context in voice interaction?&lt;/b&gt;
+
+                  &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; &lt;b&gt; Teaching an agent to extract a combination of names, titles, and descriptions referenced in a single utterance&lt;/b&gt;
+
+                  &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; &lt;b&gt; Taking an indirect reference made by the user and assigning it to an object &lt;/b&gt;&lt;p&gt; 
+
+                    &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; &lt;b&gt; Sometimes it&#39;s still better to show then tell, so how do you anthropomorphize a GUI without being creepy? &lt;/b&gt;&lt;p&gt;  
+
+
+
+
+
+                
+                &lt;p&gt;
+
+
+                   &lt;p class=&quot;lead&quot;&gt;
+               Part of the process involves empathizing with the computer, and of course the other part involves empathizing with the users. Unlike previous projects I worked on, I found it very easy to think like the user. Part of the beauty of language, after all, is that it&#39;s universal so we have widely shared conventions of speech. All I had to do was stop thinking and start talking. My first example dialogues solely consisted of me pretending to talk to my mother or a close friend. Although some designers recommend speaking to the agent like you&#39;re asking a stranger a question, my goal was to design a smarter agent; one where you could say less but it will understand more - just like your mother. After this initial stage, I broadened my syntax and incrementally made myself harder to understand. At the same time, I started designing and developing the GUI that I eventually hooked up to my voice interface and loaded it onto the car&#39;s linux machine.
+                &lt;p&gt;
+
+
+                
+                  &lt;p class=&quot;lead&quot;&gt;
+                Each year the work from our studio is featured at CES. If you want to get a better idea of how intelligent interaction plays into cars, check out the past projects from my team. I was not involved in either of these two showcar projects.
+                &lt;p&gt;
+
+                  &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+                      &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/GAz42C5Vvt8&quot;&gt;&lt;/iframe&gt;
+                  &lt;/div&gt;
+
+
+                  &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+                      &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/fBwmH7TAupI&quot;&gt;&lt;/iframe&gt;
+                  &lt;/div&gt;
+
+
+           
               
             
           
@@ -43,7 +95,7 @@
     
   
 
-&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/Mercedes/</link>
