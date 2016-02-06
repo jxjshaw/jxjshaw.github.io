@@ -15,7 +15,7 @@ project-title: Wifi Beerbong
 </div>
 </div>
 
-<div class="container-fluid">
+<div class="container">
   <div class="description"> 
     <div class="row text-left ">
 
