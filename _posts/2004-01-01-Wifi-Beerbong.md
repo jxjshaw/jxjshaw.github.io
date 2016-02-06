@@ -5,7 +5,7 @@ img-path: images/bb2.gif
 project-title: Wifi Beerbong
 ---
 
-<div class="container-fluid">
+<div class="container">
   <div class="row text-center">
    <div class="description"> 
     <div class="tagline"> 

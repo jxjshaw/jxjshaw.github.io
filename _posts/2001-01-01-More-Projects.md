@@ -8,7 +8,7 @@ project-title: Other projects
 
 
 
-<div class="container-fluid">
+<div class="container">
   <div class="description"> 
     <div class="row text-left">
 
