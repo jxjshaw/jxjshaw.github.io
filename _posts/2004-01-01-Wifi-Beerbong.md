@@ -5,15 +5,7 @@ img-path: images/bb2.gif
 project-title: Wifi Beerbong
 ---
 
-<div class="container">
-  <div class="row text-center">
-   <div class="description"> 
-    <div class="tagline"> 
-      <h4 class="title-secondary">The best or nothing</h4>
-    </div>
-  </div>
-</div>
-</div>
+
 
 <div class="container">
   <div class="description"> 
@@ -21,20 +13,32 @@ project-title: Wifi Beerbong
 
       <div class="col-sm-10 col-sm-offset-1">
 
-        <h1 class="title-main-about">Advanxed UX</h1>
+        <h1 class="title-main-about">Wifi Beerbong</h1>
 
-        <p class="lead">I work in the design studio at Mercedes Benz R&D Center North America, which is basically the branch responsible for business innovation, self driving, fuel cell technolgy, advanced design, etc. <p>
+        <p class="lead">Purely for fun project, no explaination needed. Built with particle.io, firebase, node, react. Basically the beer bong contains a flow sensor and a battery powered wifi arduino. When beer is chugged, we send a a post request with a timestamp over to our webapp. Webapp consists of leaderboard, user Id's done by facebook sdk.  <p>
 
-
-
-          <p class="lead"> More specifically, I'm on the Advanced UX ceoncepts and enablers team. I'm working on speech interaction and natural language stuff, kinda like siri. I can't show you what's actually been going down until next year's CES, but you can have a look at some projects done by our team in the past: </p>
-
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/GAz42C5Vvt8" frameborder="0" allowfullscreen></iframe>
+  <h1 class="title-main-about"><a href="https://github.com/drankadank"> https://github.com/drankadank </a></h1>
 
 
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/fBwmH7TAupI" frameborder="0" allowfullscreen></iframe>
 
         </div>
       </div>
     </div>
   </div>
+
+  <div class="container">
+  <div class="row text-center">
+   <div class="description"> 
+    <div class="tagline"> 
+      
+         
+          <p class="lead"> 
+         We short circuited everything on our first test. Luckily I had a seconded particle photon with me. Made sure our enclosure was waterproof.
+        </p>
+
+           <img class="content-image-vertical" src="../../images/projects/beerbong/a1.gif" alt="Jeff" >
+
+    </div>
+  </div>
+</div>
+</div>

@@ -5,8 +5,8 @@
     <description>Some description about this nice website.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Feb 2016 04:46:03 -0800</pubDate>
-    <lastBuildDate>Sun, 07 Feb 2016 04:46:03 -0800</lastBuildDate>
+    <pubDate>Sun, 07 Feb 2016 06:08:55 -0800</pubDate>
+    <lastBuildDate>Sun, 07 Feb 2016 06:08:55 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -38,12 +38,12 @@
                 At first, that may seem like an easy problem to grasp. Smart design means putting the user first, meaning.. (1) start with a need (2) design an intuitive layout, (3) provide interactive content, (4) optimize by testing &lt;p&gt;
 
                 &lt;p class=&quot;lead&quot;&gt;
-                Unfortunately, this isn&#39;t the case. &lt;b&gt;When designing for intelligence, simple is not better&lt;/b&gt;. The goal is to make the interface replicate the thought process of a human - not a puppet you can pinch and drag like clickbait. The point is to avoid explicit visuals and overt commands. I&#39;m really excited about this shift because it&#39;s a chance for us ourselves to become smarter and more human. &lt;p&gt;
+                Unfortunately, this isn&#39;t the case. &lt;b&gt;When designing for intelligence, simple is not better&lt;/b&gt;. The goal is to make the interface replicate the thought process of a human - not a puppet you can pinch and drag like clickbait. Part of the &quot;magic&quot; is delightfully surprising the user. The point is to avoid explicit visuals and overt commands. I&#39;m really excited about this shift because it&#39;s a chance for us ourselves to become smarter and more human because of the technology we interact with. &lt;p&gt;
 
                 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Natural language processing&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt;
-                So how do you replicate the intelligence of a human? In my case, it&#39;s through a voice agent. So I&#39;ve been working on how the agent understands what you&#39;re saying as well as how it should talk back. These are the types of problems I&#39;ve spent my time solving:
+                So how do you replicate the intelligence of a human? In my case, it&#39;s through a voice agent. So I&#39;ve been working on how the agent understands what you&#39;re saying as well as how it should talk back. Here are a few problems I&#39;ve spent my time solving:
                 &lt;p&gt;
 
                 
@@ -69,7 +69,7 @@
 
                &lt;h1 class=&quot;title-main-about&quot;&gt;Moving fast means cutting corners&lt;/h1&gt;
                &lt;p class=&quot;lead&quot;&gt;   
-               On one hand, I had to find (scalable) ways to map out, phrase, and compromise these linguistic rules into functional statements. On the other hand, users don&#39;t always follow all of these grammatical rules to begin with. So generally speaking, my solution was a combination of outlining basic linguistic conventions and training with some user input. Because my focus was designing interactions, it didn&#39;t make sense to feed the machine large amounts of data for marginal improvements and extreme wildcards. For the loose ends, it was more practical to tape it together with scripts.
+               On one hand, I had to find (scalable) ways to map out, compromise, then phrase these linguistic rules into functional statements. On the other hand, users don&#39;t always follow all of these grammatical rules to begin with. So generally speaking, my solution combined outlining basic linguistic conventions with training through user input. Because my focus was designing interactions, it didn&#39;t make sense to feed the machine large amounts of data for marginal improvements and extreme wildcards. For the loose ends, it was more practical to tape it together with scripts.
                &lt;p&gt;
 
                &lt;p class=&quot;lead&quot;&gt; 
@@ -436,38 +436,40 @@
       <item>
         <title> </title>
         <description>&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row text-center&quot;&gt;
-   &lt;div class=&quot;description&quot;&gt; 
-    &lt;div class=&quot;tagline&quot;&gt; 
-      &lt;h4 class=&quot;title-secondary&quot;&gt;The best or nothing&lt;/h4&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row text-left &quot;&gt;
 
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Advanxed UX&lt;/h1&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Wifi Beerbong&lt;/h1&gt;
 
-        &lt;p class=&quot;lead&quot;&gt;I work in the design studio at Mercedes Benz R&amp;amp;D Center North America, which is basically the branch responsible for business innovation, self driving, fuel cell technolgy, advanced design, etc. &lt;p&gt;
+        &lt;p class=&quot;lead&quot;&gt;Purely for fun project, no explaination needed. Built with particle.io, firebase, node, react. Basically the beer bong contains a flow sensor and a battery powered wifi arduino. When beer is chugged, we send a a post request with a timestamp over to our webapp. Webapp consists of leaderboard, user Id&#39;s done by facebook sdk.  &lt;p&gt;
 
-
-
-          &lt;p class=&quot;lead&quot;&gt; More specifically, I&#39;m on the Advanced UX ceoncepts and enablers team. I&#39;m working on speech interaction and natural language stuff, kinda like siri. I can&#39;t show you what&#39;s actually been going down until next year&#39;s CES, but you can have a look at some projects done by our team in the past: &lt;/p&gt;
-
-          &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GAz42C5Vvt8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;h1 class=&quot;title-main-about&quot;&gt;&lt;a href=&quot;https://github.com/drankadank&quot;&gt; https://github.com/drankadank &lt;/a&gt;&lt;/h1&gt;
 
 
-          &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fBwmH7TAupI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
         
       
     
   
+
+  &lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row text-center&quot;&gt;
+   &lt;div class=&quot;description&quot;&gt; 
+    &lt;div class=&quot;tagline&quot;&gt; 
+      
+         
+          &lt;p class=&quot;lead&quot;&gt; 
+         We short circuited everything on our first test. Luckily I had a seconded particle photon with me. Made sure our enclosure was waterproof.
+        &lt;/p&gt;
+
+           &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/beerbong/a1.gif&quot; alt=&quot;Jeff&quot; /&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
@@ -549,10 +551,10 @@
             
 
               &lt;h1 class=&quot;title-main-about&quot;&gt; On the steps &lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; My favorite part about rappers is their work ethic - the hustle, the grind - having a dayjob and hitting the studio at night. I guess it&#39;s the same reason I love startups. It&#39;s about being young, living your dreams while everyones telling you your stupid. &lt;/p&gt;
+              &lt;!-- &lt;p class=&quot;lead&quot;&gt; My favorite part about rappers is their work ethic - the hustle, the grind - having a dayjob and hitting the studio at night. I guess it&#39;s the same reason I love startups. It&#39;s about being young, living your dreams while everyones telling you your stupid. &lt;/p&gt; --&gt;
 
-               &lt;p class=&quot;lead&quot;&gt;  Visually I wanted to extend the mood and message of the song. The shutter speed is slow to get that smooth motion blur, and the cuts are also slow. I wanted the shots to be tight but soft so I shot them at 35mm and 50mm wide open. I didn&#39;t want to use much camera movement, so instead I kept things interesting with the lighting that is carefully planned and constantly changing. At the same time, I wanted to preserve the beautiful characteristics and colors you get from dim ambient light, so I added very subtle reflected accents through sources such as my warm car blinkers or my cool phone flashlight covered by my finger.
-                T &lt;/p&gt;
+               &lt;p class=&quot;lead&quot;&gt;  Visually I wanted to extend the mood of the song. The shutter speed is slow to get that smooth motion blur, and the cuts are also slow. Shot at 35mm and 50mm wide open so its tight but soft. Didn&#39;t want to overdo camera movement, so  I kept things interesting with carefully planned sequenced lighting. I preserved the beautiful characteristics and colors from dim ambient light while adding very subtle reflected accents through sources such as my warm car blinkers or my cool phone flash covered by my finger.
+                &lt;/p&gt;
 
                &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
                   &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/JkA_sGRfyKA&quot;&gt;&lt;/iframe&gt;

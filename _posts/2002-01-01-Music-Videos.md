@@ -19,10 +19,10 @@ project-title: Music Videos
             
 
               <h1 class="title-main-about"> On the steps </h1>
-              <p class="lead"> My favorite part about rappers is their work ethic - the hustle, the grind - having a dayjob and hitting the studio at night. I guess it's the same reason I love startups. It's about being young, living your dreams while everyones telling you your stupid. </p>
+              <!-- <p class="lead"> My favorite part about rappers is their work ethic - the hustle, the grind - having a dayjob and hitting the studio at night. I guess it's the same reason I love startups. It's about being young, living your dreams while everyones telling you your stupid. </p> -->
 
-               <p class="lead">  Visually I wanted to extend the mood and message of the song. The shutter speed is slow to get that smooth motion blur, and the cuts are also slow. I wanted the shots to be tight but soft so I shot them at 35mm and 50mm wide open. I didn't want to use much camera movement, so instead I kept things interesting with the lighting that is carefully planned and constantly changing. At the same time, I wanted to preserve the beautiful characteristics and colors you get from dim ambient light, so I added very subtle reflected accents through sources such as my warm car blinkers or my cool phone flashlight covered by my finger.
-                T </p>
+               <p class="lead">  Visually I wanted to extend the mood of the song. The shutter speed is slow to get that smooth motion blur, and the cuts are also slow. Shot at 35mm and 50mm wide open so its tight but soft. Didn't want to overdo camera movement, so  I kept things interesting with carefully planned sequenced lighting. I preserved the beautiful characteristics and colors from dim ambient light while adding very subtle reflected accents through sources such as my warm car blinkers or my cool phone flash covered by my finger.
+                </p>
 
                <div class="embed-responsive embed-responsive-16by9">
                   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JkA_sGRfyKA"></iframe>
