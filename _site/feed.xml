@@ -5,8 +5,8 @@
     <description>Some description about this nice website.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Feb 2016 13:36:57 -0800</pubDate>
-    <lastBuildDate>Sat, 06 Feb 2016 13:36:57 -0800</lastBuildDate>
+    <pubDate>Sun, 07 Feb 2016 00:30:31 -0800</pubDate>
+    <lastBuildDate>Sun, 07 Feb 2016 00:30:31 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -27,12 +27,12 @@
 
 
 
-                &lt;p class=&quot;lead&quot;&gt; My focus within the studio covers speech interaction and natural language processing. I can&#39;t share with you the actual project I&#39;m working on, so instead I&#39;ll highlight the process and problems surrounding my AI project.  &lt;/p&gt;
+                &lt;p class=&quot;lead&quot;&gt; My focus within the studio covers speech interaction and natural language processing. Of course I&#39;m under a NDA, so I can&#39;t share with you the actual work, so instead I&#39;ll highlight the process and problems surrounding my AI project.  &lt;/p&gt;
 
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Designing intelligence&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt;
-                Most people I&#39;ve talked to are not sold on the value of siri, alexa, and similar natural language voice interfaces. Some interfaces may disapoint users by sounding smarter than they really are, but what people really mean to say is that the voice interface isn&#39;t smart enough. &lt;p&gt;
+                Most people I&#39;ve talked to are not sold on the value of siri, alexa, and similar natural language voice interfaces. Some interfaces may disappoint users by sounding smarter than they really are, but what people really mean to say is that the voice interface isn&#39;t smart enough. &lt;p&gt;
 
                 &lt;p class=&quot;lead&quot;&gt;
                 At first, that may seem like an easy problem to grasp. Smart design means putting the user first, meaning.. (1) start with a need (2) design an intuitive layout, (3) provide interactive content, (4) optimize by testing &lt;p&gt;
@@ -67,20 +67,27 @@
                 &lt;p&gt;
 
 
-               &lt;h1 class=&quot;title-main-about&quot;&gt;Breaking rules&lt;/h1&gt;
-               &lt;p class=&quot;lead&quot;&gt;
-               On one hand, I had to find (scalable) ways to map out, phrase, and comprimise these linguistical rules into functional statements. On the other hand, users don&#39;t always follow all of these grammatical rules to begin with. So generally speaking, my solution was to outline basic linguistic conventions, using them only as guidelines before training with some user input, and finally tidying the loose ends with some duct tape aka if statements.
+               &lt;h1 class=&quot;title-main-about&quot;&gt;Moving fast means cutting corners&lt;/h1&gt;
+               &lt;p class=&quot;lead&quot;&gt;   
+               On one hand, I had to find (scalable) ways to map out, phrase, and compromise these linguistic rules into functional statements. On the other hand, users don&#39;t always follow all of these grammatical rules to begin with. So generally speaking, my solution was a combination of outlining basic linguistic conventions and training with some user input. Because my focus was designing interactions, it didn&#39;t make sense to feed the machine large amounts of data for marginal improvements and extreme wildcards. For the loose ends, it was more practical to tape it together with scripts.
                &lt;p&gt;
 
                &lt;p class=&quot;lead&quot;&gt; 
-               On the UX end, personas were not needed to think like the user. Part of the beauty with language, after all, is that it&#39;s universal so we have widely shared conventions of speech. All I had to do was stop thinking and start talking. My first example dialogues solely consisted of me pretending to speak to my mother or a close friend. Although some designers recommend speaking to the agent like you&#39;re asking a stranger a question, my goal was to design a smarter agent; one where you could say less but it will understand more - just like your mother. After this initial stage, I broadened my syntax and incrementally made myself harder to understand. At the same time, I started designing and developing the GUI that I eventually hooked up to my voice interface and loaded it onto the car&#39;s linux machine.
+               On the UX end, I chose to avoid personas. Part of the beauty with language, after all, is that it&#39;s universal so we have widely shared conventions of speech. All I had to do was stop thinking and start talking. My first example dialogues solely consisted of me pretending to speak to my mother or a close friend. Although some designers recommend speaking to the agent like you&#39;re asking a stranger a question, my goal was to design a smarter agent; one where you could say less but it will understand more - just like your mother. After this initial stage, I broadened my syntax and incrementally made myself harder to understand. 
+               At the same time, I started designing and developing the GUI that I eventually hooked up to my voice interface and loaded it onto the car&#39;s linux machine. The nice thing about cars is that people are in a nice private space that is acoustically absorbent. As you might know, people are more comfortable speaking and singing out loud when in a car. 
                &lt;p&gt;
+
+                &lt;p class=&quot;lead-center&quot;&gt; 
+                &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mercedes/meme.jpg&quot; alt=&quot;Jeff&quot; /&gt; relevant meme &lt;p&gt;
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Takeaways&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt;
-                As designers, we&#39;re practical problem solvers. For us it&#39;s more about the functionality; there&#39;s no such thing as a proper way. You can&#39;t really &quot;fake&quot; a natural language demo, but there are still more and less practical ways of achieving your goal. What I learned in the process was that the agent/program doesn&#39;t have to think the same way a human does in order to present itself like it thinks the same way a human does. Realizing that was a milestone in my jedi journey as a designer that codes (basically coding = the dark side; the evil temptation of solving abstract challanges increases as your powers grow; jedis must restore order by using our problem solving skills to create things people actually care about).
-                &lt;p&gt; 
+                As UX designers, we&#39;re practical problem solvers. For us it&#39;s more about the functionality; there&#39;s no such thing as a proper way. You can&#39;t really &quot;fake&quot; a natural language demo, but there are still more and less practical ways of achieving your goal. What I learned in the process was that &lt;i&gt; even though &lt;/i&gt; we have these new techniques like deep learning at our hands, the agent/program doesn&#39;t have to think the same way a human does in order to present itself like it thinks the same way a human does.
+                &lt;p&gt;
 
+                &lt;p class=&quot;lead&quot;&gt;
+                There&#39;s nothing wrong with artificial intelligence being artificial. And we ourselves rely on this phenomenon all the time - like when you interview, or when your when someone asks you for advice (kidding). Realizing this was a milestone in my jedi journey as a designer that codes (basically coding = the dark side; solving abstract problems becomes tempting as your powers grow but designers maintain order by using our judgement aka the force to create things people actually care about).
+                &lt;p&gt; 
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Related projects&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt;
@@ -109,7 +116,7 @@
     
   
 
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/Mercedes/</link>
@@ -127,8 +134,28 @@
     &lt;div class=&quot;row text-left&quot;&gt;
 
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Hardware&lt;/h1&gt;
+        
+        &lt;h1 class=&quot;title-main-about&quot;&gt;AirQuail&lt;/h1&gt;
+        &lt;p class=&quot;lead&quot;&gt; Airquail is the internet of things hardware startup that I cofounded. It started as a weekend hackathon project that turned into a fulltime pursuit after we joined Hackcelerator, a 12 week accelerator program during the summer. We&#39;re currently on our 3rd hardware prototype and have our devices in local school districts for testing purposes.&lt;/p&gt;
 
+        Just a disclaimer, i might be talking more about business problems than issues purely with product design.
+
+        Our time and resources are limited, so we made some tough decisions on which combinations of gases we wanted to monitor. Early on, when making decisions about the product, it&#39;s not always about the customer, the market, or what&#39;s usable. If we were going to dedicate our lives to building a product, it better be something we ourselves wanted to use. So although healthcare was a hot market, I strongly believed we should focus more on gases associated with comfort and wellness. We don&#39;t want to be an alarm that monitors that monitors that toxic gas that will kills 50 people a year, and we also didn&#39;t want to just monitor gases that will shorten your lives by 12 months. Instead, it&#39;s about telling people more about the gases that are always around you yet you can&#39;t see and how they can unconciously influence your lifestyle. So that&#39;s why we went with Carbon Dioxide, Carbon Monoxide, Pm 2.5. We also added other sensors such as temperature, humidity, pressure for the sole purpose of making our primary gas algorithims more accurate.
+
+        Hardware design
+        It had to be portable, why we selected wifi , form factor and costs $90
+
+        Software
+        We had an ios app and webapp and showed epa data blablalbalbalal
+
+        Finding partnerships
+        How we found chiense company
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;The team&lt;/h1&gt;
+        &lt;p class=&quot;lead&quot;&gt;  &lt;/p&gt; 
+
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Hardware&lt;/h1&gt;
 
 
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/h1.jpg&quot; alt=&quot;Jeff&quot; /&gt;

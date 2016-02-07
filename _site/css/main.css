@@ -5759,6 +5759,12 @@ h4 {
   font-size: 16px;
   line-height: 1.8em; }
 
+.lead-center {
+  opacity: 0.7;
+  font-size: 16px;
+  line-height: 1.8em;
+  text-align: center; }
+
 .tagline {
   width: 540px;
   margin-left: auto;
