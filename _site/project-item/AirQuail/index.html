@@ -45,64 +45,92 @@
 
       <div class="col-sm-10 col-sm-offset-1">
         
-        <h1 class="title-main-about">AirQuail</h1>
-        <p class="lead"> Airquail is the internet of things hardware startup that I cofounded. It started as a weekend hackathon project that turned into a fulltime pursuit after we joined Hackcelerator, a 12 week accelerator program during the summer. We're currently on our 3rd hardware prototype and have our devices in local school districts for testing purposes.</p>
 
-        Just a disclaimer, i might be talking more about business problems than issues purely with product design.
 
-        Our time and resources are limited, so we made some tough decisions on which combinations of gases we wanted to monitor. Early on, when making decisions about the product, it's not always about the customer, the market, or what's usable. If we were going to dedicate our lives to building a product, it better be something we ourselves wanted to use. So although healthcare was a hot market, I strongly believed we should focus more on gases associated with comfort and wellness. We don't want to be an alarm that monitors that monitors that toxic gas that will kills 50 people a year, and we also didn't want to just monitor gases that will shorten your lives by 12 months. Instead, it's about telling people more about the gases that are always around you yet you can't see and how they can unconciously influence your lifestyle. So that's why we went with Carbon Dioxide, Carbon Monoxide, Pm 2.5. We also added other sensors such as temperature, humidity, pressure for the sole purpose of making our primary gas algorithims more accurate.
 
-        Hardware design
+        <h1 class="title-main-about"> </h1>
+        <p class="lead"> <i> Airquail is the internet of things hardware startup that I cofounded. It started as a weekend hackathon project, and for 12 weeks it turned into a fulltime pursuit after we joined the Hackcelerator accelerator program. We're currently on our 3rd hardware prototype and have our devices in local school districts. </i></p>
+
+        <h1 class="title-main-about">Story</h1>
+
+        <div class="embed-responsive embed-responsive-16by9">
+                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Nu4WogMWovU?start=1153&amp;end=1219"></iframe>
+                  </div>
+
+                  <p class="lead"> Sorry if I was a little nervous...there were 140 investors in the crowd</p>
+
+
+        
+        <h1 class="title-main-about">Part 1: hardware product design</h1>
+        <img class="content-image" src="../../images/projects/airquail/h2.jpg" alt="Jeff" />
+        <p class="lead"> 
+        Our time and resources are limited, so we made some tough decisions on which combinations of gases we wanted to monitor. Early on, when making decisions about the product, it's not always about the customer, the market, or what's usable. If we were going to dedicate our lives to building a product, it better be something we ourselves wanted to use. So although healthcare was a hot market, I strongly believed we should focus more on gases associated with comfort and wellness. We don't want to be an alarm that monitors that monitors that toxic gas that will kills 50 people a year, and we also didn't want to just monitor gases that will shorten your lives by 12 months. Instead, it's about telling people more about the gases that are always around you yet you can't see and how they can unconsciously influence your lifestyle. So that's why we went with Carbon Dioxide, Carbon Monoxide, Pm 2.5. We also added other sensors such as temperature, humidity, pressure for the sole purpose of making our primary gas algorithms more accurate.
+        <p>
+
+
+     <!--    Hardware design
         It had to be portable, why we selected wifi , form factor and costs $90
 
         Software
         We had an ios app and webapp and showed epa data blablalbalbalal
 
         Finding partnerships
-        How we found chiense company
+        How we found chiense company -->
 
-        <h1 class="title-main-about">The team</h1>
-        <p class="lead">  </p> 
-
-
-        <h1 class="title-main-about">Hardware</h1>
+   <!--      <h1 class="title-main-about">The team</h1> -->
+      
 
 
-        <img class="content-image" src="../../images/projects/airquail/h1.jpg" alt="Jeff" />
 
-        <img class="content-image" src="../../images/projects/airquail/h2.jpg" alt="Jeff" />
+
+        <img class="content-image" src="../../images/projects/airquail/ca4.png" alt="Jeff" />
+
+          <p class="lead">  For our prototypes, we 3d printed our own enclosures. Small vents allowed for passive air diffusion. This worked well when the device just sat around to collect gradual changes. For demo purposes and with certain gases requiring faster readings, we learned that sometimes active intake was more ideal.   <p>           
 
         <img class="content-image" src="../../images/projects/airquail/h3.jpg" alt="Jeff" />
 
+         <p class="lead"> 
+        Unlike competitors, we wanted our device to have (1) better integration with appliances and (2) better integration with user lifestyle. The first step to smart home integration was creating our own REST API that other devices and appliances could read. (After setting up our device at a few schools, we learned that it was very difficult to connect our devices to the different wifi networks found in schools and businesses.) To meet our second goal we needed a portable device that was small enough to carry and powered by a battery. We couldn't create a device that just plugged into the wall and sat by the nightstand all day. When I was testing our first device, it was so much fun carrying it around and seeing with my own eyes how the gases in my environment would change wherever I went. 
+        <p>
         
 
         
-        <h1 class="title-main-about">The Webapp</h1>
-        <p> first webapp </p>
+
+        
+        <h1 class="title-main-about">Part 2: software product design</h1>
+        <p class="lead"> 
+        Our first webapp was just a proof of concept. We started by pulling data from the EPA to compare with the data from our own device. By typing a zipcode, you could see some general readings from public weather stations regarding dust and carbon monoxide levels. </p>
+
+
         <img class="content-image" src="../../images/projects/airquail/app3.png" alt="Jeff" />
 
-        <p> most recent webapp </p>
+        <p class="lead"> 
+        After refining our technology, we needed to build a more serious backend supporting more users - it also didn't hurt to give the layout a facelift. We added multi user and device support, more historical data, more gas sensors, and new charts using c3.js. We also had an iOS app in test flight that we killed, so we made our webapp more usable on a mobile browsers. </p>
 
         <img class="content-image" src="../../images/projects/airquail/DemoDesktop.png" alt="Jeff" />
 
         
 
-        <h1 class="title-main-about">Readings taken from our device</h1>
+        <h1 class="title-main-about">Part 3: the service</h1>
+         <p class="lead"> Demonstrating increased health hazard around heavy traffic </p>
+
         <img class="content-image" src="../../images/projects/airquail/ss1.png" alt="Jeff" />
-        <img class="content-image" src="../../images/projects/airquail/ss2.png" alt="Jeff" />
+
+        <p class="lead"> Demonstrating the sensitivity of our device: </p>
+
         <img class="content-image" src="../../images/projects/airquail/ss3.png" alt="Jeff" />
         
 
-        <h1 class="title-main-about">Demo Day</h1>
+ 
+       
+        
 
-        <p class="lead"> After our 12 week accelerator I presented our progress at demo day. You can check out the video here. </p>
 
+      
+    
+  
 
-
-      </div>
-    </div>
-  </div>
-</div>
+</p></p></p></p></p></p></div></div></div></div>
 
   </div>
 
@@ -119,7 +147,7 @@
       <div class="col-sm-10 col-sm-offset-1 text-center">
         
        <a href="/"> <h5 class="project-title">
-        >>return home<< <h5> </a>
+      >   >  > > H O M E < <  <   < <h5> </a>
         </a>
       </div>
     </div>

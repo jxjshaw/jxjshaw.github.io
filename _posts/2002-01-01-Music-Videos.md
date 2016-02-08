@@ -30,7 +30,7 @@ project-title: Music Videos
 
 
               <h1 class="title-main-about"> SOS </h1>
-              <p class="lead"> This one is your day in the life sort of editing structure. Most rap videos in recent years are shot on cropped sensors with tight lenses, resulting in a lot of camera shake remedied by fast cuts - it's a nice raw style. But this video looks different because many shots are of a much wider angle. The intro is way too long, and for the 10k views we got, half of them probably stopped watching it before the video even started. </p>
+              <p class="lead"> This one of those day in the life college music videos. Most rap videos in recent years are shot on cropped sensors with tight lenses, resulting in a lot of camera shake remedied by fast cuts - it's a nice raw style. But this video looks different because many shots are of a much wider angle. The intro is way too long, and for the 10k views we got, half of them probably stopped watching it before the video even started. </p>
 
 
 

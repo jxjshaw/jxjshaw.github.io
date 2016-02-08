@@ -5,8 +5,8 @@
     <description>Some description about this nice website.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Feb 2016 06:08:55 -0800</pubDate>
-    <lastBuildDate>Sun, 07 Feb 2016 06:08:55 -0800</lastBuildDate>
+    <pubDate>Mon, 08 Feb 2016 03:21:21 -0800</pubDate>
+    <lastBuildDate>Mon, 08 Feb 2016 03:21:21 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -78,7 +78,7 @@
                &lt;p&gt;
 
                 &lt;p class=&quot;lead-center&quot;&gt; 
-                &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mercedes/meme.jpg&quot; alt=&quot;Jeff&quot; /&gt; relevant meme &lt;p&gt;
+                &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mercedes/meme.jpg&quot; alt=&quot;Jeff&quot; /&gt; * relevant design meme *&lt;p&gt;
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Takeaways&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt;
@@ -135,64 +135,92 @@
 
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
         
-        &lt;h1 class=&quot;title-main-about&quot;&gt;AirQuail&lt;/h1&gt;
-        &lt;p class=&quot;lead&quot;&gt; Airquail is the internet of things hardware startup that I cofounded. It started as a weekend hackathon project that turned into a fulltime pursuit after we joined Hackcelerator, a 12 week accelerator program during the summer. We&#39;re currently on our 3rd hardware prototype and have our devices in local school districts for testing purposes.&lt;/p&gt;
 
-        Just a disclaimer, i might be talking more about business problems than issues purely with product design.
 
-        Our time and resources are limited, so we made some tough decisions on which combinations of gases we wanted to monitor. Early on, when making decisions about the product, it&#39;s not always about the customer, the market, or what&#39;s usable. If we were going to dedicate our lives to building a product, it better be something we ourselves wanted to use. So although healthcare was a hot market, I strongly believed we should focus more on gases associated with comfort and wellness. We don&#39;t want to be an alarm that monitors that monitors that toxic gas that will kills 50 people a year, and we also didn&#39;t want to just monitor gases that will shorten your lives by 12 months. Instead, it&#39;s about telling people more about the gases that are always around you yet you can&#39;t see and how they can unconciously influence your lifestyle. So that&#39;s why we went with Carbon Dioxide, Carbon Monoxide, Pm 2.5. We also added other sensors such as temperature, humidity, pressure for the sole purpose of making our primary gas algorithims more accurate.
 
-        Hardware design
+        &lt;h1 class=&quot;title-main-about&quot;&gt; &lt;/h1&gt;
+        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Airquail is the internet of things hardware startup that I cofounded. It started as a weekend hackathon project, and for 12 weeks it turned into a fulltime pursuit after we joined the Hackcelerator accelerator program. We&#39;re currently on our 3rd hardware prototype and have our devices in local school districts. &lt;/i&gt;&lt;/p&gt;
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Story&lt;/h1&gt;
+
+        &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+                      &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/Nu4WogMWovU?start=1153&amp;amp;end=1219&quot;&gt;&lt;/iframe&gt;
+                  &lt;/div&gt;
+
+                  &lt;p class=&quot;lead&quot;&gt; Sorry if I was a little nervous...there were 140 investors in the crowd&lt;/p&gt;
+
+
+        
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Part 1: hardware product design&lt;/h1&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/h2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+        &lt;p class=&quot;lead&quot;&gt; 
+        Our time and resources are limited, so we made some tough decisions on which combinations of gases we wanted to monitor. Early on, when making decisions about the product, it&#39;s not always about the customer, the market, or what&#39;s usable. If we were going to dedicate our lives to building a product, it better be something we ourselves wanted to use. So although healthcare was a hot market, I strongly believed we should focus more on gases associated with comfort and wellness. We don&#39;t want to be an alarm that monitors that monitors that toxic gas that will kills 50 people a year, and we also didn&#39;t want to just monitor gases that will shorten your lives by 12 months. Instead, it&#39;s about telling people more about the gases that are always around you yet you can&#39;t see and how they can unconsciously influence your lifestyle. So that&#39;s why we went with Carbon Dioxide, Carbon Monoxide, Pm 2.5. We also added other sensors such as temperature, humidity, pressure for the sole purpose of making our primary gas algorithms more accurate.
+        &lt;p&gt;
+
+
+     &lt;!--    Hardware design
         It had to be portable, why we selected wifi , form factor and costs $90
 
         Software
         We had an ios app and webapp and showed epa data blablalbalbalal
 
         Finding partnerships
-        How we found chiense company
+        How we found chiense company --&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt;The team&lt;/h1&gt;
-        &lt;p class=&quot;lead&quot;&gt;  &lt;/p&gt; 
-
-
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Hardware&lt;/h1&gt;
+   &lt;!--      &lt;h1 class=&quot;title-main-about&quot;&gt;The team&lt;/h1&gt; --&gt;
+      
 
 
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/h1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/h2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ca4.png&quot; alt=&quot;Jeff&quot; /&gt;
+
+          &lt;p class=&quot;lead&quot;&gt;  For our prototypes, we 3d printed our own enclosures. Small vents allowed for passive air diffusion. This worked well when the device just sat around to collect gradual changes. For demo purposes and with certain gases requiring faster readings, we learned that sometimes active intake was more ideal.   &lt;p&gt;           
 
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/h3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
+         &lt;p class=&quot;lead&quot;&gt; 
+        Unlike competitors, we wanted our device to have (1) better integration with appliances and (2) better integration with user lifestyle. The first step to smart home integration was creating our own REST API that other devices and appliances could read. (After setting up our device at a few schools, we learned that it was very difficult to connect our devices to the different wifi networks found in schools and businesses.) To meet our second goal we needed a portable device that was small enough to carry and powered by a battery. We couldn&#39;t create a device that just plugged into the wall and sat by the nightstand all day. When I was testing our first device, it was so much fun carrying it around and seeing with my own eyes how the gases in my environment would change wherever I went. 
+        &lt;p&gt;
         
 
         
-        &lt;h1 class=&quot;title-main-about&quot;&gt;The Webapp&lt;/h1&gt;
-        &lt;p&gt; first webapp &lt;/p&gt;
+
+        
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Part 2: software product design&lt;/h1&gt;
+        &lt;p class=&quot;lead&quot;&gt; 
+        Our first webapp was just a proof of concept. We started by pulling data from the EPA to compare with the data from our own device. By typing a zipcode, you could see some general readings from public weather stations regarding dust and carbon monoxide levels. &lt;/p&gt;
+
+
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/app3.png&quot; alt=&quot;Jeff&quot; /&gt;
 
-        &lt;p&gt; most recent webapp &lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; 
+        After refining our technology, we needed to build a more serious backend supporting more users - it also didn&#39;t hurt to give the layout a facelift. We added multi user and device support, more historical data, more gas sensors, and new charts using c3.js. We also had an iOS app in test flight that we killed, so we made our webapp more usable on a mobile browsers. &lt;/p&gt;
 
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/DemoDesktop.png&quot; alt=&quot;Jeff&quot; /&gt;
 
         
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Readings taken from our device&lt;/h1&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Part 3: the service&lt;/h1&gt;
+         &lt;p class=&quot;lead&quot;&gt; Demonstrating increased health hazard around heavy traffic &lt;/p&gt;
+
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss1.png&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss2.png&quot; alt=&quot;Jeff&quot; /&gt;
+
+        &lt;p class=&quot;lead&quot;&gt; Demonstrating the sensitivity of our device: &lt;/p&gt;
+
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss3.png&quot; alt=&quot;Jeff&quot; /&gt;
         
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Demo Day&lt;/h1&gt;
+ 
+       
+        
 
-        &lt;p class=&quot;lead&quot;&gt; After our 12 week accelerator I presented our progress at demo day. You can check out the video here. &lt;/p&gt;
 
+      
+    
+  
 
-
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 01 Jan 2008 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/AirQuail/</link>
@@ -205,7 +233,7 @@
     
       <item>
         <title> </title>
-        <description>&lt;div class=&quot;container&quot;&gt;
+        <description>&lt;div class=&quot;container-fluid&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row text-left&quot;&gt;
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
@@ -265,9 +293,9 @@
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row text-left&quot;&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-      &lt;h1 class=&quot;title-main-about&quot;&gt;Chimehack 2&lt;/h1&gt;
+      &lt;h1 class=&quot;title-main-about&quot;&gt; &lt;/h1&gt;
 
-      &lt;p class=&quot;lead&quot;&gt;Over the summer, I went to Chimehack2 with a few friends. It&#39;s a hackathon hosted by twitter to promote hacking for change.&lt;/p&gt;
+      &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Over the summer, I went to Chimehack2 with a few friends. It was a hackathon hosted by Twitter to promote hacking for change. &lt;/i&gt; &lt;/p&gt;
 
       
 
@@ -276,55 +304,50 @@
 
       &lt;h1 class=&quot;title-main-about&quot;&gt;Making College a Safer Space&lt;/h1&gt;
 
-      &lt;p class=&quot;lead&quot;&gt; One of the categories for Chimehack was campus safety. To brainstorm, we thought back on our experiences with campus safety. Usually when your friend goes missing, they&#39;re not picking up their phone and you don&#39;t know whether or not their phone is dead. They&#39;re probably not in enough danger to call campus safety, but that doesn&#39;t mean you&#39;re not concerned for your friend. &lt;/p&gt;
+      &lt;p class=&quot;lead&quot;&gt; A key theme at Chimehack was campus safety. It was an issue my teammates and I had all recently witnessed in college, so from the start it was clear this was the problem we wanted to spend our weekend solving. While brainstorming, we thought back on our experiences involving campus safety. &lt;p&gt;
+
+      &lt;p class=&quot;lead&quot;&gt;
+      Usually when your friend goes missing, they&#39;re not picking up their phone and you don&#39;t know whether or not their phone is dead. They&#39;re probably not in enough danger to call campus safety, but that doesn&#39;t mean you&#39;re not concerned for your friend. &lt;/p&gt;
 
       &lt;p class=&quot;lead&quot;&gt; That&#39;s why we built an iOS app called asOne. It&#39;s a better way to communicate in groups when going out. Instead of annoying group messages, we create temporary friend groups that shares information about each member&#39;s location, battery level, and the time they want to go home. &lt;/p&gt;
 
 
-      &lt;h1 class=&quot;title-main-about&quot;&gt;The Design Process&lt;/h1&gt;   
+      &lt;h1 class=&quot;title-main-about&quot;&gt;An entire iOS app in 48 hours&lt;/h1&gt;   
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/asonef.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-      &lt;p class=&quot;lead&quot;&gt; Because we had 48 hours to build everything, I had about 12 hours to work through the user flow and freeze visual design. We formed teams friday night. I spent the next morning designing and going through tough choices with my teamates. A little after lunch, I was ready to export the assets. &lt;/p&gt;
+      &lt;p class=&quot;lead&quot;&gt; Because we had 48 hours to build everything, I had about 12 hours to work through the user flow and freeze visual design. We formed teams friday night. I spent the next morning designing and going through tough choices with my teammates, and exported the assets a little after lunch. What follows is a run through some choices I made.&lt;/p&gt;
 
-      &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/asonef.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+     
 
-      &lt;p class=&quot;lead&quot;&gt; Usability was my key concern, so I spent a large chunk of my time refining the onboarding process. Because we were at twitter, we receieved a lot of feedback about the challenges when creating a product that only works  when many users choose to engage. They just started promoting Periscope at the time, and even for such an established company, we learned that there&#39;s really no way of knowig the success until it&#39;s out there.
+       &lt;h1 class=&quot;title-main-about&quot;&gt;Onboarding and privacy concerns&lt;/h1&gt;   
 
+      &lt;p class=&quot;lead&quot;&gt; Usability and the onboarding process was a key concern for me. Nobody was going to use our app, and nobody was going to use our app when they really needed to, if it was hard to sign up, log in, and begin seeing the value we provide. Because we were at twitter, we received a lot of feedback about the challenges when creating a product that only works when many users choose to engage. &lt;p&gt;
 
+         &lt;p class=&quot;lead&quot;&gt; With that in mind, it became clear to me that we weren&#39;t here to build a social media app. Having a social network was only the means to our goal. The only thing we came here to do was make it easier for college students to look after their friends. We didn&#39;t need to create our own user id system, we can just use the facebook SDK. The main drawback to this solution was issues of privacy. Our remedy was a system where the group you formed only lasts until the next morning; to use the app again, you must reform a group. To minimize friction in this process, we included recent and nearby friends at the top.&lt;p&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; Here&#39;s a screenshot of the splash screen, illustrating the brand and styling.&lt;/p&gt;
+         &lt;h1 class=&quot;title-main-about&quot;&gt;Style&lt;/h1&gt;   
         &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a6.png&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;p class=&quot;lead&quot;&gt; One goal of Chimehack 2 was to promote inclusivness in technology. Likewise, the goal of our app was to make it easier for friend groups to stay together when out on a weekend. A key theme throughout the weekend was inclusiveness, so stylistically I wanted to convey friendliness and draw a diverse user base. To convey friendliess I went with warm passionate blends and a heart shaped logo. The best thing I could do to make sure we didn&#39;t attract the traditional tech-y user base was to make the app look less stereotypical, hence the granjon/roman typeface that you may recognise when walking around a mall...&lt;/p&gt;   
+        &lt;p class=&quot;lead&quot;&gt; Inclusiveness was a major theme throughout both Chimehack and the mission our technology. To convey this sense of passion and inclusion, I went with an intertwined heart with warme blends. Another goal of mine was to make something useful for a diverse demographic - not just urban techies surfing producthunt. One effort to make sure we didn&#39;t attract the traditional SF user base was to make the app look less stereotypical, hence the granjon/roman typeface that you may recognise when walking around a mall...&lt;/p&gt;   
 
 
-        &lt;p class=&quot;lead&quot;&gt; The resting screen&lt;/p&gt;
+       
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Resting view&lt;/h1&gt;   
         &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a1.png&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;p class=&quot;lead&quot;&gt;  We used the facebook SDK when generating user accounts so our avators are pulled from our profiles. Key features include
-
-          - displaying distance from friend based on location info
-          - displaying battery life
-
-
-          As well as user friendly conviniences such as
-
-          - predefined status updates 
-          - push notifications for entire group
-
-          You can&#39;t see our our friend Revan&#39;s battery status because he has an adroid and we built this for iOS. We&#39;re all the same distance apart because we were standing next to eachother.
-
+        &lt;p class=&quot;lead&quot;&gt;  The resting screen makes it easy to check up on your friends periodically. When designing this view, I thought back to all the things I can&#39;t do just by calling each individual in my group. Assuming my friends pick up, I probably won&#39;t be able to hear them speak well - all I want is a status update, so the first thing I want is an easy way to get exactly a status update. The second thing I want is an easy way to glance over all my group members at once so I don&#39;t have to call each of them. This leads me to the third feature: they&#39;re probably not all going to pickup so I&#39;d rather just look at where they are. And lastly, if I can&#39;t look at where they are that means their battery is probably dead - so I want to be able to see what their battery status is even if they aren&#39;t paying attention to it.
 
         &lt;/p&gt;   
 
 
-        &lt;p class=&quot;lead&quot;&gt; The detail screen.&lt;/p&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Details view&lt;/h1&gt;  
         &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a5.png&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;p class=&quot;lead&quot;&gt; Usually when you&#39;ve assembled your group, there&#39;s one person missing. When calling doesn&#39;t work, we have an inline map that points you in the direction of that person. &lt;/p&gt;
-        &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/asone.gif&quot; alt=&quot;Jeff&quot; /&gt;   
+        &lt;p class=&quot;lead&quot;&gt; Usually when everyone&#39;s ready to go home, there&#39;s that one person that nobody can find. So we created a detail view as an extension to the group view. Tapping on your friend brings you to more actions such as sending a push notification and enabling audio. Additionally we automatically set the true north of the inline map to that of the friend. &lt;/p&gt;
+       &lt;!--  &lt;img class=&quot;content-image-vertical&quot;  src=&quot;../../images/asone.gif&quot; alt=&quot;Jeff&quot; &gt;    --&gt;
 
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Conclusion&lt;/h1&gt;
         &lt;p class=&quot;lead&quot;&gt; We built this app because this was a tool missing from our everyday lives, and for the rest of the summer we would often use it as a tool to ping and find eachother. Since then, Apple released a standalone friend finder, and we also saw an app named Companion gain popularity around college campuses. &lt;/p&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; In restrospect, the technology wasn&#39;t earth shattering, but this is a great example of how fast a talented team can work when there is good chemistry. In one weekend, we shipped a product that would take a company at least half a year to assemble.&lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; In retrospect, the technology wasn&#39;t earth shattering, but this is a great example of how fast a talented team can work decisively when there is good chemistry. In one weekend, we shipped a product that would take a company at least half a year to assemble.&lt;/p&gt;
 
         
         &lt;h1 class=&quot;title-main-about&quot;&gt;More about Chimehack&lt;/h1&gt;
@@ -336,7 +359,7 @@
         
       
     
-&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 01 Jan 2006 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/As-One/</link>
@@ -356,7 +379,7 @@
 
         &lt;h1 class=&quot;title-main-about&quot;&gt; &lt;/h1&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; This is the winning hackathon project that caught the attention of Daimler&#39;s board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to a job at Mercedes.  &lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; This is the winning hackathon project that caught the attention of Daimler&#39;s board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to a job at Mercedes. &lt;/i&gt; &lt;/p&gt;
 
         &lt;h1 class=&quot;title-main-about&quot;&gt; The idea &lt;/h1&gt;
 
@@ -409,11 +432,28 @@
         Ensuring readability also means it&#39;s an interface easy to glance over.  This is an image of the payment history view. Only the most relevant information is made visible, and thus the bitcoin address is barely visible. 
         &lt;p&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Demo video &lt;/h1&gt;   
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Demo video &lt;/h1&gt;  
+
+         &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;https://www.crunchbase.com/person/yashad-kulkarni#/entity&quot;&gt; Yashad from TechCrunch &lt;/a&gt;filmed this video for us.
 
            &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
                       &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/132971331&quot;&gt;&lt;/iframe&gt;
                   &lt;/div&gt;
+
+                  &lt;h1 class=&quot;title-main-about&quot;&gt; Further reading &lt;/h1&gt;  
+
+           
+            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/team.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+              &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://www.mobilegeeks.com/mercedes-benz-hack-a-thon-a-snapshot-of-developing-for-automotive/&quot;&gt; Writeup by Mobile Geeks &lt;/a&gt; &lt;p&gt;
+
+           &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://360.here.com/2015/08/11/here-gives-direction-at-mercedes-benz-hackathon/&quot;&gt; Article by HERE maps &lt;/a&gt; &lt;p&gt;
+
+
+          
+
+            
+                 
 
          
 
@@ -422,7 +462,7 @@
     
   
 
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/BenzPay/</link>
@@ -562,7 +602,7 @@
 
 
               &lt;h1 class=&quot;title-main-about&quot;&gt; SOS &lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; This one is your day in the life sort of editing structure. Most rap videos in recent years are shot on cropped sensors with tight lenses, resulting in a lot of camera shake remedied by fast cuts - it&#39;s a nice raw style. But this video looks different because many shots are of a much wider angle. The intro is way too long, and for the 10k views we got, half of them probably stopped watching it before the video even started. &lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; This one of those day in the life college music videos. Most rap videos in recent years are shot on cropped sensors with tight lenses, resulting in a lot of camera shake remedied by fast cuts - it&#39;s a nice raw style. But this video looks different because many shots are of a much wider angle. The intro is way too long, and for the 10k views we got, half of them probably stopped watching it before the video even started. &lt;/p&gt;
 
 
 
