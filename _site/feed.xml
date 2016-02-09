@@ -5,22 +5,16 @@
     <description>Some description about this nice website.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Feb 2016 03:21:21 -0800</pubDate>
-    <lastBuildDate>Mon, 08 Feb 2016 03:21:21 -0800</lastBuildDate>
+    <pubDate>Tue, 09 Feb 2016 02:02:19 -0800</pubDate>
+    <lastBuildDate>Tue, 09 Feb 2016 02:02:19 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
         <title></title>
-        <description>&lt;div class=&quot;container&quot;&gt;
+        <description>&lt;div class=&quot;container-fluid&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
-    &lt;div class=&quot;row&quot;&gt;
-
-
-      &lt;div class=&quot;container&quot;&gt;
-        &lt;div class=&quot;description&quot;&gt; 
-          &lt;div class=&quot;row&quot;&gt;
-
-            &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;row text-left&quot;&gt;
+      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
               &lt;h1 class=&quot;title-main-about&quot;&gt;Advanced UX&lt;/h1&gt;
 
               &lt;p class=&quot;lead&quot;&gt;I work in the design studio at &lt;b&gt;Mercedes-Benz R&amp;amp;D North America&lt;/b&gt;.  We focus on innovations such as fuelcell, self-driving, 3d graphics, and advanced design.
@@ -106,17 +100,12 @@
                       &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/fBwmH7TAupI&quot;&gt;&lt;/iframe&gt;
                   &lt;/div&gt;
 
-
-           
-              
-            
-          
         
+
       
     
   
-
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/Mercedes/</link>
@@ -152,7 +141,7 @@
 
         
         &lt;h1 class=&quot;title-main-about&quot;&gt;Part 1: hardware product design&lt;/h1&gt;
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/h2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/wtf.jpg&quot; alt=&quot;Jeff&quot; /&gt;
         &lt;p class=&quot;lead&quot;&gt; 
         Our time and resources are limited, so we made some tough decisions on which combinations of gases we wanted to monitor. Early on, when making decisions about the product, it&#39;s not always about the customer, the market, or what&#39;s usable. If we were going to dedicate our lives to building a product, it better be something we ourselves wanted to use. So although healthcare was a hot market, I strongly believed we should focus more on gases associated with comfort and wellness. We don&#39;t want to be an alarm that monitors that monitors that toxic gas that will kills 50 people a year, and we also didn&#39;t want to just monitor gases that will shorten your lives by 12 months. Instead, it&#39;s about telling people more about the gases that are always around you yet you can&#39;t see and how they can unconsciously influence your lifestyle. So that&#39;s why we went with Carbon Dioxide, Carbon Monoxide, Pm 2.5. We also added other sensors such as temperature, humidity, pressure for the sole purpose of making our primary gas algorithms more accurate.
         &lt;p&gt;
@@ -197,7 +186,7 @@
         &lt;p class=&quot;lead&quot;&gt; 
         After refining our technology, we needed to build a more serious backend supporting more users - it also didn&#39;t hurt to give the layout a facelift. We added multi user and device support, more historical data, more gas sensors, and new charts using c3.js. We also had an iOS app in test flight that we killed, so we made our webapp more usable on a mobile browsers. &lt;/p&gt;
 
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/DemoDesktop.png&quot; alt=&quot;Jeff&quot; /&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/dd1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
         
 
@@ -327,13 +316,29 @@
 
          &lt;h1 class=&quot;title-main-about&quot;&gt;Style&lt;/h1&gt;   
         &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a6.png&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;p class=&quot;lead&quot;&gt; Inclusiveness was a major theme throughout both Chimehack and the mission our technology. To convey this sense of passion and inclusion, I went with an intertwined heart with warme blends. Another goal of mine was to make something useful for a diverse demographic - not just urban techies surfing producthunt. One effort to make sure we didn&#39;t attract the traditional SF user base was to make the app look less stereotypical, hence the granjon/roman typeface that you may recognise when walking around a mall...&lt;/p&gt;   
+        &lt;p class=&quot;lead&quot;&gt; Inclusiveness was a major theme throughout both Chimehack and the mission our technology. To convey this sense of passion and inclusion, I went with an intertwined heart with warm blends. Another goal of mine was to make something useful for a diverse demographic - not just urban techies surfing producthunt. One effort to make sure we didn&#39;t attract the traditional SF user base was to make the app look less stereotypical, hence the granjon/roman typeface that you may recognise when walking around a mall...&lt;/p&gt;   
 
 
        
         &lt;h1 class=&quot;title-main-about&quot;&gt;Resting view&lt;/h1&gt;   
         &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a1.png&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;p class=&quot;lead&quot;&gt;  The resting screen makes it easy to check up on your friends periodically. When designing this view, I thought back to all the things I can&#39;t do just by calling each individual in my group. Assuming my friends pick up, I probably won&#39;t be able to hear them speak well - all I want is a status update, so the first thing I want is an easy way to get exactly a status update. The second thing I want is an easy way to glance over all my group members at once so I don&#39;t have to call each of them. This leads me to the third feature: they&#39;re probably not all going to pickup so I&#39;d rather just look at where they are. And lastly, if I can&#39;t look at where they are that means their battery is probably dead - so I want to be able to see what their battery status is even if they aren&#39;t paying attention to it.
+        &lt;p class=&quot;lead&quot;&gt;  The resting screen makes it easy to check up on your friends periodically. When designing this view, I thought back to all the things I can&#39;t do just by calling each individual in my group. 
+
+          &lt;p class=&quot;lead&quot;&gt;
+
+          1. Assuming my friends pick up, I probably won&#39;t be able to hear them speak well, so the first thing I want is an easy way to get exactly a status update. &lt;p&gt;
+
+          &lt;p class=&quot;lead&quot;&gt;
+          
+          2. An easy way to glance over all my group members at once so I don&#39;t have to call each of them individually. &lt;p&gt;
+
+          &lt;p class=&quot;lead&quot;&gt;
+
+          3. They&#39;re probably not all going to pickup anyways, so I&#39;d rather just look at where they are on a map. &lt;p&gt;
+
+          &lt;p class=&quot;lead&quot;&gt;
+
+          4. If I can&#39;t look at where they are that means their battery is probably dead - so I want to be able to see what their battery status is.&lt;p&gt;
 
         &lt;/p&gt;   
 
@@ -359,7 +364,7 @@
         
       
     
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 01 Jan 2006 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/As-One/</link>
@@ -483,9 +488,10 @@
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Wifi Beerbong&lt;/h1&gt;
 
-        &lt;p class=&quot;lead&quot;&gt;Purely for fun project, no explaination needed. Built with particle.io, firebase, node, react. Basically the beer bong contains a flow sensor and a battery powered wifi arduino. When beer is chugged, we send a a post request with a timestamp over to our webapp. Webapp consists of leaderboard, user Id&#39;s done by facebook sdk.  &lt;p&gt;
+        &lt;p class=&quot;lead&quot;&gt;Purely for fun project, no explaination needed. Built with particle.io, firebase, node, react. I mostly worked on the hardware. Basically the beer bong contains a flow sensor and a battery powered wifi arduino. When beer is chugged, we send a a post request with a timestamp over to our webapp. Webapp consists of leaderboard, user Id&#39;s done by facebook sdk.  &lt;p&gt;
 
-  &lt;h1 class=&quot;title-main-about&quot;&gt;&lt;a href=&quot;https://github.com/drankadank&quot;&gt; https://github.com/drankadank &lt;/a&gt;&lt;/h1&gt;
+ &lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://github.com/drankadank&quot;&gt; https://github.com/drankadank &lt;/a&gt;&lt;p&gt;
+
 
 
 
@@ -494,7 +500,7 @@
     
   
 
-  &lt;div class=&quot;container&quot;&gt;
+&lt;!--   &lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;row text-center&quot;&gt;
    &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;tagline&quot;&gt; 
@@ -504,13 +510,13 @@
          We short circuited everything on our first test. Luckily I had a seconded particle photon with me. Made sure our enclosure was waterproof.
         &lt;/p&gt;
 
-           &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/beerbong/a1.gif&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/beerbong/a1.gif&quot; alt=&quot;Jeff&quot; &gt;
 
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt; --&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/Wifi-Beerbong/</link>
@@ -640,7 +646,7 @@
     &lt;div class=&quot;row text-left&quot;&gt;
 
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Resume &lt;/h1&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt;  &lt;/h1&gt;
 
 
         &lt;div class=&quot;container-fluid&quot;&gt;
@@ -648,12 +654,21 @@
             &lt;div class=&quot;row text-left buffer0&quot;&gt;
 
 
-&lt;!--            &lt;embed class=&quot;resume&quot; src=&quot;../../images/rresume.pdf&quot; alt=&quot;pdf viewer only&quot; width=&quot;100%&quot; height=&quot;500px&quot; alt=&quot;pdf&quot; pluginspage=&quot;http://www.adobe.com/products/acrobat/readstep2.html&quot;&gt; --&gt;
+
+              
+
+              &lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/33963267&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+              
+
+
+
+&lt;!-- 
+           &lt;embed class=&quot;resume&quot; src=&quot;../../images/rresume.pdf&quot; alt=&quot;pdf viewer only&quot; width=&quot;100%&quot; height=&quot;500px&quot; alt=&quot;pdf&quot; pluginspage=&quot;http://www.adobe.com/products/acrobat/readstep2.html&quot;&gt;
 
               &lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
                   &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;../../images/rresume.pdf&quot;&gt;&lt;/iframe&gt;
                 &lt;/div&gt;
-
+ --&gt;
 
 		
             &lt;/div&gt;

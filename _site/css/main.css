@@ -5654,7 +5654,7 @@ ul {
   border-radius: 50%;
   object-fit: cover;
   opacity: 0.9;
-  transition: opacity 0.3s ease; }
+  transition: opacity 0.1s ease; }
 
 .project-gif:hover {
   opacity: 1.0; }
@@ -5693,7 +5693,7 @@ iframe {
 
 .header-text:hover {
   opacity: 0.3;
-  letter-spacing: 10pt; }
+  letter-spacing: 5.9pt; }
 
 .footer-text {
   font-family: TakeOut;
@@ -5755,7 +5755,7 @@ h4 {
   font-size: 16px; }
 
 .lead {
-  opacity: 0.7;
+  opacity: 0.87;
   font-size: 16px;
   line-height: 1.8em; }
 
@@ -5795,7 +5795,38 @@ body .projectSVG {
 .iconbox p {
   margin: 0; }
 
+.project-col {
+  width: 350px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 45px; }
+
+.project-list-item {
+  margin: -13px; }
+
+.project-title {
+  margin-top: 10px;
+  font-weight: normal;
+  letter-spacing: 0.6pt;
+  font-size: 12px;
+  opacity: 0.7; }
+
+.header-text {
+  letter-spacing: 6pt;
+  font-size: 2.8em; }
+
+#project-row {
+  transition-delay: 0.0s; }
+
+#header-row {
+  transition-delay: 0.0s; }
+
 @media screen and (max-width: 800px) {
+  .project-gif {
+    width: 100px;
+    height: 100px;
+    opacity: 1.0; } }
+@media screen and (min-width: 800px) {
   .project-col {
     width: 350px;
     margin-right: auto;
@@ -5808,69 +5839,7 @@ body .projectSVG {
   .project-gif {
     width: 100px;
     height: 100px;
-    opacity: 1.0; }
-
-  .project-title {
-    margin-top: 10px;
-    font-weight: normal;
-    letter-spacing: 0.6pt;
-    font-size: 12px;
-    opacity: 0.7; }
-
-  .header-text {
-    letter-spacing: 6pt;
-    font-size: 2.8em; }
-
-  #project-row {
-    transition-delay: 0.0s; }
-
-  #header-row {
-    transition-delay: 0.0s; } }
-@media screen and (min-width: 800px) {
-  .project-col {
-    width: 460px;
-    margin-right: auto;
-    margin-left: auto;
-    padding-top: 60px; }
-
-  .project-list-item {
-    margin: -13px;
-    margin-top: 20px;
-    margin-bottom: 20px; }
-
-  .project-gif {
-    width: 100px;
-    height: 100px;
-    opacity: 0.05; }
-
-  .project-title {
-    margin-top: 5px;
-    font-weight: 800;
-    letter-spacing: 0.3pt;
-    font-size: 12px;
-    opacity: 0.88; }
-    .project-title .container-fluid {
-      max-width: 800px; }
-    .project-title .description {
-      width: 600px; }
-    .project-title .lead {
-      font-size: 16px;
-      line-height: 40px; }
-
-  .header-text {
-    letter-spacing: 10pt;
-    font-size: 1.8em;
-    margin-bottom: 0px; }
-
-  #blurb {
-    padding-left: 60px;
-    padding-right: 60px;
-    margin-top: -30px;
-    margin-bottom: -900px;
-    font-weight: 300;
-    letter-spacing: 1.3px;
-    font-size: 12px;
-    line-height: 2.0; } }
+    opacity: 0.05; } }
 .buffer {
   margin-top: 20px; }
 
@@ -5904,3 +5873,15 @@ body .projectSVG {
 #loading-row {
   padding: 0px;
   margin: 0px; }
+
+.row {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 900px; }
+
+p {
+  opacity: 0.87; }
+
+#blurb {
+  font-weight: 600;
+  font-spacing: 2; }

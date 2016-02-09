@@ -4,8 +4,15 @@ $(window).load(function()
    console.log("fadeddd");
    //alert("fadeddd");
    //$("#header-row").css("opacity", "1.0");
-   $("#project-row").css("opacity", "1.0");
-}); 
+   $("#project-row").css("opacity", "0.9");
+});
 
 
-
+// $('.project-gif').hover(
+//     function() {
+//         $(".project-gif:not(:hover)").css({"opacity":"0.7"});
+//     },
+//     function() {
+//         $(".project-gif").css({"opacity":"1.0"});
+//     }
+// );
