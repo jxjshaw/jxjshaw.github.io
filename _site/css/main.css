@@ -5883,5 +5883,7 @@ p {
   opacity: 0.87; }
 
 #blurb {
-  font-weight: 600;
-  font-spacing: 2; }
+  font-weight: 400;
+  font-spacing: 1.6;
+  opacity: 0.74;
+  line-height: 2; }
