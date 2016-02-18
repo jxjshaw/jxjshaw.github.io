@@ -15,7 +15,7 @@ project-title: Wifi Beerbong
 
         <h1 class="title-main-about">Wifi Beerbong</h1>
 
-        <p class="lead">Purely for fun project, no explaination needed. Built with particle.io, firebase, node, react. I mostly worked on the hardware. Basically the beer bong contains a flow sensor and a battery powered wifi arduino. When beer is chugged, we send a a post request with a timestamp over to our webapp. Webapp consists of leaderboard, user Id's done by facebook sdk.  <p>
+        <p class="lead">Purely for fun project. Built with particle.io, firebase, node, react. I mostly worked on the hardware. Basically the beer bong contains a flow sensor and a battery powered wifi arduino. When beer is chugged, we send a a post request with a timestamp over to our webapp. Webapp consists of leaderboard, user Id's done by facebook sdk.  <p>
 
  <p class="lead"><a href="https://github.com/drankadank"> https://github.com/drankadank </a><p>
 
