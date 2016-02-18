@@ -5,8 +5,8 @@
     <description>Some description about this nice website.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Feb 2016 00:42:57 -0800</pubDate>
-    <lastBuildDate>Thu, 11 Feb 2016 00:42:57 -0800</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2016 23:31:31 -0800</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2016 23:31:31 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -388,22 +388,22 @@
 
         &lt;h1 class=&quot;title-main-about&quot;&gt; The idea &lt;/h1&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; The idea is that mobile payment is all around us. It&#39;s made our lives easier and more secure. Yet when leaving a parking garage or stopping at a toll booth, for some reason we&#39;re still wasting time fumbling for money or trying to stick a card in a machine. That&#39;s why we created BenzPay, because for the Mercedes driver, time is the only currency that matters.  &lt;/p&gt;
+         &lt;p class=&quot;lead&quot;&gt; Mobile payment is all around us. It&#39;s made our lives easier and more secure. Yet when leaving a parking garage or stopping at a toll booth, we&#39;re still wasting time fumbling to make a transaction. That&#39;s why we created BenzPay, because for the Mercedes driver, time is the only currency that matters.  &lt;/p&gt;
 
           &lt;img class=&quot;content-image&quot; src=&quot;../../images/benzpay.gif&quot; alt=&quot;Jeff&quot; /&gt;
 
          &lt;h1 class=&quot;title-main-about&quot;&gt; Simplifying the use case &lt;/h1&gt;
-         &lt;p class=&quot;lead&quot;&gt; We didn&#39;t have much time to do our demo so I narrowed down the use cases to the three most important to a driver. Gas and parking are hands down the most important, but the final use case was much harder to choose. &lt;p&gt;
+         &lt;p class=&quot;lead&quot;&gt;  For our short demo, we paired down our application until we have three distinct use cases. Speaking to drivers and experts in the industry, it was clear gas and parking were the most popular. However there was no clear contender for the third use case, making it a harder decision. &lt;p&gt;
 
           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
           &lt;p class=&quot;lead&quot;&gt;
-          I eventually went with events instead of toll booths for a couple reasons:
+          Not everyone was a fan of going with &quot;events&quot; instead of &quot;tollbooth&quot; but here is my reasoning:
 
           &lt;ol type=&quot;1&quot;&gt;
-          &lt;li&gt;There are already existing payment sollutions for tollbooths. &lt;/li&gt;
-          &lt;li&gt;We wanted to appeal to an emotional side of our product. It&#39;s one thing to make your life easier, it&#39;s another to make it more interesting.  &lt;/li&gt;
-          &lt;li&gt;Quick to implement, completing transactions on ticketmaster or eventbrite requires no additional hardware unlike support for parking meters, gas pumps, or toll booths. &lt;/li&gt;
+          &lt;li&gt;Payment sollutions for tollbooths already exist &lt;/li&gt;
+          &lt;li&gt;I want to appeal to the emotional side of our product. It&#39;s one thing to make your life easier, it&#39;s another to make it more interesting.  &lt;/li&gt;
+          &lt;li&gt;Quick to implement, completing transactions on ticketmaster or eventbrite requires no additional hardware or data collection - unlike support for parking meters, gas pumps, or toll booths. &lt;/li&gt;
           &lt;/ol&gt;
            &lt;/p&gt;
 
@@ -414,18 +414,18 @@
 
 
           &lt;p class=&quot;lead&quot;&gt;
-            Other features include using gps and bitcoin to complete transactions without the need to stop, or by automatically calculating and paying for the price to fill up at a given gas station.
+            Additional features include using gps and bitcoin to complete transactions without the need to stop, or by automatically calculating and paying for the price to fill up at a given gas station. 
             &lt;p&gt;
 
         &lt;h1 class=&quot;title-main-about&quot;&gt; Designing on car interfaces &lt;/h1&gt;     
 
         &lt;p class=&quot;lead&quot;&gt;  
-        Designing applications for the car is a little different than designing applications for the phone or the web. Unless the driver is parked, most interactions occur without the user&#39;s complete attention. That&#39;s why payments are automatically triggered by location and unique pairing. Everything is automatic, and all the driver needs to do is confirm the amount alerted to the driver. Bitcoin was the easiest to integrate for our prototype but the concept to support other payments is the same.&lt;p&gt;
+        Designing for the car is different than designing for mobile. Unless the driver is parked, most interactions occur without the user&#39;s complete attention. That&#39;s why we made initiating a transaction automatic. All the driver needs to do is confirm the amount alerted to the driver. Bitcoin was the easiest to integrate for our prototype, but we soon discovered the security benefits of using bitcoin.
 
          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
         &lt;p class=&quot;lead&quot;&gt;  
-        Additionaly, not all cars (including this c300) support touch input, so there must be a clear hierarchy when navigating through each menu.
+        Additionaly, not all cars (including this c300) support touch input, so there must be a clear hierarchy when navigating through each menu. To increase usability, we disabled left and right toggling on the car&#39;s touchpad, and instead mapped each input to either up, down, enter, and back.
         &lt;p&gt;
 
        
@@ -434,7 +434,7 @@
 
       
         &lt;p class=&quot;lead&quot;&gt;  
-        Ensuring readability also means it&#39;s an interface easy to glance over.  This is an image of the payment history view. Only the most relevant information is made visible, and thus the bitcoin address is barely visible. 
+        Ensuring readability also means ensuring it&#39;s an interface easy to glance over.  One example of this can be seen in the payment history view. Only the most relevant information is made visible, while information such as the unique bitcoin address is subdued by default.
         &lt;p&gt;
 
         &lt;h1 class=&quot;title-main-about&quot;&gt; Demo video &lt;/h1&gt;  
@@ -467,7 +467,7 @@
     
   
 
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/BenzPay/</link>
@@ -491,6 +491,22 @@
         &lt;p class=&quot;lead&quot;&gt;Purely for fun project, no explaination needed. Built with particle.io, firebase, node, react. I mostly worked on the hardware. Basically the beer bong contains a flow sensor and a battery powered wifi arduino. When beer is chugged, we send a a post request with a timestamp over to our webapp. Webapp consists of leaderboard, user Id&#39;s done by facebook sdk.  &lt;p&gt;
 
  &lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://github.com/drankadank&quot;&gt; https://github.com/drankadank &lt;/a&gt;&lt;p&gt;
+
+
+         &lt;p class=&quot;lead&quot;&gt; Clearly this wasn&#39;t going to be a 1-device-1-user sort of thing, more likely 1-device-1-friend group. A single device had to support multiple users, so it made sense to have a log in feature that integrated well with social media.   &lt;/p&gt;
+
+           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/s2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+
+         &lt;p class=&quot;lead&quot;&gt; The annoying thing with Particle (link) photons is that they run off 3.3v and a lot of sensors run off 5v. Since we were powering the photon with a usb battery pack, the original plan was to use that power with a voltage divider. I&#39;m not an electrical engineer, but i just decided to just tap into the VIN of the photon. People were telling me not to do that, but it&#39;s been working as long as I make sure the ground is not floating around.  &lt;/p&gt;
+
+
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/s1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+       &lt;p class=&quot;lead&quot;&gt; The only resistors I ended up needing were for the led indicators.   &lt;/p&gt;
+
+
 
 
 
