@@ -29,7 +29,7 @@ project-title: Wifi Beerbong
          <p class="lead"> The annoying thing with Particle (link) photons is that they run off 3.3v and a lot of sensors run off 5v. Since we were powering the photon with a usb battery pack, the original plan was to use that power with a voltage divider. I'm not an electrical engineer, but i just decided to just tap into the VIN of the photon. People were telling me not to do that, but it's been working as long as I make sure the ground is not floating around.  </p>
 
 
-       <img class="content-image"  src="../../images/projects/beerbong/ss1.jpg" alt="Jeff" >
+       <img class="content-image"  src="../../images/projects/beerbong/f1.jpg" alt="Jeff" >
 
        <p class="lead"> The only resistors I ended up needing were for the led indicators.   </p>
 
