@@ -5,8 +5,8 @@
     <description>Some description about this nice website.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Feb 2016 23:31:31 -0800</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2016 23:31:31 -0800</lastBuildDate>
+    <pubDate>Sat, 20 Feb 2016 12:38:06 -0800</pubDate>
+    <lastBuildDate>Sat, 20 Feb 2016 12:38:06 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -386,14 +386,17 @@
 
         &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; This is the winning hackathon project that caught the attention of Daimler&#39;s board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to a job at Mercedes. &lt;/i&gt; &lt;/p&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt; The idea &lt;/h1&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Simplifying the driving experience &lt;/h1&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; Mobile payment is all around us. It&#39;s made our lives easier and more secure. Yet when leaving a parking garage or stopping at a toll booth, we&#39;re still wasting time fumbling to make a transaction. That&#39;s why we created BenzPay, because for the Mercedes driver, time is the only currency that matters.  &lt;/p&gt;
+         &lt;p class=&quot;lead&quot;&gt; Lots of technology we take for granted on our phones are not utilized in cars. Mobile payment, for instance, is all around us. It&#39;s made our lives easier and more secure. Yet when leaving a parking garage or stopping at a toll booth, we still waste time and fumble to make a transaction.  &lt;p&gt;
 
           &lt;img class=&quot;content-image&quot; src=&quot;../../images/benzpay.gif&quot; alt=&quot;Jeff&quot; /&gt;
 
-         &lt;h1 class=&quot;title-main-about&quot;&gt; Simplifying the use case &lt;/h1&gt;
-         &lt;p class=&quot;lead&quot;&gt;  For our short demo, we paired down our application until we have three distinct use cases. Speaking to drivers and experts in the industry, it was clear gas and parking were the most popular. However there was no clear contender for the third use case, making it a harder decision. &lt;p&gt;
+           &lt;p class=&quot;lead&quot;&gt;
+          We&#39;re not getting from point A to point B in the most efficient way possible. That&#39;s why we created BenzPay, because for the Mercedes driver, time is the only currency that matters.  &lt;/p&gt;
+
+         &lt;h1 class=&quot;title-main-about&quot;&gt; Boiling down the use case &lt;/h1&gt;
+         &lt;p class=&quot;lead&quot;&gt;  For our short demo, we paired down the concept to three distinct use cases. Speaking to drivers and industry experts, it became clear gas and parking were most popular. However there was no clear contender for the third use case, making it a harder decision. &lt;p&gt;
 
           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
@@ -417,25 +420,38 @@
             Additional features include using gps and bitcoin to complete transactions without the need to stop, or by automatically calculating and paying for the price to fill up at a given gas station. 
             &lt;p&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Designing on car interfaces &lt;/h1&gt;     
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Driver usability: automate transactions &lt;/h1&gt;     
 
         &lt;p class=&quot;lead&quot;&gt;  
         Designing for the car is different than designing for mobile. Unless the driver is parked, most interactions occur without the user&#39;s complete attention. That&#39;s why we made initiating a transaction automatic. All the driver needs to do is confirm the amount alerted to the driver. Bitcoin was the easiest to integrate for our prototype, but we soon discovered the security benefits of using bitcoin.
 
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
+       
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Driver usability: mapping input interaction &lt;/h1&gt;    
         &lt;p class=&quot;lead&quot;&gt;  
-        Additionaly, not all cars (including this c300) support touch input, so there must be a clear hierarchy when navigating through each menu. To increase usability, we disabled left and right toggling on the car&#39;s touchpad, and instead mapped each input to either up, down, enter, and back.
+        A common gripe from c300 owners is that the heads-up display looks like it&#39;s touchscreen but it really isn&#39;t. To avoid this confusion and make event handling more intuitive, I created an interface with a clear hierarchy of menus naviated through a selector. &lt;p&gt;
+
+          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+         &lt;p class=&quot;lead&quot;&gt;
+        Rotating the wheel makes the selector scroll up, down, in and out of the menus depending on the context of the selector. Shifting the wheel left and right toggled the different views such as &quot;payment history,&quot; &quot;payment preferences,&quot; and &quot;nearby transactions.&quot;
         &lt;p&gt;
 
+
+          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/g.gif&quot; alt=&quot;Jeff&quot; /&gt;
        
 
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
       
+
+         &lt;h1 class=&quot;title-main-about&quot;&gt; Driver usability: glanceable interface &lt;/h1&gt;         
         &lt;p class=&quot;lead&quot;&gt;  
-        Ensuring readability also means ensuring it&#39;s an interface easy to glance over.  One example of this can be seen in the payment history view. Only the most relevant information is made visible, while information such as the unique bitcoin address is subdued by default.
+        Varying colors, sizes, and weights were used to distinguish what really matters at a glance vs information important on a closer read. 
         &lt;p&gt;
+
+            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+              &lt;p class=&quot;lead&quot;&gt;  
+                You can see this practice in the payment history view. The first thing the driver sees is the amount paid followed by the vendor name. Detail such as credit card number and bitcoin address is more confidential and signifigantly less visible from a distance.  &lt;p&gt;
 
         &lt;h1 class=&quot;title-main-about&quot;&gt; Demo video &lt;/h1&gt;  
 
@@ -467,7 +483,7 @@
     
   
 
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/BenzPay/</link>
@@ -484,27 +500,50 @@
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row text-left &quot;&gt;
 
+
+
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+
+
+             &lt;h1 class=&quot;title-main-about&quot;&gt; &lt;/h1&gt;
+            &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; People who are really serious about software should make their own hardware. &lt;/i&gt;&lt;/p&gt;
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Wifi Beerbong&lt;/h1&gt;
 
-        &lt;p class=&quot;lead&quot;&gt;Purely for fun project, no explaination needed. Built with particle.io, firebase, node, react. I mostly worked on the hardware. Basically the beer bong contains a flow sensor and a battery powered wifi arduino. When beer is chugged, we send a a post request with a timestamp over to our webapp. Webapp consists of leaderboard, user Id&#39;s done by facebook sdk.  &lt;p&gt;
+        &lt;p class=&quot;lead&quot;&gt; I showed up to Mhacks 6 with a giant briefcase of hardware. It&#39;s really important for me to make things other people haven&#39;t, so whenever I find a novel gadget or sensor, I toss it in my hardware collection. &lt;p&gt;
 
- &lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://github.com/drankadank&quot;&gt; https://github.com/drankadank &lt;/a&gt;&lt;p&gt;
+          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/kit.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+          &lt;p class=&quot;lead&quot;&gt; 
+            I figured it would be fun to fly in a couple days early. It was the first week of classes and I had a couple of friends at the University of Michigan that I wanted to visit. Long story short, there was a block party, a bunch of people were standing on top of my friend&#39;s table and it snapped. &lt;p&gt;
+
+             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/classic.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+            &lt;p class=&quot;lead&quot;&gt; 
+            While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor.....In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories. At that point, it became very clear to me that for Mhacks 6 I was going to make the world&#39;s first wifi enabled beer bong. &lt;p&gt;
+
+
+         
+
+          &lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://github.com/drankadank&quot;&gt; https://github.com/drankadank &lt;/a&gt;&lt;p&gt;
+
+              &lt;h1 class=&quot;title-main-about&quot;&gt;The world&#39;s first wifi enabled beerbong&lt;/h1&gt;
 
 
          &lt;p class=&quot;lead&quot;&gt; Clearly this wasn&#39;t going to be a 1-device-1-user sort of thing, more likely 1-device-1-friend group. A single device had to support multiple users, so it made sense to have a log in feature that integrated well with social media.   &lt;/p&gt;
 
-           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/s2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/f1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
 
 
          &lt;p class=&quot;lead&quot;&gt; The annoying thing with Particle (link) photons is that they run off 3.3v and a lot of sensors run off 5v. Since we were powering the photon with a usb battery pack, the original plan was to use that power with a voltage divider. I&#39;m not an electrical engineer, but i just decided to just tap into the VIN of the photon. People were telling me not to do that, but it&#39;s been working as long as I make sure the ground is not floating around.  &lt;/p&gt;
 
 
-       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/s1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/circuit2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
        &lt;p class=&quot;lead&quot;&gt; The only resistors I ended up needing were for the led indicators.   &lt;/p&gt;
+
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/userfloww.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
 
 
@@ -532,7 +571,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt; --&gt;
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/Wifi-Beerbong/</link>
