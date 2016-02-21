@@ -68,8 +68,7 @@ ul {
 .project-list-item {
   display: inline-block;
   list-style: none;
-  padding: 20px; 
-  padding-top: 0px; 
+  padding: 20px;  
   transition: margin 0.1s ease-in-out;
 }
 
@@ -394,8 +393,13 @@ body .projectSVG {
   .header-text {
 
   padding-top: 0px;
-  margin-top: 0px;
-  
+  margin-top: -10px;
+
+  }
+
+  .project-list-item {
+      padding-top: 10px;
+
   }
 
 
@@ -607,3 +611,4 @@ padding-bottom: 0;
 margin-bottom: 0;
 
 }
+

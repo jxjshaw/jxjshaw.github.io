@@ -5646,7 +5646,6 @@ ul {
   display: inline-block;
   list-style: none;
   padding: 20px;
-  padding-top: 0px;
   transition: margin 0.1s ease-in-out; }
 
 .project-gif {
@@ -5836,7 +5835,10 @@ body .projectSVG {
 
   .header-text {
     padding-top: 0px;
-    margin-top: 0px; } }
+    margin-top: -10px; }
+
+  .project-list-item {
+    padding-top: 10px; } }
 @media screen and (min-width: 800px) {
   .project-col {
     width: 350px;
