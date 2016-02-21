@@ -8,6 +8,7 @@ $(window).load(function()
    //alert("fadeddd");
    //$("#header-row").css("opacity", "1.0");
    $('.loading').css("opacity", "0.0");
+   $('.loading').hide(50);
    $("#project-row").css("opacity", "0.9");
 });
 
