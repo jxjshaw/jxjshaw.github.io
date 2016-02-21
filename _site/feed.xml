@@ -5,8 +5,8 @@
     <description>Some description about this nice website.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Feb 2016 12:38:06 -0800</pubDate>
-    <lastBuildDate>Sat, 20 Feb 2016 12:38:06 -0800</lastBuildDate>
+    <pubDate>Sat, 20 Feb 2016 22:45:46 -0800</pubDate>
+    <lastBuildDate>Sat, 20 Feb 2016 22:45:46 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -434,7 +434,7 @@
 
 
          &lt;p class=&quot;lead&quot;&gt;
-        Rotating the wheel makes the selector scroll up, down, in and out of the menus depending on the context of the selector. Shifting the wheel left and right toggled the different views such as &quot;payment history,&quot; &quot;payment preferences,&quot; and &quot;nearby transactions.&quot;
+        Rotating the wheel makes the selector scroll up, down, in and out of the menus depending on the context of the selector. Shifting the wheel left and right toggles different views like &quot;payment history,&quot; &quot;payment preferences,&quot; and &quot;nearby transactions.&quot;
         &lt;p&gt;
 
 
@@ -445,13 +445,13 @@
 
          &lt;h1 class=&quot;title-main-about&quot;&gt; Driver usability: glanceable interface &lt;/h1&gt;         
         &lt;p class=&quot;lead&quot;&gt;  
-        Varying colors, sizes, and weights were used to distinguish what really matters at a glance vs information important on a closer read. 
+        I used a variation of color, size, and weight to distinguish what really matters at a glance from information important only on a closer read. 
         &lt;p&gt;
 
             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
               &lt;p class=&quot;lead&quot;&gt;  
-                You can see this practice in the payment history view. The first thing the driver sees is the amount paid followed by the vendor name. Detail such as credit card number and bitcoin address is more confidential and signifigantly less visible from a distance.  &lt;p&gt;
+                An example of this can be seen in the payment history view. The first thing the driver sees is the amount paid followed by the vendor name. Details such as credit card number and bitcoin address is more confidential and signifigantly less visible from a distance.  &lt;p&gt;
 
         &lt;h1 class=&quot;title-main-about&quot;&gt; Demo video &lt;/h1&gt;  
 

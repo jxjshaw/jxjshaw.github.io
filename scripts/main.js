@@ -16,3 +16,7 @@ $(window).load(function()
 //         $(".project-gif").css({"opacity":"1.0"});
 //     }
 // );
+
+$(".project-gif").on("tap",function(){
+  $(this).hide();
+});

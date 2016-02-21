@@ -86,8 +86,16 @@ ul {
 
 }
 
+
+
 .project-gif:hover {
   opacity: 1.0;
+
+}
+
+.project-gif:active {
+opacity: 0.75;
+
 
 }
 
@@ -137,6 +145,12 @@ iframe {
   opacity: 0.3;
   letter-spacing: 5.9pt
 }
+
+.header-text:active {
+opacity: 0.75;
+
+}
+
 
 .footer-text {
   font-family: TakeOut;
