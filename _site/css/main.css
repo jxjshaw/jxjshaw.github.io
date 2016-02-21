@@ -5646,7 +5646,8 @@ ul {
   display: inline-block;
   list-style: none;
   padding: 20px;
-  transition: margin 0.1s ease-in-out; }
+  transition: margin 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out; }
 
 .project-gif {
   width: 90px;
@@ -5663,7 +5664,7 @@ ul {
   opacity: 1.0; }
 
 .project-title {
-  margin-top: 10px;
+  margin-top: 0px;
   font-weight: 400;
   letter-spacing: 0.3pt;
   transition: font-weight 0.1s ease;
@@ -5691,6 +5692,7 @@ iframe {
   letter-spacing: 15pt;
   font-size: 2em;
   opacity: 0.85;
+  transition: margin-top 0.8s ease;
   transition: opacity 0.3s ease;
   transition: letter-spacing 0.1s ease; }
 
