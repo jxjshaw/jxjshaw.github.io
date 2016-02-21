@@ -140,6 +140,8 @@ iframe {
 
 
 
+
+
 }
 
 .header-text:active {
@@ -389,9 +391,18 @@ body .projectSVG {
     opacity: 1.0;
   }
 
+  .header-text {
+
+  padding-top: 0px;
+  margin-top: 0px;
+  
+  }
+
 
 
 }
+
+
 
 @media screen and (min-width: 800px) {
   .project-col {
