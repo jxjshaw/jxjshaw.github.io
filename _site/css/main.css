@@ -5656,11 +5656,11 @@ ul {
   opacity: 0.9;
   transition: opacity 0.1s ease; }
 
-.project-gif:hover {
-  opacity: 1.0; }
-
 .project-gif:active {
   opacity: 0.75; }
+
+.project-gif:hover {
+  opacity: 1.0; }
 
 .project-title {
   margin-top: 10px;
@@ -5694,12 +5694,12 @@ iframe {
   transition: opacity 0.3s ease;
   transition: letter-spacing 0.1s ease; }
 
+.header-text:active {
+  opacity: 0.75; }
+
 .header-text:hover {
   opacity: 0.3;
   letter-spacing: 5.9pt; }
-
-.header-text:active {
-  opacity: 0.75; }
 
 .footer-text {
   font-family: TakeOut;

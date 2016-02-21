@@ -17,6 +17,3 @@ $(window).load(function()
 //     }
 // );
 
-$(".project-gif").on("tap",function(){
-  $(this).hide();
-});
