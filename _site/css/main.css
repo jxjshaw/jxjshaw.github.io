@@ -5646,6 +5646,7 @@ ul {
   display: inline-block;
   list-style: none;
   padding: 20px;
+  padding-top: 0px;
   transition: margin 0.1s ease-in-out; }
 
 .project-gif {
