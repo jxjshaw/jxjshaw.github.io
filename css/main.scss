@@ -86,18 +86,18 @@ ul {
 
 }
 
+.project-gif:active {
+opacity: 0.75;
 
+
+}
 
 .project-gif:hover {
   opacity: 1.0;
 
 }
 
-.project-gif:active {
-opacity: 0.75;
 
-
-}
 
 .project-title {
   margin-top: 10px;
@@ -141,15 +141,17 @@ iframe {
 
 }
 
+.header-text:active {
+opacity: 0.75;
+
+}
+
 .header-text:hover {
   opacity: 0.3;
   letter-spacing: 5.9pt
 }
 
-.header-text:active {
-opacity: 0.75;
 
-}
 
 
 .footer-text {
