@@ -373,11 +373,11 @@ body .projectSVG {
 }
 
 #project-row{
-    transition-delay: 0.0s;
+    transition-delay: 0.3s;
 }
 
 #header-row{
-  transition-delay: 0.0s;
+  transition-delay: 0.3s;
 }
 
 
@@ -614,3 +614,14 @@ margin-bottom: 0;
 
 }
 
+.loading-screen {
+  position: fixed;
+  top: 40%;
+  left: 25%;
+  margin-top: -50px;
+  margin-left: -100px;
+  opacity: 1.0;
+  transition: all 0.1s ease;
+
+
+}
