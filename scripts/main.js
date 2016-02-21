@@ -7,7 +7,7 @@ $(window).load(function()
    console.log("fadeddd");
    //alert("fadeddd");
    //$("#header-row").css("opacity", "1.0");
-   $('.loading-screen').css("opacity", "0.0");
+   $('.loading').css("opacity", "0.0");
    $("#project-row").css("opacity", "0.9");
 });
 
