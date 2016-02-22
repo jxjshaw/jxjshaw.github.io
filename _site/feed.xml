@@ -5,8 +5,8 @@
     <description>Some description about this nice website.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Feb 2016 15:42:33 -0800</pubDate>
-    <lastBuildDate>Sun, 21 Feb 2016 15:42:33 -0800</lastBuildDate>
+    <pubDate>Mon, 22 Feb 2016 14:17:26 -0800</pubDate>
+    <lastBuildDate>Mon, 22 Feb 2016 14:17:26 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -291,38 +291,61 @@
 
 
 
-      &lt;h1 class=&quot;title-main-about&quot;&gt;Making College a Safer Space&lt;/h1&gt;
 
-      &lt;p class=&quot;lead&quot;&gt; A key theme at Chimehack was campus safety. It was an issue my teammates and I had all recently witnessed in college, so from the start it was clear this was the problem we wanted to spend our weekend solving. While brainstorming, we thought back on our experiences involving campus safety. &lt;p&gt;
+
+      &lt;h1 class=&quot;title-main-about&quot;&gt;Hacking for change&lt;/h1&gt;
+
+      &lt;p class=&quot;lead&quot;&gt; Campus safety was a key theme at Chimehack. It was an issue my teammates and I had all recently witnessed in college. From the start of the weekend, it was clear this was the problem we wanted to tackle. &lt;p&gt;
 
       &lt;p class=&quot;lead&quot;&gt;
-      Usually when your friend goes missing, they&#39;re not picking up their phone and you don&#39;t know whether or not their phone is dead. They&#39;re probably not in enough danger to call campus safety, but that doesn&#39;t mean you&#39;re not concerned for your friend. &lt;/p&gt;
+       To brainstorm, we thought back to our own encounters with campus safety. Most of the time, it revolved around making sure friends are ok. &lt;p&gt; 
+
+       &lt;h1 class=&quot;title-main-about&quot;&gt;Making College a Safer Space&lt;/h1&gt;
+
+       &lt;p class=&quot;lead&quot;&gt;
+       When your friend goes missing, they&#39;re not picking up their phone and you don&#39;t know whether or not their phone is dead. They&#39;re probably not in enough danger to call campus safety, but that doesn&#39;t mean you&#39;re not concerned for your friend. &lt;/p&gt;
 
       &lt;p class=&quot;lead&quot;&gt; That&#39;s why we built an iOS app called asOne. It&#39;s a better way to communicate in groups when going out. Instead of annoying group messages, we create temporary friend groups that shares information about each member&#39;s location, battery level, and the time they want to go home. &lt;/p&gt;
 
 
       &lt;h1 class=&quot;title-main-about&quot;&gt;An entire iOS app in 48 hours&lt;/h1&gt;   
-       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/asonef.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+      
 
-      &lt;p class=&quot;lead&quot;&gt; Because we had 48 hours to build everything, I had about 12 hours to work through the user flow and freeze visual design. We formed teams friday night. I spent the next morning designing and going through tough choices with my teammates, and exported the assets a little after lunch. What follows is a run through some choices I made.&lt;/p&gt;
+      &lt;p class=&quot;lead&quot;&gt; Our team had 48 hours, 4 engineers, and 1 designer. We formed teams friday night, and I had the next 12 hours to work out the user flow, freeze the wireframes, and export the assets. I spent the rest of saturday designing our logo, making incode changes, and prepping for the demo. &lt;p&gt;
+
+  
+
+          &lt;h1 class=&quot;title-main-about&quot;&gt;An entire iOS app in 48 hours&lt;/h1&gt;  
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/asonef.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
      
 
        &lt;h1 class=&quot;title-main-about&quot;&gt;Onboarding and privacy concerns&lt;/h1&gt;   
 
-      &lt;p class=&quot;lead&quot;&gt; Usability and the onboarding process was a key concern for me. Nobody was going to use our app, and nobody was going to use our app when they really needed to, if it was hard to sign up, log in, and begin seeing the value we provide. Because we were at twitter, we received a lot of feedback about the challenges when creating a product that only works when many users choose to engage. &lt;p&gt;
+      &lt;p class=&quot;lead&quot;&gt; Usability and the onboarding process was a key concern for me. Nobody was going to use our app when they really needed to, if it was hard to sign up, log in, and begin seeing the value we provide. Because we were at twitter, we received a lot of feedback about the challenges when creating a product that only works when many users choose to engage. &lt;p&gt;
 
          &lt;p class=&quot;lead&quot;&gt; With that in mind, it became clear to me that we weren&#39;t here to build a social media app. Having a social network was only the means to our goal. The only thing we came here to do was make it easier for college students to look after their friends. We didn&#39;t need to create our own user id system, we can just use the facebook SDK. The main drawback to this solution was issues of privacy. Our remedy was a system where the group you formed only lasts until the next morning; to use the app again, you must reform a group. To minimize friction in this process, we included recent and nearby friends at the top.&lt;p&gt;
 
-         &lt;h1 class=&quot;title-main-about&quot;&gt;Style&lt;/h1&gt;   
-        &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a6.png&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;p class=&quot;lead&quot;&gt; Inclusiveness was a major theme throughout both Chimehack and the mission our technology. To convey this sense of passion and inclusion, I went with an intertwined heart with warm blends. Another goal of mine was to make something useful for a diverse demographic - not just urban techies surfing producthunt. One effort to make sure we didn&#39;t attract the traditional SF user base was to make the app look less stereotypical, hence the granjon/roman typeface that you may recognise when walking around a mall...&lt;/p&gt;   
+         &lt;h1 class=&quot;title-main-about&quot;&gt;The color of friendship&lt;/h1&gt;   
+        
+        &lt;p class=&quot;lead&quot;&gt; Inclusiveness was a major theme throughout both Chimehack and the mission our technology. Using our app is essentially making a pact within your friends. To turn this feeling of warmth, unity, and trust into this sort of emblem, I designed a logo with a symmetrical heart pattern and warm blending. &lt;p&gt;
+
+          &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a6.png&quot; alt=&quot;Jeff&quot; /&gt;
+
+        &lt;p class=&quot;lead&quot;&gt;
+         The rest of the views following the splash screen are functional realizations of this feeling that you&#39;re around you&#39;re closest friends. So it was natural to extend these intense and intimate colors through the entire interaction. &lt;/p&gt;   
 
 
        
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Resting view&lt;/h1&gt;   
-        &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a1.png&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;p class=&quot;lead&quot;&gt;  The resting screen makes it easy to check up on your friends periodically. When designing this view, I thought back to all the things I can&#39;t do just by calling each individual in my group. 
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Picking up where phones left off&lt;/h1&gt;   
+        
+        &lt;p class=&quot;lead&quot;&gt;  The resting screen is our main view. It&#39;s the dashboard that is designed to replace the logistical hassle of a group message. The resting screen makes it easy to check up on your friends periodically. Without any engagement from the user, the dashboard automatically displays information we&#39;re able to natively access from each friend&#39;s phone. &lt;p&gt;
+
+          &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a1.png&quot; alt=&quot;Jeff&quot; /&gt;
+
+            &lt;p class=&quot;lead&quot;&gt;
+
+          When designing this view, I thought back to all the things I can&#39;t do just by calling each individual in my group. 
 
           &lt;p class=&quot;lead&quot;&gt;
 
@@ -345,12 +368,12 @@
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Details view&lt;/h1&gt;  
         &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a5.png&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;p class=&quot;lead&quot;&gt; Usually when everyone&#39;s ready to go home, there&#39;s that one person that nobody can find. So we created a detail view as an extension to the group view. Tapping on your friend brings you to more actions such as sending a push notification and enabling audio. Additionally we automatically set the true north of the inline map to that of the friend. &lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; Usually when everyone&#39;s ready to go home, there&#39;s that one person that nobody can find. So we created a detail view as an extension to the group view. Tapping on your friend brings you to more actions such as sending a push notification and enabling audio. Additionally we automatically set the true north of the inline map to that of the selected friend. &lt;/p&gt;
        &lt;!--  &lt;img class=&quot;content-image-vertical&quot;  src=&quot;../../images/asone.gif&quot; alt=&quot;Jeff&quot; &gt;    --&gt;
 
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Conclusion&lt;/h1&gt;
-        &lt;p class=&quot;lead&quot;&gt; We built this app because this was a tool missing from our everyday lives, and for the rest of the summer we would often use it as a tool to ping and find eachother. Since then, Apple released a standalone friend finder, and we also saw an app named Companion gain popularity around college campuses. &lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; We built this app because this was a tool missing from our everyday lives, and for the rest of the summer we would often use it as a tool to ping and find eachother. Since then, similar apps such as Friend Finder and Companion have made their way into the market. &lt;/p&gt;
 
         &lt;p class=&quot;lead&quot;&gt; In retrospect, the technology wasn&#39;t earth shattering, but this is a great example of how fast a talented team can work decisively when there is good chemistry. In one weekend, we shipped a product that would take a company at least half a year to assemble.&lt;/p&gt;
 
@@ -364,7 +387,7 @@
         
       
     
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 01 Jan 2006 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/As-One/</link>
@@ -390,7 +413,7 @@
 
          &lt;p class=&quot;lead&quot;&gt; Lots of technology we take for granted on our phones are not utilized in cars. Mobile payment, for instance, is all around us. It&#39;s made our lives easier and more secure. Yet when leaving a parking garage or stopping at a toll booth, we still waste time and fumble to make a transaction.  &lt;p&gt;
 
-          &lt;img class=&quot;content-image&quot; src=&quot;../../images/benzpay.gif&quot; alt=&quot;Jeff&quot; /&gt;
+          
 
            &lt;p class=&quot;lead&quot;&gt;
           We&#39;re not getting from point A to point B in the most efficient way possible. That&#39;s why we created BenzPay, because for the Mercedes driver, time is the only currency that matters.  &lt;/p&gt;
@@ -420,10 +443,18 @@
             Additional features include using gps and bitcoin to complete transactions without the need to stop, or by automatically calculating and paying for the price to fill up at a given gas station. 
             &lt;p&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Driver usability: automate transactions &lt;/h1&gt;     
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Driver usability: streamlining transaction process &lt;/h1&gt;     
 
         &lt;p class=&quot;lead&quot;&gt;  
-        Designing for the car is different than designing for mobile. Unless the driver is parked, most interactions occur without the user&#39;s complete attention. That&#39;s why we made initiating a transaction automatic. All the driver needs to do is confirm the amount alerted to the driver. Bitcoin was the easiest to integrate for our prototype, but we soon discovered the security benefits of using bitcoin.
+        Designing for the car is different than designing for mobile. Unless the driver is parked, most interactions occur without the user&#39;s complete attention. To make this payment process smarter, payments are automatically initiated based on the driver&#39;s location. Prices are also automatically settled - for example, the price to fill up = ((tankSize - (tankSize * %full)) + (stationDist / mpg ) * gasPrice)  &lt;p&gt;
+
+         &lt;p class=&quot;lead&quot;&gt; 
+        All the driver needs to do is confirm the transaction with a click of a button. &lt;p&gt;
+
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/benzpay.gif&quot; alt=&quot;Jeff&quot; /&gt;
+
+        &lt;p class=&quot;lead&quot;&gt; 
+        Bitcoin was the easiest to integrate for our prototype, but we soon discovered the security benefits of using bitcoin. &lt;p&gt;
 
        
         &lt;h1 class=&quot;title-main-about&quot;&gt; Driver usability: mapping input interaction &lt;/h1&gt;    
@@ -483,7 +514,7 @@
     
   
 
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/BenzPay/</link>
@@ -498,80 +529,102 @@
         <title> </title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
-    &lt;div class=&quot;row text-left &quot;&gt;
+    &lt;div class=&quot;row text-left&quot;&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+      &lt;h1 class=&quot;title-main-about&quot;&gt; &lt;/h1&gt;
 
+      &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Over the summer, I went to Chimehack2 with a few friends. It was a hackathon hosted by Twitter to promote hacking for change. &lt;/i&gt; &lt;/p&gt;
 
-
-      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-
-
-             &lt;h1 class=&quot;title-main-about&quot;&gt; &lt;/h1&gt;
-            &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; People who are really serious about software should make their own hardware. &lt;/i&gt;&lt;/p&gt;
-
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Wifi Beerbong&lt;/h1&gt;
-
-        &lt;p class=&quot;lead&quot;&gt; I showed up to Mhacks 6 with a giant briefcase of hardware. It&#39;s really important for me to make things other people haven&#39;t, so whenever I find a novel gadget or sensor, I toss it in my hardware collection. &lt;p&gt;
-
-          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/kit.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-          &lt;p class=&quot;lead&quot;&gt; 
-            I figured it would be fun to fly in a couple days early. It was the first week of classes and I had a couple of friends at the University of Michigan that I wanted to visit. Long story short, there was a block party, a bunch of people were standing on top of my friend&#39;s table and it snapped. &lt;p&gt;
-
-             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/classic.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-            &lt;p class=&quot;lead&quot;&gt; 
-            While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor.....In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories. At that point, it became very clear to me that for Mhacks 6 I was going to make the world&#39;s first wifi enabled beer bong. &lt;p&gt;
-
-
-         
-
-          &lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://github.com/drankadank&quot;&gt; https://github.com/drankadank &lt;/a&gt;&lt;p&gt;
-
-              &lt;h1 class=&quot;title-main-about&quot;&gt;The world&#39;s first wifi enabled beerbong&lt;/h1&gt;
-
-
-         &lt;p class=&quot;lead&quot;&gt; Clearly this wasn&#39;t going to be a 1-device-1-user sort of thing, more likely 1-device-1-friend group. A single device had to support multiple users, so it made sense to have a log in feature that integrated well with social media.   &lt;/p&gt;
-
-           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/f1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-
-
-         &lt;p class=&quot;lead&quot;&gt; The annoying thing with Particle (link) photons is that they run off 3.3v and a lot of sensors run off 5v. Since we were powering the photon with a usb battery pack, the original plan was to use that power with a voltage divider. I&#39;m not an electrical engineer, but i just decided to just tap into the VIN of the photon. People were telling me not to do that, but it&#39;s been working as long as I make sure the ground is not floating around.  &lt;/p&gt;
-
-
-       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/circuit2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-       &lt;p class=&quot;lead&quot;&gt; The only resistors I ended up needing were for the led indicators.   &lt;/p&gt;
-
-       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/userfloww.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+      
 
 
 
 
+      &lt;h1 class=&quot;title-main-about&quot;&gt;Making College a Safer Space&lt;/h1&gt;
 
+      &lt;p class=&quot;lead&quot;&gt; A key theme at Chimehack was campus safety. It was an issue my teammates and I had all recently witnessed in college, so from the start it was clear this was the problem we wanted to spend our weekend solving. While brainstorming, we thought back on our experiences involving campus safety. &lt;p&gt;
+
+      &lt;p class=&quot;lead&quot;&gt;
+      Usually when your friend goes missing, they&#39;re not picking up their phone and you don&#39;t know whether or not their phone is dead. They&#39;re probably not in enough danger to call campus safety, but that doesn&#39;t mean you&#39;re not concerned for your friend. &lt;/p&gt;
+
+      &lt;p class=&quot;lead&quot;&gt; That&#39;s why we built an iOS app called asOne. It&#39;s a better way to communicate in groups when going out. Instead of annoying group messages, we create temporary friend groups that shares information about each member&#39;s location, battery level, and the time they want to go home. &lt;/p&gt;
+
+
+      &lt;h1 class=&quot;title-main-about&quot;&gt;An entire iOS app in 48 hours&lt;/h1&gt;   
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/asonef.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+      &lt;p class=&quot;lead&quot;&gt; Because we had 48 hours to build everything, I had about 12 hours to work through the user flow and freeze visual design. We formed teams friday night. I spent the next morning designing and going through tough choices with my teammates, and exported the assets a little after lunch. What follows is a run through some choices I made.&lt;/p&gt;
+
+     
+
+       &lt;h1 class=&quot;title-main-about&quot;&gt;Onboarding and privacy concerns&lt;/h1&gt;   
+
+      &lt;p class=&quot;lead&quot;&gt; Usability and the onboarding process was a key concern for me. Nobody was going to use our app, and nobody was going to use our app when they really needed to, if it was hard to sign up, log in, and begin seeing the value we provide. Because we were at twitter, we received a lot of feedback about the challenges when creating a product that only works when many users choose to engage. &lt;p&gt;
+
+         &lt;p class=&quot;lead&quot;&gt; With that in mind, it became clear to me that we weren&#39;t here to build a social media app. Having a social network was only the means to our goal. The only thing we came here to do was make it easier for college students to look after their friends. We didn&#39;t need to create our own user id system, we can just use the facebook SDK. The main drawback to this solution was issues of privacy. Our remedy was a system where the group you formed only lasts until the next morning; to use the app again, you must reform a group. To minimize friction in this process, we included recent and nearby friends at the top.&lt;p&gt;
+
+         &lt;h1 class=&quot;title-main-about&quot;&gt;The color of friendship&lt;/h1&gt;   
+        
+        &lt;p class=&quot;lead&quot;&gt; Inclusiveness was a major theme throughout both Chimehack and the mission our technology. Using our app is essentially making a pact within your friend circle. To turn this feeling of warmth, unity, and trust into this sort of emblem, I designed a logo with a symmetrical heart pattern and warm blending. &lt;p&gt;
+
+          &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a6.png&quot; alt=&quot;Jeff&quot; /&gt;
+
+        &lt;p class=&quot;lead&quot;&gt;
+         The rest of the views following the splash screen are functional realizations of this feeling that you&#39;re around you&#39;re closest friends. So it was natural to extend these intense and intimate colors through the entire interaction. &lt;/p&gt;   
+
+
+       
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Picking up where phones left off&lt;/h1&gt;   
+        
+        &lt;p class=&quot;lead&quot;&gt;  The resting screen is our main view. It&#39;s the dashboard that is designed to replace the use of group messages when you&#39;re out at a bar with your friends. The resting screen makes it easy to check up on your friends periodically without their active attention. &lt;p&gt;
+
+          &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a1.png&quot; alt=&quot;Jeff&quot; /&gt;
+
+            &lt;p class=&quot;lead&quot;&gt;
+
+          When designing this view, I thought back to all the things I can&#39;t do just by calling each individual in my group. 
+
+          &lt;p class=&quot;lead&quot;&gt;
+
+          1. Assuming my friends pick up, I probably won&#39;t be able to hear them speak well, so the first thing I want is an easy way to get exactly a status update. &lt;p&gt;
+
+          &lt;p class=&quot;lead&quot;&gt;
+          
+          2. An easy way to glance over all my group members at once so I don&#39;t have to call each of them individually. &lt;p&gt;
+
+          &lt;p class=&quot;lead&quot;&gt;
+
+          3. They&#39;re probably not all going to pickup anyways, so I&#39;d rather just look at where they are on a map. &lt;p&gt;
+
+          &lt;p class=&quot;lead&quot;&gt;
+
+          4. If I can&#39;t look at where they are that means their battery is probably dead - so I want to be able to see what their battery status is.&lt;p&gt;
+
+        &lt;/p&gt;   
+
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Details view&lt;/h1&gt;  
+        &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a5.png&quot; alt=&quot;Jeff&quot; /&gt;
+        &lt;p class=&quot;lead&quot;&gt; Usually when everyone&#39;s ready to go home, there&#39;s that one person that nobody can find. So we created a detail view as an extension to the group view. Tapping on your friend brings you to more actions such as sending a push notification and enabling audio. Additionally we automatically set the true north of the inline map to that of the friend. &lt;/p&gt;
+       &lt;!--  &lt;img class=&quot;content-image-vertical&quot;  src=&quot;../../images/asone.gif&quot; alt=&quot;Jeff&quot; &gt;    --&gt;
+
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Conclusion&lt;/h1&gt;
+        &lt;p class=&quot;lead&quot;&gt; We built this app because this was a tool missing from our everyday lives, and for the rest of the summer we would often use it as a tool to ping and find eachother. Since then, similar apps such as Friend Finder and Companion have made their way into the market. &lt;/p&gt;
+
+        &lt;p class=&quot;lead&quot;&gt; In retrospect, the technology wasn&#39;t earth shattering, but this is a great example of how fast a talented team can work decisively when there is good chemistry. In one weekend, we shipped a product that would take a company at least half a year to assemble.&lt;/p&gt;
+
+        
+        &lt;h1 class=&quot;title-main-about&quot;&gt;More about Chimehack&lt;/h1&gt;
+        &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+        &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/86ECVBcPWcg&quot;&gt;&lt;/iframe&gt;
+      &lt;/div&gt;
+        
 
         
       
     
-  
-
-&lt;!--   &lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row text-center&quot;&gt;
-   &lt;div class=&quot;description&quot;&gt; 
-    &lt;div class=&quot;tagline&quot;&gt; 
-      
-         
-          &lt;p class=&quot;lead&quot;&gt; 
-         We short circuited everything on our first test. Luckily I had a seconded particle photon with me. Made sure our enclosure was waterproof.
-        &lt;/p&gt;
-
-           &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/beerbong/a1.gif&quot; alt=&quot;Jeff&quot; &gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt; --&gt;
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/Wifi-Beerbong/</link>
