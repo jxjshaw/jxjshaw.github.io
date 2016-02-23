@@ -5,8 +5,8 @@
     <description>Some description about this nice website.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Feb 2016 14:17:26 -0800</pubDate>
-    <lastBuildDate>Mon, 22 Feb 2016 14:17:26 -0800</lastBuildDate>
+    <pubDate>Mon, 22 Feb 2016 17:28:46 -0800</pubDate>
+    <lastBuildDate>Mon, 22 Feb 2016 17:28:46 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -71,8 +71,10 @@
                At the same time, I started designing and developing the GUI that I eventually hooked up to my voice interface and loaded onto the car&#39;s linux machine. The nice thing about cars is that people are in a nice private space that is acoustically absorbent. As you might know, people are more comfortable speaking and singing out loud when in a car. 
                &lt;p&gt;
 
+
+                 &lt;h1 class=&quot;title-main-about&quot;&gt;Relevant design meme&lt;/h1&gt;
                 &lt;p class=&quot;lead-center&quot;&gt; 
-                &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mercedes/meme.jpg&quot; alt=&quot;Jeff&quot; /&gt; * relevant design meme *&lt;p&gt;
+                &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mercedes/meme.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;p&gt;
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Takeaways&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt;
@@ -164,12 +166,14 @@
 
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ca4.png&quot; alt=&quot;Jeff&quot; /&gt;
 
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/cad2.png&quot; alt=&quot;Jeff&quot; /&gt;
+
           &lt;p class=&quot;lead&quot;&gt;  For our prototypes, we 3d printed our own enclosures. Small vents allowed for passive air diffusion. This worked well when the device just sat around to collect gradual changes. For demo purposes and with certain gases requiring faster readings, we learned that sometimes active intake was more ideal.   &lt;p&gt;           
 
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/h3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
          &lt;p class=&quot;lead&quot;&gt; 
-        Unlike competitors, we wanted our device to have (1) better integration with appliances and (2) better integration with user lifestyle. The first step to smart home integration was creating our own REST API that other devices and appliances could read. (After setting up our device at a few schools, we learned that it was very difficult to connect our devices to the different wifi networks found in schools and businesses.) To meet our second goal we needed a portable device that was small enough to carry and powered by a battery. We couldn&#39;t create a device that just plugged into the wall and sat by the nightstand all day. When I was testing our first device, it was so much fun carrying it around and seeing with my own eyes how the gases in my environment would change wherever I went. 
+        Unlike competitors, we wanted our device to have (1) better integration with appliances and (2) better integration with user lifestyle. The first step to smart home integration was creating our own REST API that other devices and appliances could read. &lt;br /&gt; To meet our second goal we needed a portable device that was small enough to carry and powered by a battery. We couldn&#39;t create a device that just plugged into the wall and sat by the nightstand all day. When I was testing our first device, it was so much fun carrying it around and seeing with my own eyes how the gases in my environment would change wherever I went. 
         &lt;p&gt;
         
 
@@ -188,9 +192,20 @@
 
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/dd1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
+         &lt;h1 class=&quot;title-main-about&quot;&gt;Part 3: field testing&lt;/h1&gt;
         
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/field.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Part 3: the service&lt;/h1&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Part 3: installing our devices in schools&lt;/h1&gt;
+
+         &lt;p class=&quot;lead&quot;&gt; 
+        After testing in different homes and installing our device at a few schools, we ran into many unforseen obstacles. School and offices often have secured wifi networks that are hard for our device to connect with.
+         &lt;/p&gt; 
+
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/schoool.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Part 4: results&lt;/h1&gt;
          &lt;p class=&quot;lead&quot;&gt; Demonstrating increased health hazard around heavy traffic &lt;/p&gt;
 
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss1.png&quot; alt=&quot;Jeff&quot; /&gt;
@@ -426,12 +441,31 @@
           &lt;p class=&quot;lead&quot;&gt;
           Not everyone was a fan of going with &quot;events&quot; instead of &quot;tollbooth&quot; but here is my reasoning:
 
-          &lt;ol type=&quot;1&quot;&gt;
-          &lt;li&gt;Payment sollutions for tollbooths already exist &lt;/li&gt;
-          &lt;li&gt;I want to appeal to the emotional side of our product. It&#39;s one thing to make your life easier, it&#39;s another to make it more interesting.  &lt;/li&gt;
-          &lt;li&gt;Quick to implement, completing transactions on ticketmaster or eventbrite requires no additional hardware or data collection - unlike support for parking meters, gas pumps, or toll booths. &lt;/li&gt;
-          &lt;/ol&gt;
-           &lt;/p&gt;
+      
+
+
+
+                &lt;ul&gt;
+                
+                 
+                   &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; &lt;i&gt; &lt;b&gt;
+                    Payment sollutions for tollbooths already exist 
+                   &lt;/b&gt;&lt;/i&gt;
+
+                  &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; &lt;i&gt; &lt;b&gt; I want to appeal to the emotional side of our product. It&#39;s one thing to make your life easier, it&#39;s another to make it more interesting.&lt;/b&gt;&lt;/i&gt;
+
+                  &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; &lt;i&gt; &lt;b&gt;
+                    Quick to implement, completing transactions on ticketmaster or eventbrite requires no additional hardware or data collection - unlike support for parking meters, gas pumps, or toll booths.
+                  &lt;/b&gt;&lt;/i&gt;&lt;p&gt; 
+
+                  
+
+
+
+
+
+                
+                &lt;p&gt;
 
 
        
@@ -514,7 +548,7 @@
     
   
 
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/BenzPay/</link>
@@ -529,102 +563,80 @@
         <title> </title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
-    &lt;div class=&quot;row text-left&quot;&gt;
-&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-      &lt;h1 class=&quot;title-main-about&quot;&gt; &lt;/h1&gt;
-
-      &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Over the summer, I went to Chimehack2 with a few friends. It was a hackathon hosted by Twitter to promote hacking for change. &lt;/i&gt; &lt;/p&gt;
-
-      
+    &lt;div class=&quot;row text-left &quot;&gt;
 
 
 
-
-      &lt;h1 class=&quot;title-main-about&quot;&gt;Making College a Safer Space&lt;/h1&gt;
-
-      &lt;p class=&quot;lead&quot;&gt; A key theme at Chimehack was campus safety. It was an issue my teammates and I had all recently witnessed in college, so from the start it was clear this was the problem we wanted to spend our weekend solving. While brainstorming, we thought back on our experiences involving campus safety. &lt;p&gt;
-
-      &lt;p class=&quot;lead&quot;&gt;
-      Usually when your friend goes missing, they&#39;re not picking up their phone and you don&#39;t know whether or not their phone is dead. They&#39;re probably not in enough danger to call campus safety, but that doesn&#39;t mean you&#39;re not concerned for your friend. &lt;/p&gt;
-
-      &lt;p class=&quot;lead&quot;&gt; That&#39;s why we built an iOS app called asOne. It&#39;s a better way to communicate in groups when going out. Instead of annoying group messages, we create temporary friend groups that shares information about each member&#39;s location, battery level, and the time they want to go home. &lt;/p&gt;
+      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
 
 
-      &lt;h1 class=&quot;title-main-about&quot;&gt;An entire iOS app in 48 hours&lt;/h1&gt;   
-       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/asonef.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+             &lt;h1 class=&quot;title-main-about&quot;&gt; &lt;/h1&gt;
+            &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; People who are really serious about software should make their own hardware. &lt;/i&gt;&lt;/p&gt;
 
-      &lt;p class=&quot;lead&quot;&gt; Because we had 48 hours to build everything, I had about 12 hours to work through the user flow and freeze visual design. We formed teams friday night. I spent the next morning designing and going through tough choices with my teammates, and exported the assets a little after lunch. What follows is a run through some choices I made.&lt;/p&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Wifi Beerbong&lt;/h1&gt;
 
-     
+        &lt;p class=&quot;lead&quot;&gt; I showed up to Mhacks 6 with a giant briefcase of hardware. It&#39;s really important for me to make things other people haven&#39;t, so whenever I find a novel gadget or sensor, I toss it in my hardware collection. &lt;p&gt;
 
-       &lt;h1 class=&quot;title-main-about&quot;&gt;Onboarding and privacy concerns&lt;/h1&gt;   
+          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/kit.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-      &lt;p class=&quot;lead&quot;&gt; Usability and the onboarding process was a key concern for me. Nobody was going to use our app, and nobody was going to use our app when they really needed to, if it was hard to sign up, log in, and begin seeing the value we provide. Because we were at twitter, we received a lot of feedback about the challenges when creating a product that only works when many users choose to engage. &lt;p&gt;
+          &lt;p class=&quot;lead&quot;&gt; 
+            I figured it would be fun to fly in a couple days early. It was the first week of classes and I had a couple of friends at the University of Michigan that I wanted to visit. Long story short, there was a block party, a bunch of people were standing on top of my friend&#39;s table and it snapped. &lt;p&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; With that in mind, it became clear to me that we weren&#39;t here to build a social media app. Having a social network was only the means to our goal. The only thing we came here to do was make it easier for college students to look after their friends. We didn&#39;t need to create our own user id system, we can just use the facebook SDK. The main drawback to this solution was issues of privacy. Our remedy was a system where the group you formed only lasts until the next morning; to use the app again, you must reform a group. To minimize friction in this process, we included recent and nearby friends at the top.&lt;p&gt;
+             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/classic.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-         &lt;h1 class=&quot;title-main-about&quot;&gt;The color of friendship&lt;/h1&gt;   
-        
-        &lt;p class=&quot;lead&quot;&gt; Inclusiveness was a major theme throughout both Chimehack and the mission our technology. Using our app is essentially making a pact within your friend circle. To turn this feeling of warmth, unity, and trust into this sort of emblem, I designed a logo with a symmetrical heart pattern and warm blending. &lt;p&gt;
-
-          &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a6.png&quot; alt=&quot;Jeff&quot; /&gt;
-
-        &lt;p class=&quot;lead&quot;&gt;
-         The rest of the views following the splash screen are functional realizations of this feeling that you&#39;re around you&#39;re closest friends. So it was natural to extend these intense and intimate colors through the entire interaction. &lt;/p&gt;   
+            &lt;p class=&quot;lead&quot;&gt; 
+            While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor.....In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories. At that point, it became very clear to me that for Mhacks 6 I was going to make the world&#39;s first wifi enabled beer bong. &lt;p&gt;
 
 
-       
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Picking up where phones left off&lt;/h1&gt;   
-        
-        &lt;p class=&quot;lead&quot;&gt;  The resting screen is our main view. It&#39;s the dashboard that is designed to replace the use of group messages when you&#39;re out at a bar with your friends. The resting screen makes it easy to check up on your friends periodically without their active attention. &lt;p&gt;
+         
 
-          &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a1.png&quot; alt=&quot;Jeff&quot; /&gt;
+          &lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://github.com/drankadank&quot;&gt; https://github.com/drankadank &lt;/a&gt;&lt;p&gt;
 
-            &lt;p class=&quot;lead&quot;&gt;
-
-          When designing this view, I thought back to all the things I can&#39;t do just by calling each individual in my group. 
-
-          &lt;p class=&quot;lead&quot;&gt;
-
-          1. Assuming my friends pick up, I probably won&#39;t be able to hear them speak well, so the first thing I want is an easy way to get exactly a status update. &lt;p&gt;
-
-          &lt;p class=&quot;lead&quot;&gt;
-          
-          2. An easy way to glance over all my group members at once so I don&#39;t have to call each of them individually. &lt;p&gt;
-
-          &lt;p class=&quot;lead&quot;&gt;
-
-          3. They&#39;re probably not all going to pickup anyways, so I&#39;d rather just look at where they are on a map. &lt;p&gt;
-
-          &lt;p class=&quot;lead&quot;&gt;
-
-          4. If I can&#39;t look at where they are that means their battery is probably dead - so I want to be able to see what their battery status is.&lt;p&gt;
-
-        &lt;/p&gt;   
+              &lt;h1 class=&quot;title-main-about&quot;&gt;The world&#39;s first wifi enabled beerbong&lt;/h1&gt;
 
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Details view&lt;/h1&gt;  
-        &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a5.png&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;p class=&quot;lead&quot;&gt; Usually when everyone&#39;s ready to go home, there&#39;s that one person that nobody can find. So we created a detail view as an extension to the group view. Tapping on your friend brings you to more actions such as sending a push notification and enabling audio. Additionally we automatically set the true north of the inline map to that of the friend. &lt;/p&gt;
-       &lt;!--  &lt;img class=&quot;content-image-vertical&quot;  src=&quot;../../images/asone.gif&quot; alt=&quot;Jeff&quot; &gt;    --&gt;
+         &lt;p class=&quot;lead&quot;&gt; Clearly this wasn&#39;t going to be a 1-device-1-user sort of thing, more likely 1-device-1-friend group. A single device had to support multiple users, so it made sense to have a log in feature that integrated well with social media.   &lt;/p&gt;
+
+           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/f1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Conclusion&lt;/h1&gt;
-        &lt;p class=&quot;lead&quot;&gt; We built this app because this was a tool missing from our everyday lives, and for the rest of the summer we would often use it as a tool to ping and find eachother. Since then, similar apps such as Friend Finder and Companion have made their way into the market. &lt;/p&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; In retrospect, the technology wasn&#39;t earth shattering, but this is a great example of how fast a talented team can work decisively when there is good chemistry. In one weekend, we shipped a product that would take a company at least half a year to assemble.&lt;/p&gt;
+         &lt;p class=&quot;lead&quot;&gt; The annoying thing with Particle (link) photons is that they run off 3.3v and a lot of sensors run off 5v. Since we were powering the photon with a usb battery pack, the original plan was to use that power with a voltage divider. I&#39;m not an electrical engineer, but i just decided to just tap into the VIN of the photon. People were telling me not to do that, but it&#39;s been working as long as I make sure the ground is not floating around.  &lt;/p&gt;
 
-        
-        &lt;h1 class=&quot;title-main-about&quot;&gt;More about Chimehack&lt;/h1&gt;
-        &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-        &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/86ECVBcPWcg&quot;&gt;&lt;/iframe&gt;
-      &lt;/div&gt;
-        
+
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/circuit2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+       &lt;p class=&quot;lead&quot;&gt; The only resistors I ended up needing were for the led indicators.   &lt;/p&gt;
+
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/userfloww.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+
+
+
 
         
       
     
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+
+&lt;!--   &lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row text-center&quot;&gt;
+   &lt;div class=&quot;description&quot;&gt; 
+    &lt;div class=&quot;tagline&quot;&gt; 
+      
+         
+          &lt;p class=&quot;lead&quot;&gt; 
+         We short circuited everything on our first test. Luckily I had a seconded particle photon with me. Made sure our enclosure was waterproof.
+        &lt;/p&gt;
+
+           &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/beerbong/a1.gif&quot; alt=&quot;Jeff&quot; &gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt; --&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/Wifi-Beerbong/</link>
