@@ -18,6 +18,12 @@ $(window).load(function()
 });
 
 
+$('A[rel="external"]')
+.click( function() {
+window.open( $(this).attr('href') );
+return false;
+});
+
 
 
 // $('.project-gif').hover(

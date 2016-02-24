@@ -5,8 +5,8 @@
     <description>Some description about this nice website.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Feb 2016 01:34:44 -0800</pubDate>
-    <lastBuildDate>Wed, 24 Feb 2016 01:34:44 -0800</lastBuildDate>
+    <pubDate>Wed, 24 Feb 2016 13:47:53 -0800</pubDate>
+    <lastBuildDate>Wed, 24 Feb 2016 13:47:53 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -82,7 +82,7 @@
                 &lt;p&gt;
 
                 &lt;p class=&quot;lead&quot;&gt;
-                &lt;b&gt;There&#39;s nothing wrong with artificial intelligence being artificial&lt;/b&gt;. And we ourselves rely on this phenomenon all the time - like when you interview, or when your when someone asks you for advice (kidding). Realizing this was a milestone in my jedi journey as a designer that codes (basically coding = the dark side; solving abstract problems becomes tempting as your powers grow but designers maintain order by using our judgement aka the force to create things people actually care about).
+                &lt;b&gt;There&#39;s nothing wrong with artificial intelligence being artificial&lt;/b&gt;. And we ourselves rely on this phenomenon all the time - for instance during interviews, or when someone asks you for advice (kidding). Realizing this was a milestone in my jedi journey as a designer that codes (basically for many reasons coding = the dark side).
                 &lt;p&gt; 
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Related projects&lt;/h1&gt;
@@ -148,7 +148,7 @@
 
                   &lt;p class=&quot;lead&quot;&gt; &lt;/p&gt;
 
-                     &lt;p class=&quot;lead&quot;&gt; What&#39;s going on? How did I get here? What&#39;s the plastic box that I have in my mhand?&lt;/p&gt;
+                     &lt;p class=&quot;lead&quot;&gt; What&#39;s going on? How did I get here? What&#39;s the plastic box that I have in my hand?&lt;/p&gt;
 
           &lt;h1 class=&quot;title-main-about&quot;&gt; *BEGIN FLASHBACK*&lt;/h1&gt;
         
@@ -184,7 +184,7 @@
 
           &lt;h1 class=&quot;title-main-about&quot;&gt;Designing a functional enclosure&lt;/h1&gt;
 
-              &lt;p class=&quot;lead&quot;&gt;  We couldn&#39;t afford to pay a hundred grand for an industrial designer, so we designed and 3d printed our own enclosures. &lt;p&gt;
+              &lt;p class=&quot;lead&quot;&gt;  Most startups hire an industrial design firm, but we&#39;re a little more scrappy than that so we designed and 3d printed our own enclosures. &lt;p&gt;
 
               
 
@@ -254,6 +254,13 @@
         
 
           &lt;h1 class=&quot;title-main-about&quot;&gt;Pitching to investors&lt;/h1&gt;
+           &lt;p class=&quot;lead&quot;&gt; 
+        Being the leader in a startup is hands down the most challenging thing I have ever done. I had the priviledge of working with the most talented and driven people in the world inside our company as well as throughout my accelerator batch. 
+         &lt;/p&gt; 
+
+        To say the least, I was veyr nervous.  pitching against the best hackers that literally flew in from around the world (hondoras, russia, india, mexico, UAE) pitching to 140 investors and some of the bigger partners on the judge panel. 
+
+
 
  
        
@@ -292,16 +299,40 @@
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Design considerations&lt;/h1&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; Visually, the goal was to make the android app look like a badge worn by an officer - it goes along with our mission making citizens feel more empowered. &lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; Our mission is to make citizens feel more empowered, so we made our app look like a badge worn by an officer. &lt;/p&gt;
 
+
+ &lt;!--        &lt;div class=&quot;row text-center&quot;&gt;
+          &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/nct.png&quot; alt=&quot;Jeff&quot;  width=&quot;&quot;&gt;
+          &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/f2.png&quot; alt=&quot;Jeff&quot; &gt;
+          &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/f1.gif&quot; alt=&quot;Jeff&quot; &gt;
+        &lt;/div&gt; --&gt;
 
         &lt;div class=&quot;row text-center&quot;&gt;
-          
-        &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/a1.png&quot; alt=&quot;Jeff&quot; width=&quot;&quot; /&gt;
-         &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/a1.png&quot; alt=&quot;Jeff&quot; /&gt;
-          &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/a1.png&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;/div&gt;
 
+          &lt;div class=&quot;img-responsive center-block&quot;&gt;
+ 
+                         &lt;div class=&quot;iconbox&quot;&gt;
+                 
+                      &lt;div class=&quot;jeff&quot;&gt;
+                      &lt;img class=&quot;img-responsive center-block&quot; src=&quot;../../images/projects/fedup/nct.png&quot; alt=&quot;Jeff&quot; width=&quot;100&quot; /&gt;
+                      &lt;p&gt;Inspiration&lt;/p&gt;
+                    &lt;/div&gt;
+                    
+                       &lt;div class=&quot;mariusz&quot;&gt;
+                       &lt;img class=&quot;img-responsive center-block&quot; src=&quot;../../images/projects/fedup/f2.png&quot; alt=&quot;Mariusz&quot; width=&quot;100&quot; /&gt;
+                            &lt;p&gt;Record&lt;/p&gt;
+                     &lt;/div&gt;
+ 
+                       &lt;div class=&quot;shashank&quot;&gt;
+                       &lt;img class=&quot;img-responsive center-block&quot; src=&quot;../../images/projects/fedup/f1.gif&quot; alt=&quot;Shashank&quot; width=&quot;114&quot; /&gt;
+                             &lt;p&gt;Recording&lt;/p&gt;
+ 
+                       &lt;/div&gt;
+                     &lt;/div&gt; 
+                   &lt;/div&gt;
+                    &lt;/div&gt;
+ 
 
 
         &lt;p class=&quot;lead&quot;&gt;  At the same time, we wanted to protect user privacy and allow them to run the app from their pocket. For this reason, we went recording audio instead of recording Video. Video would have also made our technology less usable in conditions with poor lighting.&lt;/p&gt;
