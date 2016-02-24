@@ -5,8 +5,8 @@
     <description>Some description about this nice website.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Feb 2016 01:19:21 -0800</pubDate>
-    <lastBuildDate>Tue, 23 Feb 2016 01:19:21 -0800</lastBuildDate>
+    <pubDate>Tue, 23 Feb 2016 21:01:22 -0800</pubDate>
+    <lastBuildDate>Tue, 23 Feb 2016 21:01:22 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -610,7 +610,7 @@
              &lt;h1 class=&quot;title-main-about&quot;&gt; &lt;/h1&gt;
             &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; People who are really serious about software should make their own hardware. &lt;/i&gt;&lt;/p&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Wifi Beerbong&lt;/h1&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Inspiration&lt;/h1&gt;
 
         &lt;p class=&quot;lead&quot;&gt; I showed up to Mhacks 6 with a giant briefcase of hardware. It&#39;s really important for me to make things other people haven&#39;t, so whenever I find a novel gadget or sensor, I toss it in my hardware collection. &lt;p&gt;
 
@@ -622,14 +622,17 @@
              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/classic.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
             &lt;p class=&quot;lead&quot;&gt; 
-            While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor.....In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories. At that point, it became very clear to me that for Mhacks 6 I was going to make the world&#39;s first wifi enabled beer bong. &lt;p&gt;
+            While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor..... &lt;i&gt; In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories &lt;/i&gt;. At that point, it became very clear to me that for Mhacks 6 I was going to make the world&#39;s first wifi enabled beer bong. &lt;p&gt;
 
 
          
 
-          &lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://github.com/drankadank&quot;&gt; https://github.com/drankadank &lt;/a&gt;&lt;p&gt;
+        
 
               &lt;h1 class=&quot;title-main-about&quot;&gt;The world&#39;s first wifi enabled beerbong&lt;/h1&gt;
+
+
+          &lt;p class=&quot;lead&quot;&gt; I had a lot of unanswered questions, so I started laying it all out. Where am I getting power? How am I going to display the data? How can I make drinking even more social?  &lt;/p&gt;
 
 
          &lt;p class=&quot;lead&quot;&gt; Clearly this wasn&#39;t going to be a 1-device-1-user sort of thing, more likely 1-device-1-friend group. A single device had to support multiple users, so it made sense to have a log in feature that integrated well with social media.   &lt;/p&gt;
@@ -637,7 +640,7 @@
            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/f1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
 
-
+          &lt;h1 class=&quot;title-main-about&quot;&gt;Hardware constraints&lt;/h1&gt;
          &lt;p class=&quot;lead&quot;&gt; The annoying thing with Particle (link) photons is that they run off 3.3v and a lot of sensors run off 5v. Since we were powering the photon with a usb battery pack, the original plan was to use that power with a voltage divider. I&#39;m not an electrical engineer, but i just decided to just tap into the VIN of the photon. People were telling me not to do that, but it&#39;s been working as long as I make sure the ground is not floating around.  &lt;/p&gt;
 
 
@@ -646,6 +649,21 @@
        &lt;p class=&quot;lead&quot;&gt; The only resistors I ended up needing were for the led indicators.   &lt;/p&gt;
 
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/userfloww.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+      &lt;h1 class=&quot;title-main-about&quot;&gt;Making sure it&#39;s water resistant&lt;/h1&gt;
+       &lt;p class=&quot;lead&quot;&gt; I wasn&#39;t going to take any chances on shorting out the last board I had. Made sure this time nothing was hanging out in the open.   &lt;/p&gt;
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/p1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+    
+        &lt;h1 class=&quot;title-main-about&quot;&gt;&lt;a href=&quot;https://github.com/drankadank&quot;&gt;Check it out on github&lt;/a&gt;&lt;/h1&gt;
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/p2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+        
+
+
+        
+             
 
 
 
@@ -673,7 +691,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt; --&gt;
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/Wifi-Beerbong/</link>
@@ -812,7 +830,7 @@
 
 
 
-              
+               &lt;h1 class=&quot;title-main-about&quot;&gt; &lt;/h1&gt;
 
               &lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/33963267&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
               

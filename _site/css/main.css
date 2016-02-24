@@ -5915,7 +5915,7 @@ p {
   text-align: center; }
 
 .loading {
-  position: fixed;
+  position: absolute;
   left: 50%;
   top: 50%;
   margin: -25px 0 -25px 0;
