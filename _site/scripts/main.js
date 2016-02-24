@@ -7,23 +7,15 @@ $(window).load(function()
    console.log("fadeddd");
    //alert("fadeddd");
    //$("#header-row").css("opacity", "1.0");
-   $('.loading').css("opacity", "0.0");
-   $('.loading').hide(50);
-   $("#project-row").css("opacity", "0.9");
-});
+  $('.loading').css("opacity", "0.0");
+  $('.loading-caption-container').css("opacity", "0.0") 
 
-$(".description").load(function() 
-{
-   // executes when complete page is fully loaded, including all frames, objects and images
-   console.log("body loaded");
-   // //alert("fadeddd");
-   // //$("#header-row").css("opacity", "1.0");
-   // $('.loading').css("opacity", "0.0");
+  $("#project-row").css("opacity", "0.9");
    // $('.loading').hide(50);
-   // $("#project-row").css("opacity", "0.9");
+   // $('.loading-caption-container').hide(50);
+    $('.loading').delay(800).css("visibility", "hidden");
+  $('.loading-caption-container').delay(800).css("visibility", "hidden") 
 });
-
-
 
 
 

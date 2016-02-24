@@ -5824,7 +5824,7 @@ body .projectSVG {
   font-size: 2.8em; }
 
 #project-row {
-  transition-delay: 0.3s; }
+  transition-delay: 0.4s; }
 
 #header-row {
   transition-delay: 0.3s; }
@@ -5929,7 +5929,7 @@ p {
   transition: all 0.3s ease;
   overflow: auto;
   margin: auto;
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   bottom: 0;
@@ -5941,6 +5941,22 @@ p {
     transform: rotate(0deg); }
   to {
     transform: rotate(359deg); } }
+.loading-caption-container {
+  width: 300px;
+  height: 100px;
+  overflow: auto;
+  margin: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  transition: all 0.3s ease; }
+
+#loading-caption {
+  text-align: center;
+  transition: all 0.3s ease; }
+
 .content-image-row {
   width: 30%; }
 
