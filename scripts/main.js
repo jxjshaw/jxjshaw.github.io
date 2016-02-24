@@ -12,6 +12,18 @@ $(window).load(function()
    $("#project-row").css("opacity", "0.9");
 });
 
+$(".description").load(function() 
+{
+   // executes when complete page is fully loaded, including all frames, objects and images
+   console.log("body loaded");
+   // //alert("fadeddd");
+   // //$("#header-row").css("opacity", "1.0");
+   // $('.loading').css("opacity", "0.0");
+   // $('.loading').hide(50);
+   // $("#project-row").css("opacity", "0.9");
+});
+
+
 
 
 

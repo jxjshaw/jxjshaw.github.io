@@ -5941,3 +5941,8 @@ p {
     transform: rotate(0deg); }
   to {
     transform: rotate(359deg); } }
+.content-image-row {
+  width: 30%; }
+
+.description {
+  transition: all 0.3s ease; }

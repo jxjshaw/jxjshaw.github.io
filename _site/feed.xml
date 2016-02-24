@@ -5,8 +5,8 @@
     <description>Some description about this nice website.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Feb 2016 21:01:22 -0800</pubDate>
-    <lastBuildDate>Tue, 23 Feb 2016 21:01:22 -0800</lastBuildDate>
+    <pubDate>Wed, 24 Feb 2016 00:48:39 -0800</pubDate>
+    <lastBuildDate>Wed, 24 Feb 2016 00:48:39 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -184,32 +184,32 @@
 
           &lt;h1 class=&quot;title-main-about&quot;&gt;Designing a functional enclosure&lt;/h1&gt;
 
-              &lt;p class=&quot;lead&quot;&gt;  I didn&#39;t want to pay for an industrial designer, so we designed and 3d printed our own enclosures. &lt;p&gt;
+              &lt;p class=&quot;lead&quot;&gt;  We couldn&#39;t afford to pay a hundred grand for an industrial designer, so we designed and 3d printed our own enclosures. &lt;p&gt;
 
-               &lt;p class=&quot;lead&quot;&gt; 
-               Small vents allowed for passive air diffusion. This worked well when the device just sat around to collect gradual changes. For demo purposes and with certain gases requiring faster readings, we learned that sometimes active intake was more ideal.   &lt;p&gt;  
+              
 
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ca4.png&quot; alt=&quot;Jeff&quot; /&gt;
 
-
-         &lt;p class=&quot;lead&quot;&gt; 
-        Unlike competitors, we wanted our device to have (1) better integration with appliances and (2) better integration with user lifestyle. The first step to smart home integration was creating our own REST API that other devices and appliances could read. &lt;p&gt;
-
+              &lt;p class=&quot;lead&quot;&gt;
+                 Small vents allowed for passive air diffusion. This worked well when the device just sat around to collect gradual changes. But for demo purposes and with certain gases requiring faster readings, we learned that on occasion an active intake was more ideal. 
+        &lt;p&gt;
+       
 
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/cad2.png&quot; alt=&quot;Jeff&quot; /&gt;
-
-           &lt;p class=&quot;lead&quot;&gt;
-        To meet our second goal we needed a portable device that was small enough to carry and powered by a battery. We couldn&#39;t create a device that just plugged into the wall and sat by the nightstand all day. When I was testing our first device, it was so much fun carrying it around and seeing with my own eyes how the gases in my environment would change wherever I went. 
+        &lt;p class=&quot;lead&quot;&gt;
+       To meet our second goal we needed a portable device. That meant it had to have its own battery and be small enough to carry. Not much value in a device that just plugged into the wall and sat by the nightstand all day.
         &lt;p&gt;
 
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/h3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
      
-        
+        &lt;h1 class=&quot;title-main-about&quot;&gt;The software&lt;/h1&gt;
+          &lt;p class=&quot;lead&quot;&gt; 
+        Unlike our competitors, we wanted our device to have (1) better integration with appliances and (2) better integration with user lifestyle. The first step to smart home integration was creating our own REST API that our own software, other devices, and appliances could read. &lt;p&gt;
 
 
         
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Software MVP&lt;/h1&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt;MVP&lt;/h1&gt;
         &lt;p class=&quot;lead&quot;&gt; 
         Our first webapp was a functioning proof of concept. We started by pulling data from the EPA to compare with the data from our own device. Typing a zipcode returns data from public weather stations on dust and carbon monoxide levels. &lt;/p&gt;
 
@@ -218,13 +218,16 @@
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Restructured backend and frontend facelift&lt;/h1&gt;
         &lt;p class=&quot;lead&quot;&gt; 
-        After growing our product and technology, we reached a point where we needed to build a more serious backend supporting more devices and an interface usable by not just ourselves We redid our device pairing and login system, support for historical data, more gas sensors, and new charts using c3.js. We also had an iOS app in test flight that we killed, so it was important to ensure usability of our webapp on mobile browsers. &lt;/p&gt;
+        After growing our product and technology, it became clear it was time for a more serious backend. We redid our device pairing and login system, support for historical data, more devices, more gas sensors, and new charts using c3.js. &lt;p&gt;
+
+         &lt;p class=&quot;lead&quot;&gt; 
+         We also decided to kill our iOS app in testlight, so it was important to ensure usability of our webapp on mobile browsers. &lt;/p&gt;
 
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/dd1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
          &lt;h1 class=&quot;title-main-about&quot;&gt;Part 3: field testing&lt;/h1&gt;
            &lt;p class=&quot;lead&quot;&gt; 
-        For many weeks I carried one of our devices around without ever turning it off. Whenever I was in public, people would ask me about that thing in my hand. It was a lot of fun having these conversations, getting to know strangers, and learning about their views on air quality.
+        For many weeks I carried one of our devices around without ever turning it off. Whenever I was in public, people would ask me about that thing in my hand. It was a lot of fun having these conversations, getting to know strangers, learning about their views on air quality (and of course adding them to our email list).
          &lt;/p&gt; 
 
 
@@ -261,7 +264,7 @@
     
   
 
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 01 Jan 2008 00:00:00 -0800</pubDate>
         <link>http://yourdomain.com/project-item/AirQuail/</link>
@@ -281,9 +284,7 @@
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Fedup&lt;/h1&gt;
 
-
-
-        &lt;p class=&quot;lead&quot;&gt;It&#39;s crazy that in the 21st century law enforcement/legal system still rely heavily on foggy testimony and paper police reports. So we built a complete ecosystem for users to directly document, review and share evidence without having to go through anyone else. &lt;/p&gt;
+          &lt;!--   &lt;p class=&quot;lead&quot;&gt;It&#39;s crazy that in the 21st century law enforcement/legal system still rely heavily on foggy testimony and paper police reports. So we built a complete ecosystem for users to directly document, review and share evidence without having to go through anyone else. &lt;/p&gt; --&gt;
 
          &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
           &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/xdvQbL0FFj8&quot;&gt;&lt;/iframe&gt;
@@ -293,7 +294,13 @@
 
         &lt;p class=&quot;lead&quot;&gt; Visually, the goal was to make the android app look like a badge worn by an officer - it goes along with our mission making citizens feel more empowered. &lt;/p&gt;
 
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/a1.png&quot; alt=&quot;Jeff&quot; /&gt;
+
+        &lt;div class=&quot;row text-center&quot;&gt;
+          
+        &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/a1.png&quot; alt=&quot;Jeff&quot; width=&quot;&quot; /&gt;
+         &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/a1.png&quot; alt=&quot;Jeff&quot; /&gt;
+          &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/a1.png&quot; alt=&quot;Jeff&quot; /&gt;
+        &lt;/div&gt;
 
 
 
@@ -832,10 +839,20 @@
 
                &lt;h1 class=&quot;title-main-about&quot;&gt; &lt;/h1&gt;
 
-              &lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/33963267&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+
               
 
 
+              &lt;h1 class=&quot;title-main-about&quot;&gt;DASH Hack&lt;/h1&gt;
+              &lt;p class=&quot;lead&quot;&gt; Tactile feedback for robots &lt;/p&gt;
+              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/more/dash.gif&quot; alt=&quot;Jeff&quot; /&gt;
+
+              &lt;h1 class=&quot;title-main-about&quot;&gt;Twilio valentine cards&lt;/h1&gt;
+              &lt;p class=&quot;lead&quot;&gt; Cupid IRL - 60 matches over valentine weekend &lt;/p&gt;
+              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/more/valentree.gif&quot; alt=&quot;Jeff&quot; /&gt;
+
+              &lt;h1 class=&quot;title-main-about&quot;&gt;TBT jammin w/ friends&lt;/h1&gt;
+              &lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/33963267&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
 
 &lt;!-- 
            &lt;embed class=&quot;resume&quot; src=&quot;../../images/rresume.pdf&quot; alt=&quot;pdf viewer only&quot; width=&quot;100%&quot; height=&quot;500px&quot; alt=&quot;pdf&quot; pluginspage=&quot;http://www.adobe.com/products/acrobat/readstep2.html&quot;&gt;
