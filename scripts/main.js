@@ -1,6 +1,13 @@
 
 
 
+$(document).ready(function(){
+    $(".description").hide(0).delay(100).fadeIn(300)
+});
+
+
+
+
 $(window).load(function() 
 {
    // executes when complete page is fully loaded, including all frames, objects and images
@@ -21,10 +28,6 @@ $(window).load(function()
   //$(".description").css("opacity", "0.9");
 });
 
-
-$(document).ready(function(){
-    $(".description").hide(0).delay(500).fadeIn(3000)
-});
 
 
 
