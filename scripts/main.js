@@ -1,7 +1,7 @@
 
 
 
-$(window).load(function() 
+$("#index-container").load(function() 
 {
    // executes when complete page is fully loaded, including all frames, objects and images
    console.log("fadeddd");
@@ -22,7 +22,9 @@ $(window).load(function()
 });
 
 
-
+$(document).ready(function(){
+    $(".fade").hide(0).delay(500).fadeIn(300)
+});
 
 
 
