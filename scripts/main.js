@@ -1,7 +1,7 @@
 
 
 
-$("#index-container").load(function() 
+$(window).load(function() 
 {
    // executes when complete page is fully loaded, including all frames, objects and images
    console.log("fadeddd");
@@ -18,12 +18,12 @@ $("#index-container").load(function()
     $('.loading').delay(800).css("visibility", "hidden");
   $('.loading-caption-container').delay(800).css("visibility", "hidden") 
 
-  $(".description").css("opacity", "0.9");
+  //$(".description").css("opacity", "0.9");
 });
 
 
 $(document).ready(function(){
-    $(".fade").hide(0).delay(500).fadeIn(300)
+    $(".description").hide(0).delay(500).fadeIn(3000)
 });
 
 
