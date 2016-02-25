@@ -4,7 +4,7 @@
 $(window).load(function() 
 {
    // executes when complete page is fully loaded, including all frames, objects and images
-   console.log("fadeddd");
+
    console.log("add me on snapchat: screwglue");
    console.log("instagram: @heyjeffshaw");
    //alert("fadeddd");

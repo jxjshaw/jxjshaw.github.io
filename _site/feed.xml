@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Feb 2016 02:42:25 -0800</pubDate>
-    <lastBuildDate>Thu, 25 Feb 2016 02:42:25 -0800</lastBuildDate>
+    <pubDate>Thu, 25 Feb 2016 04:12:29 -0800</pubDate>
+    <lastBuildDate>Thu, 25 Feb 2016 04:12:29 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -132,7 +132,7 @@
         &lt;h1 class=&quot;title-main-about&quot;&gt; &lt;/h1&gt;
         &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Airquail is the internet of things hardware startup that I cofounded. It started as a weekend hackathon project, and for 12 weeks it turned into a fulltime pursuit after we joined the Hackcelerator accelerator program. We&#39;re currently on our 3rd hardware prototype and have our devices in local school districts. &lt;/i&gt;&lt;/p&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Story&lt;/h1&gt;
+  &lt;!--       &lt;h1 class=&quot;title-main-about&quot;&gt;Story&lt;/h1&gt;
 
         &lt;p class=&quot;lead&quot;&gt; 
           Perhaps I should start this story like they do in some movies. We&#39;ll jump right into the climactic scene, pause it, tell the story of the build up, and then finally end with the decisive outcome.  &lt;/p&gt;
@@ -143,16 +143,20 @@
 
 
             &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-              &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/Nu4WogMWovU?start=1160&amp;amp;end=1219&quot;&gt;&lt;/iframe&gt;
+              &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/Nu4WogMWovU?start=1160&amp;end=1219&quot;&gt;&lt;/iframe&gt;
             &lt;/div&gt;
 
             &lt;p class=&quot;lead&quot;&gt; &lt;/p&gt;
 
             &lt;p class=&quot;lead&quot;&gt; What&#39;s going on? How did I get here? What&#39;s the plastic box that I have in my hand?&lt;/p&gt;
 
-            &lt;h1 class=&quot;title-main-about&quot;&gt; *BEGIN FLASHBACK*&lt;/h1&gt;
+   
             
-            &lt;h1 class=&quot;title-main-about&quot;&gt;Part 1: hardware product design&lt;/h1&gt;
+            &lt;h1 class=&quot;title-main-about&quot;&gt;Team&lt;/h1&gt;
+             &lt;p class=&quot;lead&quot;&gt; 
+             It started off as a group of friends that went to hackathons together.&lt;/p&gt;
+
+              &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/airquail/team.jpg&quot; alt=&quot;Jeff&quot; &gt; --&gt;
             
             
             &lt;h1 class=&quot;title-main-about&quot;&gt;Searching for product direction&lt;/h1&gt;
@@ -225,7 +229,7 @@
 
                      &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/dd1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-                     &lt;h1 class=&quot;title-main-about&quot;&gt;Part 3: field testing&lt;/h1&gt;
+                     &lt;h1 class=&quot;title-main-about&quot;&gt;Field testing&lt;/h1&gt;
                      &lt;p class=&quot;lead&quot;&gt; 
                       For many weeks I carried one of our devices around without ever turning it off. Whenever I was in public, people would ask me about that thing in my hand. It was a lot of fun having these conversations, getting to know strangers, learning about their views on air quality (and of course adding them to our email list).
                     &lt;/p&gt; 
@@ -234,16 +238,16 @@
                     
                     &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/field.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-                    &lt;h1 class=&quot;title-main-about&quot;&gt;Part 3: installing our devices in schools&lt;/h1&gt;
+                    &lt;h1 class=&quot;title-main-about&quot;&gt;Installing our devices in schools&lt;/h1&gt;
 
                     &lt;p class=&quot;lead&quot;&gt; 
-                      After testing in different homes and installing our device at a few schools, we ran into many unforseen obstacles. School and offices often have secured wifi networks that are hard for our device to connect with.
+                      After testing in different homes and installing our device at a few schools in norcal, we ran into many unforseen obstacles. School and offices often have secured wifi networks that are hard for our device to connect with.
                     &lt;/p&gt; 
 
                     &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/schoool.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
 
-                    &lt;h1 class=&quot;title-main-about&quot;&gt;Part 4: results&lt;/h1&gt;
+                    &lt;h1 class=&quot;title-main-about&quot;&gt;Evaluating the results&lt;/h1&gt;
                     &lt;p class=&quot;lead&quot;&gt; Demonstrating increased health hazard around heavy traffic &lt;/p&gt;
 
                     &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss1.png&quot; alt=&quot;Jeff&quot; /&gt;
@@ -253,16 +257,33 @@
                     &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss3.png&quot; alt=&quot;Jeff&quot; /&gt;
                     
 
-                    &lt;h1 class=&quot;title-main-about&quot;&gt;Pitching to investors&lt;/h1&gt;
-                    &lt;p class=&quot;lead&quot;&gt; 
-                      Being the leader in a startup is hands down the most challenging thing I have ever done. I had the privilege of working with the most talented and driven people in the world inside our company as well as throughout my accelerator batch. 
-                    &lt;/p&gt; 
-                    &lt;p class=&quot;lead&quot;&gt; 
-                      To say the least, I was very nervous.  pitching against the best hackers that literally flew in from around the world (Honduras, Russia, India, Nexico, UAE) pitching to 140 investors and some of the bigger partners on the judge panel. 
+                 &lt;!--    &lt;h1 class=&quot;title-main-about&quot;&gt;Demo day&lt;/h1&gt;
+                 
 
+                    &lt;p class=&quot;lead&quot;&gt; 
+                      To say the least, I was very nervous.  pitching against the best hackers that literally flew in from around the world (Honduras, Russia, India, Mexico, Hong Kong, UAE) pitching to 140 investors and some of heavy hitting partners on the panel. &lt;p&gt;
+
+                       &lt;p class=&quot;lead&quot;&gt; 
+                     I won&#39;t bore you with the full pitch, so I&#39;ll just show you probably my most embarrasing 20 seconds of my life caught on video...
+                    &lt;/p&gt; 
+
+                        &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+              &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/Nu4WogMWovU?start=1160&amp;end=1219&quot;&gt;&lt;/iframe&gt;
+            &lt;/div&gt;
 
                     &lt;/p&gt; 
                     
+ --&gt;
+                         &lt;h1 class=&quot;title-main-about&quot;&gt;Final thoughts&lt;/h1&gt;
+                  &lt;!--    &lt;p class=&quot;lead&quot;&gt; 
+                     I still can&#39;t get over myself for being steamrolled by the judges. I totally froze being asked questions that I totally saw coming. Everything worked out in the end, but I&#39;m still traumautized by the those 30 seconds.
+                    &lt;/p&gt;  --&gt;
+
+                    &lt;p class=&quot;lead&quot;&gt; 
+                      Being the leader in a startup is hands down the most challenging thing I&#39;ve ever done. I had the privilege of working with the most talented and driven people in the world within our startup throughout our accelerator batch.
+                    &lt;/p&gt; 
+
+                       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/team.jpg&quot; alt=&quot;Jeff&quot; /&gt;
                     
                     
 
@@ -299,7 +320,7 @@
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Design considerations&lt;/h1&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; Our mission is to make citizens feel more empowered, so we&#39;re giving citizens a badge as well&lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; The mission is to make citizens feel more empowered, so we&#39;re equipping citizens with a badge of their own.&lt;/p&gt;
 
 
  &lt;!--        &lt;div class=&quot;row text-center&quot;&gt;
@@ -705,10 +726,10 @@
 
        &lt;p class=&quot;lead&quot;&gt; The only resistors I ended up needing were for the led indicators.   &lt;/p&gt;
 
-       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/userfloww.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+       
 
 
-      &lt;h1 class=&quot;title-main-about&quot;&gt;Making sure it&#39;s water resistant&lt;/h1&gt;
+      &lt;h1 class=&quot;title-main-about&quot;&gt;Wiring it up and weather proofing&lt;/h1&gt;
        &lt;p class=&quot;lead&quot;&gt; I wasn&#39;t going to take any chances on shorting out the last board I had. Made sure this time nothing was hanging out in the open.   &lt;/p&gt;
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/p1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
@@ -722,6 +743,8 @@
               &lt;h1 class=&quot;title-main-about&quot;&gt;Software was a failure&lt;/h1&gt;
 
               &lt;p class=&quot;lead&quot;&gt;  I did not work on our software for this project. The only code I wrote was for the arduino. Nonetheless I still have an opinion about the software.&lt;p&gt;
+
+                &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/userfloww.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
                  &lt;p class=&quot;lead&quot;&gt;   Some features we just didn&#39;t get around to implementing. For instance, the score ranking. Other features, I think we could have been better off avoiding. In particular the facebook login. Although it&#39;s important for social games to link to social  profiles, I think there are easier ways for someone to login than to type in their facebook email and password. One option I would love to explore in the future would be installing a camera on the beerbong and leveraging facial recognition to tag participants.&lt;p&gt;
 
@@ -835,7 +858,7 @@
 
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
         &lt;h1 class=&quot;title-main-about&quot;&gt; Music Videos &lt;/h1&gt;
-        &lt;p class=&quot;lead&quot;&gt; Back when I was a hipster...(back when partying and film studies were still cool)...I worked in video production and post production. &lt;p&gt;
+        &lt;p class=&quot;lead&quot;&gt; Back when I was a hipster, I worked in video production and post production. &lt;p&gt;
 
           &lt;p class=&quot;lead&quot;&gt;
          Here are a few videos from work/fun. They&#39;ve been featured on some of those underground blogs.&lt;/p&gt;
