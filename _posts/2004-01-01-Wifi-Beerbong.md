@@ -26,7 +26,7 @@ project-title: Wifi Beerbong
           <img class="content-image"  src="../../images/projects/beerbong/kit.jpg" alt="Jeff" >
 
           <p class="lead"> 
-            I figured it would be fun to fly in a couple days early. It was the first week of classes and I had a couple of friends at the University of Michigan that I wanted to visit. Long story short, there was a block party, a bunch of people were standing on top of my friend's table and it snapped. <p>
+            I flew in to Ann Arbor a few days early to visit a few friends at the school. Long story short, there was a block party, a bunch of people were standing on top of my friend's table and it snapped. <p>
 
              <img class="content-image"  src="../../images/projects/beerbong/table.jpg" alt="Jeff" >
 
@@ -41,10 +41,10 @@ project-title: Wifi Beerbong
               <h1 class="title-main-about">The world's first wifi enabled beerbong</h1>
 
 
-          <p class="lead"> I had a lot of unanswered questions, so I started laying it all out. Where am I getting power? How am I going to display the data? How can I make drinking even more social?  </p>
+          <p class="lead"> I had a lot of unanswered questions, so I started to lay them out in my notebook. Where am I getting power? How am I going to display the data? How can I make drinking a hyper-socia activity?  </p>
 
 
-         <p class="lead"> Clearly this wasn't going to be a 1-device-1-user sort of thing, more likely 1-device-1-friend group. A single device had to support multiple users, so it made sense to have a log in feature that integrated well with social media.   </p>
+         <p class="lead"> A single device had to support multiple users, so it made sense to have a log in feature that integrated well with social media.   </p>
 
            <img class="content-image"  src="../../images/projects/beerbong/f1.jpg" alt="Jeff" >
 
