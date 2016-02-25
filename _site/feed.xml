@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeff Shaw</title>
-    <description>Interaction designer.</description>
+    <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Feb 2016 00:32:36 -0800</pubDate>
-    <lastBuildDate>Thu, 25 Feb 2016 00:32:36 -0800</lastBuildDate>
+    <pubDate>Thu, 25 Feb 2016 02:42:25 -0800</pubDate>
+    <lastBuildDate>Thu, 25 Feb 2016 02:42:25 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -221,7 +221,7 @@
                     After growing our product and technology, it became clear it was time for a more serious backend. We redid our device pairing and login system, support for historical data, more devices, more gas sensors, and new charts using c3.js. &lt;p&gt;
 
                     &lt;p class=&quot;lead&quot;&gt; 
-                     We also decided to kill our iOS app in testlight, so it was important to ensure usability of our webapp on mobile browsers. &lt;/p&gt;
+                     We also decided to kill our iOS app in testflight, so it was important to ensure usability of our webapp on mobile browsers. &lt;/p&gt;
 
                      &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/dd1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
@@ -255,10 +255,10 @@
 
                     &lt;h1 class=&quot;title-main-about&quot;&gt;Pitching to investors&lt;/h1&gt;
                     &lt;p class=&quot;lead&quot;&gt; 
-                      Being the leader in a startup is hands down the most challenging thing I have ever done. I had the priviledge of working with the most talented and driven people in the world inside our company as well as throughout my accelerator batch. 
+                      Being the leader in a startup is hands down the most challenging thing I have ever done. I had the privilege of working with the most talented and driven people in the world inside our company as well as throughout my accelerator batch. 
                     &lt;/p&gt; 
                     &lt;p class=&quot;lead&quot;&gt; 
-                      To say the least, I was very nervous.  pitching against the best hackers that literally flew in from around the world (hondoras, russia, india, mexico, UAE) pitching to 140 investors and some of the bigger partners on the judge panel. 
+                      To say the least, I was very nervous.  pitching against the best hackers that literally flew in from around the world (Honduras, Russia, India, Nexico, UAE) pitching to 140 investors and some of the bigger partners on the judge panel. 
 
 
                     &lt;/p&gt; 
@@ -299,7 +299,7 @@
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Design considerations&lt;/h1&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; Our mission is to make citizens feel more empowered, so we&#39;re giving citizens a badge of their own.&lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; Our mission is to make citizens feel more empowered, so we&#39;re giving citizens a badge as well&lt;/p&gt;
 
 
  &lt;!--        &lt;div class=&quot;row text-center&quot;&gt;
@@ -342,7 +342,7 @@
        
          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/ff4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; Unlike our android app, the web component carried a lighter layout intended for use on the desktop. Whether it&#39;s the victim organizing an account the day after, lawyers browsing client folders, or public viewers browsing fact-oriented stories, the aim is a wide variety of media without dumbing content down. &lt;p&gt;
+        &lt;p class=&quot;lead&quot;&gt; Unlike our android app, the web component carries a lighter layout intended for desktop. Whether it&#39;s the victim reporting an incident, lawyers browsing client folders, or public viewers reading fact-oriented stories, the aim is a wide variety of media without dumbing content down. &lt;p&gt;
 
 
       &lt;!--      &lt;p class=&quot;lead&quot;&gt;  At the same time, we wanted to protect user privacy and allow them to run the app from their pocket. For this reason, we went recording audio instead of recording Video. Video would have also made our technology less usable in conditions with poor lighting.&lt;/p&gt; --&gt;
@@ -354,7 +354,15 @@
 
 
 
-          &lt;p class=&quot;lead&quot;&gt; After deciding to continue this project, we&#39;ve officially partnered with the American Civil Liberties Union to improve the state of mobile justice. We also connected with the Harvard Law&#39;s Berkman Center. The goal of working with these larger organizations was gain access to more data for our web component.&lt;/p&gt;
+          &lt;p class=&quot;lead&quot;&gt; After deciding to continue this project, we&#39;ve officially partnered with the American Civil Liberties Union to improve the state of 
+
+            &lt;b&gt; &lt;a href=&quot;https://www.aclu.org/feature/aclu-apps-record-police-conduct&quot;&gt;
+            
+
+            mobile justice
+
+          &lt;/a&gt;&lt;/b&gt;.
+             We&#39;ve&#39;also connected with Harvard Law&#39;s Berkman Center For Internet &amp;amp; Society to explore the intersections of law and social media. &lt;/p&gt;
 
         
 
@@ -530,7 +538,7 @@
                 
                  
                    &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; &lt;i&gt; &lt;b&gt;
-                    Payment sollutions for tollbooths already exist 
+                    Payment solutions for tollbooths already exist 
                    &lt;/b&gt;&lt;/i&gt;
 
                   &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; &lt;i&gt; &lt;b&gt; I want to appeal to the emotional side of our product. It&#39;s one thing to make your life easier, it&#39;s another to make it more interesting.&lt;/b&gt;&lt;/i&gt;
@@ -561,7 +569,7 @@
         &lt;h1 class=&quot;title-main-about&quot;&gt; Driver usability: streamlining transaction process &lt;/h1&gt;     
 
         &lt;p class=&quot;lead&quot;&gt;  
-        Designing for the car is different than designing for mobile. Unless the driver is parked, most interactions occur without the user&#39;s complete attention. To make this payment process smarter, payments are automatically initiated based on the driver&#39;s location. Prices are also automatically settled - for example, the price to fill up = ((tankSize - (tankSize * %full)) + (stationDist / mpg ) * gasPrice)  &lt;p&gt;
+        Designing for the car is different than designing for mobile. Unless the driver is parked, most interactions occur without the user&#39;s complete attention. To make this payment process smarter, payments are automatically initiated based on the driver&#39;s location. Prices are also automatically estimated (for example the pseudo code for the price to fill up = ((tankSize - (tankSize * %full)) + (stationDist / mpg ) * gasPrice))  &lt;p&gt;
 
          &lt;p class=&quot;lead&quot;&gt; 
         All the driver needs to do is confirm the transaction with a click of a button. &lt;p&gt;
@@ -574,7 +582,7 @@
        
         &lt;h1 class=&quot;title-main-about&quot;&gt; Driver usability: mapping input interaction &lt;/h1&gt;    
         &lt;p class=&quot;lead&quot;&gt;  
-        A common gripe from c300 owners is that the heads-up display looks like it&#39;s touchscreen but it really isn&#39;t. To avoid this confusion and make event handling more intuitive, I created an interface with a clear hierarchy of menus naviated through a selector. &lt;p&gt;
+        A common gripe from c300 owners is that the heads-up display looks like it&#39;s touchscreen but it really isn&#39;t. To avoid this confusion and make event handling more intuitive, I created an interface with a clear hierarchy of menus navigated with a highlight selector. &lt;p&gt;
 
           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
@@ -589,7 +597,7 @@
 
       
 
-         &lt;h1 class=&quot;title-main-about&quot;&gt; Driver usability: glanceable interface &lt;/h1&gt;         
+         &lt;h1 class=&quot;title-main-about&quot;&gt; Driver usability: glancing at an interface &lt;/h1&gt;         
         &lt;p class=&quot;lead&quot;&gt;  
         I used a variation of color, size, and weight to distinguish what really matters at a glance from information important only on a closer read. 
         &lt;p&gt;
@@ -597,11 +605,13 @@
             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
               &lt;p class=&quot;lead&quot;&gt;  
-                An example of this can be seen in the payment history view. The first thing the driver sees is the amount paid followed by the vendor name. Details such as credit card number and bitcoin address is more confidential and signifigantly less visible from a distance.  &lt;p&gt;
+                An example of this can be seen in the payment history view. The first thing the driver sees is the amount paid followed by the vendor name. Details such as credit card number and bitcoin address is more confidential and significantly less visible from a distance.  &lt;p&gt;
 
         &lt;h1 class=&quot;title-main-about&quot;&gt; Demo video &lt;/h1&gt;  
 
-         &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;https://www.crunchbase.com/person/yashad-kulkarni#/entity&quot;&gt; Yashad from TechCrunch &lt;/a&gt;filmed this video for us.
+         &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;https://www.crunchbase.com/person/yashad-kulkarni#/entity&quot;&gt; 
+
+          &lt;b&gt; Yashad &lt;/b&gt;from TechCrunch &lt;/a&gt;filmed this video for us.
 
            &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
                       &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/132971331&quot;&gt;&lt;/iframe&gt;
@@ -612,12 +622,15 @@
            
             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/team.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-              &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://www.mobilegeeks.com/mercedes-benz-hack-a-thon-a-snapshot-of-developing-for-automotive/&quot;&gt; Writeup by Mobile Geeks &lt;/a&gt; &lt;p&gt;
+              &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://www.mobilegeeks.com/mercedes-benz-hack-a-thon-a-snapshot-of-developing-for-automotive/&quot;&gt;  &lt;b&gt;  Writeup &lt;/b&gt; by Mobile Geeks &lt;/a&gt;  &lt;p&gt;
 
-           &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://360.here.com/2015/08/11/here-gives-direction-at-mercedes-benz-hackathon/&quot;&gt; Article by HERE maps &lt;/a&gt; &lt;p&gt;
+           &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://360.here.com/2015/08/11/here-gives-direction-at-mercedes-benz-hackathon/&quot;&gt; &lt;b&gt; Article  &lt;/b&gt; by HERE maps&lt;/a&gt; &lt;p&gt;
 
 
-          
+
+    
+
+
 
             
                  
@@ -663,7 +676,7 @@
           &lt;p class=&quot;lead&quot;&gt; 
             I figured it would be fun to fly in a couple days early. It was the first week of classes and I had a couple of friends at the University of Michigan that I wanted to visit. Long story short, there was a block party, a bunch of people were standing on top of my friend&#39;s table and it snapped. &lt;p&gt;
 
-             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/classic2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/table.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
             &lt;p class=&quot;lead&quot;&gt; 
             While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor..... &lt;i&gt; In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories &lt;/i&gt;. At that point, it became very clear to me that for Mhacks 6 I was going to make the world&#39;s first wifi enabled beer bong. &lt;p&gt;
@@ -688,7 +701,7 @@
          &lt;p class=&quot;lead&quot;&gt; The annoying thing with Particle (link) photons is that they run off 3.3v and a lot of sensors run off 5v. Since we were powering the photon with a usb battery pack, the original plan was to use that power with a voltage divider. I&#39;m not an electrical engineer, but i just decided to just tap into the VIN of the photon. People were telling me not to do that, but it&#39;s been working as long as I make sure the ground is not floating around.  &lt;/p&gt;
 
 
-       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/circuit2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/schem.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
        &lt;p class=&quot;lead&quot;&gt; The only resistors I ended up needing were for the led indicators.   &lt;/p&gt;
 
@@ -700,14 +713,27 @@
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/p1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
     
-        &lt;h1 class=&quot;title-main-about&quot;&gt;&lt;a href=&quot;https://github.com/drankadank&quot;&gt;Check it out on github&lt;/a&gt;&lt;/h1&gt;
+       
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/p2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
         
 
-
         
-             
+              &lt;h1 class=&quot;title-main-about&quot;&gt;Software was a failure&lt;/h1&gt;
+
+              &lt;p class=&quot;lead&quot;&gt;  I did not work on our software for this project. The only code I wrote was for the arduino. Nonetheless I still have an opinion about the software.&lt;p&gt;
+
+                 &lt;p class=&quot;lead&quot;&gt;   Some features we just didn&#39;t get around to implementing. For instance, the score ranking. Other features, I think we could have been better off avoiding. In particular the facebook login. Although it&#39;s important for social games to link to social  profiles, I think there are easier ways for someone to login than to type in their facebook email and password. One option I would love to explore in the future would be installing a camera on the beerbong and leveraging facial recognition to tag participants.&lt;p&gt;
+
+
+                  &lt;h1 class=&quot;title-main-about&quot;&gt;Check it out&lt;/h1&gt;
+
+              &lt;p class=&quot;lead&quot;&gt; &lt;b&gt; &lt;a href=&quot;http://www.drankboard.co/&quot;&gt; http://www.drankboard.co/ &lt;/a&gt;
+
+
+                
+
+                 &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;https://github.com/drankadank&quot;&gt;&lt;b&gt; Github &lt;/b&gt;&lt;/a&gt;&lt;p&gt;
 
 
 
@@ -735,7 +761,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt; --&gt;
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/b&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/Wifi-Beerbong/</link>
@@ -809,7 +835,10 @@
 
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
         &lt;h1 class=&quot;title-main-about&quot;&gt; Music Videos &lt;/h1&gt;
-        &lt;p class=&quot;lead&quot;&gt; Back in college, I used to work in video production and post-production. Here are a few videos from work/fun. They&#39;ve been featured on some of those hip underground sites.&lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; Back when I was a hipster...(back when partying and film studies were still cool)...I worked in video production and post production. &lt;p&gt;
+
+          &lt;p class=&quot;lead&quot;&gt;
+         Here are a few videos from work/fun. They&#39;ve been featured on some of those underground blogs.&lt;/p&gt;
 
         
 
@@ -818,8 +847,10 @@
               &lt;h1 class=&quot;title-main-about&quot;&gt; On the steps &lt;/h1&gt;
               &lt;!-- &lt;p class=&quot;lead&quot;&gt; My favorite part about rappers is their work ethic - the hustle, the grind - having a dayjob and hitting the studio at night. I guess it&#39;s the same reason I love startups. It&#39;s about being young, living your dreams while everyones telling you your stupid. &lt;/p&gt; --&gt;
 
-               &lt;p class=&quot;lead&quot;&gt;  Visually I wanted to extend the mood of the song. The shutter speed is slow to get that smooth motion blur, and the cuts are also slow. Shot at 35mm and 50mm wide open so its tight but soft. Didn&#39;t want to overdo camera movement, so  I kept things interesting with carefully planned sequenced lighting. I preserved the beautiful characteristics and colors from dim ambient light while adding very subtle reflected accents through sources such as my warm car blinkers or my cool phone flash covered by my finger.
-                &lt;/p&gt;
+               &lt;p class=&quot;lead&quot;&gt;  This track is slow, so everything from the shutter speed to the editing cuts are slow to keep things smooth. &lt;p&gt;
+
+                 &lt;p class=&quot;lead&quot;&gt;
+                Used tighter focal length to soften the surroundings. Lighting is very carefully planned to melt in with dim ambient reflections.                &lt;/p&gt;
 
                &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
                   &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/JkA_sGRfyKA&quot;&gt;&lt;/iframe&gt;
@@ -827,7 +858,10 @@
 
 
               &lt;h1 class=&quot;title-main-about&quot;&gt; SOS &lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; This one of those day in the life college music videos. Most rap videos in recent years are shot on cropped sensors with tight lenses, resulting in a lot of camera shake remedied by fast cuts - it&#39;s a nice raw style. But this video looks different because many shots are of a much wider angle. The intro is way too long, and for the 10k views we got, half of them probably stopped watching it before the video even started. &lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; In the recent years, the most popular rap videos are shot on cropped sensors with tight lenses,  it&#39;s a nice raw style. &lt;p&gt;
+
+                 &lt;p class=&quot;lead&quot;&gt; 
+                This video looks different because many shots are much wider. Fwiw, the intro is way too long, and for the 10k views we received, half of them probably stopped watching it before the video even started. &lt;/p&gt;
 
 
 
@@ -838,16 +872,19 @@
 
 
                &lt;h1 class=&quot;title-main-about&quot;&gt; Salad Days &lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; Pickathon is Portland&#39;s largest music festival. Like everything in Portland, it&#39;s super underground and happens in a forest.&lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; 
+                 &lt;b&gt; &lt;a href=&quot;http://pickathon.com/&quot;&gt;Pickathon &lt;/a&gt; &lt;/b&gt; 
+                is Portland&#39;s largest music festival. Like everything in Portland, it&#39;s super underground and happens in a forest.&lt;/p&gt;
 
                &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
                   &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/VoGNw78eYzc&quot;&gt;&lt;/iframe&gt;
                &lt;/div&gt;
 
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+      
+    
+  
+
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 01 Jan 2002 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/Music-Videos/</link>

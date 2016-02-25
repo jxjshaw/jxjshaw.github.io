@@ -65,14 +65,27 @@ project-title: Wifi Beerbong
        <img class="content-image"  src="../../images/projects/beerbong/p1.jpg" alt="Jeff" >
 
     
-        <h1 class="title-main-about"><a href="https://github.com/drankadank">Check it out on github</a></h1>
+       
        <img class="content-image"  src="../../images/projects/beerbong/p2.jpg" alt="Jeff" >
 
         
 
-
         
-             
+              <h1 class="title-main-about">Software was a failure</h1>
+
+              <p class="lead">  I did not work on our software for this project. The only code I wrote was for the arduino. Nonetheless I still have an opinion about the software.<p>
+
+                 <p class="lead">   Some features we just didn't get around to implementing. For instance, the score ranking. Other features, I think we could have been better off avoiding. In particular the facebook login. Although it's important for social games to link to social  profiles, I think there are easier ways for someone to login than to type in their facebook email and password. One option I would love to explore in the future would be installing a camera on the beerbong and leveraging facial recognition to tag participants.<p>
+
+
+                  <h1 class="title-main-about">Check it out</h1>
+
+              <p class="lead"> <b> <a href="http://www.drankboard.co/"> http://www.drankboard.co/ </b></a>
+
+
+                </p>
+
+                 <p class="lead"> <a href="https://github.com/drankadank"><b> Github </b></a><p>
 
 
 

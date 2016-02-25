@@ -12,7 +12,10 @@ project-title: Music Videos
 
       <div class="col-sm-10 col-sm-offset-1">
         <h1 class="title-main-about"> Music Videos </h1>
-        <p class="lead"> Back in college, I used to work in video production and post-production. Here are a few videos from work/fun. They've been featured on some of those hip underground sites.</p>
+        <p class="lead"> Back when I was a hipster...(back when partying and film studies were still cool)...I worked in video production and post production. <p>
+
+          <p class="lead">
+         Here are a few videos from work/fun. They've been featured on some of those underground blogs.</p>
 
         
 
@@ -21,8 +24,10 @@ project-title: Music Videos
               <h1 class="title-main-about"> On the steps </h1>
               <!-- <p class="lead"> My favorite part about rappers is their work ethic - the hustle, the grind - having a dayjob and hitting the studio at night. I guess it's the same reason I love startups. It's about being young, living your dreams while everyones telling you your stupid. </p> -->
 
-               <p class="lead">  Visually I wanted to extend the mood of the song. The shutter speed is slow to get that smooth motion blur, and the cuts are also slow. Shot at 35mm and 50mm wide open so its tight but soft. Didn't want to overdo camera movement, so  I kept things interesting with carefully planned sequenced lighting. I preserved the beautiful characteristics and colors from dim ambient light while adding very subtle reflected accents through sources such as my warm car blinkers or my cool phone flash covered by my finger.
-                </p>
+               <p class="lead">  This track is slow, so everything from the shutter speed to the editing cuts are slow to keep things smooth. <p>
+
+                 <p class="lead">
+                Used tighter focal length to soften the surroundings. Lighting is very carefully planned to melt in with dim ambient reflections.                </p>
 
                <div class="embed-responsive embed-responsive-16by9">
                   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JkA_sGRfyKA"></iframe>
@@ -30,7 +35,10 @@ project-title: Music Videos
 
 
               <h1 class="title-main-about"> SOS </h1>
-              <p class="lead"> This one of those day in the life college music videos. Most rap videos in recent years are shot on cropped sensors with tight lenses, resulting in a lot of camera shake remedied by fast cuts - it's a nice raw style. But this video looks different because many shots are of a much wider angle. The intro is way too long, and for the 10k views we got, half of them probably stopped watching it before the video even started. </p>
+              <p class="lead"> In the recent years, the most popular rap videos are shot on cropped sensors with tight lenses,  it's a nice raw style. <p>
+
+                 <p class="lead"> 
+                This video looks different because many shots are much wider. Fwiw, the intro is way too long, and for the 10k views we received, half of them probably stopped watching it before the video even started. </p>
 
 
 
@@ -41,7 +49,9 @@ project-title: Music Videos
 
 
                <h1 class="title-main-about"> Salad Days </h1>
-              <p class="lead"> Pickathon is Portland's largest music festival. Like everything in Portland, it's super underground and happens in a forest.</p>
+              <p class="lead"> 
+                 <b> <a href="http://pickathon.com/">Pickathon </a> </b> 
+                is Portland's largest music festival. Like everything in Portland, it's super underground and happens in a forest.</p>
 
                <div class="embed-responsive embed-responsive-16by9">
                   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VoGNw78eYzc"></iframe>

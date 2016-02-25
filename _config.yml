@@ -7,8 +7,8 @@
 
 # Site settings
 title: Jeff Shaw
-# email: your-email@domain.com
-description: Interaction designer.
+# email: sup@heyjeffshaw.com
+description: Jeff Shaw's portfolio featuring interaction user interface and user experience design.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://heyjeffshaw.com" # the base hostname & protocol for your site
 #url: "http://127.0.0.1:4000/"
