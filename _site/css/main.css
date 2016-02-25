@@ -5971,3 +5971,7 @@ p {
 body {
   opacity: 0.0;
   transition: all 0.3s ease; }
+
+#header-text {
+  opacity: 0.0;
+  transition: all 0.3s ease; }

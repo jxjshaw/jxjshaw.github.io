@@ -8,7 +8,7 @@ $(window).load(function()
    console.log("add me on snapchat: screwglue");
    console.log("instagram: @heyjeffshaw");
    //alert("fadeddd");
-   //$("#header-row").css("opacity", "1.0");
+   $("#header-row").css("opacity", "1.0");
   $('.loading').css("opacity", "0.0");
   $('.loading-caption-container').css("opacity", "0.0") 
 
