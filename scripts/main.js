@@ -18,13 +18,12 @@ $(window).load(function()
     $('.loading').delay(800).css("visibility", "hidden");
   $('.loading-caption-container').delay(800).css("visibility", "hidden") 
 
-  // $("body").css("opacity", "0.9");
+  $("body").css("opacity", "0.9");
 });
 
 
-$(function() {
-    $('body').fadeIn(500);
-});
+
+
 
 
 
