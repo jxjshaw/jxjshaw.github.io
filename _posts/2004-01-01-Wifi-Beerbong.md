@@ -28,7 +28,7 @@ project-title: Wifi Beerbong
           <p class="lead"> 
             I figured it would be fun to fly in a couple days early. It was the first week of classes and I had a couple of friends at the University of Michigan that I wanted to visit. Long story short, there was a block party, a bunch of people were standing on top of my friend's table and it snapped. <p>
 
-             <img class="content-image"  src="../../images/projects/beerbong/classic2.jpg" alt="Jeff" >
+             <img class="content-image"  src="../../images/projects/beerbong/classic22.jpg" alt="Jeff" >
 
             <p class="lead"> 
             While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor..... <i> In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories </i>. At that point, it became very clear to me that for Mhacks 6 I was going to make the world's first wifi enabled beer bong. <p>
@@ -53,7 +53,7 @@ project-title: Wifi Beerbong
          <p class="lead"> The annoying thing with Particle (link) photons is that they run off 3.3v and a lot of sensors run off 5v. Since we were powering the photon with a usb battery pack, the original plan was to use that power with a voltage divider. I'm not an electrical engineer, but i just decided to just tap into the VIN of the photon. People were telling me not to do that, but it's been working as long as I make sure the ground is not floating around.  </p>
 
 
-       <img class="content-image"  src="../../images/projects/beerbong/circuit2.jpg" alt="Jeff" >
+       <img class="content-image"  src="../../images/projects/beerbong/circuit22.jpg" alt="Jeff" >
 
        <p class="lead"> The only resistors I ended up needing were for the led indicators.   </p>
 
