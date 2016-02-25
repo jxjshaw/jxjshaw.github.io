@@ -28,7 +28,7 @@ project-title: Wifi Beerbong
           <p class="lead"> 
             I figured it would be fun to fly in a couple days early. It was the first week of classes and I had a couple of friends at the University of Michigan that I wanted to visit. Long story short, there was a block party, a bunch of people were standing on top of my friend's table and it snapped. <p>
 
-             <img class="content-image"  src="../../images/projects/beerbong/classic.jpg" alt="Jeff" >
+             <img class="content-image"  src="../../images/projects/beerbong/classic2.jpg" alt="Jeff" >
 
             <p class="lead"> 
             While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor..... <i> In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories </i>. At that point, it became very clear to me that for Mhacks 6 I was going to make the world's first wifi enabled beer bong. <p>
