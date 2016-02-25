@@ -5,6 +5,8 @@ $(window).load(function()
 {
    // executes when complete page is fully loaded, including all frames, objects and images
    console.log("fadeddd");
+   console.log("add me on snapchat: screwglue");
+   console.log("instagram: @heyjeffshaw");
    //alert("fadeddd");
    //$("#header-row").css("opacity", "1.0");
   $('.loading').css("opacity", "0.0");
@@ -18,11 +20,6 @@ $(window).load(function()
 });
 
 
-$('A[rel="external"]')
-.click( function() {
-window.open( $(this).attr('href') );
-return false;
-});
 
 
 

@@ -3,14 +3,14 @@
   <channel>
     <title>Nice Website</title>
     <description>Some description about this nice website.</description>
-    <link>http://127.0.0.1:4000//</link>
-    <atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Feb 2016 23:04:32 -0800</pubDate>
-    <lastBuildDate>Wed, 24 Feb 2016 23:04:32 -0800</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 24 Feb 2016 23:33:13 -0800</pubDate>
+    <lastBuildDate>Wed, 24 Feb 2016 23:33:13 -0800</lastBuildDate>
+    <generator>Jekyll v3.1.0</generator>
     
       <item>
-        <title>Mercedes</title>
+        <title></title>
         <description>&lt;div class=&quot;container-fluid&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row text-left&quot;&gt;
@@ -82,7 +82,7 @@
                 &lt;p&gt;
 
                 &lt;p class=&quot;lead&quot;&gt;
-                &lt;b&gt;There&#39;s nothing wrong with artificial intelligence being artificial&lt;/b&gt;. And we ourselves rely on this phenomenon all the time - for instance during interviews, or when someone asks you for advice (kidding). Realizing this was a milestone in my jedi journey as a designer that codes (basically for many reasons coding = the dark side).
+                &lt;b&gt;There&#39;s nothing wrong with artificial intelligence being artificial&lt;/b&gt;. And we ourselves rely on this phenomenon all the time - for instance during interviews, or when someone asks you for advice (kidding). Realizing this was a milestone in my jedi journey as a designer that codes (coding = the dark side).
                 &lt;p&gt; 
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Related projects&lt;/h1&gt;
@@ -110,8 +110,8 @@
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate>
-        <link>http://127.0.0.1:4000//project-item/Mercedes/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//project-item/Mercedes/</guid>
+        <link>http://yourdomain.com/project-item/Mercedes/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/Mercedes/</guid>
         
         
         <category>project-item</category>
@@ -134,39 +134,39 @@
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Story&lt;/h1&gt;
 
-          &lt;p class=&quot;lead&quot;&gt; 
-        Perhaps I should start this story like they do in some movies. We&#39;ll jump right into the climactic scene, pause it, tell the story of the build up, and then finally end with the decisive outcome.  &lt;/p&gt;
-
-            &lt;p class=&quot;lead&quot;&gt; 
-        So here I am nervously standing in front of 140 investors.  &lt;/p&gt;
-
-
-
-        &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-                      &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/Nu4WogMWovU?start=1160&amp;amp;end=1219&quot;&gt;&lt;/iframe&gt;
-                  &lt;/div&gt;
-
-                  &lt;p class=&quot;lead&quot;&gt; &lt;/p&gt;
-
-                     &lt;p class=&quot;lead&quot;&gt; What&#39;s going on? How did I get here? What&#39;s the plastic box that I have in my hand?&lt;/p&gt;
-
-          &lt;h1 class=&quot;title-main-about&quot;&gt; *BEGIN FLASHBACK*&lt;/h1&gt;
-        
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Part 1: hardware product design&lt;/h1&gt;
-        
-        
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Searching for product direction&lt;/h1&gt;
         &lt;p class=&quot;lead&quot;&gt; 
-         If we were going to dedicate 3 months to building a product, it better be something we ourselves wanted to use. So although healthcare was a hot market, I strongly believed in focusing more on gases associated with comfort and wellness. We didn&#39;t want to be an alarm that monitors  toxic gas that will kills 50 people a year. On the other hand, we also didn&#39;t want to just monitor gases that will shorten your lives by 12 months. Instead, it&#39;s about telling people more about the gases that are always around you that you can&#39;t see and how they can unconsciously influence your lifestyle. &lt;p&gt;
+          Perhaps I should start this story like they do in some movies. We&#39;ll jump right into the climactic scene, pause it, tell the story of the build up, and then finally end with the decisive outcome.  &lt;/p&gt;
+
+          &lt;p class=&quot;lead&quot;&gt; 
+            So here I am nervously standing in front of 140 investors.  &lt;/p&gt;
 
 
-          &lt;h1 class=&quot;title-main-about&quot;&gt;Searching for the right sensors&lt;/h1&gt;
-          &lt;p class=&quot;lead&quot;&gt;
-          We went with Carbon Dioxide, Carbon Monoxide, Pm 2.5. We also added other sensors such as temperature, humidity, pressure for the sole purpose of making our primary gas algorithms more accurate.
-        &lt;p&gt;
+
+            &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+              &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/Nu4WogMWovU?start=1160&amp;amp;end=1219&quot;&gt;&lt;/iframe&gt;
+            &lt;/div&gt;
+
+            &lt;p class=&quot;lead&quot;&gt; &lt;/p&gt;
+
+            &lt;p class=&quot;lead&quot;&gt; What&#39;s going on? How did I get here? What&#39;s the plastic box that I have in my hand?&lt;/p&gt;
+
+            &lt;h1 class=&quot;title-main-about&quot;&gt; *BEGIN FLASHBACK*&lt;/h1&gt;
+            
+            &lt;h1 class=&quot;title-main-about&quot;&gt;Part 1: hardware product design&lt;/h1&gt;
+            
+            
+            &lt;h1 class=&quot;title-main-about&quot;&gt;Searching for product direction&lt;/h1&gt;
+            &lt;p class=&quot;lead&quot;&gt; 
+             If we were going to dedicate 3 months to building a product, it better be something we ourselves wanted to use. So although healthcare was a hot market, I strongly believed in focusing more on gases associated with comfort and wellness. We didn&#39;t want to be an alarm that monitors  toxic gas that will kills 50 people a year. On the other hand, we also didn&#39;t want to just monitor gases that will shorten your lives by 12 months. Instead, it&#39;s about telling people more about the gases that are always around you that you can&#39;t see and how they can unconsciously influence your lifestyle. &lt;p&gt;
 
 
-          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/wtf.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+             &lt;h1 class=&quot;title-main-about&quot;&gt;Searching for the right sensors&lt;/h1&gt;
+             &lt;p class=&quot;lead&quot;&gt;
+              We went with Carbon Dioxide, Carbon Monoxide, Pm 2.5. We also added other sensors such as temperature, humidity, pressure for the sole purpose of making our primary gas algorithms more accurate.
+              &lt;p&gt;
+
+
+                &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/wtf.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
 
      &lt;!--    Hardware design
@@ -178,104 +178,104 @@
         Finding partnerships
         How we found chiense company --&gt;
 
-   &lt;!--      &lt;h1 class=&quot;title-main-about&quot;&gt;The team&lt;/h1&gt; --&gt;
-      
+        &lt;!--      &lt;h1 class=&quot;title-main-about&quot;&gt;The team&lt;/h1&gt; --&gt;
+        
 
 
-          &lt;h1 class=&quot;title-main-about&quot;&gt;Designing a functional enclosure&lt;/h1&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Designing a functional enclosure&lt;/h1&gt;
 
-              &lt;p class=&quot;lead&quot;&gt;  Most startups hire an industrial design firm, but we&#39;re a little more scrappy than that so we designed and 3d printed our own enclosures. &lt;p&gt;
+        &lt;p class=&quot;lead&quot;&gt;  Most startups hire an industrial design firm, but we&#39;re a little more scrappy than that so we designed and 3d printed our own enclosures. &lt;p&gt;
+
+          
+
+          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ca4.png&quot; alt=&quot;Jeff&quot; /&gt;
+
+          &lt;p class=&quot;lead&quot;&gt;
+           Small vents allowed for passive air diffusion. This worked well when the device just sat around to collect gradual changes. But for demo purposes and with certain gases requiring faster readings, we learned that on occasion an active intake was more ideal. 
+           &lt;p&gt;
+             
+
+            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/cad2.png&quot; alt=&quot;Jeff&quot; /&gt;
+            &lt;p class=&quot;lead&quot;&gt;
+             To meet our second goal we needed a portable device. That meant it had to have its own battery and be small enough to carry. Not much value in a device that just plugged into the wall and sat by the nightstand all day.
+             &lt;p&gt;
+
+              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/h3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
               
-
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ca4.png&quot; alt=&quot;Jeff&quot; /&gt;
-
-              &lt;p class=&quot;lead&quot;&gt;
-                 Small vents allowed for passive air diffusion. This worked well when the device just sat around to collect gradual changes. But for demo purposes and with certain gases requiring faster readings, we learned that on occasion an active intake was more ideal. 
-        &lt;p&gt;
-       
-
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/cad2.png&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;p class=&quot;lead&quot;&gt;
-       To meet our second goal we needed a portable device. That meant it had to have its own battery and be small enough to carry. Not much value in a device that just plugged into the wall and sat by the nightstand all day.
-        &lt;p&gt;
-
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/h3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-     
-        &lt;h1 class=&quot;title-main-about&quot;&gt;The software&lt;/h1&gt;
-          &lt;p class=&quot;lead&quot;&gt; 
-        Unlike our competitors, we wanted our device to have (1) better integration with appliances and (2) better integration with user lifestyle. The first step to smart home integration was creating our own REST API that our own software, other devices, and appliances could read. &lt;p&gt;
+              &lt;h1 class=&quot;title-main-about&quot;&gt;The software&lt;/h1&gt;
+              &lt;p class=&quot;lead&quot;&gt; 
+                Unlike our competitors, we wanted our device to have (1) better integration with appliances and (2) better integration with user lifestyle. The first step to smart home integration was creating our own REST API that our own software, other devices, and appliances could read. &lt;p&gt;
 
 
-        
-        &lt;h1 class=&quot;title-main-about&quot;&gt;MVP&lt;/h1&gt;
-        &lt;p class=&quot;lead&quot;&gt; 
-        Our first webapp was a functioning proof of concept. We started by pulling data from the EPA to compare with the data from our own device. Typing a zipcode returns data from public weather stations on dust and carbon monoxide levels. &lt;/p&gt;
+                
+                &lt;h1 class=&quot;title-main-about&quot;&gt;MVP&lt;/h1&gt;
+                &lt;p class=&quot;lead&quot;&gt; 
+                  Our first webapp was a functioning proof of concept. We started by pulling data from the EPA to compare with the data from our own device. Typing a zipcode returns data from public weather stations on dust and carbon monoxide levels. &lt;/p&gt;
 
 
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/app3.png&quot; alt=&quot;Jeff&quot; /&gt;
+                  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/app3.png&quot; alt=&quot;Jeff&quot; /&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Restructured backend and frontend facelift&lt;/h1&gt;
-        &lt;p class=&quot;lead&quot;&gt; 
-        After growing our product and technology, it became clear it was time for a more serious backend. We redid our device pairing and login system, support for historical data, more devices, more gas sensors, and new charts using c3.js. &lt;p&gt;
+                  &lt;h1 class=&quot;title-main-about&quot;&gt;Restructured backend and frontend facelift&lt;/h1&gt;
+                  &lt;p class=&quot;lead&quot;&gt; 
+                    After growing our product and technology, it became clear it was time for a more serious backend. We redid our device pairing and login system, support for historical data, more devices, more gas sensors, and new charts using c3.js. &lt;p&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; 
-         We also decided to kill our iOS app in testlight, so it was important to ensure usability of our webapp on mobile browsers. &lt;/p&gt;
+                    &lt;p class=&quot;lead&quot;&gt; 
+                     We also decided to kill our iOS app in testlight, so it was important to ensure usability of our webapp on mobile browsers. &lt;/p&gt;
 
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/dd1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+                     &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/dd1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-         &lt;h1 class=&quot;title-main-about&quot;&gt;Part 3: field testing&lt;/h1&gt;
-           &lt;p class=&quot;lead&quot;&gt; 
-        For many weeks I carried one of our devices around without ever turning it off. Whenever I was in public, people would ask me about that thing in my hand. It was a lot of fun having these conversations, getting to know strangers, learning about their views on air quality (and of course adding them to our email list).
-         &lt;/p&gt; 
-
-
-        
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/field.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Part 3: installing our devices in schools&lt;/h1&gt;
-
-         &lt;p class=&quot;lead&quot;&gt; 
-        After testing in different homes and installing our device at a few schools, we ran into many unforseen obstacles. School and offices often have secured wifi networks that are hard for our device to connect with.
-         &lt;/p&gt; 
-
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/schoool.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+                     &lt;h1 class=&quot;title-main-about&quot;&gt;Part 3: field testing&lt;/h1&gt;
+                     &lt;p class=&quot;lead&quot;&gt; 
+                      For many weeks I carried one of our devices around without ever turning it off. Whenever I was in public, people would ask me about that thing in my hand. It was a lot of fun having these conversations, getting to know strangers, learning about their views on air quality (and of course adding them to our email list).
+                    &lt;/p&gt; 
 
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Part 4: results&lt;/h1&gt;
-         &lt;p class=&quot;lead&quot;&gt; Demonstrating increased health hazard around heavy traffic &lt;/p&gt;
+                    
+                    &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/field.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss1.png&quot; alt=&quot;Jeff&quot; /&gt;
+                    &lt;h1 class=&quot;title-main-about&quot;&gt;Part 3: installing our devices in schools&lt;/h1&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; Demonstrating the sensitivity of our device: &lt;/p&gt;
+                    &lt;p class=&quot;lead&quot;&gt; 
+                      After testing in different homes and installing our device at a few schools, we ran into many unforseen obstacles. School and offices often have secured wifi networks that are hard for our device to connect with.
+                    &lt;/p&gt; 
 
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss3.png&quot; alt=&quot;Jeff&quot; /&gt;
-        
-
-          &lt;h1 class=&quot;title-main-about&quot;&gt;Pitching to investors&lt;/h1&gt;
-           &lt;p class=&quot;lead&quot;&gt; 
-        Being the leader in a startup is hands down the most challenging thing I have ever done. I had the priviledge of working with the most talented and driven people in the world inside our company as well as throughout my accelerator batch. 
-         &lt;/p&gt; 
-
-        To say the least, I was veyr nervous.  pitching against the best hackers that literally flew in from around the world (hondoras, russia, india, mexico, UAE) pitching to 140 investors and some of the bigger partners on the judge panel. 
+                    &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/schoool.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
 
+                    &lt;h1 class=&quot;title-main-about&quot;&gt;Part 4: results&lt;/h1&gt;
+                    &lt;p class=&quot;lead&quot;&gt; Demonstrating increased health hazard around heavy traffic &lt;/p&gt;
 
- 
-       
-        
+                    &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss1.png&quot; alt=&quot;Jeff&quot; /&gt;
+
+                    &lt;p class=&quot;lead&quot;&gt; Demonstrating the sensitivity of our device: &lt;/p&gt;
+
+                    &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss3.png&quot; alt=&quot;Jeff&quot; /&gt;
+                    
+
+                    &lt;h1 class=&quot;title-main-about&quot;&gt;Pitching to investors&lt;/h1&gt;
+                    &lt;p class=&quot;lead&quot;&gt; 
+                      Being the leader in a startup is hands down the most challenging thing I have ever done. I had the priviledge of working with the most talented and driven people in the world inside our company as well as throughout my accelerator batch. 
+                    &lt;/p&gt; 
+                    &lt;p class=&quot;lead&quot;&gt; 
+                      To say the least, I was very nervous.  pitching against the best hackers that literally flew in from around the world (hondoras, russia, india, mexico, UAE) pitching to 140 investors and some of the bigger partners on the judge panel. 
 
 
-      
-    
-  
+                    &lt;/p&gt; 
+                    
+                    
+                    
 
+
+                  
+                
+              
+            
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 01 Jan 2008 00:00:00 -0800</pubDate>
-        <link>http://127.0.0.1:4000//project-item/AirQuail/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//project-item/AirQuail/</guid>
+        <link>http://yourdomain.com/project-item/AirQuail/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/AirQuail/</guid>
         
         
         <category>project-item</category>
@@ -283,7 +283,7 @@
       </item>
     
       <item>
-        <title>Fed Up</title>
+        <title> </title>
         <description>&lt;div class=&quot;container-fluid&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row text-left&quot;&gt;
@@ -299,7 +299,7 @@
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Design considerations&lt;/h1&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; Our mission is to make citizens feel more empowered, so we made our app look like a badge worn by an officer. &lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; Our mission is to make citizens feel more empowered, so we&#39;re giving citizens a badge of their own.&lt;/p&gt;
 
 
  &lt;!--        &lt;div class=&quot;row text-center&quot;&gt;
@@ -308,38 +308,44 @@
           &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/f1.gif&quot; alt=&quot;Jeff&quot; &gt;
         &lt;/div&gt; --&gt;
 
+
+
         &lt;div class=&quot;row text-center&quot;&gt;
 
           &lt;div class=&quot;img-responsive center-block&quot;&gt;
- 
+              
                          &lt;div class=&quot;iconbox&quot;&gt;
-                 
-                      &lt;div class=&quot;jeff&quot;&gt;
+                  
+                      &lt;div class=&quot;name&quot;&gt;
                       &lt;img class=&quot;img-responsive center-block&quot; src=&quot;../../images/projects/fedup/nct.png&quot; alt=&quot;Jeff&quot; width=&quot;100&quot; /&gt;
-                      &lt;p&gt;Inspiration&lt;/p&gt;
+                      &lt;p&gt;&lt;b&gt;&lt;br /&gt;Inspiration&lt;/b&gt;&lt;/p&gt;
                     &lt;/div&gt;
                     
-                       &lt;div class=&quot;mariusz&quot;&gt;
+                       &lt;div class=&quot;name&quot;&gt;
                        &lt;img class=&quot;img-responsive center-block&quot; src=&quot;../../images/projects/fedup/f2.png&quot; alt=&quot;Mariusz&quot; width=&quot;100&quot; /&gt;
-                            &lt;p&gt;Record&lt;/p&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
                      &lt;/div&gt;
  
-                       &lt;div class=&quot;shashank&quot;&gt;
-                       &lt;img class=&quot;img-responsive center-block&quot; src=&quot;../../images/projects/fedup/f1.gif&quot; alt=&quot;Shashank&quot; width=&quot;114&quot; /&gt;
-                             &lt;p&gt;Recording&lt;/p&gt;
+                       &lt;div class=&quot;name&quot;&gt;
+                       &lt;img class=&quot;img-responsive center-block&quot; id=&quot;gifBadge&quot; src=&quot;../../images/projects/fedup/f1.gif&quot; alt=&quot;Shashank&quot; width=&quot;114&quot; /&gt;
+                             &lt;p&gt;&lt;b&gt;&lt;br /&gt;Recording&lt;/b&gt;&lt;/p&gt;
+                           &lt;/div&gt;
  
-                       &lt;/div&gt;
+                      
                      &lt;/div&gt; 
                    &lt;/div&gt;
                     &lt;/div&gt;
  
+                       &lt;p class=&quot;lead&quot;&gt; Like a badge, the app is designed so that it functions concealed in a pocket or worn around the user&#39;s neck. The dark interface creates a &quot;tactical&quot; appearance while lending itself to greater usability in dim lighting conditions. &lt;p&gt;
 
 
-        &lt;p class=&quot;lead&quot;&gt;  At the same time, we wanted to protect user privacy and allow them to run the app from their pocket. For this reason, we went recording audio instead of recording Video. Video would have also made our technology less usable in conditions with poor lighting.&lt;/p&gt;
+       
+         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/ff4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; Unlike our android app, the web component carried a lighter layout intended for use on the desktop. Whether it&#39;s the victim organizing an account the day after, lawyers browsing client folders, or public viewers browsing fact-oriented stories, the key was to deisgn a pleasant layout that supports a wide variety of media without dumbing content down. &lt;p&gt;
+        &lt;p class=&quot;lead&quot;&gt; Unlike our android app, the web component carried a lighter layout intended for use on the desktop. Whether it&#39;s the victim organizing an account the day after, lawyers browsing client folders, or public viewers browsing fact-oriented stories, the aim is a wide variety of media without dumbing content down. &lt;p&gt;
 
 
+      &lt;!--      &lt;p class=&quot;lead&quot;&gt;  At the same time, we wanted to protect user privacy and allow them to run the app from their pocket. For this reason, we went recording audio instead of recording Video. Video would have also made our technology less usable in conditions with poor lighting.&lt;/p&gt; --&gt;
 
 
           &lt;h1 class=&quot;title-main-about&quot;&gt;Update&lt;/h1&gt;
@@ -348,18 +354,18 @@
 
 
 
-          &lt;p class=&quot;lead&quot;&gt; After deciding to continue this project, we connected with the American Civil Liberties Union and entered an official partnership with them. We also connected with the Harvard Law&#39;s Berkman Center. The goal of working with these larger organizations was gain access to more data for our web component.&lt;/p&gt;
+          &lt;p class=&quot;lead&quot;&gt; After deciding to continue this project, we&#39;ve officially partnered with the American Civil Liberties Union to improve the state of mobile justice. We also connected with the Harvard Law&#39;s Berkman Center. The goal of working with these larger organizations was gain access to more data for our web component.&lt;/p&gt;
 
         
 
       
     
   
-&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 01 Jan 2007 00:00:00 -0800</pubDate>
-        <link>http://127.0.0.1:4000//project-item/Fed-Up/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//project-item/Fed-Up/</guid>
+        <link>http://yourdomain.com/project-item/Fed-Up/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/Fed-Up/</guid>
         
         
         <category>project-item</category>
@@ -367,7 +373,7 @@
       </item>
     
       <item>
-        <title>As One</title>
+        <title> </title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row text-left&quot;&gt;
@@ -480,8 +486,8 @@
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 01 Jan 2006 00:00:00 -0800</pubDate>
-        <link>http://127.0.0.1:4000//project-item/As-One/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//project-item/As-One/</guid>
+        <link>http://yourdomain.com/project-item/As-One/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/As-One/</guid>
         
         
         <category>project-item</category>
@@ -626,8 +632,8 @@
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate>
-        <link>http://127.0.0.1:4000//project-item/BenzPay/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//project-item/BenzPay/</guid>
+        <link>http://yourdomain.com/project-item/BenzPay/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/BenzPay/</guid>
         
         
         <category>project-item</category>
@@ -635,7 +641,7 @@
       </item>
     
       <item>
-        <title>Wifi Beerbong</title>
+        <title> </title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row text-left &quot;&gt;
@@ -732,8 +738,8 @@
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
-        <link>http://127.0.0.1:4000//project-item/Wifi-Beerbong/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//project-item/Wifi-Beerbong/</guid>
+        <link>http://yourdomain.com/project-item/Wifi-Beerbong/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/Wifi-Beerbong/</guid>
         
         
         <category>project-item</category>
@@ -741,7 +747,7 @@
       </item>
     
       <item>
-        <title>Firebird</title>
+        <title></title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row text-left&quot;&gt;
@@ -787,8 +793,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 01 Jan 2003 00:00:00 -0800</pubDate>
-        <link>http://127.0.0.1:4000//project-item/Firebird/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//project-item/Firebird/</guid>
+        <link>http://yourdomain.com/project-item/Firebird/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/Firebird/</guid>
         
         
         <category>project-item</category>
@@ -796,7 +802,7 @@
       </item>
     
       <item>
-        <title>Music Videos</title>
+        <title> </title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row text-left&quot;&gt;
@@ -844,8 +850,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 01 Jan 2002 00:00:00 -0800</pubDate>
-        <link>http://127.0.0.1:4000//project-item/Music-Videos/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//project-item/Music-Videos/</guid>
+        <link>http://yourdomain.com/project-item/Music-Videos/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/Music-Videos/</guid>
         
         
         <category>project-item</category>
@@ -853,7 +859,7 @@
       </item>
     
       <item>
-        <title>More Projects</title>
+        <title> </title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt; 
     &lt;div class=&quot;row text-left&quot;&gt;
@@ -885,6 +891,12 @@
               &lt;h1 class=&quot;title-main-about&quot;&gt;TBT jammin w/ friends&lt;/h1&gt;
               &lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/33963267&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
 
+
+           &lt;!--    &lt;h1 class=&quot;title-main-about&quot;&gt;#instagram&lt;/h1&gt;
+               &lt;iframe width=&quot;100%&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;http://widget.websta.me/in/heyjeffshaw/?r=1&amp;w=5&amp;h=4&amp;b=1&amp;p=5&amp;sb=off&quot;&gt;&lt;/iframe&gt; --&gt;
+
+          
+
 &lt;!-- 
            &lt;embed class=&quot;resume&quot; src=&quot;../../images/rresume.pdf&quot; alt=&quot;pdf viewer only&quot; width=&quot;100%&quot; height=&quot;500px&quot; alt=&quot;pdf&quot; pluginspage=&quot;http://www.adobe.com/products/acrobat/readstep2.html&quot;&gt;
 
@@ -903,8 +915,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 01 Jan 2001 00:00:00 -0800</pubDate>
-        <link>http://127.0.0.1:4000//project-item/More-Projects/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//project-item/More-Projects/</guid>
+        <link>http://yourdomain.com/project-item/More-Projects/</link>
+        <guid isPermaLink="true">http://yourdomain.com/project-item/More-Projects/</guid>
         
         
         <category>project-item</category>
