@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Nice Website
+title: Jeff Shaw
 # email: your-email@domain.com
-description: Some description about this nice website.
+description: Interaction designer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://heyjeffshaw.com" # the base hostname & protocol for your site
 #url: "http://127.0.0.1:4000/"

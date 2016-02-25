@@ -17,6 +17,8 @@ $(window).load(function()
    // $('.loading-caption-container').hide(50);
     $('.loading').delay(800).css("visibility", "hidden");
   $('.loading-caption-container').delay(800).css("visibility", "hidden") 
+
+  $("body").css("opacity", "0.9");
 });
 
 
