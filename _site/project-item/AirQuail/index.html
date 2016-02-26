@@ -67,23 +67,28 @@
         <h1 class="title-main-about"> </h1>
         <p class="lead"> <i> Airquail is the internet of things hardware startup that I cofounded. It started as a weekend hackathon project, and for 12 weeks it turned into a fulltime pursuit after we joined the Hackcelerator accelerator program. We're currently on our 3rd hardware prototype and have our devices in local school districts. </i></p>
 
-  <!--       <h1 class="title-main-about">Story</h1>
+                 <h1 class="title-main-about">Disclaimer</h1>
 
         <p class="lead"> 
-          Perhaps I should start this story like they do in some movies. We'll jump right into the climactic scene, pause it, tell the story of the build up, and then finally end with the decisive outcome.  </p>
+          This piece is focused more on the project process rather than the design details. Although I was the team designer, I was also the CEO. Thus my version of the story is skewed towards how everything came together rather than how every unique problem was solved.  </p>
+
+        <h1 class="title-main-about">Story</h1>
+
+     <!--    <p class="lead"> 
+          Perhaps I should start this story like they do in some movies. We'll jump right into the climactic scene, pause it, tell the story of the build up, and then finally end with the decisive outcome.  </p> -->
 
           <p class="lead"> 
-            So here I am nervously standing in front of 140 investors.  </p>
+            To start off, here's a clip of me providing some background. There were 140 investors in the crowd, so I was very nervous.  </p>
 
 
 
             <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Nu4WogMWovU?start=1160&end=1219"></iframe>
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Nu4WogMWovU?start=1160&amp;end=1219"></iframe>
             </div>
 
             <p class="lead"> </p>
 
-            <p class="lead"> What's going on? How did I get here? What's the plastic box that I have in my hand?</p>
+        <!--     <p class="lead"> What's going on? How did I get here? What's the plastic box that I have in my hand?</p>
 
    
             
@@ -94,14 +99,16 @@
               <img class="content-image"  src="../../images/projects/airquail/team.jpg" alt="Jeff" > -->
             
             
+        
+
             <h1 class="title-main-about">Searching for product direction</h1>
             <p class="lead"> 
-             If we were going to dedicate 3 months to building a product, it better be something we ourselves wanted to use. So although healthcare was a hot market, I strongly believed in focusing more on gases associated with comfort and wellness. We didn't want to be an alarm that monitors  toxic gas that will kills 50 people a year. On the other hand, we also didn't want to just monitor gases that will shorten your lives by 12 months. Instead, it's about telling people more about the gases that are always around you that you can't see and how they can unconsciously influence your lifestyle. <p>
+             With all the work we were putting in without compensation, it was important that we didn't forget about building a device that we ourselves would be excited to use. So although health and medical was a hot market, I strongly believed in focusing more on gases associated with comfort and wellness. We didn't want to be an alarm that monitors toxic gas that will kills 50 people a year. On the other hand, we also didn't want to just monitor gases that will shorten your lives by 12 months. Instead, it's about telling people more about the gases that are always around you that you can't see and how they can unconsciously influence your lifestyle. <p>
 
 
              <h1 class="title-main-about">Searching for the right sensors</h1>
              <p class="lead">
-              We went with Carbon Dioxide, Carbon Monoxide, Pm 2.5. We also added other sensors such as temperature, humidity, pressure for the sole purpose of making our primary gas algorithms more accurate.
+              After picking apart competing products, speaking with sensor manufactures in Chinese and Korean, we settled on an initial sensor suite. The gases we monitor include carbon dioxide, carbon monoxide, and pm 2.5. In addition, we included other values such as temperature, humidity, pressure for the sole purpose of accurate calibration.
               <p>
 
 
@@ -123,33 +130,38 @@
 
         <h1 class="title-main-about">Designing a functional enclosure</h1>
 
-        <p class="lead">  Most startups hire an industrial design firm, but we're a little more scrappy than that so we designed and 3d printed our own enclosures. <p>
+        <p class="lead">  Most startups hire an industrial design firm, but we're a little more scrappy than that. For these initial prototypes, we designed and 3d printed our own enclosures. <p>
 
           
 
           <img class="content-image" src="../../images/projects/airquail/ca4.png" alt="Jeff" />
 
           <p class="lead">
-           Small vents allowed for passive air diffusion. This worked well when the device just sat around to collect gradual changes. But for demo purposes and with certain gases requiring faster readings, we learned that on occasion an active intake was more ideal. 
+           Creating small vents allowed for passive air diffusion. This worked well when the device just sat around to collect gradual changes. But for quick demos and with certain gases requiring faster readings, we learned that an active intake was more ideal. 
            <p>
              
 
             <img class="content-image" src="../../images/projects/airquail/cad2.png" alt="Jeff" />
-            <p class="lead">
-             To meet our second goal we needed a portable device. That meant it had to have its own battery and be small enough to carry. Not much value in a device that just plugged into the wall and sat by the nightstand all day.
-             <p>
+          
+               <p class="lead"> 
+                Unlike our competitors, we wanted our device to have (1) better integration with user lifestyle and (2) better integration with smart appliances. <p>
 
               <img class="content-image" src="../../images/projects/airquail/h3.jpg" alt="Jeff" />
 
               
               <h1 class="title-main-about">The software</h1>
-              <p class="lead"> 
-                Unlike our competitors, we wanted our device to have (1) better integration with appliances and (2) better integration with user lifestyle. The first step to smart home integration was creating our own REST API that our own software, other devices, and appliances could read. <p>
+           
 
-
+                  <p class="lead">
+              
+             To meet the first criteria, we made our device more portable. It must have its own battery while being small enough to carry. I don't see value in devices that plug into the wall and sit by the nightstand all day. Air quality is important when it's relevant to our surrounding. <p>
                 
                 <h1 class="title-main-about">MVP</h1>
                 <p class="lead"> 
+
+                   The first step towards smart home integration was creating our own REST API that our own software, other devices, and appliances could read. <p>
+
+                     <p class="lead"> 
                   Our first webapp was a functioning proof of concept. We started by pulling data from the EPA to compare with the data from our own device. Typing a zipcode returns data from public weather stations on dust and carbon monoxide levels. </p>
 
 
@@ -157,16 +169,16 @@
 
                   <h1 class="title-main-about">Restructured backend and frontend facelift</h1>
                   <p class="lead"> 
-                    After growing our product and technology, it became clear it was time for a more serious backend. We redid our device pairing and login system, support for historical data, more devices, more gas sensors, and new charts using c3.js. <p>
+                    After growing our product and technology, it became clear it was time for a more serious backend. We overhauled our device pairing and login system. We added additional support for historical data, more devices, more gas sensors, and tried out a new chart library using c3.js. <p>
 
                     <p class="lead"> 
-                     We also decided to kill our iOS app in testflight, so it was important to ensure usability of our webapp on mobile browsers. </p>
+                     We also decided to kill our iOS app in testflight because we were spreading our time and effort too thin. Thus it became even more important to ensure webapp usability on mobile browsers. </p>
 
                      <img class="content-image" src="../../images/projects/airquail/dd1.jpg" alt="Jeff" />
 
                      <h1 class="title-main-about">Field testing</h1>
                      <p class="lead"> 
-                      For many weeks I carried one of our devices around without ever turning it off. Whenever I was in public, people would ask me about that thing in my hand. It was a lot of fun having these conversations, getting to know strangers, learning about their views on air quality (and of course adding them to our email list).
+                      For many weeks I carried one of our devices around without ever turning it off. Whenever I was in public, people would ask me about that glowing box in my hand - most people thought it was a battery pac. It was a lot of fun having these conversations, getting to know strangers, learning about their views on air quality (and of course adding them to our email list).
                     </p> 
 
 
@@ -176,7 +188,10 @@
                     <h1 class="title-main-about">Installing our devices in schools</h1>
 
                     <p class="lead"> 
-                      After testing in different homes and installing our device at a few schools in norcal, we ran into many unforseen obstacles. School and offices often have secured wifi networks that are hard for our device to connect with.
+                      After testing in different homes and installing our device at a few schools around Sacramento, we ran into many unforseen obstacles. School and offices often have secured wifi networks that are hard for our device to connect with. <p>
+
+                      <p class="lead"> 
+                      In one instance, the principle used his phone as a hotspot for our device. Although the workarounds weren't always pretty, people were more tolerant than I anticipated because we were providing for a real need.
                     </p> 
 
                     <img class="content-image" src="../../images/projects/airquail/schoool.jpg" alt="Jeff" />
@@ -215,7 +230,7 @@
                     </p>  -->
 
                     <p class="lead"> 
-                      Being the leader in a startup is hands down the most challenging thing I've ever done. I had the privilege of working with the most talented and driven people in the world within our startup throughout our accelerator batch.
+                      Being the leader in a startup is hands down the most challenging thing I've ever done. I had the privilege of working with the most talented and driven people in the world within our startup and throughout our accelerator batch.
                     </p> 
 
                        <img class="content-image" src="../../images/projects/airquail/team.jpg" alt="Jeff" />
@@ -227,7 +242,7 @@
                 
               
             
-</p></p></p></p></p></p></p></p></p></p></p></p></p></p></div></div></div></div>
+</p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></div></div></div></div>
 
   </div>
 
