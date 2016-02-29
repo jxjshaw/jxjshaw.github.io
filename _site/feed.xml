@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Feb 2016 04:17:41 -0800</pubDate>
-    <lastBuildDate>Fri, 26 Feb 2016 04:17:41 -0800</lastBuildDate>
+    <pubDate>Mon, 29 Feb 2016 13:57:14 -0800</pubDate>
+    <lastBuildDate>Mon, 29 Feb 2016 13:57:14 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -135,7 +135,7 @@
                  &lt;h1 class=&quot;title-main-about&quot;&gt;Disclaimer&lt;/h1&gt;
 
         &lt;p class=&quot;lead&quot;&gt; 
-          This piece is focused more on the project process rather than the design details. Although I was the team designer, I was also the CEO. Thus my version of the story is skewed towards how everything came together rather than how every unique problem was solved.  &lt;/p&gt;
+          This piece is focused more on the project process rather than the design details. Although I was the team designer, I was also the startup CEO. Thus my version of the story is skewed towards how everything came together rather than how every unique problem was solved.  &lt;/p&gt;
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Story&lt;/h1&gt;
 
@@ -143,7 +143,7 @@
           Perhaps I should start this story like they do in some movies. We&#39;ll jump right into the climactic scene, pause it, tell the story of the build up, and then finally end with the decisive outcome.  &lt;/p&gt; --&gt;
 
           &lt;p class=&quot;lead&quot;&gt; 
-            To start off, here&#39;s a clip of me providing some background. There were 140 investors in the crowd, so I was very nervous.  &lt;/p&gt;
+            To start off, here&#39;s a clip of me providing some background. There were 140 investors in the crowd and I was very nervous.  &lt;/p&gt;
 
 
 
@@ -962,11 +962,11 @@
               &lt;h1 class=&quot;title-main-about&quot;&gt;Twilio valentine cards&lt;/h1&gt;
               &lt;p class=&quot;lead&quot;&gt; Cupid IRL - 60 matches over valentine weekend &lt;/p&gt;
               &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/more/valentree.gif&quot; alt=&quot;Jeff&quot; /&gt;
-
+&lt;!-- 
               &lt;h1 class=&quot;title-main-about&quot;&gt;TBT jammin w/ friends&lt;/h1&gt;
               &lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/33963267&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
 
-
+ --&gt;
            &lt;!--    &lt;h1 class=&quot;title-main-about&quot;&gt;#instagram&lt;/h1&gt;
                &lt;iframe width=&quot;100%&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;http://widget.websta.me/in/heyjeffshaw/?r=1&amp;w=5&amp;h=4&amp;b=1&amp;p=5&amp;sb=off&quot;&gt;&lt;/iframe&gt; --&gt;
 
