@@ -29,12 +29,16 @@ project-title: More
 
 
               <h1 class="title-main-about">DASH Hack</h1>
-              <p class="lead"> Tactile feedback for robots </p>
+              <p class="lead"> Exploring tactile feedback for robots. </p>
               <img class="content-image" src="../../images/projects/more/dash.gif" alt="Jeff" >
 
               <h1 class="title-main-about">Twilio valentine cards</h1>
-              <p class="lead"> Cupid IRL - 60 matches over valentine weekend </p>
+              <p class="lead"> Digital cupid - made 60 matches over valentine weekend.</p>
               <img class="content-image" src="../../images/projects/more/valentree.gif" alt="Jeff" >
+
+              <h1 class="title-main-about">Ride planner</h1>
+              <p class="lead"> Spontaneous trip planner for recreational riding. </p>
+              <img class="content-image" src="../../images/projects/more/cont2.gif" alt="Jeff" >
 <!-- 
               <h1 class="title-main-about">TBT jammin w/ friends</h1>
               <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/33963267&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>

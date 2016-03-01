@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Feb 2016 13:57:14 -0800</pubDate>
-    <lastBuildDate>Mon, 29 Feb 2016 13:57:14 -0800</lastBuildDate>
+    <pubDate>Tue, 01 Mar 2016 14:58:33 -0800</pubDate>
+    <lastBuildDate>Tue, 01 Mar 2016 14:58:33 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -398,7 +398,7 @@
             mobile justice
 
           &lt;/a&gt;&lt;/b&gt;.
-             We&#39;ve&#39;also connected with Harvard Law&#39;s Berkman Center For Internet &amp;amp; Society to explore the intersections of law and social media. &lt;/p&gt;
+             We have also connected with Harvard Law&#39;s Berkman Center For Internet &amp;amp; Society to explore the intersections of law and social media. &lt;/p&gt;
 
         
 
@@ -473,7 +473,7 @@
           &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a6.png&quot; alt=&quot;Jeff&quot; /&gt;
 
         &lt;p class=&quot;lead&quot;&gt;
-         The rest of the views following the splash screen are functional realizations of this feeling that you&#39;re around you&#39;re closest friends. So it was natural to extend these intense and intimate colors through the entire interaction. &lt;/p&gt;   
+         The rest of the views following the splash screen are functional realizations of this feeling of being surrounded by your closest friends. So it was natural to extend these intense and intimate colors through the entire interaction. &lt;/p&gt;   
 
 
        
@@ -956,12 +956,16 @@
 
 
               &lt;h1 class=&quot;title-main-about&quot;&gt;DASH Hack&lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; Tactile feedback for robots &lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; Exploring tactile feedback for robots. &lt;/p&gt;
               &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/more/dash.gif&quot; alt=&quot;Jeff&quot; /&gt;
 
               &lt;h1 class=&quot;title-main-about&quot;&gt;Twilio valentine cards&lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; Cupid IRL - 60 matches over valentine weekend &lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; Digital cupid - made 60 matches over valentine weekend.&lt;/p&gt;
               &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/more/valentree.gif&quot; alt=&quot;Jeff&quot; /&gt;
+
+              &lt;h1 class=&quot;title-main-about&quot;&gt;Ride planner&lt;/h1&gt;
+              &lt;p class=&quot;lead&quot;&gt; Spontaneous trip planner for recreational riding. &lt;/p&gt;
+              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/more/cont2.gif&quot; alt=&quot;Jeff&quot; /&gt;
 &lt;!-- 
               &lt;h1 class=&quot;title-main-about&quot;&gt;TBT jammin w/ friends&lt;/h1&gt;
               &lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/33963267&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
