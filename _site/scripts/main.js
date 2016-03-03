@@ -36,7 +36,14 @@
 $(document).ready(function() {
   $("img").unveil(200, function() {
   $(this).load(function() {
-    this.style.opacity = 1;
+    // this.style.opacity = 1;
+    console.log("please work")
+    if ( $(window).width() > 800 ){
+    $("#project-gif").delay(800).css("opacity", "0.05");
+  }
+    else {
+    $("#project-gif").delay(800).css("opacity", "0.9");
+  }
   });
 });
 });
