@@ -627,7 +627,6 @@ body {
 }
 
 img {
-
-  transition: all 0.1s ease;
-}
-
+  opacity: 0.0;
+  transition: opacity .3s ease-in;
+} 
