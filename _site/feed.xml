@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Mar 2016 14:58:33 -0800</pubDate>
-    <lastBuildDate>Tue, 01 Mar 2016 14:58:33 -0800</lastBuildDate>
+    <pubDate>Wed, 02 Mar 2016 20:45:00 -0800</pubDate>
+    <lastBuildDate>Wed, 02 Mar 2016 20:45:00 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -219,7 +219,7 @@
 
                   &lt;p class=&quot;lead&quot;&gt;
               
-             To meet the first criteria, we made our device more portable. It must have its own battery while being small enough to carry. I don&#39;t see value in devices that plug into the wall and sit by the nightstand all day. Air quality is important when it&#39;s relevant to our surrounding. &lt;p&gt;
+             To meet the first criteria, we made our device more portable. It must have its own battery while being small enough to carry. Air quality is mostly important when it&#39;s relevant to our surrounding. In other words, I didn&#39;t see much value in building a device that plugs into the wall and sits by a nightstand all day.  &lt;p&gt;
                 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;MVP&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt; 
@@ -234,16 +234,16 @@
 
                   &lt;h1 class=&quot;title-main-about&quot;&gt;Restructured backend and frontend facelift&lt;/h1&gt;
                   &lt;p class=&quot;lead&quot;&gt; 
-                    After growing our product and technology, it became clear it was time for a more serious backend. We overhauled our device pairing and login system. We added additional support for historical data, more devices, more gas sensors, and tried out a new chart library using c3.js. &lt;p&gt;
+                    After growing our product and technology, it was clearly time for a more serious backend. We overhauled our device pairing and login system. We added additional support for historical data, more devices, more gas sensors, and tried out a new chart style using c3.js. &lt;p&gt;
 
                     &lt;p class=&quot;lead&quot;&gt; 
-                     We also decided to kill our iOS app in testflight because we were spreading our time and effort too thin. Thus it became even more important to ensure webapp usability on mobile browsers. &lt;/p&gt;
+                     We also killed off our iOS app in testflight because we were spreading our time and effort too thin. Thus it became even more important to ensure webapp usability on mobile browsers. &lt;/p&gt;
 
                      &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/dd1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
                      &lt;h1 class=&quot;title-main-about&quot;&gt;Field testing&lt;/h1&gt;
                      &lt;p class=&quot;lead&quot;&gt; 
-                      For many weeks I carried one of our devices around without ever turning it off. Whenever I was in public, people would ask me about that glowing box in my hand - most people thought it was a battery pac. It was a lot of fun having these conversations, getting to know strangers, learning about their views on air quality (and of course adding them to our email list).
+                      For many weeks I carried one of our devices around without ever turning it off. Whenever I was in public, people would ask me about that glowing box in my hand - most people thought it was some type of charging station . It was a lot of fun having these conversations, getting to know strangers, learning about their views on air quality (and of course adding them to our email list).
                     &lt;/p&gt; 
 
 
@@ -256,13 +256,14 @@
                       After testing in different homes and installing our device at a few schools around Sacramento, we ran into many unforseen obstacles. School and offices often have secured wifi networks that are hard for our device to connect with. &lt;p&gt;
 
                       &lt;p class=&quot;lead&quot;&gt; 
-                      In one instance, the principle used his phone as a hotspot for our device. Although the workarounds weren&#39;t always pretty, people were more tolerant than I anticipated because we were providing for a real need.
+                      In one instance, the principle would use phone as a hotspot for his device. Although the workarounds weren&#39;t always pretty, people were more tolerant than I anticipated because we were providing a better solution to monitor surrounding air quality.
                     &lt;/p&gt; 
 
                     &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/schoool.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
 
                     &lt;h1 class=&quot;title-main-about&quot;&gt;Evaluating the results&lt;/h1&gt;
+ 
                     &lt;p class=&quot;lead&quot;&gt; Demonstrating increased health hazard around heavy traffic &lt;/p&gt;
 
                     &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss1.png&quot; alt=&quot;Jeff&quot; /&gt;
@@ -295,7 +296,7 @@
                     &lt;/p&gt;  --&gt;
 
                     &lt;p class=&quot;lead&quot;&gt; 
-                      Being the leader in a startup is hands down the most challenging thing I&#39;ve ever done. I had the privilege of working with the most talented and driven people in the world within our startup and throughout our accelerator batch.
+                      Being the leader in a startup is hands down the most challenging thing I&#39;ve ever done. I had the privilege of working with the most talented and driven people in the world - both within our startup and throughout our accelerator batch.
                     &lt;/p&gt; 
 
                        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/team.jpg&quot; alt=&quot;Jeff&quot; /&gt;
@@ -725,16 +726,16 @@
               &lt;h1 class=&quot;title-main-about&quot;&gt;The world&#39;s first wifi enabled beerbong&lt;/h1&gt;
 
 
-          &lt;p class=&quot;lead&quot;&gt; I had a lot of unanswered questions, so I started to lay them out in my notebook. Where am I getting power? How am I going to display the data? How can I make drinking a hyper-socia activity?  &lt;/p&gt;
+          &lt;p class=&quot;lead&quot;&gt; I had a lot of unanswered questions, so I started to lay them out in my notebook. Where am I getting power? How am I going to display the data? How can I make drinking a hyper-social activity?  &lt;/p&gt;
 
 
-         &lt;p class=&quot;lead&quot;&gt; A single device had to support multiple users, so it made sense to have a log in feature that integrated well with social media.   &lt;/p&gt;
+         &lt;p class=&quot;lead&quot;&gt; A single device had to support multiple users, so it made sense to have a log-in feature that integrated well with social media.   &lt;/p&gt;
 
            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/f1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
 
           &lt;h1 class=&quot;title-main-about&quot;&gt;Hardware constraints&lt;/h1&gt;
-         &lt;p class=&quot;lead&quot;&gt; The annoying thing with Particle (link) photons is that they run off 3.3v and a lot of sensors run off 5v. Since we were powering the photon with a usb battery pack, the original plan was to use that power with a voltage divider. I&#39;m not an electrical engineer, but i just decided to just tap into the VIN of the photon. People were telling me not to do that, but it&#39;s been working as long as I make sure the ground is not floating around.  &lt;/p&gt;
+         &lt;p class=&quot;lead&quot;&gt; The annoying thing with &lt;a href=&quot;https://www.particle.io/&quot;&gt; &lt;b&gt; Particle &lt;/b&gt; &lt;/a&gt; photons is that they run off 3.3v and a lot of sensors run off 5v. Since we were powering the photon with a usb battery pack, the original plan was to use that power with a voltage divider. I&#39;m not an electrical engineer, so I just decided to just tap into the VIN of the photon. People were telling me not to do that, but it&#39;s been working as long as the ground wasn&#39;t floating around.  &lt;/p&gt;
 
 
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/schem.jpg&quot; alt=&quot;Jeff&quot; /&gt;
@@ -745,7 +746,7 @@
 
 
       &lt;h1 class=&quot;title-main-about&quot;&gt;Wiring it up and weather proofing&lt;/h1&gt;
-       &lt;p class=&quot;lead&quot;&gt; I wasn&#39;t going to take any chances on shorting out the last board I had. Made sure this time nothing was hanging out in the open.   &lt;/p&gt;
+       &lt;p class=&quot;lead&quot;&gt; We fried the circuit while testing the flow sensor with some real liquid. When making the final changes to the circuit, I wasn&#39;t going to take any chances on shorting out the last board I had. Made sure this time nothing was hanging out in the open.   &lt;/p&gt;
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/p1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
     
@@ -757,11 +758,11 @@
         
               &lt;h1 class=&quot;title-main-about&quot;&gt;Software was a failure&lt;/h1&gt;
 
-              &lt;p class=&quot;lead&quot;&gt;  I did not work on our software for this project. The only code I wrote was for the arduino. Nonetheless I still have an opinion about the software.&lt;p&gt;
+              &lt;p class=&quot;lead&quot;&gt;  I did not work on our software for this project. The only code I wrote was for the arduino sending out a request. Nonetheless I still have an opinion about the software.&lt;p&gt;
 
                 &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/userfloww.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-                 &lt;p class=&quot;lead&quot;&gt;   Some features we just didn&#39;t get around to implementing. For instance, the score ranking. Other features, I think we could have been better off avoiding. In particular the facebook login. Although it&#39;s important for social games to link to social  profiles, I think there are easier ways for someone to login than to type in their facebook email and password. One option I would love to explore in the future would be installing a camera on the beerbong and leveraging facial recognition to tag participants.&lt;p&gt;
+                 &lt;p class=&quot;lead&quot;&gt;   Some features, like the score ranking, we just didn&#39;t get around to implementing. Other features, like the facebook login, I think we could have been better off avoiding. Although it&#39;s important for social games to link to social profiles, I think there are easier ways for someone to login than to type in their facebook email and password. In the future, one option I would love to explore would be installing a camera on the beerbong and leveraging a facial recognition service to tag participants.&lt;p&gt;
 
 
                   &lt;h1 class=&quot;title-main-about&quot;&gt;Check it out&lt;/h1&gt;
@@ -885,10 +886,10 @@
               &lt;h1 class=&quot;title-main-about&quot;&gt; On the steps &lt;/h1&gt;
               &lt;!-- &lt;p class=&quot;lead&quot;&gt; My favorite part about rappers is their work ethic - the hustle, the grind - having a dayjob and hitting the studio at night. I guess it&#39;s the same reason I love startups. It&#39;s about being young, living your dreams while everyones telling you your stupid. &lt;/p&gt; --&gt;
 
-               &lt;p class=&quot;lead&quot;&gt;  This track is slow, so everything from the shutter speed to the editing cuts are slow to keep things smooth. &lt;p&gt;
+               &lt;p class=&quot;lead&quot;&gt;  This track is slow, so everything from the shutter speed to the editing cuts are slow to keep the style smooth. &lt;p&gt;
 
                  &lt;p class=&quot;lead&quot;&gt;
-                Used tighter focal length to soften the surroundings. Lighting is very carefully planned to melt in with dim ambient reflections.                &lt;/p&gt;
+                I used a tighter focal length to soften the surroundings. Lighting is very carefully planned, both in placement and timing, and is designed to melt in with dim ambient reflections.                &lt;/p&gt;
 
                &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
                   &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/JkA_sGRfyKA&quot;&gt;&lt;/iframe&gt;
@@ -896,10 +897,13 @@
 
 
               &lt;h1 class=&quot;title-main-about&quot;&gt; SOS &lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; In the recent years, the most popular rap videos are shot on cropped sensors with tight lenses,  it&#39;s a nice raw style. &lt;p&gt;
+              &lt;p class=&quot;lead&quot;&gt; In recent years, the most popular rap videos are shot on cropped sensors with tight lenses,  it&#39;s a nice raw style. &lt;p&gt;
 
                  &lt;p class=&quot;lead&quot;&gt; 
-                This video looks different because many shots are much wider. Fwiw, the intro is way too long, and for the 10k views we received, half of them probably stopped watching it before the video even started. &lt;/p&gt;
+                This video looks different because many shots are much wider. Wider lenses are great for high energy shots. Wider lenses allow for greater subject movement across the frame while reducing camera movement and shakiness. &lt;/p&gt;
+
+                 &lt;p class=&quot;lead&quot;&gt; 
+                In hindsight the intro I created was too long. For the 10k viewers of the video, half of them probably stopped watching it before the video even started. &lt;/p&gt;
 
 
 

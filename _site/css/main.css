@@ -5829,7 +5829,7 @@ body .projectSVG {
 #header-row {
   transition-delay: 0.3s; }
 
-@media screen and (max-width: 800px) {
+@media screen and (min-width: 401px) and (max-width: 800px) {
   .project-gif {
     width: 100px;
     height: 100px;
@@ -5841,6 +5841,24 @@ body .projectSVG {
 
   .project-list-item {
     padding-top: 10px; } }
+@media screen and (min-width: 1px) and (max-width: 401px) {
+  .project-gif {
+    width: 100px;
+    height: 100px;
+    opacity: 1.0; }
+
+  .project-col {
+    width: 200px; }
+
+  .header-text {
+    padding-top: 0px;
+    margin-top: -10px; }
+
+  .project-list-item {
+    padding-top: 10px; }
+
+  .project-title {
+    font-size: 12px; } }
 @media screen and (min-width: 800px) {
   .project-col {
     width: 350px;
@@ -5901,7 +5919,9 @@ p {
   font-weight: 400;
   font-spacing: 1.6;
   opacity: 0.74;
-  line-height: 2; }
+  line-height: 2;
+  margin-left: 15px;
+  margin-right: -3px; }
 
 .title-main-about {
   font-size: 24px;
@@ -5974,3 +5994,6 @@ p {
 #header-text {
   opacity: 0.0;
   transition: all 0.3s ease; }
+
+body {
+  overflow-x: hidden; }
