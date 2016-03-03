@@ -15,7 +15,7 @@ project-title: Music Videos
         <p class="lead"> When I was a college hipster, I worked in video production and post production. <p>
 
           <p class="lead">
-         Here are a few videos from work/fun. They've been featured on some of those underground blogs.</p>
+         Here are a few videos from work/fun.</p>
 
         
 

@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Mar 2016 20:54:58 -0800</pubDate>
-    <lastBuildDate>Wed, 02 Mar 2016 20:54:58 -0800</lastBuildDate>
+    <pubDate>Wed, 02 Mar 2016 23:03:15 -0800</pubDate>
+    <lastBuildDate>Wed, 02 Mar 2016 23:03:15 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -256,7 +256,7 @@
                       After testing in different homes and installing our device at a few schools around Sacramento, we ran into many unforseen obstacles. School and offices often have secured wifi networks that are hard for our device to connect with. &lt;p&gt;
 
                       &lt;p class=&quot;lead&quot;&gt; 
-                      In one instance, the principle would use phone as a hotspot for his device. Although the workarounds weren&#39;t always pretty, people were more tolerant than I anticipated because we were providing a better solution to monitor surrounding air quality.
+                      In one instance, the school principle even used his own phone as a hotspot for connecting the device. Although the workarounds weren&#39;t always pretty, people were more tolerant than I anticipated because we were providing a better solution to monitor surrounding air quality.
                     &lt;/p&gt; 
 
                     &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/schoool.jpg&quot; alt=&quot;Jeff&quot; /&gt;
@@ -264,7 +264,7 @@
 
                     &lt;h1 class=&quot;title-main-about&quot;&gt;Evaluating the results&lt;/h1&gt;
  
-                    &lt;p class=&quot;lead&quot;&gt; Demonstrating increased health hazard around heavy traffic &lt;/p&gt;
+                    &lt;p class=&quot;lead&quot;&gt; Demonstrating increased health hazard around heavy traffic: &lt;/p&gt;
 
                     &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss1.png&quot; alt=&quot;Jeff&quot; /&gt;
 
@@ -391,15 +391,33 @@
 
 
 
-          &lt;p class=&quot;lead&quot;&gt; After deciding to continue this project, we&#39;ve officially partnered with the American Civil Liberties Union to improve the state of 
+          &lt;p class=&quot;lead&quot;&gt; After deciding to continue this project, we&#39;ve officially partnered with the 
+
 
             &lt;b&gt; &lt;a href=&quot;https://www.aclu.org/feature/aclu-apps-record-police-conduct&quot;&gt;
+
+            American Civil Liberties Union 
+
+              &lt;/a&gt;&lt;/b&gt;
+
+            to improve the state of 
+
+            
             
 
-            mobile justice
+            mobile justice.
 
-          &lt;/a&gt;&lt;/b&gt;.
-             We have also connected with Harvard Law&#39;s Berkman Center For Internet &amp;amp; Society to explore the intersections of law and social media. &lt;/p&gt;
+        
+             We have also connected with Harvard Law&#39;s 
+
+
+            &lt;b&gt; &lt;a href=&quot;https://cyber.law.harvard.edu/&quot;&gt;
+
+             Berkman Center For Internet &amp;amp; Society
+
+              &lt;/a&gt;&lt;/b&gt;
+
+              to explore the intersections of law and social media. &lt;/p&gt;
 
         
 
@@ -877,7 +895,7 @@
         &lt;p class=&quot;lead&quot;&gt; When I was a college hipster, I worked in video production and post production. &lt;p&gt;
 
           &lt;p class=&quot;lead&quot;&gt;
-         Here are a few videos from work/fun. They&#39;ve been featured on some of those underground blogs.&lt;/p&gt;
+         Here are a few videos from work/fun.&lt;/p&gt;
 
         
 
