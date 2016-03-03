@@ -5691,7 +5691,7 @@ iframe {
   -webkit-text-fill-color: transparent;
   letter-spacing: 15pt;
   font-size: 2em;
-  opacity: 0.85;
+  opacity: 0.75;
   transition: margin-top 0.8s ease;
   transition: opacity 0.3s ease;
   transition: letter-spacing 0.1s ease; }
@@ -5832,8 +5832,8 @@ body .projectSVG {
 
 @media screen and (min-width: 401px) and (max-width: 800px) {
   .project-gif {
-    width: 100px;
-    height: 100px;
+    width: 95px;
+    height: 95px;
     opacity: 1.0; }
 
   .header-text {
