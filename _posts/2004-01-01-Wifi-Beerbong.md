@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: project-item
-img-path: images/bbb3.gif
+img-path: images/bb2.gif
 project-title: Wifi Beerbong
 ---
 
