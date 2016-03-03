@@ -5827,7 +5827,8 @@ body .projectSVG {
   transition-delay: 0.4s; }
 
 #header-row {
-  transition-delay: 0.3s; }
+  opacity: 1.0;
+  transition: opacity 0.3s ease; }
 
 @media screen and (min-width: 401px) and (max-width: 800px) {
   .project-gif {

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: project-item
-img-path: images/cont.gif
+img-path: images/kk1.gif
 project-title: More
 ---
 

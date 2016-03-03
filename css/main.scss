@@ -359,7 +359,9 @@ body .projectSVG {
 }
 
 #header-row{
-  transition-delay: 0.3s;
+  opacity: 1.0;
+  transition: opacity 0.3s ease;
+  // transition-delay: 0.3s;
 }
 
 
