@@ -39,6 +39,8 @@ $(document).ready(function() {
     // this.style.opacity = 1;
     console.log("please work")
     if ( $(window).width() > 800 ){
+    $("#project-gif").css("transition", "opacity 0.3s ease");
+
     $("#project-gif").delay(800).css("opacity", "0.05");
   }
     else {
