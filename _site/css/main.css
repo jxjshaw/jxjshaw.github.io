@@ -5655,7 +5655,6 @@ ul {
   border-radius: 50%;
   object-fit: cover;
   opacity: 0.9;
-  transition: all 0.1s ease;
   transition: opacity 0.1s ease; }
 
 .project-gif:active {
@@ -5722,7 +5721,7 @@ a {
   color: black; }
 
 #project-row {
-  opacity: 1.0;
+  opacity: 0.0;
   transition: opacity 1s ease-out;
   transition-delay: 1.5s; }
 
@@ -5834,7 +5833,7 @@ body .projectSVG {
   .project-gif {
     width: 100px;
     height: 100px;
-    opacity: 0.9; }
+    opacity: 1.0; }
 
   .header-text {
     padding-top: 0px;
@@ -5993,12 +5992,8 @@ p {
   transition: all 0.3s ease; }
 
 #header-text {
-  opacity: 1.0;
+  opacity: 0.0;
   transition: all 0.3s ease; }
 
 body {
   overflow-x: hidden; }
-
-img {
-  opacity: 0.0;
-  transition: opacity .3s ease-in; }

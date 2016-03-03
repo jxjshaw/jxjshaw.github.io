@@ -35,7 +35,7 @@ layout: default
                 {% for post in site.categories.project-item %}
                   <a href="{{ post.url }}">
                     <li class="project-list-item text-center">        
-                      <img class="project-gif" src="/images/yo4.jpg" data-src="{{ post.img-path }}">
+                      <img class="project-gif" src="{{ post.img-path }}">
                       <h5 class="project-title">{{ post.project-title }}</h5>
                     </li>
                   </a>
@@ -78,3 +78,5 @@ layout: default
 </div>
 
 
+<div class="loading-caption-container"> <p class="project-title" id="loading-caption"> / / loading... <p> </div>
+<div class="loading"></div>
