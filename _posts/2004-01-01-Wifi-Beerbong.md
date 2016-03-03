@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: project-item
-img-path: images/bb2.gif
+img-path: images/bbb3.gif
 project-title: Wifi Beerbong
 ---
 
@@ -41,16 +41,16 @@ project-title: Wifi Beerbong
               <h1 class="title-main-about">The world's first wifi enabled beerbong</h1>
 
 
-          <p class="lead"> I had a lot of unanswered questions, so I started to lay them out in my notebook. Where am I getting power? How am I going to display the data? How can I make drinking a hyper-socia activity?  </p>
+          <p class="lead"> I had a lot of unanswered questions, so I started to lay them out in my notebook. Where am I getting power? How am I going to display the data? How can I make drinking a hyper-social activity?  </p>
 
 
-         <p class="lead"> A single device had to support multiple users, so it made sense to have a log in feature that integrated well with social media.   </p>
+         <p class="lead"> A single device had to support multiple users, so it made sense to have a log-in feature that integrated well with social media.   </p>
 
            <img class="content-image"  src="../../images/projects/beerbong/f1.jpg" alt="Jeff" >
 
 
           <h1 class="title-main-about">Hardware constraints</h1>
-         <p class="lead"> The annoying thing with Particle (link) photons is that they run off 3.3v and a lot of sensors run off 5v. Since we were powering the photon with a usb battery pack, the original plan was to use that power with a voltage divider. I'm not an electrical engineer, but i just decided to just tap into the VIN of the photon. People were telling me not to do that, but it's been working as long as I make sure the ground is not floating around.  </p>
+         <p class="lead"> The annoying thing with <a href="https://www.particle.io/"> <b> Particle </b> </a> photons is that they run off 3.3v and a lot of sensors run off 5v. Since we were powering the photon with a usb battery pack, the original plan was to use that power with a voltage divider. I'm not an electrical engineer, so I just decided to just tap into the VIN of the photon. People were telling me not to do that, but it's been working as long as the ground wasn't floating around.  </p>
 
 
        <img class="content-image"  src="../../images/projects/beerbong/schem.jpg" alt="Jeff" >
@@ -61,7 +61,7 @@ project-title: Wifi Beerbong
 
 
       <h1 class="title-main-about">Wiring it up and weather proofing</h1>
-       <p class="lead"> I wasn't going to take any chances on shorting out the last board I had. Made sure this time nothing was hanging out in the open.   </p>
+       <p class="lead"> We fried the circuit while testing the flow sensor with some real liquid. When making the final changes to the circuit, I wasn't going to take any chances on shorting out the last board I had. Made sure this time nothing was hanging out in the open.   </p>
        <img class="content-image"  src="../../images/projects/beerbong/p1.jpg" alt="Jeff" >
 
     
@@ -73,11 +73,11 @@ project-title: Wifi Beerbong
         
               <h1 class="title-main-about">Software was a failure</h1>
 
-              <p class="lead">  I did not work on our software for this project. The only code I wrote was for the arduino. Nonetheless I still have an opinion about the software.<p>
+              <p class="lead">  I did not work on our software for this project. The only code I wrote was for the arduino sending out a request. Nonetheless I still have an opinion about the software.<p>
 
                 <img class="content-image"  src="../../images/projects/beerbong/userfloww.jpg" alt="Jeff" >
 
-                 <p class="lead">   Some features we just didn't get around to implementing. For instance, the score ranking. Other features, I think we could have been better off avoiding. In particular the facebook login. Although it's important for social games to link to social  profiles, I think there are easier ways for someone to login than to type in their facebook email and password. One option I would love to explore in the future would be installing a camera on the beerbong and leveraging facial recognition to tag participants.<p>
+                 <p class="lead">   Some features, like the score ranking, we just didn't get around to implementing. Other features, like the facebook login, I think we could have been better off avoiding. Although it's important for social games to link to social profiles, I think there are easier ways for someone to login than to type in their facebook email and password. In the future, one option I would love to explore would be installing a camera on the beerbong and leveraging a facial recognition service to tag participants.<p>
 
 
                   <h1 class="title-main-about">Check it out</h1>
