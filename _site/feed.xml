@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Mar 2016 02:04:28 -0800</pubDate>
-    <lastBuildDate>Thu, 03 Mar 2016 02:04:28 -0800</lastBuildDate>
+    <pubDate>Fri, 04 Mar 2016 00:38:26 -0800</pubDate>
+    <lastBuildDate>Fri, 04 Mar 2016 00:38:26 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -32,7 +32,7 @@
                 At first, that may seem like an easy problem to grasp. Smart design means putting the user first, meaning.. (1) start with a need (2) design an intuitive layout, (3) provide interactive content, (4) optimize by testing &lt;p&gt;
 
                 &lt;p class=&quot;lead&quot;&gt;
-                Unfortunately, this isn&#39;t the case. &lt;b&gt;When designing for intelligence, simple is not better&lt;/b&gt;. The goal is to make the interface replicate the thought process of a human - not a puppet you can pinch and drag like clickbait. Part of the &quot;magic&quot; is delightfully surprising the user. The point is to avoid explicit visuals and overt commands. I&#39;m really excited about this shift because it&#39;s a chance for us ourselves to become smarter and more human because of the technology we interact with. &lt;p&gt;
+                Unfortunately, this isn&#39;t the case. &lt;b&gt;When designing for intelligence, simple is not better&lt;/b&gt;. The goal is to make the interface replicate the thought process of a human - not a puppet you can fluidly pinch and drag as a material object. Part of the &quot;magic&quot; is delightfully surprising the user. The point is to avoid explicit visuals and overt commands. I&#39;m really excited about this shift because it&#39;s a chance for us ourselves to become smarter and more human because of the technology we interact with. &lt;p&gt;
 
                 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Natural language processing&lt;/h1&gt;
@@ -67,8 +67,8 @@
                &lt;p&gt;
 
                &lt;p class=&quot;lead&quot;&gt; 
-               &lt;b&gt; Language is more inuitive to humans than any app ever designed &lt;/b&gt;. So to put myself in the shoes of the user, all I had to do was stop thinking about how computers worked and start talking like I would to a person.. My first example dialogues were me pretending to speak to my mother. Although some designers recommend speaking to the agent like you&#39;re asking a stranger a question, my goal was to design a smarter agent; one where you could say less white it understands more - just like your mother. After this initial stage, I broadened my syntax and incrementally made myself harder to understand. 
-               At the same time, I started designing and developing the GUI that I eventually hooked up to my voice interface and loaded onto the car&#39;s linux machine. The nice thing about cars is that people are in a nice private space that is acoustically absorbent. As you might know, people are more comfortable speaking and singing out loud when in a car. 
+               &lt;b&gt; Language is more inuitive to humans than any app interface a user has ato figure out on the fly &lt;/b&gt;. So to put myself in the shoes of the user, all I had to do was stop thinking about how computers worked and start talking like I would to a person.. My first example dialogues were me pretending to speak to my mother. Although some designers recommend speaking to the agent like you&#39;re asking a stranger a question, my goal was to design a smarter agent; one where you could say less yet have it understand more. After this initial training stage, I broadened my syntax and incrementally made myself harder to understand. 
+               At the same time, I started designing and developing the GUI that I eventually hooked up to my voice interface and loaded onto the car&#39;s linux machine.
                &lt;p&gt;
 
 
@@ -78,11 +78,11 @@
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Takeaways&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt;
-                &lt;b&gt;As UX designers, we&#39;re practical problem solvers&lt;/b&gt;. For us it&#39;s more about the functionality; there&#39;s no such thing as a proper way. You can&#39;t really &quot;fake&quot; a natural language demo, but there are still more and less practical ways of achieving your goal. What I learned in the process was that &lt;i&gt; even though &lt;/i&gt; we have these new techniques like deep learning at our hands, the agent/program doesn&#39;t have to think the same way a human does in order to present itself like it thinks the same way a human does.
+                &lt;b&gt;UX designers are practical problem solvers&lt;/b&gt;. For us it&#39;s more about the functionality; there&#39;s no such thing as a proper way. You can&#39;t really &quot;fake&quot; a natural language demo, but there are still more and less practical ways of achieving your goal. What I learned in the process was that &lt;i&gt; even though &lt;/i&gt; we have these new techniques like deep learning at our hands, the agent/program doesn&#39;t have to think the same way a human does in order to present itself like it thinks the same way a human does.
                 &lt;p&gt;
 
                 &lt;p class=&quot;lead&quot;&gt;
-                &lt;b&gt;There&#39;s nothing wrong with artificial intelligence being artificial&lt;/b&gt;. And we ourselves rely on this phenomenon all the time - for instance during interviews, or when someone asks you for advice (kidding). Realizing this was a milestone in my jedi journey as a designer that codes (coding = the dark side).
+                &lt;b&gt;There&#39;s nothing wrong with artificial intelligence being artificial&lt;/b&gt;. We ourselves rely on this phenomenon all the time - for instance during interviews, or when someone asks you for advice. Realizing this was a milestone in my jedi journey as a designer that codes (coding = the dark side).
                 &lt;p&gt; 
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Related projects&lt;/h1&gt;
@@ -454,17 +454,17 @@
 
       &lt;h1 class=&quot;title-main-about&quot;&gt;Hacking for change&lt;/h1&gt;
 
-      &lt;p class=&quot;lead&quot;&gt; Campus safety was a key theme at Chimehack. It was an issue my teammates and I had all recently witnessed in college. From the start of the weekend, it was clear this was the problem we wanted to tackle. &lt;p&gt;
+      &lt;p class=&quot;lead&quot;&gt; Campus safety was a key theme at Chimehack. It was an issue my teammates and I had recently witnessed in college.  &lt;p&gt;
 
       &lt;p class=&quot;lead&quot;&gt;
-       To brainstorm, we thought back to our own encounters with campus safety. Most of the time, it revolved around making sure friends are ok. &lt;p&gt; 
+       To brainstorm, we thought back to our own encounters with campus safety.&lt;p&gt; 
 
        &lt;h1 class=&quot;title-main-about&quot;&gt;Making College a Safer Space&lt;/h1&gt;
 
        &lt;p class=&quot;lead&quot;&gt;
-       When your friend goes missing, they&#39;re not picking up their phone and you don&#39;t know whether or not their phone is dead. They&#39;re probably not in enough danger to call campus safety, but that doesn&#39;t mean you&#39;re not concerned for your friend. &lt;/p&gt;
+       Usually, it had something to do with making sure friends are ok. When your friend goes missing, they&#39;re not picking up their phone andit&#39;s hard to tell whether or not their phone is dead. They&#39;re probably not in enough danger to call campus safety, but that doesn&#39;t mean you don&#39;t care where they are. &lt;/p&gt;
 
-      &lt;p class=&quot;lead&quot;&gt; That&#39;s why we built an iOS app called asOne. It&#39;s a better way to communicate in groups when going out. Instead of annoying group messages, we create temporary friend groups that shares information about each member&#39;s location, battery level, and the time they want to go home. &lt;/p&gt;
+      &lt;p class=&quot;lead&quot;&gt; That&#39;s why we built asOne. It&#39;s a better way to communicate in groups when going out. Instead of annoying group messages, we create temporary friend groups that shares information about each member&#39;s location, battery level, and the time they want to go home. &lt;/p&gt;
 
 
       &lt;h1 class=&quot;title-main-about&quot;&gt;An entire iOS app in 48 hours&lt;/h1&gt;   
@@ -481,18 +481,21 @@
 
        &lt;h1 class=&quot;title-main-about&quot;&gt;Onboarding and privacy concerns&lt;/h1&gt;   
 
-      &lt;p class=&quot;lead&quot;&gt; Usability and the onboarding process was a key concern for me. Nobody was going to use our app when they really needed to, if it was hard to sign up, log in, and begin seeing the value we provide. Because we were at twitter, we received a lot of feedback about the challenges when creating a product that only works when many users choose to engage. &lt;p&gt;
+      &lt;p class=&quot;lead&quot;&gt; Usability and the onboarding process was a key concern in my design. Nobody was going have this app at their fingertips, if it was hard to sign up, log in, and immediately delivering value. Because we were at twitter, we received fantastic feedback about the challenges facing products that only works when many users buy into the system. &lt;p&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; With that in mind, it became clear to me that we weren&#39;t here to build a social media app. Having a social network was only the means to our goal. The only thing we came here to do was make it easier for college students to look after their friends. We didn&#39;t need to create our own user id system, we can just use the facebook SDK. The main drawback to this solution was issues of privacy. Our remedy was a system where the group you formed only lasts until the next morning; to use the app again, you must reform a group. To minimize friction in this process, we included recent and nearby friends at the top.&lt;p&gt;
+         &lt;p class=&quot;lead&quot;&gt; With that in mind, it became clear to me we weren&#39;t here to build yet another social media app. Having a social network was only the means to our end of which was making it easier for college students to look after their friends. We didn&#39;t need to create our own user id system, if we integrate facebook profiles using their SDK. &lt;/p&gt;
+
+         &lt;p class=&quot;lead&quot;&gt; 
+          The key drawback to with leveraging existing profiles is potential concerns over privacy. Our remedy was a system where formed groups only last until the next morning. To use the app again, a new group must be created. To minimize friction in this process, we included recent and nearby friends at the top of the contact list.&lt;p&gt;
 
          &lt;h1 class=&quot;title-main-about&quot;&gt;The color of friendship&lt;/h1&gt;   
         
-        &lt;p class=&quot;lead&quot;&gt; Inclusiveness was a major theme throughout both Chimehack and the mission our technology. Using our app is essentially making a pact within your friends. To turn this feeling of warmth, unity, and trust into this sort of emblem, I designed a logo with a symmetrical heart pattern and warm blending. &lt;p&gt;
+        &lt;p class=&quot;lead&quot;&gt; Inclusiveness was a major theme throughout both Chimehack and the mission our technology. Using our app is essentially making a pact within your friends. To embody this feeling of warmth, unity, and trust in a visual language, I designed a logo with a symmetrical heart pattern and warm blends. &lt;p&gt;
 
           &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a6.png&quot; alt=&quot;Jeff&quot; /&gt;
 
         &lt;p class=&quot;lead&quot;&gt;
-         The rest of the views following the splash screen are functional realizations of this feeling of being surrounded by your closest friends. So it was natural to extend these intense and intimate colors through the entire interaction. &lt;/p&gt;   
+         The rest of the views following the splash screen are functional realizations of this feeling of being surrounded by your closest friends. It seemed natural to extend these intense and intimate colors through the entire interaction. &lt;/p&gt;   
 
 
        
@@ -504,7 +507,7 @@
 
             &lt;p class=&quot;lead&quot;&gt;
 
-          When designing this dashboard, I thought back to all the things I can&#39;t do just by calling each individual in my group. 
+          When designing this dashboard, I thought back to all the things I can&#39;t do, but I wish I could do, when I&#39;m out trying to get a hold of my friends.
 
           &lt;p class=&quot;lead&quot;&gt;
 
@@ -527,12 +530,12 @@
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Details view&lt;/h1&gt;  
         &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a5.png&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;p class=&quot;lead&quot;&gt; Usually when everyone&#39;s ready to go home, there&#39;s that one person that nobody can find. So we created a detail view as an extension to the group view. Tapping on the friend brings you to more actions such as sending a push notification and enabling audio. Additionally we automatically set the true north of the inline map to that of the selected friend. &lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; Usually when everyone&#39;s ready to go home, there&#39;s that one person that nobody can find. So I designed a detailed extension to the group view. Tapping on the friend brings you to more actions such as sending a push notification and enabling audio. Additionally we automatically set the true north of the inline map to that of the selected friend. &lt;/p&gt;
        &lt;!--  &lt;img class=&quot;content-image-vertical&quot;  src=&quot;../../images/asone.gif&quot; alt=&quot;Jeff&quot; &gt;    --&gt;
 
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Conclusion&lt;/h1&gt;
-        &lt;p class=&quot;lead&quot;&gt; We built this app because this was a tool missing from our everyday lives, and for the rest of the summer we would often use it as a tool to ping and find eachother. Since then, similar apps such as Friend Finder and Companion have made their way into the market. &lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; We built this app because this was a tool missing from our everyday lives. For the rest of the summer we would often use it as a tool to ping and find eachother. Since then, similar apps such as Friend Finder and Companion have made their way into the market. &lt;/p&gt;
 
         &lt;p class=&quot;lead&quot;&gt; In retrospect, the technology wasn&#39;t earth shattering, but this is a great example of how fast a talented team can work decisively when there is good chemistry. In one weekend, we shipped a product that would take a company at least half a year to assemble.&lt;/p&gt;
 

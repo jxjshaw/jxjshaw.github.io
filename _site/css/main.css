@@ -5967,7 +5967,7 @@ p {
   height: 100px;
   overflow: auto;
   margin: auto;
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   bottom: 0;
