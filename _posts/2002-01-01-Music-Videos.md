@@ -11,17 +11,14 @@ project-title: Music Videos
     <div class="row text-left">
 
       <div class="col-sm-10 col-sm-offset-1">
-        <h1 class="title-main-about"> Music Videos </h1>
-        <p class="lead"> When I was a college hipster, I worked in video production and post production. <p>
+        <h1 class="title-main-about">  </h1>
+        <p class="lead"> <i> When I was a college hipster, I worked in video production and post production. 
+         Here are a few videos from work/fun.</i> </p> 
 
-          <p class="lead">
-         Here are a few videos from work/fun.</p>
+          
 
-        
 
-            
-
-              <h1 class="title-main-about"> On the steps </h1>
+              <h1 class="title-main-about"> On the Steps </h1>
               <!-- <p class="lead"> My favorite part about rappers is their work ethic - the hustle, the grind - having a dayjob and hitting the studio at night. I guess it's the same reason I love startups. It's about being young, living your dreams while everyones telling you your stupid. </p> -->
 
                <p class="lead">  This track is slow, so everything from the shutter speed to the editing cuts are slow to keep the style smooth. <p>
@@ -34,7 +31,7 @@ project-title: Music Videos
                </div>
 
 
-              <h1 class="title-main-about"> SOS </h1>
+              <h1 class="title-main-about"> S.O.S. </h1>
               <p class="lead"> In recent years, the most popular rap videos are shot on cropped sensors with tight lenses,  it's a nice raw style. <p>
 
                  <p class="lead"> 

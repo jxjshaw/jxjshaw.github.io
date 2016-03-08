@@ -31,7 +31,7 @@ project-title: Wifi Beerbong
              <img class="content-image"  src="../../images/projects/beerbong/table.jpg" alt="Jeff" >
 
             <p class="lead"> 
-            While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor..... <i> In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories </i>. At that point, it became very clear to me that for Mhacks 6 I was going to make the world's first wifi enabled beer bong. <p>
+            While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor..... <i> In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories. </i> At that point, it became very clear to me that for Mhacks 6 I was going to make the world's first wifi enabled beer bong. <p>
 
 
          

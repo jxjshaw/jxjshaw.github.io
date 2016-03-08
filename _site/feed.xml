@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Mar 2016 00:38:26 -0800</pubDate>
-    <lastBuildDate>Fri, 04 Mar 2016 00:38:26 -0800</lastBuildDate>
+    <pubDate>Tue, 08 Mar 2016 01:25:06 -0800</pubDate>
+    <lastBuildDate>Tue, 08 Mar 2016 01:25:06 -0800</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -67,7 +67,7 @@
                &lt;p&gt;
 
                &lt;p class=&quot;lead&quot;&gt; 
-               &lt;b&gt; Language is more inuitive to humans than any app interface a user has ato figure out on the fly &lt;/b&gt;. So to put myself in the shoes of the user, all I had to do was stop thinking about how computers worked and start talking like I would to a person.. My first example dialogues were me pretending to speak to my mother. Although some designers recommend speaking to the agent like you&#39;re asking a stranger a question, my goal was to design a smarter agent; one where you could say less yet have it understand more. After this initial training stage, I broadened my syntax and incrementally made myself harder to understand. 
+               &lt;b&gt; Language is more inuitive to humans than any graphical computer interface a user has been trained to navigate &lt;/b&gt;. So to put myself in the shoes of the user, all I had to do was stop thinking about how computers worked and start talking like I would to a person.. My first example dialogues were me pretending to speak to my mother. Although some designers recommend speaking to the agent like you&#39;re asking a stranger a question, my goal was to design a smarter agent; one where you could say less yet have it understand more. After this initial training stage, I broadened my syntax and incrementally made myself harder to understand. 
                At the same time, I started designing and developing the GUI that I eventually hooked up to my voice interface and loaded onto the car&#39;s linux machine.
                &lt;p&gt;
 
@@ -132,7 +132,7 @@
         &lt;h1 class=&quot;title-main-about&quot;&gt; &lt;/h1&gt;
         &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Airquail is the internet of things hardware startup that I cofounded. It started as a weekend hackathon project, and for 12 weeks it turned into a fulltime pursuit after we joined the Hackcelerator accelerator program. We&#39;re currently on our 3rd hardware prototype and have our devices in local school districts. &lt;/i&gt;&lt;/p&gt;
 
-                 &lt;h1 class=&quot;title-main-about&quot;&gt;Disclaimer&lt;/h1&gt;
+                 &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
 
         &lt;p class=&quot;lead&quot;&gt; 
           This piece is focused more on the project process rather than the design details. Although I was the team designer, I was also the startup CEO. Thus my version of the story is skewed towards how everything came together rather than how every unique problem was solved.  &lt;/p&gt;
@@ -168,7 +168,7 @@
 
             &lt;h1 class=&quot;title-main-about&quot;&gt;Searching for product direction&lt;/h1&gt;
             &lt;p class=&quot;lead&quot;&gt; 
-             With all the work we were putting in without compensation, it was important that we didn&#39;t forget about building a device that we ourselves would be excited to use. So although health and medical was a hot market, I strongly believed in focusing more on gases associated with comfort and wellness. We didn&#39;t want to be an alarm that monitors toxic gas that will kills 50 people a year. On the other hand, we also didn&#39;t want to just monitor gases that will shorten your lives by 12 months. Instead, it&#39;s about telling people more about the gases that are always around you that you can&#39;t see and how they can unconsciously influence your lifestyle. &lt;p&gt;
+             With all the work we were putting in without taking out salary, it was important that we didn&#39;t forget about building a device that we ourselves would be excited to use. So although health and medical was a hot market, I strongly believed in focusing more on gases associated with comfort and wellness. We didn&#39;t want to be an alarm that monitors toxic gas that will kills 50 people a year. On the other hand, we also didn&#39;t want to just monitor gases that will shorten your lives by 12 months. Instead, it&#39;s about telling people more about the gases that are always around you that you can&#39;t see and how they can unconsciously influence your lifestyle. &lt;p&gt;
 
 
              &lt;h1 class=&quot;title-main-about&quot;&gt;Searching for the right sensors&lt;/h1&gt;
@@ -459,7 +459,7 @@
       &lt;p class=&quot;lead&quot;&gt;
        To brainstorm, we thought back to our own encounters with campus safety.&lt;p&gt; 
 
-       &lt;h1 class=&quot;title-main-about&quot;&gt;Making College a Safer Space&lt;/h1&gt;
+       &lt;h1 class=&quot;title-main-about&quot;&gt;Making college a safer space&lt;/h1&gt;
 
        &lt;p class=&quot;lead&quot;&gt;
        Usually, it had something to do with making sure friends are ok. When your friend goes missing, they&#39;re not picking up their phone andit&#39;s hard to tell whether or not their phone is dead. They&#39;re probably not in enough danger to call campus safety, but that doesn&#39;t mean you don&#39;t care where they are. &lt;/p&gt;
@@ -507,23 +507,23 @@
 
             &lt;p class=&quot;lead&quot;&gt;
 
-          When designing this dashboard, I thought back to all the things I can&#39;t do, but I wish I could do, when I&#39;m out trying to get a hold of my friends.
+         I thought back to all the things I wish I could do when my friends are not pick up their phone:
 
           &lt;p class=&quot;lead&quot;&gt;
 
-          1. Assuming my friends pick up, I probably won&#39;t be able to hear them speak well, so the first thing I want is an easy way to get exactly a status update. &lt;p&gt;
+         &lt;b&gt; 1. &lt;/b&gt; An easy way to get a simple a status update &lt;p&gt;
 
           &lt;p class=&quot;lead&quot;&gt;
           
-          2. An easy way to glance over all my group members at once so I don&#39;t have to call each of them individually. &lt;p&gt;
+         &lt;b&gt;  2. &lt;/b&gt; An easy way to check in with everyone without calling them individually &lt;p&gt;
 
           &lt;p class=&quot;lead&quot;&gt;
 
-          3. They&#39;re probably not all going to pickup anyways, so I&#39;d rather just look at where they are on a map. &lt;p&gt;
+          &lt;b&gt; 3. &lt;/b&gt; Seeing where they are instead of asking where they are
 
           &lt;p class=&quot;lead&quot;&gt;
 
-          4. If I can&#39;t look at where they are that means their battery is probably dead - so I want to be able to see what their battery status is.&lt;p&gt;
+          &lt;b&gt;4. &lt;/b&gt;A way to make sure their phone isn&#39;t dead&lt;p&gt;
 
         &lt;/p&gt;   
 
@@ -549,7 +549,7 @@
         
       
     
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 01 Jan 2006 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/As-One/</link>
@@ -624,10 +624,10 @@
             Additional features include using gps and bitcoin to complete transactions without the need to stop, or by automatically calculating and paying for the price to fill up at a given gas station. 
             &lt;p&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Driver usability: streamlining transaction process &lt;/h1&gt;     
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Streamlining transaction process &lt;/h1&gt;     
 
         &lt;p class=&quot;lead&quot;&gt;  
-        Designing for the car is different than designing for mobile. Unless the driver is parked, most interactions occur without the user&#39;s complete attention. To make this payment process smarter, payments are automatically initiated based on the driver&#39;s location. Prices are also automatically estimated (for example the pseudo code for the price to fill up = ((tankSize - (tankSize * %full)) + (stationDist / mpg ) * gasPrice))  &lt;p&gt;
+        Designing for the car is different from designing for mobile. devices Unless the driver is parked, most interactions occur without the user&#39;s complete attention. To make this payment process smarter, payments are automatically initiated based on the driver&#39;s location. Prices are also automatically estimated (for example the pseudo code for the price to fill up = ((tankSize - (tankSize * %full)) + (stationDist / mpg ) * gasPrice))  &lt;p&gt;
 
          &lt;p class=&quot;lead&quot;&gt; 
         All the driver needs to do is confirm the transaction with a click of a button. &lt;p&gt;
@@ -638,7 +638,7 @@
         Bitcoin was the easiest to integrate for our prototype, but we soon discovered the security benefits of using bitcoin. &lt;p&gt;
 
        
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Driver usability: mapping input interaction &lt;/h1&gt;    
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Mapping input interaction &lt;/h1&gt;    
         &lt;p class=&quot;lead&quot;&gt;  
         A common gripe from c300 owners is that the heads-up display looks like it&#39;s touchscreen but it really isn&#39;t. To avoid this confusion and make event handling more intuitive, I created an interface with a clear hierarchy of menus navigated with a highlight selector. &lt;p&gt;
 
@@ -655,7 +655,7 @@
 
       
 
-         &lt;h1 class=&quot;title-main-about&quot;&gt; Driver usability: glancing at an interface &lt;/h1&gt;         
+         &lt;h1 class=&quot;title-main-about&quot;&gt; Glancing at an interface &lt;/h1&gt;         
         &lt;p class=&quot;lead&quot;&gt;  
         I used a variation of color, size, and weight to distinguish what really matters at a glance from information important only on a closer read. 
         &lt;p&gt;
@@ -737,7 +737,7 @@
              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/table.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
             &lt;p class=&quot;lead&quot;&gt; 
-            While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor..... &lt;i&gt; In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories &lt;/i&gt;. At that point, it became very clear to me that for Mhacks 6 I was going to make the world&#39;s first wifi enabled beer bong. &lt;p&gt;
+            While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor..... &lt;i&gt; In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories. &lt;/i&gt; At that point, it became very clear to me that for Mhacks 6 I was going to make the world&#39;s first wifi enabled beer bong. &lt;p&gt;
 
 
          
@@ -894,17 +894,14 @@
     &lt;div class=&quot;row text-left&quot;&gt;
 
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Music Videos &lt;/h1&gt;
-        &lt;p class=&quot;lead&quot;&gt; When I was a college hipster, I worked in video production and post production. &lt;p&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt;  &lt;/h1&gt;
+        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; When I was a college hipster, I worked in video production and post production. 
+         Here are a few videos from work/fun.&lt;/i&gt; &lt;/p&gt; 
 
-          &lt;p class=&quot;lead&quot;&gt;
-         Here are a few videos from work/fun.&lt;/p&gt;
+          
 
-        
 
-            
-
-              &lt;h1 class=&quot;title-main-about&quot;&gt; On the steps &lt;/h1&gt;
+              &lt;h1 class=&quot;title-main-about&quot;&gt; On the Steps &lt;/h1&gt;
               &lt;!-- &lt;p class=&quot;lead&quot;&gt; My favorite part about rappers is their work ethic - the hustle, the grind - having a dayjob and hitting the studio at night. I guess it&#39;s the same reason I love startups. It&#39;s about being young, living your dreams while everyones telling you your stupid. &lt;/p&gt; --&gt;
 
                &lt;p class=&quot;lead&quot;&gt;  This track is slow, so everything from the shutter speed to the editing cuts are slow to keep the style smooth. &lt;p&gt;
@@ -917,7 +914,7 @@
                &lt;/div&gt;
 
 
-              &lt;h1 class=&quot;title-main-about&quot;&gt; SOS &lt;/h1&gt;
+              &lt;h1 class=&quot;title-main-about&quot;&gt; S.O.S. &lt;/h1&gt;
               &lt;p class=&quot;lead&quot;&gt; In recent years, the most popular rap videos are shot on cropped sensors with tight lenses,  it&#39;s a nice raw style. &lt;p&gt;
 
                  &lt;p class=&quot;lead&quot;&gt; 
@@ -947,7 +944,7 @@
     
   
 
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 01 Jan 2002 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/Music-Videos/</link>
