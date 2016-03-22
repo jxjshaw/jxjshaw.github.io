@@ -7,12 +7,12 @@
 
 // Our variables
 $base-font-family: "Roboto", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-size:   14px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+$spacing-unit:     60px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
@@ -110,12 +110,15 @@ opacity: 0.75;
 
 img.content-image {
   width: 100%;
-  margin-bottom: 30px;
+  padding-bottom: 15px;
+  margin-top: 5px;
+
 }
 
 img.content-image-vertical {
   width: 50%;
-  margin-bottom: 30px;
+  padding-bottom: 15px;
+  margin-top: 5px;
 }
 
 iframe {
@@ -207,20 +210,14 @@ a {
 
 .title-main-about {
   font-weight: 100;
-  font-size: 32px;
+  font-size: 42px;
   letter-spacing: 1pt;
   margin-top: 10%;
   margin-bottom: 5%;
 }
 
 
-.title-main-about {
-  font-weight: 100;
-  font-size: 32px;
-  letter-spacing: 1pt;
-  margin-top: 10%;
-  margin-bottom: 5%;
-}
+
 
 
 
@@ -247,8 +244,9 @@ h4 {
 
 .lead {
   opacity: 0.87;
-  font-size: 16px;
-  line-height: 1.8em;
+  font-size: 14px;
+  line-height: 1.9em;
+  letter-spacing: 0.3px;
   
 }
 .lead-center {
@@ -261,7 +259,31 @@ h4 {
 
 
 
+.project-gif-footer {
 
+width: 60px;
+height: 60px;
+border-radius: 5000px;
+
+}
+
+.kitten-box {
+
+
+
+
+}
+
+.kitten-box p {
+
+  font-size: 8px;
+  visibility: hidden;
+
+}
+
+.kitten-box p :hover {
+
+}
 
 
 
@@ -446,6 +468,29 @@ body .projectSVG {
     opacity: 0.05;
   }
 
+  .project-gif-footer {
+
+    width: 10px;
+    height: 10px;
+    border-radius: 5000px;
+
+    }
+
+    .kitten-box {
+
+    }
+
+    .kitten-box p {
+
+      font-size: 8px;
+      visibility: hidden;
+
+    }
+
+    .kitten-box p :hover {
+
+    }
+
 }
 
 
@@ -523,10 +568,11 @@ p {
 .title-main-about {
 font-size: 24px;
 font-weight: 400;
-opacity: 0.87;
+opacity: 0.83;
 line-height: 48px;
-padding-bottom: 0;
+padding-bottom: 10px;
 margin-bottom: 0;
+letter-spacing: 0.8pt;
 
 }
 
@@ -626,5 +672,17 @@ transition: all 0.3s ease;
 body {
   overflow-x: hidden;
 }
+
+
+.name-footer {
+
+}
+
+.name-footer p {
+ visibility: hidden;
+
+}
+
+
 
 

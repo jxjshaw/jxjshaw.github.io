@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Mar 2016 01:25:06 -0800</pubDate>
-    <lastBuildDate>Tue, 08 Mar 2016 01:25:06 -0800</lastBuildDate>
+    <pubDate>Mon, 21 Mar 2016 20:34:36 -0700</pubDate>
+    <lastBuildDate>Mon, 21 Mar 2016 20:34:36 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -26,7 +26,7 @@
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Designing intelligence&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt;
-                Most people I&#39;ve talked to are not sold on the value of siri, alexa, and similar natural language voice interfaces. Some interfaces may disappoint users by sounding smarter than they really are, but what people really mean to say is that &lt;b&gt; the voice interface isn&#39;t smart enough. &lt;/b&gt; &lt;p&gt;
+                Most people are not sold on the value of siri, alexa, and similar natural language voice interfaces. Some interfaces may disappoint users by sounding smarter than they really are, but what people really mean to say is that &lt;b&gt; the voice interface isn&#39;t smart enough. &lt;/b&gt; &lt;p&gt;
 
                 &lt;p class=&quot;lead&quot;&gt;
                 At first, that may seem like an easy problem to grasp. Smart design means putting the user first, meaning.. (1) start with a need (2) design an intuitive layout, (3) provide interactive content, (4) optimize by testing &lt;p&gt;
@@ -72,9 +72,9 @@
                &lt;p&gt;
 
 
-                 &lt;h1 class=&quot;title-main-about&quot;&gt;Relevant design meme&lt;/h1&gt;
+             &lt;!--     &lt;h1 class=&quot;title-main-about&quot;&gt;Relevant design meme&lt;/h1&gt;
                 &lt;p class=&quot;lead-center&quot;&gt; 
-                &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mercedes/meme.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;p&gt;
+                &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/mercedes/meme.jpg&quot; alt=&quot;Jeff&quot; &gt;&lt;p&gt; --&gt;
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Takeaways&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt;
@@ -107,7 +107,7 @@
       
     
   
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/Mercedes/</link>
@@ -419,6 +419,167 @@
 
               to explore the intersections of law and social media. &lt;/p&gt;
 
+
+
+        &lt;!-- MOBILE FOOTER NAV --&gt;
+        &lt;div class=&quot;row text-center&quot;&gt;
+
+          &lt;div class=&quot;img-responsive center-block&quot;&gt;
+              
+                         &lt;div class=&quot;iconbox&quot;&gt;
+                  
+                     &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
+                     
+                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                   
+                     &lt;/div&gt;
+ 
+                    
+                       &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
+                    
+                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                
+                     &lt;/div&gt;
+
+                        &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
+                  
+                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                 
+                     &lt;/div&gt;
+
+                        &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
+                  
+                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+               
+                     &lt;/div&gt;
+      
+            &lt;/div&gt; 
+           &lt;/div&gt;
+
+
+                    &lt;/div&gt;
+
+                       &lt;div class=&quot;row text-center&quot;&gt;
+
+                       &lt;div class=&quot;img-responsive center-block&quot;&gt;
+              
+                         &lt;div class=&quot;iconbox&quot;&gt;
+                  
+                     &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
+                     
+                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                   
+                     &lt;/div&gt;
+ 
+                    
+                       &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
+                    
+                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                
+                     &lt;/div&gt;
+
+                        &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
+                  
+                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                 
+                     &lt;/div&gt;
+
+                        &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
+                  
+                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+               
+                     &lt;/div&gt;
+           
+            &lt;/div&gt; 
+           &lt;/div&gt;
+          &lt;/div&gt;
+
+
+
+
+          &lt;!-- DESKTOP FOOTER NAV --&gt;
+
+                &lt;div class=&quot;row text-center&quot;&gt;
+
+                       &lt;div class=&quot;img-responsive center-block&quot;&gt;
+              
+                         &lt;div class=&quot;iconbox&quot;&gt;
+                  
+                           &lt;div class=&quot;name-footer&quot;&gt;
+                           
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                         
+                           &lt;/div&gt;
+       
+                          
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                          
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                      
+                           &lt;/div&gt;
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+                        
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                       
+                           &lt;/div&gt;
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+                        
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                     
+                           &lt;/div&gt;
+
+                                &lt;div class=&quot;name-footer&quot;&gt;
+                           
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                         
+                           &lt;/div&gt;
+       
+                          
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                          
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                      
+                           &lt;/div&gt;
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+                        
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                       
+                           &lt;/div&gt;
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+                        
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                     
+                           &lt;/div&gt;
+           
+                    &lt;/div&gt; 
+                   &lt;/div&gt;
+                  &lt;/div&gt;
+
+
+
+
+
+
         
 
       
@@ -569,7 +730,7 @@
 
         &lt;h1 class=&quot;title-main-about&quot;&gt; &lt;/h1&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; This is the winning hackathon project that caught the attention of Daimler&#39;s board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to a job at Mercedes. &lt;/i&gt; &lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; This is the project that caught the attention of Daimler&#39;s board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to a job at Mercedes. &lt;/i&gt; &lt;/p&gt;
 
         &lt;h1 class=&quot;title-main-about&quot;&gt; Simplifying the driving experience &lt;/h1&gt;
 
@@ -664,7 +825,7 @@
 
               &lt;p class=&quot;lead&quot;&gt;  
                 An example of this can be seen in the payment history view. The first thing the driver sees is the amount paid followed by the vendor name. Details such as credit card number and bitcoin address is more confidential and significantly less visible from a distance.  &lt;p&gt;
-
+&lt;!-- 
         &lt;h1 class=&quot;title-main-about&quot;&gt; Demo video &lt;/h1&gt;  
 
          &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;https://www.crunchbase.com/person/yashad-kulkarni#/entity&quot;&gt; 
@@ -674,15 +835,17 @@
            &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
                       &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/132971331&quot;&gt;&lt;/iframe&gt;
                   &lt;/div&gt;
-
+ --&gt;
                   &lt;h1 class=&quot;title-main-about&quot;&gt; Further reading &lt;/h1&gt;  
 
            
-            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/team.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
+     &lt;!--        &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/benzpay/team.jpg&quot; alt=&quot;Jeff&quot; &gt;
+ --&gt;
               &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://www.mobilegeeks.com/mercedes-benz-hack-a-thon-a-snapshot-of-developing-for-automotive/&quot;&gt;  &lt;b&gt;  Writeup &lt;/b&gt; by Mobile Geeks &lt;/a&gt;  &lt;p&gt;
 
            &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://360.here.com/2015/08/11/here-gives-direction-at-mercedes-benz-hackathon/&quot;&gt; &lt;b&gt; Article  &lt;/b&gt; by HERE maps&lt;/a&gt; &lt;p&gt;
+
+           
 
 
 
@@ -700,7 +863,7 @@
     
   
 
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/BenzPay/</link>
