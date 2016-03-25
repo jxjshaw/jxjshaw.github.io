@@ -23,7 +23,7 @@ $(window).load(function()
 
 
 
-$("#project-gif-footer").hover(function()) {
+$("#project-gif-footer").hover(function() {
   console.log("hovering works");
   var imageCaption = $(this).attr("alt");
   console.log(imageCaption + "1");
