@@ -22,7 +22,14 @@ $(window).load(function()
 });
 
 
-$( "#footer-caption" ).text( "<b>Some</b> new text." );
+
+$("#project-gif-footer").hover(function()) {
+
+  var imageCaption = $(this).attr("alt");
+  $( "#footer-caption" ).text( imageCaption );
+
+
+});
 
 
 
