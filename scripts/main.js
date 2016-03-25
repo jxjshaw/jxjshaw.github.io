@@ -22,6 +22,7 @@ $(window).load(function()
 });
 
 
+$( "#footer-caption" ).text( "<b>Some</b> new text." );
 
 
 
