@@ -5,35 +5,35 @@ $(window).load(function()
 {
    // executes when complete page is fully loaded, including all frames, objects and images
 
-   console.log("add me on snapchat: screwglue");
-   console.log("instagram: @heyjeffshaw");
-   //alert("fadeddd");
-  $("#header-row").css("opacity", "1.0");
-  $('.loading').css("opacity", "0.0");
-  $('.loading-caption-container').css("opacity", "0.0") 
+     console.log("add me on snapchat: screwglue");
+     console.log("instagram: @heyjeffshaw");
+     //alert("fadeddd");
+    $("#header-row").css("opacity", "1.0");
+    $('.loading').css("opacity", "0.0");
+    $('.loading-caption-container').css("opacity", "0.0") 
 
-  $("#project-row").css("opacity", "0.9");
-   // $('.loading').hide(50);
-   // $('.loading-caption-container').hide(50);
-  $('.loading').delay(800).css("visibility", "hidden");
-  $('.loading-caption-container').delay(800).css("visibility", "hidden") 
+    $("#project-row").css("opacity", "0.9");
+     // $('.loading').hide(50);
+     // $('.loading-caption-container').hide(50);
+    $('.loading').delay(800).css("visibility", "hidden");
+    $('.loading-caption-container').delay(800).css("visibility", "hidden") 
 
  // $(".description").css("opacity", "0.9");
 
 
-//footer hovering stuff
-$(".project-gif-footer").mouseenter(function() {
-     var imageCaption = $(this).attr("alt");
-    console.log('hovering');
-    $("#footer-caption").text(imageCaption);
-
-  });
-
-  $(".project-gif-footer").mouseleave(function() {
-    console.log('hovering');
-    $("#footer-caption").text("More projects");
-
-  });
+    //footer hovering stuff
+    $(".name-footer").mouseenter(function() {
+           var imageCaption = $(this).find('img').attr("alt");
+        console.log('hovering');
+        $("#footer-caption").text(imageCaption);
+      
+      });
+      
+      $(".name-footer").mouseleave(function() {
+        console.log('hovering');
+        $("#footer-caption").text("More projects");
+      
+      });
   
 
 });
