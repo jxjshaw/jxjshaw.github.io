@@ -53,6 +53,8 @@ $on-laptop:        800px;
 //         "bootstrap"
 // ;
 
+
+
 @import "bootstrap";
 
 @font-face {
@@ -247,6 +249,7 @@ h4 {
   font-size: 14px;
   line-height: 1.9em;
   letter-spacing: 0.3px;
+  margin-bottom: 15px;
   
 }
 .lead-center {
@@ -264,6 +267,7 @@ h4 {
 width: 60px;
 height: 60px;
 border-radius: 5000px;
+object-fit: cover;
 
 }
 
@@ -350,7 +354,7 @@ body .projectSVG {
     width: 350px;
     margin-right: auto;
     margin-left: auto;
-    padding-top: 45px;
+    padding-top: 0px;
   }
 
   .project-list-item {
@@ -455,7 +459,7 @@ body .projectSVG {
     width: 350px;
     margin-right: auto;
     margin-left: auto;
-    padding-top: 45px;
+    padding-top: 0px;
   }
 
   .project-list-item {
@@ -470,13 +474,16 @@ body .projectSVG {
 
   .project-gif-footer {
 
-    width: 10px;
-    height: 10px;
+    width: 30px;
+    height: 30px;
     border-radius: 5000px;
 
     }
 
     .kitten-box {
+
+      margin: 0;
+      padding: 0;
 
     }
 
@@ -541,6 +548,7 @@ body .projectSVG {
 #loading-row {
   padding: 0px;
   margin: 0px;
+  padding-bottom: 25px;
 }
 
 .row {
@@ -565,14 +573,20 @@ p {
 
 }
 
+#email{
+ 
+
+}
+
 .title-main-about {
 font-size: 24px;
 font-weight: 400;
 opacity: 0.83;
 line-height: 48px;
-padding-bottom: 10px;
+padding-bottom: 30px;
 margin-bottom: 0;
 letter-spacing: 0.8pt;
+margin-top: 90px;
 
 }
 
@@ -676,13 +690,21 @@ body {
 
 .name-footer {
 
+
 }
 
 .name-footer p {
- visibility: hidden;
+ display: none;
 
 }
 
+.fnav {
+  padding-top: 300px;
+}
 
 
+#footer-nav-buffer {
+
+  margin-top: 0px;
+}
 

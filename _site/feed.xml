@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Mar 2016 20:34:36 -0700</pubDate>
-    <lastBuildDate>Mon, 21 Mar 2016 20:34:36 -0700</lastBuildDate>
+    <pubDate>Fri, 25 Mar 2016 00:01:09 -0700</pubDate>
+    <lastBuildDate>Fri, 25 Mar 2016 00:01:09 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -422,7 +422,7 @@
 
 
         &lt;!-- MOBILE FOOTER NAV --&gt;
-        &lt;div class=&quot;row text-center&quot;&gt;
+       &lt;!--  &lt;div class=&quot;row text-center&quot;&gt;
 
           &lt;div class=&quot;img-responsive center-block&quot;&gt;
               
@@ -430,30 +430,30 @@
                   
                      &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
                      
-                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
                    
                      &lt;/div&gt;
  
                     
                        &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
                     
-                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
                 
                      &lt;/div&gt;
 
                         &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
                   
-                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
                  
                      &lt;/div&gt;
 
                         &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
                   
-                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
                
                      &lt;/div&gt;
       
@@ -471,43 +471,55 @@
                   
                      &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
                      
-                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
                    
                      &lt;/div&gt;
  
                     
                        &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
                     
-                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
                 
                      &lt;/div&gt;
 
                         &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
                   
-                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
                  
                      &lt;/div&gt;
 
                         &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
                   
-                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
                
                      &lt;/div&gt;
            
             &lt;/div&gt; 
            &lt;/div&gt;
-          &lt;/div&gt;
+          &lt;/div&gt; --&gt;
 
 
 
 
           &lt;!-- DESKTOP FOOTER NAV --&gt;
 
+              &lt;div class=&quot;fnav&quot;&gt;
+
+               &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
+              
+                  &lt;h5 class=&quot;project-title&quot;&gt;
+                More Projects &lt;/h5&gt; 
+            
+               
+              &lt;/div&gt;
+
                 &lt;div class=&quot;row text-center&quot;&gt;
+
+
 
                        &lt;div class=&quot;img-responsive center-block&quot;&gt;
               
@@ -515,65 +527,121 @@
                   
                            &lt;div class=&quot;name-footer&quot;&gt;
                            
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt;
                          
                            &lt;/div&gt;
        
                           
                              &lt;div class=&quot;name-footer&quot;&gt;
                           
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt;
                       
                            &lt;/div&gt;
 
-                              &lt;div class=&quot;name-footer&quot;&gt;
-                        
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
-                       
-                           &lt;/div&gt;
 
                               &lt;div class=&quot;name-footer&quot;&gt;
                         
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt;
                      
                            &lt;/div&gt;
 
-                                &lt;div class=&quot;name-footer&quot;&gt;
+                                 &lt;div class=&quot;name-footer&quot;&gt;
                            
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt;
                          
                            &lt;/div&gt;
        
                           
                              &lt;div class=&quot;name-footer&quot;&gt;
                           
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bb2.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Wifi Beerbong&lt;/b&gt;&lt;/p&gt;
                       
                            &lt;/div&gt;
 
                               &lt;div class=&quot;name-footer&quot;&gt;
                         
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk3.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Firebird&lt;/b&gt;&lt;/p&gt;
                        
                            &lt;/div&gt;
 
                               &lt;div class=&quot;name-footer&quot;&gt;
                         
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/yh.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Music Videos&lt;/b&gt;&lt;/p&gt;
                      
                            &lt;/div&gt;
+
+                            &lt;div class=&quot;name-footer&quot;&gt;
+                        
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;More&lt;/b&gt;&lt;/p&gt;
+                     
+                           &lt;/div&gt;
+
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                        
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt;
+                     
+                           &lt;/div&gt;
+
+
+
+
            
                     &lt;/div&gt; 
                    &lt;/div&gt;
                   &lt;/div&gt;
+
+               &lt;!--         &lt;div class=&quot;row text-center&quot;&gt;
+
+                       &lt;div class=&quot;img-responsive center-block&quot;&gt;
+              
+                         &lt;div class=&quot;iconbox&quot;&gt;
+                  
+                           &lt;div class=&quot;name-footer&quot;&gt;
+                           
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
+                         
+                           &lt;/div&gt;
+       
+                          
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                          
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
+                      
+                           &lt;/div&gt;
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+                        
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
+                       
+                           &lt;/div&gt;
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+                        
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
+                     
+                           &lt;/div&gt;
+
+                       
+           
+                    &lt;/div&gt; 
+                   &lt;/div&gt;
+                  &lt;/div&gt; --&gt;
+
+                  &lt;/div&gt;
+
 
 
 
