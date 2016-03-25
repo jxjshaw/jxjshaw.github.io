@@ -19,19 +19,36 @@ $(window).load(function()
   $('.loading-caption-container').delay(800).css("visibility", "hidden") 
 
  // $(".description").css("opacity", "0.9");
+
+
+//footer hovering stuff
+$(".project-gif-footer").mouseenter(function() {
+     var imageCaption = $(this).attr("alt");
+    console.log('hovering');
+    $("#footer-caption").text(imageCaption);
+
+  });
+
+  $(".project-gif-footer").mouseleave(function() {
+    console.log('hovering');
+    $("#footer-caption").text("More projects");
+
+  });
+  
+
 });
 
 
 
-$("#project-gif-footer").hover(function() {
-  console.log("hovering works");
-  var imageCaption = $(this).attr("alt");
-  console.log(imageCaption + "1");
-  $( "#footer-caption" ).text( imageCaption );
-  console.log(imageCaption + "2");
+// $("#project-gif-footer").(function() {
+//   console.log("hovering works");
+//   var imageCaption = $(this).attr("alt");
+//   console.log(imageCaption + "1");
+//   $( "#footer-caption" ).text( imageCaption );
+//   console.log(imageCaption + "2");
 
 
-});
+// });
 
 
 
