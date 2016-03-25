@@ -393,12 +393,12 @@ body .projectSVG {
 
 
 //responsive
-@media screen and (min-width: 401px) and (max-width:800px) {
+@media screen and (min-width: 401px) and (max-width:9999px) {
 
 
   .project-gif {
-    width: 95px;
-    height: 95px;
+    width: 80px;
+    height: 80px;
     opacity: 1.0;
   }
 
@@ -410,7 +410,10 @@ body .projectSVG {
   }
 
   .project-list-item {
+      margin: 0px;
+      padding: 15px;
       padding-top: 10px;
+      transition: all 0.3s ease;
 
   }
 
@@ -448,14 +451,17 @@ body .projectSVG {
     font-size: 12px;
   }
 
+  #blurb {
+font-size: 11px;
 
+  }
 
 }
 
 
 
 @media screen and (min-width: 800px) {
-  .project-col {
+  /*.project-col {
     width: 350px;
     margin-right: auto;
     margin-left: auto;
@@ -470,7 +476,7 @@ body .projectSVG {
     width: 100px;
     height: 100px;
     opacity: 0.05;
-  }
+  }*/
 
   .project-gif-footer {
 
@@ -574,7 +580,8 @@ p {
 }
 
 #email{
- 
+
+padding-top: 100px; 
 
 }
 
@@ -707,4 +714,6 @@ body {
 
   margin-top: 0px;
 }
+
+
 

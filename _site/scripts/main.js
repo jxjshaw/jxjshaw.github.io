@@ -24,6 +24,8 @@ $(window).load(function()
 
 
 
+
+
 // $('.project-gif').hover(
 //     function() {
 //         $(".project-gif:not(:hover)").css({"opacity":"0.7"});

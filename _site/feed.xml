@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Mar 2016 00:01:09 -0700</pubDate>
-    <lastBuildDate>Fri, 25 Mar 2016 00:01:09 -0700</lastBuildDate>
+    <pubDate>Fri, 25 Mar 2016 01:10:00 -0700</pubDate>
+    <lastBuildDate>Fri, 25 Mar 2016 01:10:00 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -510,12 +510,12 @@
               &lt;div class=&quot;fnav&quot;&gt;
 
                &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
-              
+        
                   &lt;h5 class=&quot;project-title&quot;&gt;
-                More Projects &lt;/h5&gt; 
+                More Projects &lt;h5&gt; 
             
                
-              &lt;/div&gt;
+              
 
                 &lt;div class=&quot;row text-center&quot;&gt;
 
@@ -526,68 +526,68 @@
                          &lt;div class=&quot;iconbox&quot;&gt;
                   
                            &lt;div class=&quot;name-footer&quot;&gt;
-                           
+                              &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                          
                            &lt;/div&gt;
        
                           
                              &lt;div class=&quot;name-footer&quot;&gt;
-                          
+                              &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                       
                            &lt;/div&gt;
 
 
                               &lt;div class=&quot;name-footer&quot;&gt;
-                        
+                              &lt;a href=&quot;/project-item/As-One/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                      
                            &lt;/div&gt;
 
                                  &lt;div class=&quot;name-footer&quot;&gt;
-                           
+                              &lt;a href=&quot;/project-item/Benzpay/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                          
                            &lt;/div&gt;
        
                           
                              &lt;div class=&quot;name-footer&quot;&gt;
-                          
+                              &lt;a href=&quot;/project-item/Wifi-Beerbong/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bb2.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Wifi Beerbong&lt;/b&gt;&lt;/p&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Wifi Beerbong&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                       
                            &lt;/div&gt;
 
                               &lt;div class=&quot;name-footer&quot;&gt;
-                        
+                              &lt;a href=&quot;/project-item/Firebird/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk3.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Firebird&lt;/b&gt;&lt;/p&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Firebird&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                        
                            &lt;/div&gt;
 
                               &lt;div class=&quot;name-footer&quot;&gt;
-                        
+                              &lt;a href=&quot;/project-item/Music-Videos/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/yh.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Music Videos&lt;/b&gt;&lt;/p&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Music Videos&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                      
                            &lt;/div&gt;
 
                             &lt;div class=&quot;name-footer&quot;&gt;
-                        
+                              &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;More&lt;/b&gt;&lt;/p&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                      
                            &lt;/div&gt;
 
                              &lt;div class=&quot;name-footer&quot;&gt;
-                        
+                              &lt;a href=&quot;/project-item/Fed-Up/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                      
                            &lt;/div&gt;
 
@@ -640,7 +640,7 @@
                    &lt;/div&gt;
                   &lt;/div&gt; --&gt;
 
-                  &lt;/div&gt;
+                  
 
 
 
@@ -653,7 +653,7 @@
       
     
   
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h5&gt;&lt;/h5&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 01 Jan 2007 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/Fed-Up/</link>

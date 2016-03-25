@@ -5837,10 +5837,10 @@ body .projectSVG {
   opacity: 1.0;
   transition: opacity 0.3s ease; }
 
-@media screen and (min-width: 401px) and (max-width: 800px) {
+@media screen and (min-width: 401px) and (max-width: 9999px) {
   .project-gif {
-    width: 95px;
-    height: 95px;
+    width: 80px;
+    height: 80px;
     opacity: 1.0; }
 
   .header-text {
@@ -5848,7 +5848,10 @@ body .projectSVG {
     margin-top: -10px; }
 
   .project-list-item {
-    padding-top: 10px; } }
+    margin: 0px;
+    padding: 15px;
+    padding-top: 10px;
+    transition: all 0.3s ease; } }
 @media screen and (min-width: 1px) and (max-width: 401px) {
   .project-gif {
     width: 100px;
@@ -5866,22 +5869,27 @@ body .projectSVG {
     padding-top: 10px; }
 
   .project-title {
-    font-size: 12px; } }
+    font-size: 12px; }
+
+  #blurb {
+    font-size: 11px; } }
 @media screen and (min-width: 800px) {
-  .project-col {
+  /*.project-col {
     width: 350px;
     margin-right: auto;
     margin-left: auto;
-    padding-top: 0px; }
+    padding-top: 0px;
+  }
 
   .project-list-item {
-    margin: -13px; }
+    margin: -13px;
+  }
 
   .project-gif {
     width: 100px;
     height: 100px;
-    opacity: 0.05; }
-
+    opacity: 0.05;
+  }*/
   .project-gif-footer {
     width: 30px;
     height: 30px;
@@ -5944,6 +5952,9 @@ p {
   line-height: 2;
   margin-left: 15px;
   margin-right: -3px; }
+
+#email {
+  padding-top: 100px; }
 
 .title-main-about {
   font-size: 24px;
