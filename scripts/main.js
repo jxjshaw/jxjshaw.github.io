@@ -31,7 +31,7 @@ $(window).load(function()
       
       });
       
-      $(".name-footer").mouseleave(function() {
+      $(".iconbox").mouseleave(function() {
         console.log('hovering');
         $("#footer-caption").text("More Projects");
         $(".project-gif-footer").css("opacity", "1.0");
