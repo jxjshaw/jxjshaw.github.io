@@ -5774,7 +5774,8 @@ h4 {
   width: 60px;
   height: 60px;
   border-radius: 5000px;
-  object-fit: cover; }
+  object-fit: cover;
+  transition: all ease 0.3s; }
 
 .kitten-box p {
   font-size: 8px;
@@ -6041,3 +6042,13 @@ body {
 
 #footer-nav-buffer {
   margin-top: 0px; }
+
+::selection {
+  background: #FFCD00;
+  /* WebKit/Blink Browsers */ }
+
+#footer-caption {
+  font-weight: 800; }
+
+.project-gif-footer:hover {
+  opacity: 1.0; }

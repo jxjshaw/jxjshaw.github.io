@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Mar 2016 14:54:05 -0700</pubDate>
-    <lastBuildDate>Fri, 25 Mar 2016 14:54:05 -0700</lastBuildDate>
+    <pubDate>Fri, 01 Apr 2016 15:50:35 -0700</pubDate>
+    <lastBuildDate>Fri, 01 Apr 2016 15:50:35 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -665,7 +665,7 @@
                   
                            &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; /&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                          
                            &lt;/div&gt;
@@ -673,7 +673,7 @@
                           
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; /&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                       
                            &lt;/div&gt;
@@ -681,14 +681,14 @@
 
                               &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/As-One/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; /&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                      
                            &lt;/div&gt;
 
                                  &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; /&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                          
                            &lt;/div&gt;
@@ -696,35 +696,35 @@
                           
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/Wifi-Beerbong/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bb2.gif&quot; /&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bb2.gif&quot; alt=&quot;Wifi Beerbong&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Wifi Beerbong&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                       
                            &lt;/div&gt;
 
                               &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/Firebird/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk3.gif&quot; /&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk3.gif&quot; alt=&quot;Firebird&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Firebird&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                        
                            &lt;/div&gt;
 
                               &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/Music-Videos/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/yh.gif&quot; /&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/yh.gif&quot; alt=&quot;Music Videos&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Music Videos&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                      
                            &lt;/div&gt;
 
                             &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; /&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                      
                            &lt;/div&gt;
 
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/Fed-Up/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; alt=&quot;Home&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                      
                            &lt;/div&gt;
@@ -907,10 +907,15 @@
         &lt;p class=&quot;lead&quot;&gt; In retrospect, the technology wasn&#39;t earth shattering, but this is a great example of how fast a talented team can work decisively when there is good chemistry. In one weekend, we shipped a product that would take a company at least half a year to assemble.&lt;/p&gt;
 
         
-        &lt;h1 class=&quot;title-main-about&quot;&gt;More about Chimehack&lt;/h1&gt;
+       &lt;!--  &lt;h1 class=&quot;title-main-about&quot;&gt;More about Chimehack&lt;/h1&gt;
         &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
         &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/86ECVBcPWcg&quot;&gt;&lt;/iframe&gt;
-      &lt;/div&gt;
+      &lt;/div&gt; --&gt;
+        
+
+
+
+
         
 
         
@@ -936,41 +941,57 @@
 
         &lt;h1 class=&quot;title-main-about&quot;&gt; &lt;/h1&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; This is the project that caught the attention of Daimler&#39;s board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to a job at Mercedes. &lt;/i&gt; &lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; This is the project that caught the attention of Daimler&#39;s board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to a job at Mercedes.&lt;/i&gt; &lt;/p&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Simplifying the driving experience &lt;/h1&gt;
+         &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; Lots of technology we take for granted on our phones are not utilized in cars. Mobile payment, for instance, is all around us. It&#39;s made our lives easier and more secure. Yet when leaving a parking garage or stopping at a toll booth, we still waste time and fumble to make a transaction.  &lt;p&gt;
+         &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;Topics&lt;/b&gt;: Connected Cars, Fintech&lt;p&gt;
+         &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;Roles&lt;/b&gt;: Visual design, Interaction design, Interface design &lt;p&gt;
+         &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;Tools&lt;/b&gt;: Adobe Illustrator, Adobe Photoshop, Sketch 3 &lt;p&gt;
+         
+         
 
-          
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Aligning the product with the brand &lt;/h1&gt;
 
-           &lt;p class=&quot;lead&quot;&gt;
-          We&#39;re not getting from point A to point B in the most efficient way possible. That&#39;s why we created BenzPay, because for the Mercedes driver, time is the only currency that matters.  &lt;/p&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-         &lt;h1 class=&quot;title-main-about&quot;&gt; Boiling down the use case &lt;/h1&gt;
-         &lt;p class=&quot;lead&quot;&gt;  For our short demo, we paired down the concept to three distinct use cases. Speaking to drivers and industry experts, it became clear gas and parking were most popular. However finding our third use case was a little harder. &lt;p&gt;
-
-          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
+         &lt;p class=&quot;lead&quot;&gt; For the Mercedes driver, time is the only currency that matters. Yet when leaving a parking garage or passing a toll booth, time is still wasted fumbling for coins and credit cards. &lt;/p&gt;
+         
           &lt;p class=&quot;lead&quot;&gt;
-          Not everyone was a fan of going with &quot;events&quot; instead of &quot;tollbooth&quot; but here is my reasoning:
+         We&#39;re not getting from point A to point B in the fastest way possible.&lt;/p&gt;
+
+         &lt;h1 class=&quot;title-main-about&quot;&gt; Searching for the right use case&lt;/h1&gt;
+
+             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+         &lt;p class=&quot;lead&quot;&gt; Senior management has a short attention span, so I designed our prototype with three clear use cases in mind. &lt;/p&gt;
+         &lt;p class=&quot;lead&quot;&gt;
+          Speaking to drivers and industry experts, it became clear gas and parking were two popular use cases. For the third use case, it was important to be creative and take a risk on a use case a little more out there.&lt;p&gt;
 
       
+           &lt;h1 class=&quot;title-main-about&quot;&gt; Doing something a little weird &lt;/h1&gt;
+
+            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+          &lt;p class=&quot;lead&quot;&gt;
+          Not everyone was a fan of going with &quot;events&quot; instead of &quot;toll booth&quot; but here is my reasoning:
+
 
 
 
                 &lt;ul&gt;
                 
                  
-                   &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; &lt;i&gt; &lt;b&gt;
-                    Payment solutions for tollbooths already exist.
-                   &lt;/b&gt;&lt;/i&gt;
+                   &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; 
+                    Payment solutions for toll booths such as FasTrak already exist.
+                   
 
-                  &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; &lt;i&gt; &lt;b&gt; I want to appeal to the emotional side of our product. It&#39;s one thing to make your life easier, it&#39;s another to make it more interesting.&lt;/b&gt;&lt;/i&gt;
+                  &lt;li&gt;&lt;p class=&quot;lead&quot;&gt;It&#39;s one thing to make your life easier, it&#39;s another to make it more interesting. I want to appeal to the emotional side of the product.
 
-                  &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; &lt;i&gt; &lt;b&gt;
-                    Unlike support for parking meters, gas pumps, or toll booths, event planning can be quick to implement. Completing transactions on ticketmaster or eventbrite requires no additional hardware or data collection.
-                  &lt;/b&gt;&lt;/i&gt;&lt;p&gt; 
+                  &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; 
+                    Completing event transactions on ticketmaster or eventbrite requires no major external infrastructure.
+                  &lt;p&gt; 
 
                   
 
@@ -984,53 +1005,67 @@
 
        
 
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+       
+          &lt;h1 class=&quot;title-main-about&quot;&gt; Creating the graphical interface &lt;/h1&gt;    
 
-
-          &lt;p class=&quot;lead&quot;&gt;
-            Additional features include using gps and bitcoin to complete transactions without the need to stop, or by automatically calculating and paying for the price to fill up at a given gas station. 
-            &lt;p&gt;
-
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Streamlining transaction process &lt;/h1&gt;     
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
         &lt;p class=&quot;lead&quot;&gt;  
-        Designing for the car is different from designing for mobile. devices Unless the driver is parked, most interactions occur without the user&#39;s complete attention. To make this payment process smarter, payments are automatically initiated based on the driver&#39;s location. Prices are also automatically estimated (for example the pseudo code for the price to fill up = ((tankSize - (tankSize * %full)) + (stationDist / mpg ) * gasPrice))  &lt;p&gt;
-
-         &lt;p class=&quot;lead&quot;&gt; 
-        All the driver needs to do is confirm the transaction with a click of a button. &lt;p&gt;
-
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/benzpay.gif&quot; alt=&quot;Jeff&quot; /&gt;
-
-        &lt;p class=&quot;lead&quot;&gt; 
-        Bitcoin was the easiest to integrate for our prototype, but we soon discovered the security benefits of using bitcoin. &lt;p&gt;
-
-       
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Mapping input interaction &lt;/h1&gt;    
-        &lt;p class=&quot;lead&quot;&gt;  
-        A common gripe from c300 owners is that the heads-up display looks like it&#39;s touchscreen but it really isn&#39;t. To avoid this confusion and make event handling more intuitive, I created an interface with a clear hierarchy of menus navigated with a highlight selector. &lt;p&gt;
-
-          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+        A common gripe from c300 owners is that the heads-up display looks like it&#39;s touchscreen but it&#39;s not. To make event handling more intuitive, the interface has a clear hierarchy of menus. &lt;p&gt;
 
 
-         &lt;p class=&quot;lead&quot;&gt;
-        Rotating the wheel makes the selector scroll up, down, in and out of the menus depending on the context of the selector. Shifting the wheel left and right toggles different views like &quot;payment history,&quot; &quot;payment preferences,&quot; and &quot;nearby transactions.&quot;
-        &lt;p&gt;
 
+         &lt;h1 class=&quot;title-main-about&quot;&gt; Optimizing the interface for the driver &lt;/h1&gt;    
 
-          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/g.gif&quot; alt=&quot;Jeff&quot; /&gt;
-       
+         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-      
-
-         &lt;h1 class=&quot;title-main-about&quot;&gt; Glancing at an interface &lt;/h1&gt;         
         &lt;p class=&quot;lead&quot;&gt;  
         I used a variation of color, size, and weight to distinguish what really matters at a glance from information important only on a closer read. 
         &lt;p&gt;
 
-            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+            
 
               &lt;p class=&quot;lead&quot;&gt;  
                 An example of this can be seen in the payment history view. The first thing the driver sees is the amount paid followed by the vendor name. Details such as credit card number and bitcoin address is more confidential and significantly less visible from a distance.  &lt;p&gt;
+
+
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Mapping inputs from existing hardware &lt;/h1&gt;   
+
+            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/g.gif&quot; alt=&quot;Jeff&quot; /&gt;
+
+         &lt;p class=&quot;lead&quot;&gt;
+        Rotating the wheel BlackBerry style makes the selector scroll up, down, in and out of the menus depending on the context of the selector. Shifting the wheel left and right toggles different views like &quot;payment history,&quot; &quot;payment preferences,&quot; and &quot;nearby transactions.&quot;
+        &lt;p&gt;
+
+
+
+      
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt; There&#39;s no time to select debit or credit&lt;/h1&gt; 
+
+         &lt;img class=&quot;content-image&quot; src=&quot;../../images/benzpay.gif&quot; alt=&quot;Jeff&quot; /&gt;    
+
+        &lt;p class=&quot;lead&quot;&gt;  
+        When driving, there&#39;s no time to type in amounts and add in signatures. Transactions are triggered based on geolocation, prices are programmatically calculated. Using GPS coordinates to initiate transactions also makes it more secure.
+        In other words, the driver just needs to confirm the transaction with a click of a button.&lt;p&gt;
+
+         &lt;p class=&quot;lead&quot;&gt; 
+        &lt;p&gt;
+
+   
+
+       
+        
+          
+
+
+
+      
+       
+
+      
+
 &lt;!-- 
         &lt;h1 class=&quot;title-main-about&quot;&gt; Demo video &lt;/h1&gt;  
 
@@ -1042,21 +1077,91 @@
                       &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/132971331&quot;&gt;&lt;/iframe&gt;
                   &lt;/div&gt;
  --&gt;
-                  &lt;h1 class=&quot;title-main-about&quot;&gt; Further reading &lt;/h1&gt;  
+               &lt;!--    &lt;h1 class=&quot;title-main-about&quot;&gt; Further reading &lt;/h1&gt;  
 
            
-     &lt;!--        &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/benzpay/team.jpg&quot; alt=&quot;Jeff&quot; &gt;
- --&gt;
+            &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/benzpay/team.jpg&quot; alt=&quot;Jeff&quot; &gt;
+
               &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://www.mobilegeeks.com/mercedes-benz-hack-a-thon-a-snapshot-of-developing-for-automotive/&quot;&gt;  &lt;b&gt;  Writeup &lt;/b&gt; by Mobile Geeks &lt;/a&gt;  &lt;p&gt;
 
            &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://360.here.com/2015/08/11/here-gives-direction-at-mercedes-benz-hackathon/&quot;&gt; &lt;b&gt; Article  &lt;/b&gt; by HERE maps&lt;/a&gt; &lt;p&gt;
 
-           
+            --&gt;
 
 
 
     
 
+          &lt;!-- DESKTOP FOOTER NAV --&gt;
+
+              &lt;div class=&quot;fnav&quot;&gt;
+
+               &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
+        
+                  &lt;h5 class=&quot;project-title&quot; id=&quot;footer-caption&quot;&gt;
+                More Projects &lt;h5&gt; 
+            
+               
+              
+
+                &lt;div class=&quot;row text-center&quot;&gt;
+
+
+
+                       &lt;div class=&quot;img-responsive center-block&quot;&gt;
+              
+                         &lt;div class=&quot;iconbox&quot;&gt;
+                  
+                           &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                         
+                           &lt;/div&gt;
+       
+                          
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                      
+                           &lt;/div&gt;
+
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/As-One/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt;
+
+                                 &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                         
+                           &lt;/div&gt;
+       
+                          
+                            
+
+                            &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt;
+
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/Fed-Up/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt;
+
+                    &lt;/div&gt; 
+                   &lt;/div&gt;
+                  &lt;/div&gt;
 
 
             
@@ -1069,7 +1174,7 @@
     
   
 
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h5&gt;&lt;/h5&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/BenzPay/</link>
@@ -1167,7 +1272,76 @@
 
 
 
+                     &lt;!-- DESKTOP FOOTER NAV --&gt;
 
+              &lt;div class=&quot;fnav&quot;&gt;
+
+               &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
+        
+                  &lt;h5 class=&quot;project-title&quot; id=&quot;footer-caption&quot;&gt;
+                More Projects &lt;h5&gt; 
+            
+                         
+                        
+
+                          &lt;div class=&quot;row text-center&quot;&gt;
+
+
+
+                                 &lt;div class=&quot;img-responsive center-block&quot;&gt;
+                        
+                                   &lt;div class=&quot;iconbox&quot;&gt;
+                            
+                                     &lt;div class=&quot;name-footer&quot;&gt;
+                                        &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
+                                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
+                                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                                   
+                                     &lt;/div&gt;
+                 
+                                    
+                                       &lt;div class=&quot;name-footer&quot;&gt;
+                                        &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
+                                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
+                                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                                
+                                     &lt;/div&gt;
+
+
+                                        &lt;div class=&quot;name-footer&quot;&gt;
+                                        &lt;a href=&quot;/project-item/As-One/&quot;&gt;
+                                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
+                                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                               
+                                     &lt;/div&gt;
+
+                                           &lt;div class=&quot;name-footer&quot;&gt;
+                                        &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
+                                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
+                                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                                   
+                                     &lt;/div&gt;
+                 
+                                    
+                                      
+
+                                      &lt;div class=&quot;name-footer&quot;&gt;
+                                        &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
+                                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot; /&gt;
+                                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                               
+                                     &lt;/div&gt;
+
+                                       &lt;div class=&quot;name-footer&quot;&gt;
+                                        &lt;a href=&quot;/project-item/Fed-Up/&quot;&gt;
+                                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; alt=&quot;Home&quot; /&gt;
+                                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                               
+                                     &lt;/div&gt;
+
+                              &lt;/div&gt; 
+                             &lt;/div&gt;
+                            &lt;/div&gt;
 
         
       
@@ -1190,7 +1364,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt; --&gt;
-&lt;/p&gt;&lt;/p&gt;&lt;/b&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h5&gt;&lt;/h5&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/b&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/Wifi-Beerbong/</link>

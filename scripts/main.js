@@ -26,12 +26,14 @@ $(window).load(function()
            var imageCaption = $(this).find('img').attr("alt");
         console.log('hovering');
         $("#footer-caption").text(imageCaption);
+        $(".project-gif-footer").css("opacity", "0.9");
       
       });
       
       $(".name-footer").mouseleave(function() {
         console.log('hovering');
-        $("#footer-caption").text("More projects");
+        $("#footer-caption").text("More Projects");
+        $(".project-gif-footer").css("opacity", "1.0");
       
       });
   
