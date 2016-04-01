@@ -23,10 +23,11 @@ $(window).load(function()
 
     //footer hovering stuff
     $(".name-footer").mouseenter(function() {
-           var imageCaption = $(this).find('img').attr("alt");
+        var imageCaption = $(this).find('img').attr("alt");
         console.log('hovering');
         $("#footer-caption").text(imageCaption);
-        $(".project-gif-footer").css("opacity", "0.9");
+        $(".project-gif-footer").css("opacity", "0.3");
+        $(this).find('img').css("opacity", "1.0");
       
       });
       
