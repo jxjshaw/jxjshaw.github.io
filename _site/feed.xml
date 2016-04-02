@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Apr 2016 15:50:35 -0700</pubDate>
-    <lastBuildDate>Fri, 01 Apr 2016 15:50:35 -0700</lastBuildDate>
+    <pubDate>Fri, 01 Apr 2016 16:52:07 -0700</pubDate>
+    <lastBuildDate>Fri, 01 Apr 2016 16:52:07 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -951,7 +951,7 @@
          
          
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Aligning the product with the brand &lt;/h1&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Aligning the vision with the brand &lt;/h1&gt;
 
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
@@ -960,7 +960,7 @@
           &lt;p class=&quot;lead&quot;&gt;
          We&#39;re not getting from point A to point B in the fastest way possible.&lt;/p&gt;
 
-         &lt;h1 class=&quot;title-main-about&quot;&gt; Searching for the right use case&lt;/h1&gt;
+         &lt;h1 class=&quot;title-main-about&quot;&gt; Researching the right use case&lt;/h1&gt;
 
              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
@@ -969,7 +969,7 @@
           Speaking to drivers and industry experts, it became clear gas and parking were two popular use cases. For the third use case, it was important to be creative and take a risk on a use case a little more out there.&lt;p&gt;
 
       
-           &lt;h1 class=&quot;title-main-about&quot;&gt; Doing something a little weird &lt;/h1&gt;
+           &lt;h1 class=&quot;title-main-about&quot;&gt; Taking a risk &lt;/h1&gt;
 
             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
@@ -1006,7 +1006,7 @@
        
 
        
-          &lt;h1 class=&quot;title-main-about&quot;&gt; Creating the graphical interface &lt;/h1&gt;    
+          &lt;h1 class=&quot;title-main-about&quot;&gt; Designing the graphical interface &lt;/h1&gt;    
 
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
@@ -1015,7 +1015,7 @@
 
 
 
-         &lt;h1 class=&quot;title-main-about&quot;&gt; Optimizing the interface for the driver &lt;/h1&gt;    
+         &lt;h1 class=&quot;title-main-about&quot;&gt; User experience for the driver &lt;/h1&gt;    
 
          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
@@ -1030,7 +1030,7 @@
 
 
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Mapping inputs from existing hardware &lt;/h1&gt;   
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Mapping interaction with existing hardware &lt;/h1&gt;   
 
             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/g.gif&quot; alt=&quot;Jeff&quot; /&gt;
 
@@ -1042,7 +1042,7 @@
 
       
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt; There&#39;s no time to select debit or credit&lt;/h1&gt; 
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Does is it do what it&#39;s supposed to do?&lt;/h1&gt; 
 
          &lt;img class=&quot;content-image&quot; src=&quot;../../images/benzpay.gif&quot; alt=&quot;Jeff&quot; /&gt;    
 
@@ -1098,8 +1098,8 @@
 
                &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
         
-                  &lt;h5 class=&quot;project-title&quot; id=&quot;footer-caption&quot;&gt;
-                More Projects &lt;h5&gt; 
+                  &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
+                More Projects &lt;h1&gt; 
             
                
               
@@ -1174,7 +1174,7 @@
     
   
 
-&lt;/h5&gt;&lt;/h5&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/BenzPay/</link>
