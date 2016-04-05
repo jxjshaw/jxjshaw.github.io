@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Apr 2016 16:52:07 -0700</pubDate>
-    <lastBuildDate>Fri, 01 Apr 2016 16:52:07 -0700</lastBuildDate>
+    <pubDate>Tue, 05 Apr 2016 16:16:06 -0700</pubDate>
+    <lastBuildDate>Tue, 05 Apr 2016 16:16:06 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -438,6 +438,81 @@
                     &lt;/p&gt; 
 
                        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/team.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+
+
+                         &lt;!-- DESKTOP FOOTER NAV --&gt;
+
+              &lt;div class=&quot;fnav&quot;&gt;
+
+               &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
+        
+                  &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
+                More Projects &lt;h1&gt; 
+            
+               
+              
+
+                &lt;div class=&quot;row text-center&quot;&gt;
+
+
+
+                       &lt;div class=&quot;img-responsive center-block&quot;&gt;
+              
+                         &lt;div class=&quot;iconbox&quot;&gt;
+                  
+                           &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                         
+                           &lt;/div&gt;
+       
+                          
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                      
+                           &lt;/div&gt;
+
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/As-One/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt;
+
+                                 &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                         
+                           &lt;/div&gt;
+       
+                          
+                            
+&lt;!-- 
+                            &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt; --&gt;
+
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt;
+
+                    &lt;/div&gt; 
+                   &lt;/div&gt;
+                  &lt;/div&gt;
+
                     
                     
 
@@ -446,7 +521,7 @@
                 
               
             
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 01 Jan 2008 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/AirQuail/</link>
@@ -649,8 +724,8 @@
 
                &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
         
-                  &lt;h5 class=&quot;project-title&quot; id=&quot;footer-caption&quot;&gt;
-                More Projects &lt;h5&gt; 
+                  &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
+                More Projects &lt;h1&gt; 
             
                
               
@@ -694,48 +769,26 @@
                            &lt;/div&gt;
        
                           
-                             &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/Wifi-Beerbong/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bb2.gif&quot; alt=&quot;Wifi Beerbong&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Wifi Beerbong&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                      
-                           &lt;/div&gt;
-
-                              &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/Firebird/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk3.gif&quot; alt=&quot;Firebird&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Firebird&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                       
-                           &lt;/div&gt;
-
-                              &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/Music-Videos/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/yh.gif&quot; alt=&quot;Music Videos&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Music Videos&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
-                           &lt;/div&gt;
-
+                            
+&lt;!-- 
                             &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                      
-                           &lt;/div&gt;
+                           &lt;/div&gt; --&gt;
 
                              &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/Fed-Up/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; alt=&quot;Home&quot; /&gt;
+                              &lt;a href=&quot;/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                      
                            &lt;/div&gt;
 
-
-
-
-           
                     &lt;/div&gt; 
                    &lt;/div&gt;
                   &lt;/div&gt;
+
 
                &lt;!--         &lt;div class=&quot;row text-center&quot;&gt;
 
@@ -791,7 +844,7 @@
       
     
   
-&lt;/h5&gt;&lt;/h5&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 01 Jan 2007 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/Fed-Up/</link>
@@ -815,18 +868,31 @@
       
 
 
+       &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
+
+         &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;Topics&lt;/b&gt;: Social, Safety &lt;p&gt;
+         &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;Roles&lt;/b&gt;: Mobile interface design, User experiene&lt;p&gt;
+         &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;Tools&lt;/b&gt;: Adobe Illustrator, Sketch 3, Xcode, Git &lt;p&gt;
+         &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;Team&lt;/b&gt;: 1 designer, 4 engineers &lt;p&gt;
 
 
 
 
-      &lt;h1 class=&quot;title-main-about&quot;&gt;Hacking for change&lt;/h1&gt;
+      &lt;h1 class=&quot;title-main-about&quot;&gt;Background and market research&lt;/h1&gt;
 
       &lt;p class=&quot;lead&quot;&gt; Campus safety was a key theme at Chimehack. It was an issue my teammates and I had recently witnessed in college.  &lt;p&gt;
 
-      &lt;p class=&quot;lead&quot;&gt;
-       To brainstorm, we thought back to our own encounters with campus safety.&lt;p&gt; 
+       &lt;p class=&quot;lead&quot;&gt;
+       To brainstorm, I spoke with a wide range of people. &lt;p&gt; 
 
-       &lt;h1 class=&quot;title-main-about&quot;&gt;Making college a safer space&lt;/h1&gt;
+      &lt;p class=&quot;lead&quot;&gt; Testimony &quot;I would totally use this when I&#39;m going out with my friends&quot; working proffesional&lt;p&gt;
+      &lt;p class=&quot;lead&quot;&gt; Testimony &quot;Campus safety is actually a big topic at our school right now. Our campus safety is actually trying out this new app similar to your idea&quot; student &lt;p&gt;
+      &lt;p class=&quot;lead&quot;&gt; Testimony &quot;We&#39;ve seen a lot of panic button apps. People don&#39;t realize feeling unsafe doesn&#39;t always mean you want the police involved.&quot; - non profit director&lt;p&gt;
+
+     
+
+       &lt;h1 class=&quot;title-main-about&quot;&gt;Designing for a solution&lt;/h1&gt;
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/sketch2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
        &lt;p class=&quot;lead&quot;&gt;
        Usually, it had something to do with making sure friends are ok. When your friend goes missing, they&#39;re not picking up their phone andit&#39;s hard to tell whether or not their phone is dead. They&#39;re probably not in enough danger to call campus safety, but that doesn&#39;t mean you don&#39;t care where they are. &lt;/p&gt;
@@ -834,43 +900,24 @@
       &lt;p class=&quot;lead&quot;&gt; That&#39;s why we built asOne. It&#39;s a better way to communicate in groups when going out. Instead of annoying group messages, we create temporary friend groups that shares information about each member&#39;s location, battery level, and the time they want to go home. &lt;/p&gt;
 
 
-      &lt;h1 class=&quot;title-main-about&quot;&gt;An entire iOS app in 48 hours&lt;/h1&gt;   
-      
+            &lt;h1 class=&quot;title-main-about&quot;&gt;Creating a distinct visual style&lt;/h1&gt;  
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/icons.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+          &lt;p class=&quot;lead&quot;&gt; Inclusiveness was a major theme throughout both Chimehack and the mission our technology. Using our app is essentially making a pact within your friends. To embody this feeling of warmth, unity, and trust in a visual language, I designed a logo with a symmetrical heart pattern and warm blends. &lt;p&gt;
 
-      &lt;p class=&quot;lead&quot;&gt; Our team had 48 hours, 4 engineers, and 1 designer. We formed teams friday night, and I had the next 12 hours to work out the user flow, freeze the wireframes, and export the assets. I spent the rest of saturday designing our logo, making incode changes, and prepping for the demo. &lt;p&gt;
-
-  
-
-          &lt;h1 class=&quot;title-main-about&quot;&gt;An entire iOS app in 48 hours&lt;/h1&gt;  
-       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/asoneff.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-     
-
-       &lt;h1 class=&quot;title-main-about&quot;&gt;Onboarding and privacy concerns&lt;/h1&gt;   
-
-      &lt;p class=&quot;lead&quot;&gt; Usability and the onboarding process was a key concern in my design. Nobody was going have this app at their fingertips, if it was hard to sign up, log in, and immediately delivering value. Because we were at twitter, we received fantastic feedback about the challenges facing products that only works when many users buy into the system. &lt;p&gt;
-
-         &lt;p class=&quot;lead&quot;&gt; With that in mind, it became clear to me we weren&#39;t here to build yet another social media app. Having a social network was only the means to our end of which was making it easier for college students to look after their friends. We didn&#39;t need to create our own user id system, if we integrate facebook profiles using their SDK. &lt;/p&gt;
-
-         &lt;p class=&quot;lead&quot;&gt; 
-          The key drawback to with leveraging existing profiles is potential concerns over privacy. Our remedy was a system where formed groups only last until the next morning. To use the app again, a new group must be created. To minimize friction in this process, we included recent and nearby friends at the top of the contact list.&lt;p&gt;
-
-         &lt;h1 class=&quot;title-main-about&quot;&gt;The color of friendship&lt;/h1&gt;   
-        
-        &lt;p class=&quot;lead&quot;&gt; Inclusiveness was a major theme throughout both Chimehack and the mission our technology. Using our app is essentially making a pact within your friends. To embody this feeling of warmth, unity, and trust in a visual language, I designed a logo with a symmetrical heart pattern and warm blends. &lt;p&gt;
-
-          &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a6.png&quot; alt=&quot;Jeff&quot; /&gt;
 
         &lt;p class=&quot;lead&quot;&gt;
          The rest of the views following the splash screen are functional realizations of this feeling of being surrounded by your closest friends. It seemed natural to extend these intense and intimate colors through the entire interaction. &lt;/p&gt;   
 
 
+     
        
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Picking up where phones left off&lt;/h1&gt;   
-        
+
+          &lt;h1 class=&quot;title-main-about&quot;&gt;Empathizing with the user&lt;/h1&gt;  
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/wireframe.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
         &lt;p class=&quot;lead&quot;&gt;  The resting screen is our main view. It&#39;s the dashboard that is designed to replace the logistical hassle of a group message. The resting screen makes it easy to check up on your friends periodically. Without any engagement from the user, the dashboard automatically displays information we&#39;re able to natively access from each friend&#39;s phone. &lt;p&gt;
 
-          &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a1.png&quot; alt=&quot;Jeff&quot; /&gt;
+         
 
             &lt;p class=&quot;lead&quot;&gt;
 
@@ -895,16 +942,117 @@
         &lt;/p&gt;   
 
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Details view&lt;/h1&gt;  
-        &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/asone/a5.png&quot; alt=&quot;Jeff&quot; /&gt;
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Creating trust and protecting privacy&lt;/h1&gt;  
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/notificationalert.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+         &lt;p class=&quot;lead&quot;&gt; Usability and the onboarding process was a key concern in my design. Nobody was going have this app at their fingertips, if it was hard to sign up, log in, and immediately delivering value. Because we were at twitter, we received fantastic feedback about the challenges facing products that only works when many users buy into the system. &lt;p&gt;
+
+         &lt;p class=&quot;lead&quot;&gt; With that in mind, it became clear to me we weren&#39;t here to build yet another social media app. Having a social network was only the means to our end of which was making it easier for college students to look after their friends. We didn&#39;t need to create our own user id system, if we integrate facebook profiles using their SDK. &lt;/p&gt;
+
+         &lt;p class=&quot;lead&quot;&gt; 
+          The key drawback to with leveraging existing profiles is potential concerns over privacy. Our remedy was a system where formed groups only last until the next morning. To use the app again, a new group must be created. To minimize friction in this process, we included recent and nearby friends at the top of the contact list.&lt;p&gt;
+
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Collaborating with engineers&lt;/h1&gt;  
+       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/briandetail.jpg&quot; alt=&quot;Jeff&quot; /&gt;
         &lt;p class=&quot;lead&quot;&gt; Usually when everyone&#39;s ready to go home, there&#39;s that one person that nobody can find. So I designed a detailed extension to the group view. Tapping on the friend brings you to more actions such as sending a push notification and enabling audio. Additionally we automatically set the true north of the inline map to that of the selected friend. &lt;/p&gt;
+
+     
+
+      
+
+    
+     
+
+         
+       
+        
+       
+       
        &lt;!--  &lt;img class=&quot;content-image-vertical&quot;  src=&quot;../../images/asone.gif&quot; alt=&quot;Jeff&quot; &gt;    --&gt;
 
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Conclusion&lt;/h1&gt;
+         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/asonetest3.gif&quot; alt=&quot;Jeff&quot; /&gt;
         &lt;p class=&quot;lead&quot;&gt; We built this app because this was a tool missing from our everyday lives. For the rest of the summer we would often use it as a tool to ping and find eachother. Since then, similar apps such as Friend Finder and Companion have made their way into the market. &lt;/p&gt;
 
         &lt;p class=&quot;lead&quot;&gt; In retrospect, the technology wasn&#39;t earth shattering, but this is a great example of how fast a talented team can work decisively when there is good chemistry. In one weekend, we shipped a product that would take a company at least half a year to assemble.&lt;/p&gt;
+
+
+
+
+
+  &lt;!-- DESKTOP FOOTER NAV --&gt;
+
+              &lt;div class=&quot;fnav&quot;&gt;
+
+               &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
+        
+                  &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
+                More Projects &lt;h1&gt; 
+            
+               
+              
+
+                &lt;div class=&quot;row text-center&quot;&gt;
+
+
+
+                       &lt;div class=&quot;img-responsive center-block&quot;&gt;
+              
+                         &lt;div class=&quot;iconbox&quot;&gt;
+                  
+                           &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                         
+                           &lt;/div&gt;
+       
+                          
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                      
+                           &lt;/div&gt;
+
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/As-One/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt;
+
+                                 &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                         
+                           &lt;/div&gt;
+       
+                          
+                            
+&lt;!-- 
+                            &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt; --&gt;
+
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt;
+
+                    &lt;/div&gt; 
+                   &lt;/div&gt;
+                  &lt;/div&gt;
+
 
         
        &lt;!--  &lt;h1 class=&quot;title-main-about&quot;&gt;More about Chimehack&lt;/h1&gt;
@@ -916,12 +1064,12 @@
 
 
 
-        
+
 
         
       
     
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 01 Jan 2006 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/As-One/</link>
@@ -948,6 +1096,7 @@
          &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;Topics&lt;/b&gt;: Connected Cars, Fintech&lt;p&gt;
          &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;Roles&lt;/b&gt;: Visual design, Interaction design, Interface design &lt;p&gt;
          &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;Tools&lt;/b&gt;: Adobe Illustrator, Adobe Photoshop, Sketch 3 &lt;p&gt;
+         &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;Team&lt;/b&gt;: 1 designer, 1 pm, 2 engineers &lt;p&gt;
          
          
 
@@ -962,7 +1111,7 @@
 
          &lt;h1 class=&quot;title-main-about&quot;&gt; Researching the right use case&lt;/h1&gt;
 
-             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/storyboard.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
          &lt;p class=&quot;lead&quot;&gt; Senior management has a short attention span, so I designed our prototype with three clear use cases in mind. &lt;/p&gt;
          &lt;p class=&quot;lead&quot;&gt;
@@ -1042,7 +1191,7 @@
 
       
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Does is it do what it&#39;s supposed to do?&lt;/h1&gt; 
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Product and results &lt;/h1&gt; 
 
          &lt;img class=&quot;content-image&quot; src=&quot;../../images/benzpay.gif&quot; alt=&quot;Jeff&quot; /&gt;    
 
@@ -1144,16 +1293,16 @@
        
                           
                             
-
+&lt;!-- 
                             &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                      
-                           &lt;/div&gt;
+                           &lt;/div&gt; --&gt;
 
                              &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/Fed-Up/&quot;&gt;
+                              &lt;a href=&quot;/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                      
@@ -1174,7 +1323,7 @@
     
   
 
-&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/BenzPay/</link>
@@ -1270,78 +1419,82 @@
                  &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;https://github.com/drankadank&quot;&gt;&lt;b&gt; Github &lt;/b&gt;&lt;/a&gt;&lt;p&gt;
 
 
-
-
-                     &lt;!-- DESKTOP FOOTER NAV --&gt;
+                   &lt;!-- DESKTOP FOOTER NAV --&gt;
 
               &lt;div class=&quot;fnav&quot;&gt;
 
                &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
         
-                  &lt;h5 class=&quot;project-title&quot; id=&quot;footer-caption&quot;&gt;
-                More Projects &lt;h5&gt; 
+                  &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
+                More Projects &lt;h1&gt; 
             
+               
+              
+
+                &lt;div class=&quot;row text-center&quot;&gt;
+
+
+
+                       &lt;div class=&quot;img-responsive center-block&quot;&gt;
+              
+                         &lt;div class=&quot;iconbox&quot;&gt;
+                  
+                           &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                          
-                        
+                           &lt;/div&gt;
+       
+                          
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                      
+                           &lt;/div&gt;
 
-                          &lt;div class=&quot;row text-center&quot;&gt;
 
+                              &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/As-One/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt;
 
-
-                                 &lt;div class=&quot;img-responsive center-block&quot;&gt;
-                        
-                                   &lt;div class=&quot;iconbox&quot;&gt;
+                                 &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                         
+                           &lt;/div&gt;
+       
+                          
                             
-                                     &lt;div class=&quot;name-footer&quot;&gt;
-                                        &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
-                                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
-                                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                                   
-                                     &lt;/div&gt;
-                 
-                                    
-                                       &lt;div class=&quot;name-footer&quot;&gt;
-                                        &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
-                                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
-                                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                                
-                                     &lt;/div&gt;
+&lt;!-- 
+                            &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt; --&gt;
+
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt;
+
+                    &lt;/div&gt; 
+                   &lt;/div&gt;
+                  &lt;/div&gt;
 
 
-                                        &lt;div class=&quot;name-footer&quot;&gt;
-                                        &lt;a href=&quot;/project-item/As-One/&quot;&gt;
-                                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
-                                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                               
-                                     &lt;/div&gt;
 
-                                           &lt;div class=&quot;name-footer&quot;&gt;
-                                        &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
-                                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
-                                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                                   
-                                     &lt;/div&gt;
-                 
-                                    
-                                      
 
-                                      &lt;div class=&quot;name-footer&quot;&gt;
-                                        &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
-                                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot; /&gt;
-                                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                               
-                                     &lt;/div&gt;
 
-                                       &lt;div class=&quot;name-footer&quot;&gt;
-                                        &lt;a href=&quot;/project-item/Fed-Up/&quot;&gt;
-                                        &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; alt=&quot;Home&quot; /&gt;
-                                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                               
-                                     &lt;/div&gt;
 
-                              &lt;/div&gt; 
-                             &lt;/div&gt;
-                            &lt;/div&gt;
 
         
       
@@ -1364,7 +1517,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt; --&gt;
-&lt;/h5&gt;&lt;/h5&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/b&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/b&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/Wifi-Beerbong/</link>
@@ -1416,10 +1569,87 @@
 
        &lt;p class=&quot;lead&quot;&gt; So yeah I like cars &lt;/p&gt;
 
-     &lt;/div&gt;
-   &lt;/div&gt;
- &lt;/div&gt;
-&lt;/div&gt;
+
+         &lt;!-- DESKTOP FOOTER NAV --&gt;
+
+              &lt;div class=&quot;fnav&quot;&gt;
+
+               &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
+        
+                  &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
+                More Projects &lt;h1&gt; 
+            
+               
+              
+
+                &lt;div class=&quot;row text-center&quot;&gt;
+
+
+
+                       &lt;div class=&quot;img-responsive center-block&quot;&gt;
+              
+                         &lt;div class=&quot;iconbox&quot;&gt;
+                  
+                           &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                         
+                           &lt;/div&gt;
+       
+                          
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                      
+                           &lt;/div&gt;
+
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/As-One/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt;
+
+                                 &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                         
+                           &lt;/div&gt;
+       
+                          
+                            
+&lt;!-- 
+                            &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt; --&gt;
+
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt;
+
+                    &lt;/div&gt; 
+                   &lt;/div&gt;
+                  &lt;/div&gt;
+
+
+
+
+
+     
+   
+ 
+
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Wed, 01 Jan 2003 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/Firebird/</link>
@@ -1438,8 +1668,8 @@
 
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
         &lt;h1 class=&quot;title-main-about&quot;&gt;  &lt;/h1&gt;
-        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; When I was a college hipster, I worked in video production and post production. 
-         Here are a few videos from work/fun.&lt;/i&gt; &lt;/p&gt; 
+        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; I spent a couple years working in video production and post production while I lived in Portland. 
+         &lt;/i&gt; &lt;/p&gt; 
 
           
 
@@ -1456,7 +1686,7 @@
                   &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/JkA_sGRfyKA&quot;&gt;&lt;/iframe&gt;
                &lt;/div&gt;
 
-
+&lt;!-- 
               &lt;h1 class=&quot;title-main-about&quot;&gt; S.O.S. &lt;/h1&gt;
               &lt;p class=&quot;lead&quot;&gt; In recent years, the most popular rap videos are shot on cropped sensors with tight lenses,  it&#39;s a nice raw style. &lt;p&gt;
 
@@ -1471,7 +1701,7 @@
                &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
                   &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/1zxIuoUDaXA&quot;&gt;&lt;/iframe&gt;
                &lt;/div&gt;
-
+ --&gt;
 
 
                &lt;h1 class=&quot;title-main-about&quot;&gt; Salad Days &lt;/h1&gt;
@@ -1483,11 +1713,86 @@
                   &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/VoGNw78eYzc&quot;&gt;&lt;/iframe&gt;
                &lt;/div&gt;
 
+
+                 &lt;!-- DESKTOP FOOTER NAV --&gt;
+
+              &lt;div class=&quot;fnav&quot;&gt;
+
+               &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
+        
+                  &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
+                More Projects &lt;h1&gt; 
+            
+               
+              
+
+                &lt;div class=&quot;row text-center&quot;&gt;
+
+
+
+                       &lt;div class=&quot;img-responsive center-block&quot;&gt;
+              
+                         &lt;div class=&quot;iconbox&quot;&gt;
+                  
+                           &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                         
+                           &lt;/div&gt;
+       
+                          
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                      
+                           &lt;/div&gt;
+
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/As-One/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt;
+
+                                 &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                         
+                           &lt;/div&gt;
+       
+                          
+                            
+&lt;!-- 
+                            &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt; --&gt;
+
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt;
+
+                    &lt;/div&gt; 
+                   &lt;/div&gt;
+                  &lt;/div&gt;
+
+
+
+
       
     
   
 
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 01 Jan 2002 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/Music-Videos/</link>
@@ -1547,16 +1852,91 @@
               &lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
                   &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;../../images/rresume.pdf&quot;&gt;&lt;/iframe&gt;
                 &lt;/div&gt;
- --&gt;
+
+                &lt;!-- DESKTOP FOOTER NAV --&gt;
+
+              &lt;div class=&quot;fnav&quot;&gt;
+
+               &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
+        
+                  &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
+                More Projects &lt;h1&gt; 
+            
+               
+              
+
+                &lt;div class=&quot;row text-center&quot;&gt;
+
+
+
+                       &lt;div class=&quot;img-responsive center-block&quot;&gt;
+              
+                         &lt;div class=&quot;iconbox&quot;&gt;
+                  
+                           &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                         
+                           &lt;/div&gt;
+       
+                          
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                      
+                           &lt;/div&gt;
+
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/As-One/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt;
+
+                                 &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                         
+                           &lt;/div&gt;
+       
+                          
+                            
+&lt;!-- 
+                            &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt; --&gt;
+
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                     
+                           &lt;/div&gt;
+
+                    &lt;/div&gt; 
+                   &lt;/div&gt;
+                  &lt;/div&gt;
+
+
+
+ --&amp;gt;
 
 		
-            &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+            
+          
+        
+      
+    
+  
+
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 01 Jan 2001 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/More-Projects/</link>

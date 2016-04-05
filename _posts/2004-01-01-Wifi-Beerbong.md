@@ -90,78 +90,82 @@ project-title: Wifi Beerbong
                  <p class="lead"> <a href="https://github.com/drankadank"><b> Github </b></a><p>
 
 
-
-
-                     <!-- DESKTOP FOOTER NAV -->
+                   <!-- DESKTOP FOOTER NAV -->
 
               <div class="fnav">
 
                <div class="col-sm-10 col-sm-offset-1 text-center">
         
-                  <h5 class="project-title" id="footer-caption">
-                More Projects <h5> </a>
+                  <h1 class="title-main-about" id="footer-caption">
+                More Projects <h1> </a>
             
+               
+              </div>
+
+                <div class="row text-center">
+
+
+
+                       <div class="img-responsive center-block">
+              
+                         <div class="iconbox">
+                  
+                           <div class="name-footer">
+                              <a href="/project-item/Mercedes/">
+                              <img class="project-gif-footer" src="../../images/benzux.gif" alt="Mercedes">
+                                  <p><b><br>Mercedes</b></p> </a>
                          
-                        </div>
+                           </div>
+       
+                          
+                             <div class="name-footer">
+                              <a href="/project-item/AirQuail/">
+                              <img class="project-gif-footer" src="../../images/iot.gif" alt="AirQuail">
+                                  <p><b><br>Airquail</b></p> </a>
+                      
+                           </div>
 
-                          <div class="row text-center">
 
+                              <div class="name-footer">
+                              <a href="/project-item/As-One/">
+                              <img class="project-gif-footer" src="../../images/kk2.gif" alt="asOne">
+                                  <p><b><br>asOne</b></p> </a>
+                     
+                           </div>
 
-
-                                 <div class="img-responsive center-block">
-                        
-                                   <div class="iconbox">
+                                 <div class="name-footer">
+                              <a href="/project-item/BenzPay/">
+                              <img class="project-gif-footer" src="../../images/bpay.gif" alt="Benzpay">
+                                  <p><b><br>Benzpay</b></p> </a>
+                         
+                           </div>
+       
+                          
                             
-                                     <div class="name-footer">
-                                        <a href="/project-item/Mercedes/">
-                                        <img class="project-gif-footer" src="../../images/benzux.gif" alt="Mercedes">
-                                            <p><b><br>Mercedes</b></p> </a>
-                                   
-                                     </div>
-                 
-                                    
-                                       <div class="name-footer">
-                                        <a href="/project-item/AirQuail/">
-                                        <img class="project-gif-footer" src="../../images/iot.gif" alt="AirQuail">
-                                            <p><b><br>Airquail</b></p> </a>
-                                
-                                     </div>
+<!-- 
+                            <div class="name-footer">
+                              <a href="/project-item/More-Projects/">
+                              <img class="project-gif-footer" src="../../images/kk1.gif" alt="Other">
+                                  <p><b><br>More</b></p> </a>
+                     
+                           </div> -->
+
+                             <div class="name-footer">
+                              <a href="/">
+                              <img class="project-gif-footer" src="../../images/homecircle2.jpg" alt="Home">
+                                  <p><b><br>Home</b></p> </a>
+                     
+                           </div>
+
+                    </div> 
+                   </div>
+                  </div>
 
 
-                                        <div class="name-footer">
-                                        <a href="/project-item/As-One/">
-                                        <img class="project-gif-footer" src="../../images/kk2.gif" alt="asOne">
-                                            <p><b><br>asOne</b></p> </a>
-                               
-                                     </div>
 
-                                           <div class="name-footer">
-                                        <a href="/project-item/BenzPay/">
-                                        <img class="project-gif-footer" src="../../images/bpay.gif" alt="Benzpay">
-                                            <p><b><br>Benzpay</b></p> </a>
-                                   
-                                     </div>
-                 
-                                    
-                                      
 
-                                      <div class="name-footer">
-                                        <a href="/project-item/More-Projects/">
-                                        <img class="project-gif-footer" src="../../images/kk1.gif" alt="Other">
-                                            <p><b><br>More</b></p> </a>
-                               
-                                     </div>
 
-                                       <div class="name-footer">
-                                        <a href="/project-item/Fed-Up/">
-                                        <img class="project-gif-footer" src="../../images/mj4.gif" alt="Home">
-                                            <p><b><br>Home</b></p> </a>
-                               
-                                     </div>
 
-                              </div> 
-                             </div>
-                            </div>
 
         </div>
       </div>
