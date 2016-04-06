@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Apr 2016 02:02:34 -0700</pubDate>
-    <lastBuildDate>Wed, 06 Apr 2016 02:02:34 -0700</lastBuildDate>
+    <pubDate>Wed, 06 Apr 2016 04:43:55 -0700</pubDate>
+    <lastBuildDate>Wed, 06 Apr 2016 04:43:55 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -1101,31 +1101,9 @@
            &lt;h1 class=&quot;title-main-about&quot;&gt; Taking a risk &lt;/h1&gt;
 
           &lt;p class=&quot;lead&quot;&gt;
-          Not everyone was a fan of going with &quot;events&quot; instead of &quot;toll booth&quot; but here is my reasoning:
+          Not everyone was a fan of going with &quot;events&quot; instead of &quot;toll booth&quot; but here is my reasoning: (1) Payment solutions for toll booths such as FasTrak already exist. (2) It&#39;s one thing to make your life easier, it&#39;s another to make it more interesting. I want to appeal to the emotional side of the product. (3) Completing event transactions on ticketmaster or eventbrite requires no major external infrastructure.
 
 
-
-
-                &lt;ul&gt;
-                
-                 
-                   &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; 
-                    Payment solutions for toll booths such as FasTrak already exist.
-                   
-
-                  &lt;li&gt;&lt;p class=&quot;lead&quot;&gt;It&#39;s one thing to make your life easier, it&#39;s another to make it more interesting. I want to appeal to the emotional side of the product.
-
-                  &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; 
-                    Completing event transactions on ticketmaster or eventbrite requires no major external infrastructure.
-                  &lt;p&gt; 
-
-                  
-
-
-
-
-
-                
                 &lt;p&gt;
 
             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
@@ -1307,7 +1285,7 @@
     
   
 
-&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/BenzPay/</link>
