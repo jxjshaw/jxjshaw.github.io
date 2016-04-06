@@ -5672,13 +5672,13 @@ ul {
 
 img.content-image {
   width: 100%;
-  padding-bottom: 15px;
-  margin-top: 5px; }
+  padding-bottom: 24px;
+  margin-top: 0px; }
 
 img.content-image-vertical {
   width: 50%;
-  padding-bottom: 15px;
-  margin-top: 5px; }
+  padding-bottom: 24px;
+  margin-top: 0px; }
 
 iframe {
   width: 100%;
@@ -5762,8 +5762,10 @@ h4 {
   opacity: 0.87;
   font-size: 14px;
   line-height: 1.9em;
+  line-height: 24px;
   letter-spacing: 0.3px;
-  margin-bottom: 15px; }
+  margin-bottom: 24px;
+  font-weight: normal; }
 
 .lead-center {
   opacity: 0.7;
@@ -5963,10 +5965,9 @@ p {
   font-weight: 400;
   opacity: 0.83;
   line-height: 48px;
-  padding-bottom: 30px;
-  margin-bottom: 0;
   letter-spacing: 0.8pt;
-  margin-top: 90px; }
+  margin-top: 72px;
+  margin-bottom: 24px; }
 
 #blurb-loading {
   text-align: center; }

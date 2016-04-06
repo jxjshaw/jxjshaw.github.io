@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Apr 2016 16:16:06 -0700</pubDate>
-    <lastBuildDate>Tue, 05 Apr 2016 16:16:06 -0700</lastBuildDate>
+    <pubDate>Wed, 06 Apr 2016 01:22:06 -0700</pubDate>
+    <lastBuildDate>Wed, 06 Apr 2016 01:22:06 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -67,7 +67,7 @@
                &lt;p&gt;
 
                &lt;p class=&quot;lead&quot;&gt; 
-               &lt;b&gt; Language is more inuitive to humans than any graphical computer interface a user has been trained to navigate &lt;/b&gt;. So to put myself in the shoes of the user, all I had to do was stop thinking about how computers worked and start talking like I would to a person.. My first example dialogues were me pretending to speak to my mother. Although some designers recommend speaking to the agent like you&#39;re asking a stranger a question, my goal was to design a smarter agent; one where you could say less yet have it understand more. After this initial training stage, I broadened my syntax and incrementally made myself harder to understand. 
+               &lt;b&gt; Language is more intuitive to humans than any graphical computer interface a user has been trained to navigate &lt;/b&gt;. So to put myself in the shoes of the user, all I had to do was stop thinking about how computers worked and start talking like I would to a person.. My first example dialogues were me pretending to speak to my mother. Although some designers recommend speaking to the agent like you&#39;re asking a stranger a question, my goal was to design a smarter agent; one where you could say less yet have it understand more. After this initial training stage, I broadened my syntax and incrementally made myself harder to understand. 
                At the same time, I started designing and developing the GUI that I eventually hooked up to my voice interface and loaded onto the car&#39;s linux machine.
                &lt;p&gt;
 
@@ -107,14 +107,14 @@
       
     
 
-&lt;!-- DESKTOP FOOTER NAV --&gt;
+ &lt;!-- DESKTOP FOOTER NAV --&gt;
 
               &lt;div class=&quot;fnav&quot;&gt;
 
                &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
         
-                  &lt;h5 class=&quot;project-title&quot;&gt;
-                More Projects &lt;h5&gt; 
+                  &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
+                More Projects &lt;h1&gt; 
             
                
               
@@ -129,7 +129,7 @@
                   
                            &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; /&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                          
                            &lt;/div&gt;
@@ -137,7 +137,7 @@
                           
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; /&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                       
                            &lt;/div&gt;
@@ -145,58 +145,35 @@
 
                               &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/As-One/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; /&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                      
                            &lt;/div&gt;
 
                                  &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; /&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                          
                            &lt;/div&gt;
        
                           
-                             &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/Wifi-Beerbong/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bb2.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Wifi Beerbong&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                      
-                           &lt;/div&gt;
-
-                              &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/Firebird/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk3.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Firebird&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                       
-                           &lt;/div&gt;
-
-                              &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/Music-Videos/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/yh.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Music Videos&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
-                           &lt;/div&gt;
-
+                            
+&lt;!-- 
                             &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                      
-                           &lt;/div&gt;
+                           &lt;/div&gt; --&gt;
 
                              &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/Fed-Up/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot; /&gt;
+                              &lt;a href=&quot;/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
                      
                            &lt;/div&gt;
 
-
-
-
-           
                     &lt;/div&gt; 
                    &lt;/div&gt;
                   &lt;/div&gt;
@@ -245,7 +222,7 @@
                   
 
   
-&lt;/h5&gt;&lt;/h5&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/Mercedes/</link>
@@ -1104,9 +1081,7 @@
 
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; For the Mercedes driver, time is the only currency that matters. Yet when leaving a parking garage or passing a toll booth, time is still wasted fumbling for coins and credit cards. &lt;/p&gt;
-         
-          &lt;p class=&quot;lead&quot;&gt;
+         &lt;p class=&quot;lead&quot;&gt; For the Mercedes driver, time is the only currency that matters. Yet when leaving a parking garage or passing a toll booth, time is still wasted fumbling for coins and credit cards.
          We&#39;re not getting from point A to point B in the fastest way possible.&lt;/p&gt;
 
          &lt;h1 class=&quot;title-main-about&quot;&gt; Researching the right use case&lt;/h1&gt;
