@@ -5688,7 +5688,7 @@ iframe {
   font-family: TakeOut;
   color: white;
   /* Fallback: assume this color ON TOP of image */
-  background: url(../images/header3.gif);
+  background: url(../images/header4.gif);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   letter-spacing: 15pt;
@@ -5832,7 +5832,8 @@ body .projectSVG {
 
 .header-text {
   letter-spacing: 6pt;
-  font-size: 2.8em; }
+  font-size: 12.8em;
+  letter-spacing: -10pt; }
 
 #project-row {
   transition-delay: 0.4s; }
@@ -5855,7 +5856,12 @@ body .projectSVG {
     margin: 0px;
     padding: 15px;
     padding-top: 10px;
-    transition: all 0.3s ease; } }
+    transition: all 0.3s ease; }
+
+  .header-text {
+    letter-spacing: 6pt;
+    font-size: 9.8em;
+    letter-spacing: -10pt; } }
 @media screen and (min-width: 1px) and (max-width: 401px) {
   .project-gif {
     width: 100px;
@@ -5876,7 +5882,11 @@ body .projectSVG {
     font-size: 12px; }
 
   #blurb {
-    font-size: 11px; } }
+    font-size: 11px; }
+
+  .header-text {
+    font-size: 8.8em;
+    letter-spacing: -28pt; } }
 @media screen and (min-width: 800px) {
   /*.project-col {
     width: 350px;
@@ -5905,7 +5915,12 @@ body .projectSVG {
 
   .kitten-box p {
     font-size: 8px;
-    visibility: hidden; } }
+    visibility: hidden; }
+
+  .header-text {
+    letter-spacing: 6pt;
+    font-size: 12.8em;
+    letter-spacing: -10pt; } }
 .buffer {
   margin-top: 20px; }
 
@@ -5964,10 +5979,10 @@ p {
   font-size: 18px;
   font-weight: bold;
   opacity: 0.83;
-  line-height: 24px;
+  line-height: 28px;
   letter-spacing: 0.0;
   margin-top: 96px;
-  margin-bottom: 12px;
+  margin-bottom: 28px;
   font-family: Roboto Condensed; }
 
 #blurb-loading {
