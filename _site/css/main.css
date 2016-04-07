@@ -5992,6 +5992,7 @@ p {
   text-align: center; }
 
 .loading {
+  opacity: 0.75;
   position: absolute;
   left: 50%;
   top: 50%;
@@ -6011,7 +6012,7 @@ p {
   left: 0;
   bottom: 0;
   right: 0;
-  animation: rot .6s infinite linear; }
+  animation: rot 1.0s infinite linear; }
 
 @keyframes rot {
   from {
@@ -6073,3 +6074,12 @@ body {
 
 .project-gif-footer:hover {
   opacity: 1.0; }
+
+#projectIntro {
+  font-size: 32px;
+  line-height: 48px;
+  text-align: center;
+  margin-bottom: 24px;
+  letter-spacing: 0px;
+  font-weight: 900;
+  font-family: roboto; }
