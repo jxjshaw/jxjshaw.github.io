@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Apr 2016 06:47:14 -0700</pubDate>
-    <lastBuildDate>Wed, 06 Apr 2016 06:47:14 -0700</lastBuildDate>
+    <pubDate>Thu, 07 Apr 2016 00:43:12 -0700</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2016 00:43:12 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -1077,10 +1077,12 @@
 
          &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;Topics&lt;/b&gt;: Connected Cars, Fintech&lt;p&gt;
-         &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;Roles&lt;/b&gt;: Visual design, Interaction design, Interface design &lt;p&gt;
-         &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;Tools&lt;/b&gt;: Adobe Illustrator, Adobe Photoshop, Sketch 3 &lt;p&gt;
-         &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;Team&lt;/b&gt;: 1 designer, 1 pm, 2 engineers &lt;p&gt;
+         &lt;p class=&quot;lead&quot;&gt; 
+          &lt;b&gt;Topics&lt;/b&gt;: Connected Cars, Fintech &lt;br /&gt;
+          &lt;b&gt;Roles&lt;/b&gt;: Visual design, Interaction design, Interface design &lt;br /&gt;
+          &lt;b&gt;Tools&lt;/b&gt;: Adobe Illustrator, Adobe Photoshop, Sketch 3 &lt;br /&gt;
+          &lt;b&gt;Team&lt;/b&gt;: 1 designer, 1 pm, 2 engineers &lt;br /&gt;
+          &lt;p&gt;
          
          
 
@@ -1090,10 +1092,10 @@
          We&#39;re not getting from point A to point B in the fastest way possible.&lt;/p&gt;
           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-         &lt;h1 class=&quot;title-main-about&quot;&gt; Researching the right use case&lt;/h1&gt;
+         &lt;h1 class=&quot;title-main-about&quot;&gt; Research and planning&lt;/h1&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; Senior management has a short attention span, so I designed our prototype with three clear use cases in mind. &lt;/p&gt;
-         &lt;p class=&quot;lead&quot;&gt;
+         &lt;p class=&quot;lead&quot;&gt; Knowing senior management has a short attention span, so I designed our prototype with three clear use cases in mind. 
+      
           Speaking to drivers and industry experts, it became clear gas and parking were two popular use cases. For the third use case, it was important to be creative and take a risk on a use case a little more out there.&lt;p&gt;
           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/storyboard2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
@@ -1112,28 +1114,31 @@
        
 
        
-          &lt;h1 class=&quot;title-main-about&quot;&gt; Designing the graphical interface &lt;/h1&gt;    
+          &lt;h1 class=&quot;title-main-about&quot;&gt; Interface design &lt;/h1&gt;    
 
         
 
         &lt;p class=&quot;lead&quot;&gt;  
-        A common gripe from c300 owners is that the heads-up display looks like it&#39;s touchscreen but it&#39;s not. To make event handling more intuitive, the interface has a clear hierarchy of menus. &lt;p&gt;
+        To make user input more intuitive, I created a user interface with a clear hierarchy of menus. A common gripe from Mercedes c300 owners is that the heads-up display looks like it&#39;s touchscreen but it&#39;s not. For interfaces without touch support, it&#39;s common to get lost or forget where you are. &lt;p&gt;
+
+        &lt;p class=&quot;lead&quot;&gt;  
+        That&#39;s why I made the navigation bar visible at all times. The drawback is this takes up a lot of valuable space on the interface. My solution was a bar with a smaller footprint. I achieved this by increasing the background transparency and reducing icon clutter, with the compromise being that icons are no longer labelled.   &lt;p&gt;
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
 
 
-         &lt;h1 class=&quot;title-main-about&quot;&gt; User experience for the driver &lt;/h1&gt;    
+         &lt;h1 class=&quot;title-main-about&quot;&gt; User experience&lt;/h1&gt;    
 
          
 
         &lt;p class=&quot;lead&quot;&gt;  
-        I used a variation of color, size, and weight to distinguish what really matters at a glance from information important only on a closer read. 
-        &lt;p&gt;
+        Typography and layout are especially important factors for a safe driving experience. I used a variation of color, contrast, and weight to distinguish what really matters at a glance from details that matter on a closer read. 
+       &lt;p&gt;
 
             
 
-              &lt;p class=&quot;lead&quot;&gt;  
-                An example of this can be seen in the payment history view. The first thing the driver sees is the amount paid followed by the vendor name. Details such as credit card number and bitcoin address is more confidential and significantly less visible from a distance.  &lt;p&gt;
+              &lt;p class=&quot;lead&quot;&gt; 
+                An example of this can be seen in the payment history view. The first thing the driver sees is the amount paid followed by the vendor name. Payment details such as credit card number and bitcoin address are more confidential and significantly less visible from a distance.  &lt;p&gt;
 
                 &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
@@ -1285,7 +1290,7 @@
     
   
 
-&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/BenzPay/</link>
