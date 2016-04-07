@@ -11,7 +11,7 @@ project-title: Music Videos
     <div class="row text-left">
 
       <div class="col-sm-10 col-sm-offset-1">
-        <h1 class="title-main-about">  </h1>
+        < <h1 class="title-main-about" id="projectIntro"> Videos </h1>
         <p class="lead"> <i> I spent a couple years working in video production and post production while I lived in Portland. 
          </i> </p> 
 
@@ -21,10 +21,8 @@ project-title: Music Videos
               <h1 class="title-main-about"> On the Steps </h1>
               <!-- <p class="lead"> My favorite part about rappers is their work ethic - the hustle, the grind - having a dayjob and hitting the studio at night. I guess it's the same reason I love startups. It's about being young, living your dreams while everyones telling you your stupid. </p> -->
 
-               <p class="lead">  This track is slow, so everything from the shutter speed to the editing cuts are slow to keep the style smooth. <p>
+               <p class="lead">  This track is slow, so everything from the shutter speed to the editing cuts are slow to keep the style smooth. Tighter focal length and careful lighting. <p>
 
-                 <p class="lead">
-                I used a tighter focal length to soften the surroundings. Lighting is very carefully planned, both in placement and timing, and is designed to melt in with dim ambient reflections.                </p>
 
                <div class="embed-responsive embed-responsive-16by9">
                   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JkA_sGRfyKA"></iframe>
