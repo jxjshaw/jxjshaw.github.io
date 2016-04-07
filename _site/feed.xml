@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Apr 2016 16:30:51 -0700</pubDate>
-    <lastBuildDate>Thu, 07 Apr 2016 16:30:51 -0700</lastBuildDate>
+    <pubDate>Thu, 07 Apr 2016 16:33:56 -0700</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2016 16:33:56 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -516,7 +516,13 @@
     &lt;div class=&quot;row text-left&quot;&gt;
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Fedup&lt;/h1&gt;
+        &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+
+
+             &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Fedup&lt;/h1&gt;
+            &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; It&#39;s crazy that in the 21st century law enforcement/legal system still rely heavily on foggy testimony and paper police reports. So at HTN we made an ecosystem for users to document, review and share evidence without having to go through anyone else.&lt;/i&gt;&lt;/p&gt;
+
+       
 
           &lt;!--   &lt;p class=&quot;lead&quot;&gt;It&#39;s crazy that in the 21st century law enforcement/legal system still rely heavily on foggy testimony and paper police reports. So we built a complete ecosystem for users to directly document, review and share evidence without having to go through anyone else. &lt;/p&gt; --&gt;
 
@@ -524,16 +530,11 @@
           &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/xdvQbL0FFj8&quot;&gt;&lt;/iframe&gt;
          &lt;/div&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt;Design considerations&lt;/h1&gt;
+      &lt;!--   &lt;h1 class=&quot;title-main-about&quot;&gt;Design considerations&lt;/h1&gt;
 
         &lt;p class=&quot;lead&quot;&gt; The mission is to make citizens feel more empowered, so we&#39;re equipping citizens with a badge of their own.&lt;/p&gt;
 
 
- &lt;!--        &lt;div class=&quot;row text-center&quot;&gt;
-          &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/nct.png&quot; alt=&quot;Jeff&quot;  width=&quot;&quot;&gt;
-          &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/f2.png&quot; alt=&quot;Jeff&quot; &gt;
-          &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/f1.gif&quot; alt=&quot;Jeff&quot; &gt;
-        &lt;/div&gt; --&gt;
 
 
 
@@ -544,18 +545,18 @@
                          &lt;div class=&quot;iconbox&quot;&gt;
                   
                       &lt;div class=&quot;name&quot;&gt;
-                      &lt;img class=&quot;img-responsive center-block&quot; src=&quot;../../images/projects/fedup/nct.png&quot; alt=&quot;Jeff&quot; width=&quot;100&quot; /&gt;
-                      &lt;p&gt;&lt;b&gt;&lt;br /&gt;Inspiration&lt;/b&gt;&lt;/p&gt;
+                      &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/nct.png&quot; alt=&quot;Jeff&quot; class=&quot;img-responsive center-block&quot; width=&quot;100&quot;&gt;
+                      &lt;p&gt;&lt;b&gt;&lt;br&gt;Inspiration&lt;/b&gt;&lt;/p&gt;
                     &lt;/div&gt;
                     
                        &lt;div class=&quot;name&quot;&gt;
-                       &lt;img class=&quot;img-responsive center-block&quot; src=&quot;../../images/projects/fedup/f2.png&quot; alt=&quot;Mariusz&quot; width=&quot;100&quot; /&gt;
-                            &lt;p&gt;&lt;b&gt;&lt;br /&gt;Record&lt;/b&gt;&lt;/p&gt;
+                       &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/f2.png&quot; alt=&quot;Mariusz&quot; class=&quot;img-responsive center-block&quot; width=&quot;100&quot;&gt;
+                            &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
                      &lt;/div&gt;
  
                        &lt;div class=&quot;name&quot;&gt;
-                       &lt;img class=&quot;img-responsive center-block&quot; id=&quot;gifBadge&quot; src=&quot;../../images/projects/fedup/f1.gif&quot; alt=&quot;Shashank&quot; width=&quot;114&quot; /&gt;
-                             &lt;p&gt;&lt;b&gt;&lt;br /&gt;Recording&lt;/b&gt;&lt;/p&gt;
+                       &lt;img class=&quot;content-image-row&quot; id=&quot;gifBadge&quot; src=&quot;../../images/projects/fedup/f1.gif&quot; alt=&quot;Shashank&quot; class=&quot;img-responsive center-block&quot; width=&quot;114&quot;&gt;
+                             &lt;p&gt;&lt;b&gt;&lt;br&gt;Recording&lt;/b&gt;&lt;/p&gt;
                            &lt;/div&gt;
  
                       
@@ -567,17 +568,17 @@
 
 
        
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/ff4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/ff4.jpg&quot; alt=&quot;Jeff&quot; &gt;
 
-        &lt;p class=&quot;lead&quot;&gt; Unlike our android app, the web component carries a lighter layout intended for desktop. Whether it&#39;s the victim reporting an incident, lawyers browsing client folders, or public viewers reading fact-oriented stories, the aim is a wide variety of media without dumbing content down. &lt;p&gt;
+        &lt;p class=&quot;lead&quot;&gt; Unlike our android app, the web component carries a lighter layout intended for desktop. Whether it&#39;s the victim reporting an incident, lawyers browsing client folders, or public viewers reading fact-oriented stories, the aim is a wide variety of media without dumbing content down. &lt;p&gt; --&gt;
 
 
       &lt;!--      &lt;p class=&quot;lead&quot;&gt;  At the same time, we wanted to protect user privacy and allow them to run the app from their pocket. For this reason, we went recording audio instead of recording Video. Video would have also made our technology less usable in conditions with poor lighting.&lt;/p&gt; --&gt;
 
-
+&lt;!-- 
           &lt;h1 class=&quot;title-main-about&quot;&gt;Update&lt;/h1&gt;
 
-          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/banner.png&quot; alt=&quot;Jeff&quot; /&gt;
+          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/banner.png&quot; alt=&quot;Jeff&quot; &gt;
 
 
 
@@ -603,12 +604,12 @@
 
             &lt;b&gt; &lt;a href=&quot;https://cyber.law.harvard.edu/&quot;&gt;
 
-             Berkman Center For Internet &amp;amp; Society
+             Berkman Center For Internet &amp; Society
 
               &lt;/a&gt;&lt;/b&gt;
 
               to explore the intersections of law and social media. &lt;/p&gt;
-
+ --&gt;
 
 
         &lt;!-- MOBILE FOOTER NAV --&gt;
@@ -821,7 +822,7 @@
       
     
   
-&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 01 Jan 2007 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/Fed-Up/</link>
