@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Apr 2016 16:33:56 -0700</pubDate>
-    <lastBuildDate>Thu, 07 Apr 2016 16:33:56 -0700</lastBuildDate>
+    <pubDate>Thu, 07 Apr 2016 16:37:27 -0700</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2016 16:37:27 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -1504,10 +1504,10 @@
     &lt;div class=&quot;row text-left&quot;&gt;
 
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-       &lt;h1 class=&quot;title-main-about&quot;&gt;1972 Firebird&lt;/h1&gt;
+      &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; 1972 Firebird (waste of a summer)&lt;/h1&gt;
+            &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; When I was a freshmen in college, I bought a muscle car with holes in the floor and worms in the seats.&lt;/i&gt;&lt;/p&gt;
 
-       &lt;p class=&quot;lead&quot;&gt; In short, when I was a freshmen in college, I bought a muscle car with holes in the floor and worms in the seats. &lt;/p&gt;
-
+      
 
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
@@ -1537,6 +1537,8 @@
 
 
        &lt;p class=&quot;lead&quot;&gt; So yeah I like cars &lt;/p&gt;
+
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r8.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
 
          &lt;!-- DESKTOP FOOTER NAV --&gt;
