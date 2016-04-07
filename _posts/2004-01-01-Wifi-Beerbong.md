@@ -16,10 +16,10 @@ project-title: Wifi Beerbong
       <div class="col-sm-10 col-sm-offset-1">
 
 
-             <h1 class="title-main-about"> </h1>
-            <p class="lead"> <i> People who are really serious about software should make their own hardware. </i></p>
+             <h1 class="title-main-about" id="projectIntro"> Wifi Beerbong</h1>
+            <p class="lead"> <i> They say people who are really serious about software should make their own hardware, so one day I made an internet of things beer bong.</i></p>
 
-        <h1 class="title-main-about">Inspiration</h1>
+        <!-- <h1 class="title-main-about">Inspiration</h1>
 
         <p class="lead"> I showed up to Mhacks 6 with a giant briefcase of hardware. It's really important for me to make things other people haven't, so whenever I find a novel gadget or sensor, I toss it in my hardware collection. <p>
 
@@ -31,7 +31,7 @@ project-title: Wifi Beerbong
              <img class="content-image"  src="../../images/projects/beerbong/table.jpg" alt="Jeff" >
 
             <p class="lead"> 
-            While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor..... <i> In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories. </i> At that point, it became very clear to me that for Mhacks 6 I was going to make the world's first wifi enabled beer bong. <p>
+            While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor..... <i> In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories. </i> At that point, it became very clear to me that for Mhacks 6 I was going to make the world's first wifi enabled beer bong. <p> -->
 
 
          
@@ -82,7 +82,7 @@ project-title: Wifi Beerbong
 
                   <h1 class="title-main-about">Check it out</h1>
 
-              <p class="lead"> <b> <a href="http://www.drankboard.co/"> http://www.drankboard.co/ </b></a>
+           <!--    <p class="lead"> <b> <a href="http://www.drankboard.co/"> http://www.drankboard.co/ </b></a> -->
 
 
                 </p>
