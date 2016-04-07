@@ -22,7 +22,8 @@ project-title: More
 
 
 
-               <h1 class="title-main-about"> </h1>
+                   <h1 class="title-main-about" id="projectIntro"> Just the tip</h1>
+            <p class="lead"> <i> </i></p>
 
 
               
@@ -33,11 +34,11 @@ project-title: More
               <img class="content-image" src="../../images/projects/more/dash.gif" alt="Jeff" >
 
               <h1 class="title-main-about">Twilio valentine cards</h1>
-              <p class="lead"> Digital cupid - made 60 matches over valentine weekend.</p>
+              <p class="lead"> Digital cupid - hey we made 60 matches over valentine weekend.</p>
               <img class="content-image" src="../../images/projects/more/valentree.gif" alt="Jeff" >
 
               <h1 class="title-main-about">Ride planner</h1>
-              <p class="lead"> Spontaneous trip planner for recreational riding. </p>
+              <p class="lead"> Look at this spontaneous trip planner for recreational riding. </p>
               <img class="content-image" src="../../images/projects/more/cont2.gif" alt="Jeff" >
 <!-- 
               <h1 class="title-main-about">TBT jammin w/ friends</h1>
