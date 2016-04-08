@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Apr 2016 06:48:17 -0700</pubDate>
-    <lastBuildDate>Fri, 08 Apr 2016 06:48:17 -0700</lastBuildDate>
+    <pubDate>Fri, 08 Apr 2016 10:41:42 -0700</pubDate>
+    <lastBuildDate>Fri, 08 Apr 2016 10:41:42 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -93,11 +93,11 @@
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Takeaways&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt;
-                &lt;b&gt;UX designers are practical problem solvers&lt;/b&gt;. For us it&#39;s more about the functionality; there&#39;s no such thing as a proper way. You can&#39;t really &quot;fake&quot; a natural language demo, but there are still more and less practical ways of achieving your goal. What I learned in the process was that &lt;i&gt; even though &lt;/i&gt; we have these new techniques like deep learning at our hands, the agent/program doesn&#39;t have to think the same way a human does in order to present itself like it thinks the same way a human does.
+                &lt;b&gt;Designers are practical problem solvers&lt;/b&gt;. For us it&#39;s more about the functionality; there&#39;s no such thing as a proper way. You can&#39;t really &quot;fake&quot; a natural language demo, but there are still more and less practical ways of achieving your goal. What I learned in the process was that &lt;i&gt; even though &lt;/i&gt; we have these new techniques like deep learning at our hands, the agent/program doesn&#39;t have to think the same way a human does in order to present itself like it thinks the same way a human does.
                 &lt;p&gt;
 
                 &lt;p class=&quot;lead&quot;&gt;
-                &lt;b&gt;There&#39;s nothing wrong with artificial intelligence being artificial&lt;/b&gt;. We ourselves rely on this phenomenon all the time - for instance during interviews, or when someone asks you for advice. Realizing this was a milestone in my jedi journey as a designer that codes (coding = the dark side).
+                &lt;b&gt;There&#39;s nothing wrong with artificial intelligence being artificial&lt;/b&gt;. We ourselves rely on this phenomenon all the time - for instance during interviews, or when someone asks you for advice. Realizing this was a big jedi milestone as a designer fighting the temptation to code too much.
                 &lt;p&gt; 
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Related projects&lt;/h1&gt;
@@ -529,8 +529,7 @@
     &lt;div class=&quot;row text-left&quot;&gt;
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
 
-        &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-
+      
 
              &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Fedup&lt;/h1&gt;
             &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; It&#39;s crazy that in the 21st century law enforcement/legal system still rely heavily on foggy testimony and paper police reports. So at HTN we made an ecosystem for users to document, review and share evidence without having to go through anyone else.&lt;/i&gt;&lt;/p&gt;
@@ -835,7 +834,7 @@
       
     
   
-&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 01 Jan 2007 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/Fed-Up/</link>
@@ -869,7 +868,7 @@
 
 
 
-
+&lt;!-- 
       &lt;h1 class=&quot;title-main-about&quot;&gt;Background and market research&lt;/h1&gt;
 
       &lt;p class=&quot;lead&quot;&gt; Campus safety was a key theme at Chimehack. It was an issue my teammates and I had recently witnessed in college.  &lt;p&gt;
@@ -879,7 +878,7 @@
 
       &lt;p class=&quot;lead&quot;&gt; Testimony &quot;I would totally use this when I&#39;m going out with my friends&quot; working proffesional&lt;p&gt;
       &lt;p class=&quot;lead&quot;&gt; Testimony &quot;Campus safety is actually a big topic at our school right now. Our campus safety is actually trying out this new app similar to your idea&quot; student &lt;p&gt;
-      &lt;p class=&quot;lead&quot;&gt; Testimony &quot;We&#39;ve seen a lot of panic button apps. People don&#39;t realize feeling unsafe doesn&#39;t always mean you want the police involved.&quot; - non profit director&lt;p&gt;
+      &lt;p class=&quot;lead&quot;&gt; Testimony &quot;We&#39;ve seen a lot of panic button apps. People don&#39;t realize feeling unsafe doesn&#39;t always mean you want the police involved.&quot; - non profit director&lt;p&gt; --&gt;
 
      
 
@@ -1068,7 +1067,7 @@
         
       
     
-&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 01 Jan 2006 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/As-One/</link>
