@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Apr 2016 17:09:54 -0700</pubDate>
-    <lastBuildDate>Thu, 07 Apr 2016 17:09:54 -0700</lastBuildDate>
+    <pubDate>Fri, 08 Apr 2016 06:48:17 -0700</pubDate>
+    <lastBuildDate>Fri, 08 Apr 2016 06:48:17 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -17,14 +17,24 @@
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
 
              &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Advanced UX Design&lt;/h1&gt;
-          &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Here&#39;s a project I did at &lt;b&gt;Mercedes-Benz R&amp;amp;D North America&lt;/b&gt;.  We focus on innovations such as fuelcell, self-driving, 3d graphics, and advanced design. &lt;/i&gt;&lt;/p&gt;
+          &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Here&#39;s a project I did at &lt;b&gt;Mercedes-Benz R&amp;amp;D North America&lt;/b&gt;.  The R&amp;amp;D focus is on innovations such as fuelcell, self-driving, 3d graphics, and advanced design. As with all super cool projects I&#39;m under an NDA, so instead I&#39;ll highlight the process and problems surrounding my AI project. &lt;/i&gt;&lt;/p&gt;
              
 
-        
+            
+
+                    &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
+
+         &lt;p class=&quot;lead&quot;&gt; 
+          &lt;b&gt;Topics&lt;/b&gt;: Artificial Intelligence, Voice interface, Maps, Natural language, Self driving cars&lt;br /&gt;
+          &lt;b&gt;Roles&lt;/b&gt;: Interaction design, Interface design, Software prototyping &lt;br /&gt;
+          &lt;b&gt;Tools&lt;/b&gt;: QT/QML (Javascript), AJAX, Sketch 3, Various services and providers  &lt;br /&gt;
+          
+          &lt;p&gt;
+
+                
 
 
 
-                &lt;p class=&quot;lead&quot;&gt; My focus within the studio covers speech interaction and natural language processing. Of course I&#39;m under a NDA, so I can&#39;t share with you the actual work, so instead I&#39;ll highlight the process and problems surrounding my AI project.  &lt;/p&gt;
 
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Designing intelligence&lt;/h1&gt;
@@ -35,7 +45,7 @@
                 At first, that may seem like an easy problem to grasp. Smart design means putting the user first, meaning.. (1) start with a need (2) design an intuitive layout, (3) provide interactive content, (4) optimize by testing &lt;p&gt;
 
                 &lt;p class=&quot;lead&quot;&gt;
-                Unfortunately, this isn&#39;t the case. &lt;b&gt;When designing for intelligence, simple is not better&lt;/b&gt;. The goal is to make the interface replicate the thought process of a human - not a puppet you can fluidly pinch and drag as a material object. Part of the &quot;magic&quot; is delightfully surprising the user. The point is to avoid explicit visuals and overt commands. I&#39;m really excited about this shift because it&#39;s a chance for us ourselves to become smarter and more human because of the technology we interact with. &lt;p&gt;
+                Unfortunately, this isn&#39;t the case. &lt;b&gt;When designing for intelligence, simple is not better&lt;/b&gt;. The goal is to replicate the subtle complexity of another human. The cool thing about interacting with humans is that you&#39;re not going to catch everything in your first read. For example, when you interact with a person, there&#39;s always more to discover and something new to learn. So to have software replicate this intelligent relationship also means that we&#39;re moving away from dumb software requiring really mind numbing user input. I&#39;m really excited about this shift because it&#39;s a chance for us ourselves to become smarter and more human because of the technology we interact with. &lt;p&gt;
 
                 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Natural language processing&lt;/h1&gt;
@@ -47,14 +57,14 @@
                
 
 
-                &lt;ul&gt;
-                  &lt;li&gt; &lt;p class=&quot;lead&quot;&gt;  &lt;i&gt;&lt;b&gt; How do you dynamically create and update non-verbal context  in voice interaction?&lt;/b&gt;&lt;/i&gt;
+            
+                  &lt;p class=&quot;lead&quot;&gt;  &lt;i&gt;How do you dynamically create and update non-verbal context  in voice interaction?&lt;/i&gt;
 
-                  &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; &lt;i&gt; &lt;b&gt; Teaching an agent to extract a combination of names, titles, and descriptions referenced in a single utterance&lt;/b&gt;&lt;/i&gt;
+                &lt;p class=&quot;lead&quot;&gt; &lt;i&gt;  Teaching an agent to extract a combination of names, titles, and descriptions referenced in a single utterance &lt;/i&gt;
 
-                  &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; &lt;i&gt; &lt;b&gt;Taking an indirect reference made by the user and assigning it to an object with the help of prepositions&lt;/b&gt;&lt;/i&gt;&lt;p&gt; 
+                &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Taking an indirect reference made by the user and assigning it to an object with the help of prepositions&lt;/i&gt;&lt;p&gt; 
 
-                    &lt;li&gt;&lt;p class=&quot;lead&quot;&gt; &lt;i&gt; &lt;b&gt;Sometimes it&#39;s still better to show then tell, so how do you anthropomorphize a GUI without being creepy? &lt;/b&gt;&lt;/i&gt;&lt;p&gt;  
+                 &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Sometimes it&#39;s still better to show then tell, so how do you anthropomorphize a GUI without being creepy?&lt;/i&gt;&lt;p&gt; 
 
 
 
@@ -63,17 +73,19 @@
                 
                 &lt;p&gt;
 
-
-               &lt;h1 class=&quot;title-main-about&quot;&gt;Moving fast means cutting corners&lt;/h1&gt;
+&lt;!-- 
+               &lt;h1 class=&quot;title-main-about&quot;&gt;Shortcuts for the sake of prototyping&lt;/h1&gt;
                &lt;p class=&quot;lead&quot;&gt;   
-               &lt;b&gt; If there were such a thing as a linguistic rulebook, it wouldn&#39;t be worth teaching to my agent&lt;/b&gt;.  On one hand, I had to find (scalable) ways to map out, compromise, then phrase these linguistic rules into functional statements. On the other hand, users don&#39;t always follow all of these grammatical rules to begin with. So generally speaking, my solution combined outlining basic linguistic conventions with training through user input. Because my focus was designing interactions, it didn&#39;t make sense to feed the machine large amounts of data for marginal improvements and extreme wildcards. For the loose ends, it was more practical to tape it together with scripts.
+               &lt;b&gt; Even if there were such a thing as a clear linguistic rulebook, it wouldn&#39;t be worth teaching to my voice agent&lt;/b&gt;.  On one hand, I had to find (scalable) ways to map out, compromise, then phrase these linguistic rules into functional statements. On the other hand, users don&#39;t always follow all of these grammatical rules to begin with. So generally speaking, my solution combined outlining basic linguistic conventions with training through user input. Because my focus was designing interactions, it didn&#39;t make sense to feed the machine large amounts of data for marginal improvements and extreme wildcards. For the loose ends, it was more practical to tape it together with scripts.
                &lt;p&gt;
+
+
 
                &lt;p class=&quot;lead&quot;&gt; 
                &lt;b&gt; Language is more intuitive to humans than any graphical computer interface a user has been trained to navigate &lt;/b&gt;. So to put myself in the shoes of the user, all I had to do was stop thinking about how computers worked and start talking like I would to a person.. My first example dialogues were me pretending to speak to my mother. Although some designers recommend speaking to the agent like you&#39;re asking a stranger a question, my goal was to design a smarter agent; one where you could say less yet have it understand more. After this initial training stage, I broadened my syntax and incrementally made myself harder to understand. 
                At the same time, I started designing and developing the GUI that I eventually hooked up to my voice interface and loaded onto the car&#39;s linux machine.
                &lt;p&gt;
-
+ --&gt;
 
              &lt;!--     &lt;h1 class=&quot;title-main-about&quot;&gt;Relevant design meme&lt;/h1&gt;
                 &lt;p class=&quot;lead-center&quot;&gt; 
@@ -225,7 +237,7 @@
                   
 
   
-&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/Mercedes/</link>

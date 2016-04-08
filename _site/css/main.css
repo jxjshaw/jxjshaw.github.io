@@ -6083,3 +6083,6 @@ body {
   letter-spacing: 0px;
   font-weight: 900;
   font-family: roboto; }
+
+a:hover {
+  color: red; }
