@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: project-item
-img-path: images/kk1.gif
-project-title: More ✨
+img-path: images/bear1.jpg
+project-title: More
 ---
 
 
