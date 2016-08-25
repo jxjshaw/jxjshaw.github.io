@@ -368,7 +368,7 @@ body .projectSVG {
 
 
   .project-col {
-    width: 450px;
+    max-width: 450px;
     margin-right: auto;
     margin-left: auto;
     padding-top: 0px;
@@ -886,4 +886,9 @@ a:hover {
 
 #more-gifs {
   max-width: 600px;
+}
+
+#index-container {
+  padding-left: 0;
+  padding-right: 0;
 }
