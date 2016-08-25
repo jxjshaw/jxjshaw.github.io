@@ -3,31 +3,29 @@ layout: default
 ---
 
 
-<!-- 
+<!--
 
- /$$     /$$ /$$$$$$  /$$        /$$$$$$ 
+ /$$     /$$ /$$$$$$  /$$        /$$$$$$
 |  $$   /$$//$$__  $$| $$       /$$__  $$
  \  $$ /$$/| $$  \ $$| $$      | $$  \ $$
   \  $$$$/ | $$  | $$| $$      | $$  | $$
    \  $$/  | $$  | $$| $$      | $$  | $$
     | $$   | $$  | $$| $$      | $$  | $$
     | $$   |  $$$$$$/| $$$$$$$$|  $$$$$$/
-    |__/    \______/ |________/ \______/ 
-                                ~ call me ~  
+    |__/    \______/ |________/ \______/
+                                ~ call me ~
                                          -->
  <div class="container">
-    <div class="row buffer3" id="header-row"> 
+    <div class="row buffer3" id="header-row">
       <div class="col-sm-12 text-center">
-        <a href="/">
           <h1 class="header-text">Jeff Shaw</h1>
-        </a>
-      </div>  
-    </div> 
+      </div>
+    </div>
   </div>
 
 <div class="container" id="index-container">
   <div class="row text-center" id="loading-row">
-   
+
        <div class="project-col">
  <!--      <p class="project-title" id="blurb"> Mercedes UX // cofounded Airquail <br> I go to hackathons on the weekend <p> -->
 
@@ -41,36 +39,33 @@ layout: default
             <div class="project-col">
 
              <div class="row text-left" id="loading-row">
-    <div class="project-col">
+    <div class="project-col" id="project-description">
+
+
         <p class="project-title" id="blurb"> Advanced interaction design at
-          <b> <a href="http://www.mbrdna.com/"target="_blank">Mercedes-Benz R&D</a></b>.  <br> 
-
-          I build and go to hackathons in my freetime. Recent wins include 
-        <b> <a href="http://angelhack.com/our-biggest-event-yet-ah8-silicon-valley/"target="_blank"> angelhack silicon valley</b>, </a> 
-
-          uwaterloo's 
+          <b> <a href="http://www.mbrdna.com/"target="_blank">Mercedes-Benz R&D</a></b>.  <br>
+          I build and go to hackathons in my freetime. Recent wins include
+        <b> <a href="http://angelhack.com/2015/07/23/our-biggest-event-yet-ah8-silicon-valley/"target="_blank"> angelhack silicon valley</b>, </a>
+          uwaterloo's
           <b> <a href="https://blogs.dropbox.com/developers/2015/09/dropbox-at-hack-the-north/"target="_blank">hack the north,
         </a> </b>
-
-           and 
+           and
           <b> <a href="http://www.lab360.com/"target="_blank">lab360's 100k hardware prize</a></b>.
-
           <br>
-
-
           Interests include advanced interfaces, cars, artificial intelligence, startup hustle and great UX. <b> <a href="https://www.instagram.com/heyjeffshaw/">Instagram</a></b>
            <p>
         </div>
 
-
+      </div>
         </div>
-
+          <div class="project-col">
               <ul>
                 {% for post in site.categories.project-item %}
                   <a href="{{ post.url }}">
-                    <li class="project-list-item text-center">        
+                    <li class="project-list-item text-center">
                       <img class="project-gif" src="{{ post.img-path }}">
-                      <h5 class="project-title">{{ post.project-title }}</h5>
+                      <h5 class="project-caption">{{ post.project-title }}</h5>
+                      <div class="project-shader"></div>
                     </li>
                   </a>
                 {% endfor %}
@@ -83,15 +78,20 @@ layout: default
 
   <div class="row text-center" id="loading-row">
     <div class="project-col">
-        <p class="project-title" id="email">   <br>  
-          <b> <a href="mailto:sup@heyjeffshaw.com"_blank"> sup@heyjeffshaw.com </a> </b>
-           <p>
+        <p id="email">
+         <b> <a href="https://www.instagram.com/heyjeffshaw/"> <i class="fa fa-instagram" aria-hidden="true"></i> </a> </b>
+
+         <b> <a href="https://github.com/jxjshaw"> <i class="fa fa-github" aria-hidden="true"></i> </a> </b>
+         <b> <a href="https://www.linkedin.com/in/jeff-shaw-78b30670"> <i class="fa fa-linkedin" aria-hidden="true"></i> </a> </b>
+
+           <b> <a href="mailto:sup@heyjeffshaw.com"_blank"> <i class="fa fa-envelope-o" aria-hidden="true"></i> </a> </b>
+         </p>
         </div>
 
 
         </div>
       </div>
- 
+
 
 </div>
 
@@ -102,3 +102,7 @@ layout: default
 
 <div class="loading-caption-container"> <p class="project-title" id="loading-caption">  <p> </div>
 <div class="loading"></div>
+
+
+<!-- ADD THIS -->
+<!-- <iframe width="1024" height="768" src="http://www.bbc.com" style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);"></iframe> -->

@@ -5,33 +5,33 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Apr 2016 10:41:42 -0700</pubDate>
-    <lastBuildDate>Fri, 08 Apr 2016 10:41:42 -0700</lastBuildDate>
+    <pubDate>Thu, 25 Aug 2016 00:04:28 -0700</pubDate>
+    <lastBuildDate>Thu, 25 Aug 2016 00:04:28 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
         <title></title>
-        <description>&lt;div class=&quot;container-fluid&quot;&gt;
-  &lt;div class=&quot;description&quot;&gt; 
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
 
              &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Advanced UX Design&lt;/h1&gt;
-          &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Here&#39;s a project I did at &lt;b&gt;Mercedes-Benz R&amp;amp;D North America&lt;/b&gt;.  The R&amp;amp;D focus is on innovations such as fuelcell, self-driving, 3d graphics, and advanced design. As with all super cool projects I&#39;m under an NDA, so instead I&#39;ll highlight the process and problems surrounding my AI project. &lt;/i&gt;&lt;/p&gt;
-             
+          &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Here&#39;s a project of mine from working at &lt;b&gt;Mercedes-Benz R&amp;amp;D North America&lt;/b&gt;.  The R&amp;amp;D focus is on innovations such as fuelcell, self-driving, 3d graphics, and advanced design. As with all super cool projects I&#39;m under an NDA, so instead I&#39;ll highlight the process and problems surrounding my AI project. &lt;/i&gt;&lt;/p&gt;
 
-            
+
+
 
                     &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; 
+         &lt;p class=&quot;lead&quot;&gt;
           &lt;b&gt;Topics&lt;/b&gt;: Artificial Intelligence, Voice interface, Maps, Natural language, Self driving cars&lt;br /&gt;
           &lt;b&gt;Roles&lt;/b&gt;: Interaction design, Interface design, Software prototyping &lt;br /&gt;
-          &lt;b&gt;Tools&lt;/b&gt;: QT/QML (Javascript), AJAX, Sketch 3, Various services and providers  &lt;br /&gt;
-          
+          &lt;b&gt;Tools&lt;/b&gt;: QT/QML (Javascript), AJAX, Sketch 3, Various voice services and providers  &lt;br /&gt;
+
           &lt;p&gt;
 
-                
+
 
 
 
@@ -47,33 +47,47 @@
                 &lt;p class=&quot;lead&quot;&gt;
                 Unfortunately, this isn&#39;t the case. &lt;b&gt;When designing for intelligence, simple is not better&lt;/b&gt;. The goal is to replicate the subtle complexity of another human. The cool thing about interacting with humans is that you&#39;re not going to catch everything in your first read. For example, when you interact with a person, there&#39;s always more to discover and something new to learn. So to have software replicate this intelligent relationship also means that we&#39;re moving away from dumb software requiring really mind numbing user input. I&#39;m really excited about this shift because it&#39;s a chance for us ourselves to become smarter and more human because of the technology we interact with. &lt;p&gt;
 
-                
+                &lt;h1 class=&quot;title-main-about&quot;&gt;Design process&lt;/h1&gt;
+                &lt;p class=&quot;lead&quot;&gt;
+                &lt;br /&gt;&lt;b&gt;1.&lt;/b&gt; Defining existing problems, brainstorm sessions with team
+                &lt;br /&gt;&lt;b&gt;2.&lt;/b&gt; Outline interactions, designing example dialogues, find relevant literature
+                &lt;br /&gt;&lt;b&gt;3.&lt;/b&gt; Start sketching and wireframing the GUI aspect of the agent.
+                &lt;br /&gt;&lt;b&gt;4.&lt;/b&gt; Low fidelity testing using static mockups and off board text agent
+                &lt;br /&gt;&lt;b&gt;5.&lt;/b&gt; Code up the GUI
+                &lt;br /&gt;&lt;b&gt;6.&lt;/b&gt; Add in the logic, voice interface, recognizer, TTS
+                &lt;br /&gt;&lt;b&gt;7.&lt;/b&gt; Run in the app in the car, tune the speech response, train agent with more examples
+                &lt;/p&gt;
+
+
+
+
+
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Natural language processing&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt;
-                &lt;b&gt; So how do you replicate the intelligence of a human? &lt;/b&gt; In my case, it&#39;s through a voice agent. So I&#39;ve been working on how the agent understands what you&#39;re saying as well as how it should talk back. Here are a few problems I&#39;ve spent my time solving:
+                &lt;b&gt; So how do you replicate the intelligence of a human? &lt;/b&gt; In my case, it&#39;s through a voice agent. So I&#39;ve been working on how the agent understands what you&#39;re saying as well as how it should talk back. Here are some specific problems I&#39;ve identified and spent my time solving:
                 &lt;p&gt;
 
-                
-               
 
 
-            
+
+
+
                   &lt;p class=&quot;lead&quot;&gt;  &lt;i&gt;How do you dynamically create and update non-verbal context  in voice interaction?&lt;/i&gt;
 
                 &lt;p class=&quot;lead&quot;&gt; &lt;i&gt;  Teaching an agent to extract a combination of names, titles, and descriptions referenced in a single utterance &lt;/i&gt;
 
-                &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Taking an indirect reference made by the user and assigning it to an object with the help of prepositions&lt;/i&gt;&lt;p&gt; 
+                &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Taking an indirect reference made by the user and assigning it to an object with the help of prepositions&lt;/i&gt;&lt;p&gt;
 
-                 &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Sometimes it&#39;s still better to show then tell, so how do you anthropomorphize a GUI without being creepy?&lt;/i&gt;&lt;p&gt; 
-
-
+                 &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Sometimes it&#39;s still better to show then tell, so how do you anthropomorphize a GUI without being creepy?&lt;/i&gt;&lt;p&gt;
 
 
 
-                
+
+
+
                 &lt;p&gt;
 
-&lt;!-- 
+&lt;!--
                &lt;h1 class=&quot;title-main-about&quot;&gt;Shortcuts for the sake of prototyping&lt;/h1&gt;
                &lt;p class=&quot;lead&quot;&gt;   
                &lt;b&gt; Even if there were such a thing as a clear linguistic rulebook, it wouldn&#39;t be worth teaching to my voice agent&lt;/b&gt;.  On one hand, I had to find (scalable) ways to map out, compromise, then phrase these linguistic rules into functional statements. On the other hand, users don&#39;t always follow all of these grammatical rules to begin with. So generally speaking, my solution combined outlining basic linguistic conventions with training through user input. Because my focus was designing interactions, it didn&#39;t make sense to feed the machine large amounts of data for marginal improvements and extreme wildcards. For the loose ends, it was more practical to tape it together with scripts.
@@ -81,14 +95,14 @@
 
 
 
-               &lt;p class=&quot;lead&quot;&gt; 
-               &lt;b&gt; Language is more intuitive to humans than any graphical computer interface a user has been trained to navigate &lt;/b&gt;. So to put myself in the shoes of the user, all I had to do was stop thinking about how computers worked and start talking like I would to a person.. My first example dialogues were me pretending to speak to my mother. Although some designers recommend speaking to the agent like you&#39;re asking a stranger a question, my goal was to design a smarter agent; one where you could say less yet have it understand more. After this initial training stage, I broadened my syntax and incrementally made myself harder to understand. 
+               &lt;p class=&quot;lead&quot;&gt;
+               &lt;b&gt; Language is more intuitive to humans than any graphical computer interface a user has been trained to navigate &lt;/b&gt;. So to put myself in the shoes of the user, all I had to do was stop thinking about how computers worked and start talking like I would to a person.. My first example dialogues were me pretending to speak to my mother. Although some designers recommend speaking to the agent like you&#39;re asking a stranger a question, my goal was to design a smarter agent; one where you could say less yet have it understand more. After this initial training stage, I broadened my syntax and incrementally made myself harder to understand.
                At the same time, I started designing and developing the GUI that I eventually hooked up to my voice interface and loaded onto the car&#39;s linux machine.
                &lt;p&gt;
  --&gt;
 
              &lt;!--     &lt;h1 class=&quot;title-main-about&quot;&gt;Relevant design meme&lt;/h1&gt;
-                &lt;p class=&quot;lead-center&quot;&gt; 
+                &lt;p class=&quot;lead-center&quot;&gt;
                 &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/mercedes/meme.jpg&quot; alt=&quot;Jeff&quot; &gt;&lt;p&gt; --&gt;
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Takeaways&lt;/h1&gt;
@@ -98,7 +112,7 @@
 
                 &lt;p class=&quot;lead&quot;&gt;
                 &lt;b&gt;There&#39;s nothing wrong with artificial intelligence being artificial&lt;/b&gt;. We ourselves rely on this phenomenon all the time - for instance during interviews, or when someone asks you for advice. Realizing this was a big jedi milestone as a designer fighting the temptation to code too much.
-                &lt;p&gt; 
+                &lt;p&gt;
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Related projects&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt;
@@ -106,16 +120,20 @@
                 &lt;p&gt;
 
                   &lt;h1 class=&quot;title-main-about&quot;&gt;2015 F 015&lt;/h1&gt;
-                  
+
                   &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
                       &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/GAz42C5Vvt8&quot;&gt;&lt;/iframe&gt;
                   &lt;/div&gt;
+                  &lt;p class=&quot;caption&quot; id=&quot;iframecaption&quot;&gt; A video showing interactions that make this driverless cars friendly to humans. &lt;/p&gt;
 
                    &lt;h1 class=&quot;title-main-about&quot;&gt;2016 concept IAA&lt;/h1&gt;
-                 
+
+
                   &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
                       &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/fBwmH7TAupI&quot;&gt;&lt;/iframe&gt;
                   &lt;/div&gt;
+
+                   &lt;p class=&quot;caption&quot; id=&quot;iframecaption&quot;&gt; A video demonstrating types of interactions possible with powerful GPUs &lt;/p&gt;
 
         
 
@@ -127,11 +145,11 @@
               &lt;div class=&quot;fnav&quot;&gt;
 
                &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
-        
+
                   &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
                 More Projects &lt;h1&gt; 
-            
-               
+
+
               
 
                 &lt;div class=&quot;row text-center&quot;&gt;
@@ -139,22 +157,22 @@
 
 
                        &lt;div class=&quot;img-responsive center-block&quot;&gt;
-              
+
                          &lt;div class=&quot;iconbox&quot;&gt;
-                  
+
                            &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
+
+
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                      
+
                            &lt;/div&gt;
 
 
@@ -162,75 +180,75 @@
                               &lt;a href=&quot;/project-item/As-One/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
                                  &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
-                            
-&lt;!-- 
+
+
+
+&lt;!--
                             &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt; --&gt;
 
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
-                    &lt;/div&gt; 
+                    &lt;/div&gt;
                    &lt;/div&gt;
                   &lt;/div&gt;
 
                &lt;!--         &lt;div class=&quot;row text-center&quot;&gt;
 
                        &lt;div class=&quot;img-responsive center-block&quot;&gt;
-              
+
                          &lt;div class=&quot;iconbox&quot;&gt;
-                  
+
                            &lt;div class=&quot;name-footer&quot;&gt;
-                           
+
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
+
+
                              &lt;div class=&quot;name-footer&quot;&gt;
-                          
+
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-                      
+
                            &lt;/div&gt;
 
                               &lt;div class=&quot;name-footer&quot;&gt;
-                        
+
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-                       
+
                            &lt;/div&gt;
 
                               &lt;div class=&quot;name-footer&quot;&gt;
-                        
+
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-                     
+
                            &lt;/div&gt;
 
-                       
-           
-                    &lt;/div&gt; 
+
+
+                    &lt;/div&gt;
                    &lt;/div&gt;
                   &lt;/div&gt; --&gt;
 
@@ -251,183 +269,135 @@
       <item>
         <title>Airquail</title>
         <description>&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;description&quot;&gt; 
+  &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
 
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-        
 
-          &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Airquail&lt;/h1&gt;
+          &lt;!-- INTRO --&gt;
+            &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Airquail&lt;/h1&gt;
+            &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; &quot;We check pollution levels before recess everyday. Unfortunately, the closest weather station is over 30 miles away.&quot; ― Customer Interview with Stonebridge Elementary School &lt;/i&gt;&lt;/p&gt;
+            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/new/169/product_design-169.jpg&quot; alt=&quot;Market research&quot; /&gt;
+            &lt;p class=&quot;caption&quot;&gt; A breakdown of what our product does &lt;/p&gt;
 
-        
-        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Airquail is the internet of things hardware startup that I cofounded. It started as a weekend hackathon project, and for 12 weeks it turned into a fulltime pursuit after we joined the Hackcelerator accelerator program. We&#39;re currently on our 3rd hardware prototype and have our devices in local school districts. &lt;/i&gt;&lt;/p&gt;
+            &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
+            &lt;p class=&quot;lead&quot;&gt;
+            &lt;b&gt;Topics&lt;/b&gt;: Internet of Things, Hardware startup, Environment, Health, Data analysis&lt;br /&gt;
+            &lt;b&gt;Roles&lt;/b&gt;: Product design (Landing page, iOS app, Webapp, Hardware enclosure and specs) and CEO stuff (project management, pitching, biz dev) &lt;br /&gt;
+            &lt;b&gt;Tools&lt;/b&gt;: Zeplin (Sketch plugin), HTML/CSS, Fusion 360, 3d printing &lt;br /&gt;
+            &lt;b&gt;Team&lt;/b&gt;: 1 designer, 1 operation, 1 hardware engineer, 4 software engineers, advisors &lt;br /&gt;
+            &lt;p&gt;
 
-                 &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
+          &lt;!-- Research --&gt;
+            &lt;h1 class=&quot;title-main-about&quot;&gt; 1. The problem of air quality &lt;/h1&gt;
+            &lt;p class=&quot;lead&quot;&gt;
+              As a team, we grew up in some of the world&#39;s most polluted cities -- Shanghai, Bangalore, Warsaw, and the Central Valley. We knew people wanted clean air, but we didn&#39;t know how created their conception of clean air. &lt;/p&gt; &lt;p class=&quot;lead&quot;&gt; From a product stand point, my biggest challenge was taking people&#39;s conception of clean air, breaking that into physically measurable units for our hardware, and then turning those units back into naturally intuitive indicators of clean air for our users.
+            &lt;/p&gt;
+            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/new/team.jpg&quot; alt=&quot;Market research&quot; /&gt;
+            &lt;p class=&quot;caption&quot;&gt; Collecting feedback from customers helped us iterate &lt;/p&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; 
-          This piece is focused more on the project process rather than the design details. Although I was the team designer, I was also the startup CEO. Thus my version of the story is skewed towards how everything came together rather than how every unique problem was solved.  &lt;/p&gt;
+          &lt;!-- Architecture --&gt;
+            &lt;h1 class=&quot;title-main-about&quot;&gt; 2. Architecture and integration &lt;/h1&gt;
+            &lt;p class=&quot;lead&quot;&gt;
+              IoT devices become powerful when integrated into a cohesive environment. It was important for me to map out early on how the device interfaces with other home appliances as well as understand what overlaps there are between the readings from our device and the readings from public weather stations.
+            &lt;/p&gt;
+            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/new/information_architecture.jpg&quot; alt=&quot;Market research&quot; /&gt;
+            &lt;p class=&quot;caption&quot;&gt; Diagram outlining general information architecture &lt;/p&gt;
 
-    &lt;!--     &lt;h1 class=&quot;title-main-about&quot;&gt;Story&lt;/h1&gt;
+          &lt;!-- Product Design --&gt;
+            &lt;h1 class=&quot;title-main-about&quot;&gt; 3. User Interface Design &lt;/h1&gt;
+            &lt;p class=&quot;lead&quot;&gt;
+              When creating the visual language, I wanted to keep the graphics organic and the indicators intuitive. Like many weather apps, I went with an animated environmental background. In our case, it gets more grey the more polluted our readings. I&#39;m not a fan of separating each gas into its own chart, so in the future a goal is to plot out the relationship between gases.
+            &lt;/p&gt;
+            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/new/wireframe_3.jpg&quot; alt=&quot;Market research&quot; /&gt;
+            &lt;p class=&quot;caption&quot;&gt; Device overview and monitoring &lt;/p&gt;
 
-   
-          &lt;p class=&quot;lead&quot;&gt; 
-            To start off, here&#39;s a clip of me providing some background. There were 140 investors in the crowd and I was very nervous.  &lt;/p&gt;
+          &lt;!-- User Interface --&gt;
+            &lt;h1 class=&quot;title-main-about&quot;&gt; 4. Prototyping and Testing &lt;/h1&gt;
+            &lt;p class=&quot;lead&quot;&gt;
+            For many weeks I carried one of our devices around without ever turning it off.
+            Before demo day we were able to install our devices in a school district to begin collecting feedback and testing our product.
+            &lt;/p&gt;
 
-
-
-            &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-              &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/Nu4WogMWovU?start=1160&amp;end=1219&quot;&gt;&lt;/iframe&gt;
-            &lt;/div&gt;
-
-            &lt;p class=&quot;lead&quot;&gt; &lt;/p&gt; --&gt;
-
-        &lt;!--     &lt;p class=&quot;lead&quot;&gt; What&#39;s going on? How did I get here? What&#39;s the plastic box that I have in my hand?&lt;/p&gt;
-
-   
-            
-            &lt;h1 class=&quot;title-main-about&quot;&gt;Team&lt;/h1&gt;
-             &lt;p class=&quot;lead&quot;&gt; 
-             It started off as a group of friends that went to hackathons together.&lt;/p&gt;
-
-              &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/airquail/team.jpg&quot; alt=&quot;Jeff&quot; &gt; --&gt;
-            
-            
-        
-
-            &lt;h1 class=&quot;title-main-about&quot;&gt;Searching for product direction&lt;/h1&gt;
-            &lt;p class=&quot;lead&quot;&gt; 
-             With all the work we were putting in without taking out salary, it was important that we didn&#39;t forget about building a device that we ourselves would be excited to use. So although health and medical was a hot market, I strongly believed in focusing more on gases associated with comfort and wellness. We didn&#39;t want to be an alarm that monitors toxic gas that will kills 50 people a year. On the other hand, we also didn&#39;t want to just monitor gases that will shorten your lives by 12 months. Instead, it&#39;s about telling people more about the gases that are always around you that you can&#39;t see and how they can unconsciously influence your lifestyle. &lt;p&gt;
+            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/new/field.jpg&quot; alt=&quot;Market research&quot; /&gt;
+            &lt;p class=&quot;caption&quot;&gt; Calibrating our Co2 readings &lt;/p&gt;
+              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/schoool.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+            &lt;p class=&quot;caption&quot;&gt; Installing our device in a Sacramento school district &lt;/p&gt;
 
 
-             &lt;h1 class=&quot;title-main-about&quot;&gt;Searching for the right sensors&lt;/h1&gt;
-             &lt;p class=&quot;lead&quot;&gt;
-              After picking apart competing products, speaking with sensor manufactures in Chinese and Korean, we settled on an initial sensor suite. The gases we monitor include carbon dioxide, carbon monoxide, and pm 2.5. In addition, we included other values such as temperature, humidity, pressure for the sole purpose of accurate calibration.
+
+
+
+            &lt;!-- &lt;h1 class=&quot;title-main-about&quot;&gt; Turning a project into a company&lt;/h1&gt;
+            &lt;p class=&quot;lead&quot;&gt;
+                As the CEO sometimes the biggest design challenge wasn’t creating a product based on my instincts or user feedback, but instead identifying and articulating problems the entire team could stand behind and get excited about solving. The challenge wasn’t merely finding a market fit; it was giving our product, and in turn our company, a sense of direction and purpose.
               &lt;p&gt;
 
+               &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/airquail/logo.png&quot; alt=&quot;Jeff&quot; &gt;
 
-                &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/wtf.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+                 &lt;h1 class=&quot;title-main-about&quot;&gt;The biggest challenge&lt;/h1&gt;
+                  &lt;p class=&quot;lead&quot;&gt;
+                    As the CEO sometimes the biggest design challenge wasn’t creating a product based on my instincts or user feedback, but instead identifying and articulating problems the entire team could stand behind and get excited about solving. The challenge wasn’t merely finding a market fit; it was giving our product, and in turn our company, a sense of direction and purpose.
+                  &lt;p&gt;
+
+                 &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/airquail/team.jpg&quot; alt=&quot;Jeff&quot; &gt;
 
 
-     &lt;!--    Hardware design
-        It had to be portable, why we selected wifi , form factor and costs $90
 
-        Software
-        We had an ios app and webapp and showed epa data blablalbalbalal
-
-        Finding partnerships
-        How we found chiense company --&gt;
-
-        &lt;!--      &lt;h1 class=&quot;title-main-about&quot;&gt;The team&lt;/h1&gt; --&gt;
-        
 
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Designing a functional enclosure&lt;/h1&gt;
-
-        &lt;p class=&quot;lead&quot;&gt;  Most startups hire an industrial design firm, but we&#39;re a little more scrappy than that. For these initial prototypes, we designed and 3d printed our own enclosures. &lt;p&gt;
-
-          
-
-          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ca4.png&quot; alt=&quot;Jeff&quot; /&gt;
-
           &lt;p class=&quot;lead&quot;&gt;
-           Creating small vents allowed for passive air diffusion. This worked well when the device just sat around to collect gradual changes. But for quick demos and with certain gases requiring faster readings, we learned that an active intake was more ideal. 
-           &lt;p&gt;
-             
+            &lt;p class=&quot;lead&quot;&gt;
+               We wanted our device to have (1) better integration with user lifestyle and (2) better integration with smart appliances. &lt;p&gt;
 
-            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/cad2.png&quot; alt=&quot;Jeff&quot; /&gt;
-          
-               &lt;p class=&quot;lead&quot;&gt; 
-                Unlike our competitors, we wanted our device to have (1) better integration with user lifestyle and (2) better integration with smart appliances. &lt;p&gt;
+               Creating small vents allowed for passive air diffusion. This worked well when the device just sat around to collect gradual changes. But for quick demos and with certain gases requiring faster readings, we learned that an active intake was more ideal.
+               &lt;p&gt;
 
-              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/h3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-              
+            &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/airquail/cad2.png&quot; alt=&quot;Jeff&quot; &gt;
+
+
+
+
+
               &lt;h1 class=&quot;title-main-about&quot;&gt;The software&lt;/h1&gt;
-           
+
 
                   &lt;p class=&quot;lead&quot;&gt;
-              
-             To meet the first criteria, we made our device more portable. It must have its own battery while being small enough to carry. Air quality is mostly important when it&#39;s relevant to our surrounding. In other words, I didn&#39;t see much value in building a device that plugs into the wall and sits by a nightstand all day.  &lt;p&gt;
-                
-                &lt;h1 class=&quot;title-main-about&quot;&gt;MVP&lt;/h1&gt;
-                &lt;p class=&quot;lead&quot;&gt; 
 
-                   The first step towards smart home integration was creating our own REST API that our own software, other devices, and appliances could read. &lt;p&gt;
+             To meet the first criteria, I focused on making our device more portable. It must have its own battery while being small enough to carry. Air quality is mostly important when it&#39;s relevant to our surrounding. In other words, I didn&#39;t see much value in building a device that plugs into the wall and sits by a nightstand all day.  &lt;p&gt;
 
-                     &lt;p class=&quot;lead&quot;&gt; 
-                  Our first webapp was a functioning proof of concept. We started by pulling data from the EPA to compare with the data from our own device. Typing a zipcode returns data from public weather stations on dust and carbon monoxide levels. &lt;/p&gt;
-
-
-                  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/app3.png&quot; alt=&quot;Jeff&quot; /&gt;
 
                   &lt;h1 class=&quot;title-main-about&quot;&gt;Restructured backend and frontend facelift&lt;/h1&gt;
-                  &lt;p class=&quot;lead&quot;&gt; 
+                  &lt;p class=&quot;lead&quot;&gt;
                     After growing our product and technology, it was clearly time for a more serious backend. We overhauled our device pairing and login system. We added additional support for historical data, more devices, more gas sensors, and tried out a new chart style using c3.js. &lt;p&gt;
 
-                    &lt;p class=&quot;lead&quot;&gt; 
+                    &lt;p class=&quot;lead&quot;&gt;
                      We also killed off our iOS app in testflight because we were spreading our time and effort too thin. Thus it became even more important to ensure webapp usability on mobile browsers. &lt;/p&gt;
 
-                     &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/dd1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+                     &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/airquail/dd1.jpg&quot; alt=&quot;Jeff&quot; &gt;
 
                      &lt;h1 class=&quot;title-main-about&quot;&gt;Field testing&lt;/h1&gt;
-                     &lt;p class=&quot;lead&quot;&gt; 
+                     &lt;p class=&quot;lead&quot;&gt;
                       For many weeks I carried one of our devices around without ever turning it off. Whenever I was in public, people would ask me about that glowing box in my hand - most people thought it was some type of charging station . It was a lot of fun having these conversations, getting to know strangers, learning about their views on air quality (and of course adding them to our email list).
-                    &lt;/p&gt; 
+                    &lt;/p&gt;
 
 
-                    
-                    &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/field.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+                    &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/airquail/field.jpg&quot; alt=&quot;Jeff&quot; &gt;
 
                     &lt;h1 class=&quot;title-main-about&quot;&gt;Installing our devices in schools&lt;/h1&gt;
 
-                    &lt;p class=&quot;lead&quot;&gt; 
+                    &lt;p class=&quot;lead&quot;&gt;
                       After testing in different homes and installing our device at a few schools around Sacramento, we ran into many unforseen obstacles. School and offices often have secured wifi networks that are hard for our device to connect with. &lt;p&gt;
 
-                      &lt;p class=&quot;lead&quot;&gt; 
+                      &lt;p class=&quot;lead&quot;&gt;
                       In one instance, the school principle even used his own phone as a hotspot for connecting the device. Although the workarounds weren&#39;t always pretty, people were more tolerant than I anticipated because we were providing a better solution to monitor surrounding air quality.
-                    &lt;/p&gt; 
+                    &lt;/p&gt;
 
-                    &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/schoool.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-
-                    &lt;h1 class=&quot;title-main-about&quot;&gt;Evaluating the results&lt;/h1&gt;
- 
-                    &lt;p class=&quot;lead&quot;&gt; Demonstrating increased health hazard around heavy traffic: &lt;/p&gt;
-
-                    &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss1.png&quot; alt=&quot;Jeff&quot; /&gt;
-
-                    &lt;p class=&quot;lead&quot;&gt; Demonstrating the sensitivity of our device: &lt;/p&gt;
-
-                    &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/ss3.png&quot; alt=&quot;Jeff&quot; /&gt;
-                    
-
-                 &lt;!--    &lt;h1 class=&quot;title-main-about&quot;&gt;Demo day&lt;/h1&gt;
-                 
-
-                    &lt;p class=&quot;lead&quot;&gt; 
-                      To say the least, I was very nervous.  pitching against the best hackers that literally flew in from around the world (Honduras, Russia, India, Mexico, Hong Kong, UAE) pitching to 140 investors and some of heavy hitting partners on the panel. &lt;p&gt;
-
-                       &lt;p class=&quot;lead&quot;&gt; 
-                     I won&#39;t bore you with the full pitch, so I&#39;ll just show you probably my most embarrasing 20 seconds of my life caught on video...
-                    &lt;/p&gt; 
-
-                        &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-              &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/Nu4WogMWovU?start=1160&amp;end=1219&quot;&gt;&lt;/iframe&gt;
-            &lt;/div&gt;
-
-                    &lt;/p&gt; 
-                    
+                    &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/airquail/schoool.jpg&quot; alt=&quot;Jeff&quot; &gt;
  --&gt;
-                         &lt;h1 class=&quot;title-main-about&quot;&gt;Final thoughts&lt;/h1&gt;
-                  &lt;!--    &lt;p class=&quot;lead&quot;&gt; 
-                     I still can&#39;t get over myself for being steamrolled by the judges. I totally froze being asked questions that I totally saw coming. Everything worked out in the end, but I&#39;m still traumautized by the those 30 seconds.
-                    &lt;/p&gt;  --&gt;
-
-                    &lt;p class=&quot;lead&quot;&gt; 
-                      Being the leader in a startup is hands down the most challenging thing I&#39;ve ever done. I had the privilege of working with the most talented and driven people in the world - both within our startup and throughout our accelerator batch.
-                    &lt;/p&gt; 
-
-                       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/team.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
 
 
@@ -437,11 +407,11 @@
               &lt;div class=&quot;fnav&quot;&gt;
 
                &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
-        
+
                   &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
-                More Projects &lt;h1&gt; 
-            
-               
+                More Stuff &lt;h1&gt; 
+
+
               
 
                 &lt;div class=&quot;row text-center&quot;&gt;
@@ -449,22 +419,22 @@
 
 
                        &lt;div class=&quot;img-responsive center-block&quot;&gt;
-              
+
                          &lt;div class=&quot;iconbox&quot;&gt;
-                  
+
                            &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
+
+
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                      
+
                            &lt;/div&gt;
 
 
@@ -472,46 +442,46 @@
                               &lt;a href=&quot;/project-item/As-One/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
                                  &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
-                            
-&lt;!-- 
+
+
+
+&lt;!--
                             &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt; --&gt;
 
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
-                    &lt;/div&gt; 
+                    &lt;/div&gt;
                    &lt;/div&gt;
                   &lt;/div&gt;
 
-                    
-                    
+
+
 
 
                   
                 
               
             
-&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 01 Jan 2008 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/AirQuail/</link>
@@ -524,23 +494,57 @@
     
       <item>
         <title> </title>
-        <description>&lt;div class=&quot;container-fluid&quot;&gt;
-  &lt;div class=&quot;description&quot;&gt; 
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
-      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+      &lt;div class=&quot;col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2&quot;&gt;
 
-      
+
 
              &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Fedup&lt;/h1&gt;
             &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; It&#39;s crazy that in the 21st century law enforcement/legal system still rely heavily on foggy testimony and paper police reports. So at HTN we made an ecosystem for users to document, review and share evidence without having to go through anyone else.&lt;/i&gt;&lt;/p&gt;
 
-       
+
 
           &lt;!--   &lt;p class=&quot;lead&quot;&gt;It&#39;s crazy that in the 21st century law enforcement/legal system still rely heavily on foggy testimony and paper police reports. So we built a complete ecosystem for users to directly document, review and share evidence without having to go through anyone else. &lt;/p&gt; --&gt;
 
          &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
           &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/xdvQbL0FFj8&quot;&gt;&lt;/iframe&gt;
          &lt;/div&gt;
+
+        &lt;!-- Landing Page --&gt;
+         &lt;h1 class=&quot;title-main-about&quot;&gt; Aligning the vision with the brand &lt;/h1&gt;
+          &lt;p class=&quot;lead&quot;&gt; For the Mercedes driver, time is the only currency that matters. Yet when leaving a parking garage or passing a toll booth, time is still wasted fumbling for coins and credit cards.
+          We&#39;re not getting from point A to point B in the fastest way possible. So we created Benzpay to move the point of sale into the car.&lt;/p&gt;
+           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/homepage.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;p class=&quot;caption&quot;&gt; Landing page and graphics &lt;/p&gt;
+
+           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/brainstorm.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;p class=&quot;caption&quot;&gt; Diagram created with omnigraffle &lt;/p&gt;
+
+           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/research_findings.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;p class=&quot;caption&quot;&gt; Researching market  &lt;/p&gt;
+
+           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/user_flow.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;p class=&quot;caption&quot;&gt; Case creation user flow  &lt;/p&gt;
+
+           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/user_flow2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;p class=&quot;caption&quot;&gt; Wireframes for case creation  &lt;/p&gt;
+
+           &lt;!-- &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/fedup/new/design_paradigms.jpg&quot; alt=&quot;Jeff&quot; &gt;
+           &lt;p class=&quot;caption&quot;&gt; Case preview component design &lt;/p&gt; --&gt;
+
+           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/design_guide.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;p class=&quot;caption&quot;&gt; Website style guide  &lt;/p&gt;
+
+           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/prototype.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;p class=&quot;caption&quot;&gt; Coding the site &lt;/p&gt;
+
+           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/cta.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;p class=&quot;caption&quot;&gt; Looking for contributors!  &lt;/p&gt;
+
+
+
 
       &lt;!--   &lt;h1 class=&quot;title-main-about&quot;&gt;Design considerations&lt;/h1&gt;
 
@@ -553,33 +557,33 @@
         &lt;div class=&quot;row text-center&quot;&gt;
 
           &lt;div class=&quot;img-responsive center-block&quot;&gt;
-              
+
                          &lt;div class=&quot;iconbox&quot;&gt;
-                  
+
                       &lt;div class=&quot;name&quot;&gt;
                       &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/nct.png&quot; alt=&quot;Jeff&quot; class=&quot;img-responsive center-block&quot; width=&quot;100&quot;&gt;
                       &lt;p&gt;&lt;b&gt;&lt;br&gt;Inspiration&lt;/b&gt;&lt;/p&gt;
                     &lt;/div&gt;
-                    
+
                        &lt;div class=&quot;name&quot;&gt;
                        &lt;img class=&quot;content-image-row&quot; src=&quot;../../images/projects/fedup/f2.png&quot; alt=&quot;Mariusz&quot; class=&quot;img-responsive center-block&quot; width=&quot;100&quot;&gt;
                             &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
                      &lt;/div&gt;
- 
+
                        &lt;div class=&quot;name&quot;&gt;
                        &lt;img class=&quot;content-image-row&quot; id=&quot;gifBadge&quot; src=&quot;../../images/projects/fedup/f1.gif&quot; alt=&quot;Shashank&quot; class=&quot;img-responsive center-block&quot; width=&quot;114&quot;&gt;
                              &lt;p&gt;&lt;b&gt;&lt;br&gt;Recording&lt;/b&gt;&lt;/p&gt;
                            &lt;/div&gt;
- 
-                      
-                     &lt;/div&gt; 
+
+
+                     &lt;/div&gt;
                    &lt;/div&gt;
                     &lt;/div&gt;
- 
+
                        &lt;p class=&quot;lead&quot;&gt; Like a badge, the app is designed so that it functions concealed in a pocket or worn around the user&#39;s neck. The dark interface creates a &quot;tactical&quot; appearance while lending itself to greater usability in dim lighting conditions. &lt;p&gt;
 
 
-       
+
          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/ff4.jpg&quot; alt=&quot;Jeff&quot; &gt;
 
         &lt;p class=&quot;lead&quot;&gt; Unlike our android app, the web component carries a lighter layout intended for desktop. Whether it&#39;s the victim reporting an incident, lawyers browsing client folders, or public viewers reading fact-oriented stories, the aim is a wide variety of media without dumbing content down. &lt;p&gt; --&gt;
@@ -587,31 +591,31 @@
 
       &lt;!--      &lt;p class=&quot;lead&quot;&gt;  At the same time, we wanted to protect user privacy and allow them to run the app from their pocket. For this reason, we went recording audio instead of recording Video. Video would have also made our technology less usable in conditions with poor lighting.&lt;/p&gt; --&gt;
 
-&lt;!-- 
+&lt;!--
           &lt;h1 class=&quot;title-main-about&quot;&gt;Update&lt;/h1&gt;
 
           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/banner.png&quot; alt=&quot;Jeff&quot; &gt;
 
 
 
-          &lt;p class=&quot;lead&quot;&gt; After deciding to continue this project, we&#39;ve officially partnered with the 
+          &lt;p class=&quot;lead&quot;&gt; After deciding to continue this project, we&#39;ve officially partnered with the
 
 
             &lt;b&gt; &lt;a href=&quot;https://www.aclu.org/feature/aclu-apps-record-police-conduct&quot;&gt;
 
-            American Civil Liberties Union 
+            American Civil Liberties Union
 
               &lt;/a&gt;&lt;/b&gt;
 
-            to improve the state of 
+            to improve the state of
 
-            
-            
+
+
 
             mobile justice.
 
-        
-             We have also connected with Harvard Law&#39;s 
+
+             We have also connected with Harvard Law&#39;s
 
 
             &lt;b&gt; &lt;a href=&quot;https://cyber.law.harvard.edu/&quot;&gt;
@@ -628,39 +632,39 @@
        &lt;!--  &lt;div class=&quot;row text-center&quot;&gt;
 
           &lt;div class=&quot;img-responsive center-block&quot;&gt;
-              
+
                          &lt;div class=&quot;iconbox&quot;&gt;
-                  
+
                      &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
-                     
+
                         &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
                             &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-                   
+
                      &lt;/div&gt;
- 
-                    
+
+
                        &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
-                    
+
                         &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
                             &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-                
+
                      &lt;/div&gt;
 
                         &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
-                  
+
                         &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
                             &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-                 
+
                      &lt;/div&gt;
 
                         &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
-                  
+
                         &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
                             &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-               
+
                      &lt;/div&gt;
-      
-            &lt;/div&gt; 
+
+            &lt;/div&gt;
            &lt;/div&gt;
 
 
@@ -669,39 +673,39 @@
                        &lt;div class=&quot;row text-center&quot;&gt;
 
                        &lt;div class=&quot;img-responsive center-block&quot;&gt;
-              
+
                          &lt;div class=&quot;iconbox&quot;&gt;
-                  
+
                      &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
-                     
+
                         &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
                             &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-                   
+
                      &lt;/div&gt;
- 
-                    
+
+
                        &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
-                    
+
                         &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
                             &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-                
+
                      &lt;/div&gt;
 
                         &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
-                  
+
                         &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
                             &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-                 
+
                      &lt;/div&gt;
 
                         &lt;div class=&quot;col-xs-3 col-sm-3 kitten-box&quot;&gt;
-                  
+
                         &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
                             &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-               
+
                      &lt;/div&gt;
-           
-            &lt;/div&gt; 
+
+            &lt;/div&gt;
            &lt;/div&gt;
           &lt;/div&gt; --&gt;
 
@@ -713,11 +717,11 @@
               &lt;div class=&quot;fnav&quot;&gt;
 
                &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
-        
+
                   &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
                 More Projects &lt;h1&gt; 
-            
-               
+
+
               
 
                 &lt;div class=&quot;row text-center&quot;&gt;
@@ -725,22 +729,22 @@
 
 
                        &lt;div class=&quot;img-responsive center-block&quot;&gt;
-              
+
                          &lt;div class=&quot;iconbox&quot;&gt;
-                  
+
                            &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
+
+
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                      
+
                            &lt;/div&gt;
 
 
@@ -748,34 +752,34 @@
                               &lt;a href=&quot;/project-item/As-One/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
                                  &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
-                            
-&lt;!-- 
+
+
+
+&lt;!--
                             &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt; --&gt;
 
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
-                    &lt;/div&gt; 
+                    &lt;/div&gt;
                    &lt;/div&gt;
                   &lt;/div&gt;
 
@@ -783,41 +787,41 @@
                &lt;!--         &lt;div class=&quot;row text-center&quot;&gt;
 
                        &lt;div class=&quot;img-responsive center-block&quot;&gt;
-              
+
                          &lt;div class=&quot;iconbox&quot;&gt;
-                  
+
                            &lt;div class=&quot;name-footer&quot;&gt;
-                           
+
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
+
+
                              &lt;div class=&quot;name-footer&quot;&gt;
-                          
+
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-                      
+
                            &lt;/div&gt;
 
                               &lt;div class=&quot;name-footer&quot;&gt;
-                        
+
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-                       
+
                            &lt;/div&gt;
 
                               &lt;div class=&quot;name-footer&quot;&gt;
-                        
+
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-                     
+
                            &lt;/div&gt;
 
-                       
-           
-                    &lt;/div&gt; 
+
+
+                    &lt;/div&gt;
                    &lt;/div&gt;
                   &lt;/div&gt; --&gt;
 
@@ -848,19 +852,20 @@
       <item>
         <title> </title>
         <description>&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;description&quot;&gt; 
+  &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
        &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; asOne &lt;/h1&gt;
 
       &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Chimehack is a hackathon hosted by Twitter to promote hacking for change. Over the weekend, my friends and I built an entire iOS app in 48 hours. We named our app asOne because it helps keep a big group of friends together when out at the bars or traveling.  &lt;/i&gt; &lt;/p&gt;
+      &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/icons.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+      &lt;p class=&quot;caption&quot;&gt; Symmetry, balance, and strong colors helped convey our app&#39;s purpose. &lt;/p&gt;
 
-      
 
 
        &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; 
+         &lt;p class=&quot;lead&quot;&gt;
          &lt;b&gt;Topics&lt;/b&gt;: Social, Safety &lt;br /&gt;
          &lt;b&gt;Roles&lt;/b&gt;: Mobile interface design, User experience &lt;br /&gt;
           &lt;b&gt;Tools&lt;/b&gt;: Adobe Illustrator, Sketch 3, Xcode, Git &lt;br /&gt;
@@ -868,49 +873,43 @@
 
 
 
-&lt;!-- 
+&lt;!--
       &lt;h1 class=&quot;title-main-about&quot;&gt;Background and market research&lt;/h1&gt;
 
       &lt;p class=&quot;lead&quot;&gt; Campus safety was a key theme at Chimehack. It was an issue my teammates and I had recently witnessed in college.  &lt;p&gt;
 
        &lt;p class=&quot;lead&quot;&gt;
-       To brainstorm, I spoke with a wide range of people. &lt;p&gt; 
+       To brainstorm, I spoke with a wide range of people. &lt;p&gt;
 
       &lt;p class=&quot;lead&quot;&gt; Testimony &quot;I would totally use this when I&#39;m going out with my friends&quot; working proffesional&lt;p&gt;
       &lt;p class=&quot;lead&quot;&gt; Testimony &quot;Campus safety is actually a big topic at our school right now. Our campus safety is actually trying out this new app similar to your idea&quot; student &lt;p&gt;
       &lt;p class=&quot;lead&quot;&gt; Testimony &quot;We&#39;ve seen a lot of panic button apps. People don&#39;t realize feeling unsafe doesn&#39;t always mean you want the police involved.&quot; - non profit director&lt;p&gt; --&gt;
 
-     
+
 
        &lt;h1 class=&quot;title-main-about&quot;&gt;Designing for a solution&lt;/h1&gt;
-       
+
 
        &lt;p class=&quot;lead&quot;&gt;
        Usually, it had something to do with making sure friends are ok. When your friend goes missing, they&#39;re not picking up their phone andit&#39;s hard to tell whether or not their phone is dead. They&#39;re probably not in enough danger to call campus safety, but that doesn&#39;t mean you don&#39;t care where they are. &lt;/p&gt;
 
       &lt;p class=&quot;lead&quot;&gt; That&#39;s why we built asOne. It&#39;s a better way to communicate in groups when going out. Instead of annoying group messages, we create temporary friend groups that shares information about each member&#39;s location, battery level, and the time they want to go home. &lt;/p&gt;
-      &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/sketch2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+        &lt;!-- ADD notebook image here --&gt;
 
 
             &lt;h1 class=&quot;title-main-about&quot;&gt;Creating a distinct visual style&lt;/h1&gt;  
-       
+
           &lt;p class=&quot;lead&quot;&gt; Inclusiveness was a major theme throughout both Chimehack and the mission our technology. Using our app is essentially making a pact within your friends. To embody this feeling of warmth, unity, and trust in a visual language, I designed a logo with a symmetrical heart pattern and warm blends. &lt;p&gt;
 
 
-        &lt;p class=&quot;lead&quot;&gt;
-         The rest of the views following the splash screen are functional realizations of this feeling of being surrounded by your closest friends. It seemed natural to extend these intense and intimate colors through the entire interaction. &lt;/p&gt;   
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/icons.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-
-     
-       
 
           &lt;h1 class=&quot;title-main-about&quot;&gt;Empathizing with the user&lt;/h1&gt;  
-   
+
 
         &lt;p class=&quot;lead&quot;&gt;  The resting screen is our main view. It&#39;s the dashboard that is designed to replace the logistical hassle of a group message. The resting screen makes it easy to check up on your friends periodically. Without any engagement from the user, the dashboard automatically displays information we&#39;re able to natively access from each friend&#39;s phone. &lt;p&gt;
 
-         
+
 
             &lt;p class=&quot;lead&quot;&gt;
 
@@ -921,7 +920,7 @@
          &lt;b&gt; 1. &lt;/b&gt; An easy way to get a simple a status update &lt;p&gt;
 
           &lt;p class=&quot;lead&quot;&gt;
-          
+
          &lt;b&gt;  2. &lt;/b&gt; An easy way to check in with everyone without calling them individually &lt;p&gt;
 
           &lt;p class=&quot;lead&quot;&gt;
@@ -935,46 +934,50 @@
         &lt;/p&gt;   
 
             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/wireframe.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+            &lt;p class=&quot;caption&quot;&gt;  Informal interviews and wireframe iterations are important to my design process &lt;/p&gt;
 
 
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Creating trust and protecting privacy&lt;/h1&gt;  
-      
+
          &lt;p class=&quot;lead&quot;&gt; Usability and the onboarding process was a key concern in my design. Nobody was going have this app at their fingertips, if it was hard to sign up, log in, and immediately delivering value. Because we were at twitter, we received fantastic feedback about the challenges facing products that only works when many users buy into the system. &lt;p&gt;
 
          &lt;p class=&quot;lead&quot;&gt; With that in mind, it became clear to me we weren&#39;t here to build yet another social media app. Having a social network was only the means to our end of which was making it easier for college students to look after their friends. We didn&#39;t need to create our own user id system, if we integrate facebook profiles using their SDK. &lt;/p&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; 
+         &lt;p class=&quot;lead&quot;&gt;
           The key drawback to with leveraging existing profiles is potential concerns over privacy. Our remedy was a system where formed groups only last until the next morning. To use the app again, a new group must be created. To minimize friction in this process, we included recent and nearby friends at the top of the contact list.&lt;p&gt;
            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/notificationalert.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;p class=&quot;caption&quot;&gt; Users seeking privacy can leave the group early&lt;/p&gt;
 
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Collaborating with engineers&lt;/h1&gt;  
-      
+
         &lt;p class=&quot;lead&quot;&gt; Usually when everyone&#39;s ready to go home, there&#39;s that one person that nobody can find. So I designed a detailed extension to the group view. Tapping on the friend brings you to more actions such as sending a push notification and enabling audio. Additionally we automatically set the true north of the inline map to that of the selected friend. &lt;/p&gt;
          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/briandetail.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+         &lt;p class=&quot;caption&quot;&gt; The individual dash combines visual data with a panel of actions&lt;/p&gt;
 
-     
 
-      
 
-    
-     
 
-         
-       
-        
-       
-       
+
+
+
+
+
+
+
+
+
        &lt;!--  &lt;img class=&quot;content-image-vertical&quot;  src=&quot;../../images/asone.gif&quot; alt=&quot;Jeff&quot; &gt;    --&gt;
 
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Conclusion&lt;/h1&gt;
-    
+
         &lt;p class=&quot;lead&quot;&gt; We built this app because this was a tool missing from our everyday lives. For the rest of the summer we would often use it as a tool to ping and find eachother. Since then, similar apps such as Friend Finder and Companion have made their way into the market. &lt;/p&gt;
 
         &lt;p class=&quot;lead&quot;&gt; In retrospect, the technology wasn&#39;t earth shattering, but this is a great example of how fast a talented team can work decisively when there is good chemistry. In one weekend, we shipped a product that would take a company at least half a year to assemble.&lt;/p&gt;
              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/asonetest3.gif&quot; alt=&quot;Jeff&quot; /&gt;
+             &lt;p class=&quot;caption&quot;&gt; Harmony is an important principle in motion design &lt;/p&gt;
 
 
 
@@ -985,11 +988,11 @@
               &lt;div class=&quot;fnav&quot;&gt;
 
                &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
-        
+
                   &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
                 More Projects &lt;h1&gt; 
-            
-               
+
+
               
 
                 &lt;div class=&quot;row text-center&quot;&gt;
@@ -997,22 +1000,22 @@
 
 
                        &lt;div class=&quot;img-responsive center-block&quot;&gt;
-              
+
                          &lt;div class=&quot;iconbox&quot;&gt;
-                  
+
                            &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
+
+
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                      
+
                            &lt;/div&gt;
 
 
@@ -1020,39 +1023,39 @@
                               &lt;a href=&quot;/project-item/As-One/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
                                  &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
-                            
-&lt;!-- 
+
+
+
+&lt;!--
                             &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt; --&gt;
 
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
-                    &lt;/div&gt; 
+                    &lt;/div&gt;
                    &lt;/div&gt;
                   &lt;/div&gt;
 
 
-        
+
        &lt;!--  &lt;h1 class=&quot;title-main-about&quot;&gt;More about Chimehack&lt;/h1&gt;
         &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
         &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/86ECVBcPWcg&quot;&gt;&lt;/iframe&gt;
@@ -1081,39 +1084,41 @@
       <item>
         <title>Benzpay</title>
         <description>&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;description&quot;&gt; 
+  &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
 
         &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; BenzPay&lt;/h1&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; This is the project that caught the attention of Daimler&#39;s board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to a job at Mercedes.&lt;/i&gt; &lt;/p&gt;
-
+        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; This is the project that caught the attention of Daimler&#39;s board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to Mercedes.&lt;/i&gt; &lt;/p&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/new/resting_screen-169.jpg&quot; alt=&quot;Jeff&quot; /&gt;
          &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; 
+         &lt;p class=&quot;lead&quot;&gt;
           &lt;b&gt;Topics&lt;/b&gt;: Connected Cars, Fintech &lt;br /&gt;
           &lt;b&gt;Roles&lt;/b&gt;: Visual design, Interaction design, Interface design &lt;br /&gt;
           &lt;b&gt;Tools&lt;/b&gt;: Adobe Illustrator, Adobe Photoshop, Sketch 3 &lt;br /&gt;
           &lt;b&gt;Team&lt;/b&gt;: 1 designer, 1 pm, 2 engineers &lt;br /&gt;
           &lt;p&gt;
-         
-         
+
+
 
         &lt;h1 class=&quot;title-main-about&quot;&gt; Aligning the vision with the brand &lt;/h1&gt;
 
          &lt;p class=&quot;lead&quot;&gt; For the Mercedes driver, time is the only currency that matters. Yet when leaving a parking garage or passing a toll booth, time is still wasted fumbling for coins and credit cards.
-         We&#39;re not getting from point A to point B in the fastest way possible.&lt;/p&gt;
+         We&#39;re not getting from point A to point B in the fastest way possible. So we created Benzpay to move the point of sale into the car.&lt;/p&gt;
           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+          &lt;p class=&quot;caption&quot;&gt; The future of cars is wildly uncertain, however time will always be money  &lt;/p&gt;
 
          &lt;h1 class=&quot;title-main-about&quot;&gt; Research and planning&lt;/h1&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; Knowing senior management has a short attention span, so I designed our prototype with three clear use cases in mind. 
-      
+         &lt;p class=&quot;lead&quot;&gt; Knowing senior management has a short attention span, so I designed our prototype with three clear use cases in mind.
+
           Speaking to drivers and industry experts, it became clear gas and parking were two popular use cases. For the third use case, it was important to be creative and take a risk on a use case a little more out there.&lt;p&gt;
           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/storyboard2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+          &lt;p class=&quot;caption&quot;&gt; Drafting a storyboard helped convey a day in the life with Benzpay to stakeholders&lt;/p&gt;
 
-      
+
            &lt;h1 class=&quot;title-main-about&quot;&gt; Taking a risk &lt;/h1&gt;
 
           &lt;p class=&quot;lead&quot;&gt;
@@ -1123,14 +1128,15 @@
                 &lt;p&gt;
 
             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+            &lt;p class=&quot;caption&quot;&gt; The event feature allows passengers to plan and purchase from the car &lt;/p&gt;
 
 
-       
 
-       
+
+
           &lt;h1 class=&quot;title-main-about&quot;&gt; Interface design &lt;/h1&gt;    
 
-        
+
 
         &lt;p class=&quot;lead&quot;&gt;  
         To make user input more intuitive, I created a user interface with a clear hierarchy of menus. A common gripe from Mercedes c300 owners is that the heads-up display looks like it&#39;s touchscreen but it&#39;s not. For interfaces without touch support, it&#39;s common to get lost or forget where you are. &lt;p&gt;
@@ -1138,68 +1144,72 @@
         &lt;p class=&quot;lead&quot;&gt;  
         That&#39;s why I made the navigation bar visible at all times. The drawback is this takes up a lot of valuable space on the interface. My solution was a bar with a smaller footprint. I achieved this by increasing the background transparency and reducing icon clutter, with the compromise being that icons are no longer labelled.   &lt;p&gt;
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+        &lt;p class=&quot;caption&quot;&gt; At the time, flat UI design was considered outlandish by many car manufactures. &lt;/p&gt;
 
 
 
          &lt;h1 class=&quot;title-main-about&quot;&gt; User experience&lt;/h1&gt;    
 
-         
+
 
         &lt;p class=&quot;lead&quot;&gt;  
-        Typography and layout are especially important factors for a safe driving experience. I used a variation of color, contrast, and weight to distinguish what really matters at a glance from details that matter on a closer read. 
+        Typography and layout are especially important factors for a safe driving experience. I used a variation of color, contrast, and weight to distinguish what really matters at a glance from details that matter on a closer read.
        &lt;p&gt;
 
-            
 
-              &lt;p class=&quot;lead&quot;&gt; 
+
+              &lt;p class=&quot;lead&quot;&gt;
                 An example of this can be seen in the payment history view. The first thing the driver sees is the amount paid followed by the vendor name. Payment details such as credit card number and bitcoin address are more confidential and significantly less visible from a distance.  &lt;p&gt;
 
                 &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+                &lt;p class=&quot;caption&quot;&gt; In the prototype, payments were demonstrated with simple bitcoin transactions  &lt;/p&gt;
 
 
 
         &lt;h1 class=&quot;title-main-about&quot;&gt; Mapping interaction with existing hardware &lt;/h1&gt;   
 
-           
+
 
          &lt;p class=&quot;lead&quot;&gt;
         Rotating the wheel BlackBerry style makes the selector scroll up, down, in and out of the menus depending on the context of the selector. Shifting the wheel left and right toggles different views like &quot;payment history,&quot; &quot;payment preferences,&quot; and &quot;nearby transactions.&quot;
         &lt;p&gt;
          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/g.gif&quot; alt=&quot;Jeff&quot; /&gt;
+         &lt;p class=&quot;caption&quot;&gt; The c300 input module supports a disorienting number of user interactions  &lt;/p&gt;
 
 
 
-      
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Product and results &lt;/h1&gt; 
 
-         
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Product and results &lt;/h1&gt;
+
+
 
         &lt;p class=&quot;lead&quot;&gt;  
         When driving, there&#39;s no time to type in amounts and add in signatures. Transactions are triggered based on geolocation, prices are programmatically calculated. Using GPS coordinates to initiate transactions also makes it more secure.
         In other words, the driver just needs to confirm the transaction with a click of a button.&lt;p&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; 
+         &lt;p class=&quot;lead&quot;&gt;
         &lt;p&gt;
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/benzpay.gif&quot; alt=&quot;Jeff&quot; /&gt;    
-
-   
-
-       
-        
-          
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/benzpay.gif&quot; alt=&quot;Jeff&quot; /&gt;   
+        &lt;p class=&quot;caption&quot;&gt; A clip from the video shown at the yearly executive meeting &lt;/p&gt;
 
 
 
-      
-       
 
-      
 
-&lt;!-- 
+
+
+
+
+
+
+
+
+
+&lt;!--
         &lt;h1 class=&quot;title-main-about&quot;&gt; Demo video &lt;/h1&gt;  
 
-         &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;https://www.crunchbase.com/person/yashad-kulkarni#/entity&quot;&gt; 
+         &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;https://www.crunchbase.com/person/yashad-kulkarni#/entity&quot;&gt;
 
           &lt;b&gt; Yashad &lt;/b&gt;from TechCrunch &lt;/a&gt;filmed this video for us.
 
@@ -1209,7 +1219,7 @@
  --&gt;
                &lt;!--    &lt;h1 class=&quot;title-main-about&quot;&gt; Further reading &lt;/h1&gt;  
 
-           
+
             &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/benzpay/team.jpg&quot; alt=&quot;Jeff&quot; &gt;
 
               &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://www.mobilegeeks.com/mercedes-benz-hack-a-thon-a-snapshot-of-developing-for-automotive/&quot;&gt;  &lt;b&gt;  Writeup &lt;/b&gt; by Mobile Geeks &lt;/a&gt;  &lt;p&gt;
@@ -1220,18 +1230,18 @@
 
 
 
-    
+
 
           &lt;!-- DESKTOP FOOTER NAV --&gt;
 
               &lt;div class=&quot;fnav&quot;&gt;
 
                &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
-        
+
                   &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
                 More Projects &lt;h1&gt; 
-            
-               
+
+
               
 
                 &lt;div class=&quot;row text-center&quot;&gt;
@@ -1239,22 +1249,22 @@
 
 
                        &lt;div class=&quot;img-responsive center-block&quot;&gt;
-              
+
                          &lt;div class=&quot;iconbox&quot;&gt;
-                  
+
                            &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
+
+
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                      
+
                            &lt;/div&gt;
 
 
@@ -1262,42 +1272,42 @@
                               &lt;a href=&quot;/project-item/As-One/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
                                  &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
-                            
-&lt;!-- 
+
+
+
+&lt;!--
                             &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt; --&gt;
 
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
-                    &lt;/div&gt; 
+                    &lt;/div&gt;
                    &lt;/div&gt;
                   &lt;/div&gt;
 
 
-            
-                 
 
-         
+
+
+
 
 
       
@@ -1317,8 +1327,15 @@
     
       <item>
         <title> </title>
-        <description>&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;description&quot;&gt; 
+        <description>&lt;!-- ---
+layout: post
+categories: project-item
+img-path: images/beerbongcircle.jpg
+project-title: Wifi Beerbong
+--- --&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left &quot;&gt;
 
 
@@ -1335,18 +1352,18 @@
 
           &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/beerbong/kit.jpg&quot; alt=&quot;Jeff&quot; &gt;
 
-          &lt;p class=&quot;lead&quot;&gt; 
+          &lt;p class=&quot;lead&quot;&gt;
             I flew in to Ann Arbor a few days early to visit a few friends at the school. Long story short, there was a block party, a bunch of people were standing on top of my friend&#39;s table and it snapped. &lt;p&gt;
 
              &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/beerbong/table.jpg&quot; alt=&quot;Jeff&quot; &gt;
 
-            &lt;p class=&quot;lead&quot;&gt; 
+            &lt;p class=&quot;lead&quot;&gt;
             While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor..... &lt;i&gt; In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories. &lt;/i&gt; At that point, it became very clear to me that for Mhacks 6 I was going to make the world&#39;s first wifi enabled beer bong. &lt;p&gt; --&gt;
 
 
-         
 
-        
+
+
 
               &lt;h1 class=&quot;title-main-about&quot;&gt;The world&#39;s first wifi enabled beerbong&lt;/h1&gt;
 
@@ -1367,20 +1384,20 @@
 
        &lt;p class=&quot;lead&quot;&gt; The only resistors I ended up needing were for the led indicators.   &lt;/p&gt;
 
-       
+
 
 
       &lt;h1 class=&quot;title-main-about&quot;&gt;Wiring it up and weather proofing&lt;/h1&gt;
        &lt;p class=&quot;lead&quot;&gt; We fried the circuit while testing the flow sensor with some real liquid. When making the final changes to the circuit, I wasn&#39;t going to take any chances on shorting out the last board I had. Made sure this time nothing was hanging out in the open.   &lt;/p&gt;
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/p1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-    
-       
+
+
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/p2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-        
 
-        
+
+
               &lt;h1 class=&quot;title-main-about&quot;&gt;Software was a failure&lt;/h1&gt;
 
               &lt;p class=&quot;lead&quot;&gt;  I did not work on our software for this project. The only code I wrote was for the arduino sending out a request. Nonetheless I still have an opinion about the software.&lt;p&gt;
@@ -1405,11 +1422,11 @@
               &lt;div class=&quot;fnav&quot;&gt;
 
                &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
-        
+
                   &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
                 More Projects &lt;h1&gt; 
-            
-               
+
+
               
 
                 &lt;div class=&quot;row text-center&quot;&gt;
@@ -1417,22 +1434,22 @@
 
 
                        &lt;div class=&quot;img-responsive center-block&quot;&gt;
-              
+
                          &lt;div class=&quot;iconbox&quot;&gt;
-                  
+
                            &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
+
+
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                      
+
                            &lt;/div&gt;
 
 
@@ -1440,34 +1457,34 @@
                               &lt;a href=&quot;/project-item/As-One/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
                                  &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
-                            
-&lt;!-- 
+
+
+
+&lt;!--
                             &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt; --&gt;
 
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
-                    &lt;/div&gt; 
+                    &lt;/div&gt;
                    &lt;/div&gt;
                   &lt;/div&gt;
 
@@ -1484,11 +1501,11 @@
 
 &lt;!--   &lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;row text-center&quot;&gt;
-   &lt;div class=&quot;description&quot;&gt; 
-    &lt;div class=&quot;tagline&quot;&gt; 
-      
-         
-          &lt;p class=&quot;lead&quot;&gt; 
+   &lt;div class=&quot;description&quot;&gt;
+    &lt;div class=&quot;tagline&quot;&gt;
+
+
+          &lt;p class=&quot;lead&quot;&gt;
          We short circuited everything on our first test. Luckily I had a seconded particle photon with me. Made sure our enclosure was waterproof.
         &lt;/p&gt;
 
@@ -1501,8 +1518,194 @@
 &lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
-        <link>http://heyjeffshaw.com/project-item/Wifi-Beerbong/</link>
-        <guid isPermaLink="true">http://heyjeffshaw.com/project-item/Wifi-Beerbong/</guid>
+        <link>http://heyjeffshaw.com/Wifi-Beerbong/</link>
+        <guid isPermaLink="true">http://heyjeffshaw.com/Wifi-Beerbong/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title> </title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;description&quot;&gt;
+    &lt;div class=&quot;row text-left &quot;&gt;
+
+
+
+      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+
+
+            &lt;!-- Intro --&gt;
+            &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Mixergy Mobile App &lt;/h1&gt;
+            &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; For 7 years, Mixergy has been the site where proven entrepreneurs teach. Working through Toptal, I was hired to research and design their upcoming mobile app.  &lt;/i&gt;&lt;/p&gt;
+
+
+
+            &lt;!-- Research --&gt;
+              &lt;h1 class=&quot;title-main-about&quot;&gt;1. Research: discovering pain points for mobile users &lt;/h1&gt;
+
+              &lt;p class=&quot;lead&quot;&gt; With over 7 years of podcasts and 1000 interviews, it makes sense to move the channel into a dedicated app. But before jumping into the design, it was important to learn more about how listeners use their phones. How do customers use the existing website? Do listeners browse chronologically or hop around between subjects? Do power users and trail users need separate interactions? &lt;/p&gt;
+
+              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/brian_interview3.png&quot; alt=&quot;Jeff&quot; /&gt;
+              &lt;p class=&quot;caption&quot;&gt; Mixergy has a strong online community so setting up user interviews was easy &lt;/p&gt;
+
+              &lt;h1 class=&quot;title-main-about&quot;&gt;2. Analysis: interpreting findings &lt;/h1&gt;
+              &lt;p class=&quot;lead&quot;&gt; After a week interviewing customers through phone and facebook, I started seeing some trends. &lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;(1)&lt;/b&gt; Listeners expressed being very busy people - because the majority were business owners, their time with Mixergy was always while doing something else - e.g. driving to work or exercising in the morning. &lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;(2)&lt;/b&gt; Existing products didn&#39;t provide enough background about the guests starring in interviews - this made people hesitant to commit to a 1 hour podcast. &lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt;  &lt;b&gt;(3)&lt;/b&gt; Many premium users have been listeners for 3 years or more. Over time they loose count of what they&#39;ve learned. Users could benefit from a way to look back and reconnect with past tracks. &lt;/p&gt;
+
+
+            &lt;!-- Brainstorm --&gt;
+              &lt;h1 class=&quot;title-main-about&quot;&gt;3. Brainstorm: defining convenience &lt;/h1&gt;
+
+              &lt;p class=&quot;lead&quot;&gt; Before investing time in layout and visuals, I wanted to think deeply about experience paradigms. What does it even mean to make podcast listening easier for busy users? I imagined 3 different interpretations of convenience with varying degrees of freedom for the user. &lt;/p&gt;
+
+              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/brainstorm_1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/brainstorm_2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/brainstorm_3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/brainstorm_4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+              &lt;p class=&quot;caption&quot;&gt; Different listening paradigms for experiencing the discovery and collection function  &lt;/p&gt;
+
+            &lt;!-- Design --&gt;
+              &lt;h1 class=&quot;title-main-about&quot;&gt;4. Design: feedback and cross platform layout &lt;/h1&gt;
+              &lt;p class=&quot;lead&quot;&gt; After considering all approaches, I started laying out the initial sequence of events and defining visual components. Lots of back and forth between me and the dev.  &lt;/p&gt;
+
+              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/keynote_2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/keynote_3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/keynote_4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/keynote_5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+
+            &lt;!-- Next Steps --&gt;
+              &lt;!-- &lt;h1 class=&quot;title-main-about&quot;&gt;4. Next steps: Review essential components &lt;/h1&gt;
+
+              &lt;p class=&quot;lead&quot;&gt; I had a lot of unanswered questions, so I started to lay them out in my notebook. Where am I getting power? How am I going to display the data? How can I make drinking a hyper-social activity?  &lt;/p&gt;
+
+              &lt;p class=&quot;lead&quot;&gt; A single device had to support multiple users, so it made sense to have a log-in feature that integrated well with social media.   &lt;/p&gt;
+
+              &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/beerbong/f1.jpg&quot; alt=&quot;Jeff&quot; &gt;
+
+              &lt;p class=&quot;caption&quot;&gt; In the prototype, payments were demonstrated with simple bitcoin transactions  &lt;/p&gt;
+ --&gt;
+
+
+
+                   &lt;!-- DESKTOP FOOTER NAV --&gt;
+
+              &lt;div class=&quot;fnav&quot;&gt;
+               &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
+                  &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
+                More Stuff &lt;h1&gt; 
+
+
+              
+
+                &lt;div class=&quot;row text-center&quot;&gt;
+
+                       &lt;div class=&quot;img-responsive center-block&quot;&gt;
+
+                         &lt;div class=&quot;iconbox&quot;&gt;
+
+                           &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                           &lt;/div&gt;
+
+
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                           &lt;/div&gt;
+
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/As-One/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                           &lt;/div&gt;
+
+                                 &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                           &lt;/div&gt;
+
+
+
+&lt;!--
+                            &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                           &lt;/div&gt; --&gt;
+
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                           &lt;/div&gt;
+
+                    &lt;/div&gt;
+                   &lt;/div&gt;
+                  &lt;/div&gt;
+
+
+                  &lt;!-- MODAL --&gt;
+                  &lt;div class=&quot;modal fade&quot; id=&quot;imagemodal&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-labelledby=&quot;myModalLabel&quot; aria-hidden=&quot;true&quot;&gt;
+                    &lt;div class=&quot;modal-dialog&quot;&gt;
+                      &lt;div class=&quot;modal-content&quot;&gt;              
+                        &lt;div class=&quot;modal-body&quot;&gt;
+                        	&lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/span&gt;&lt;span class=&quot;sr-only&quot;&gt;Close&lt;/span&gt;&lt;/button&gt;
+                          &lt;img src=&quot;&quot; class=&quot;imagepreview&quot; style=&quot;width: 100%;&quot; /&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+
+
+
+        
+      
+    
+  
+
+&lt;!--   &lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row text-center&quot;&gt;
+   &lt;div class=&quot;description&quot;&gt;
+    &lt;div class=&quot;tagline&quot;&gt;
+
+
+          &lt;p class=&quot;lead&quot;&gt;
+         We short circuited everything on our first test. Luckily I had a seconded particle photon with me. Made sure our enclosure was waterproof.
+        &lt;/p&gt;
+
+           &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/beerbong/a1.gif&quot; alt=&quot;Jeff&quot; &gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt; --&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
+        <link>http://heyjeffshaw.com/project-item/Mixergy-Mobile/</link>
+        <guid isPermaLink="true">http://heyjeffshaw.com/project-item/Mixergy-Mobile/</guid>
         
         
         <category>project-item</category>
@@ -1512,45 +1715,46 @@
       <item>
         <title></title>
         <description>&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;description&quot;&gt; 
+  &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
 
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-      &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; 1972 Firebird (waste of a summer)&lt;/h1&gt;
+      &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; 1972 Firebird &lt;/h1&gt;
             &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; When I was a freshmen in college, I bought a muscle car with holes in the floor and worms in the seats.&lt;/i&gt;&lt;/p&gt;
 
-      
+
 
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-       &lt;p class=&quot;lead&quot;&gt; I rebuilt the motor in my dorm parking lot. Me retapping an engine block thread: &lt;/p&gt;
+       &lt;p class=&quot;caption&quot;&gt; I rebuilt the motor in my dorm parking lot. Me retapping an engine block thread: &lt;/p&gt;
 
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-       &lt;p class=&quot;lead&quot;&gt; My hallmates complained it always smelled like gasoline &lt;/p&gt;
+       &lt;p class=&quot;caption&quot;&gt; My hallmates complained it always smelled like gasoline &lt;/p&gt;
 
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r7.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-       &lt;p class=&quot;lead&quot;&gt; Hey at least I didn&#39;t set the place on fire &lt;/p&gt;
+       &lt;p class=&quot;caption&quot;&gt; At least I didn&#39;t set the dorm on fire &lt;/p&gt;
 
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-       &lt;p class=&quot;lead&quot;&gt; I also rewired all the electronics &lt;/p&gt;
+       &lt;p class=&quot;caption&quot;&gt; Rewiring all the electronics &lt;/p&gt;
 
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; And made my own dashboard out of pine &lt;/p&gt;
+        &lt;p class=&quot;caption&quot;&gt; Made my own dash out of pine and a segment display&lt;/p&gt;
 
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-       &lt;p class=&quot;lead&quot;&gt; I usually drive it around without the hood &lt;/p&gt;
+       &lt;p class=&quot;caption&quot;&gt; I usually drive it around without the hood &lt;/p&gt;
 
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-
-       &lt;p class=&quot;lead&quot;&gt; So yeah I like cars &lt;/p&gt;
+       &lt;p class=&quot;caption&quot;&gt; UPDATE: I have a hood now &lt;/p&gt;
 
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r8.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+        &lt;p class=&quot;caption&quot;&gt; TLDR I like cars 😊 &lt;/p&gt;
 
 
          &lt;!-- DESKTOP FOOTER NAV --&gt;
@@ -1558,11 +1762,11 @@
               &lt;div class=&quot;fnav&quot;&gt;
 
                &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
-        
+
                   &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
                 More Projects &lt;h1&gt; 
-            
-               
+
+
               
 
                 &lt;div class=&quot;row text-center&quot;&gt;
@@ -1570,22 +1774,22 @@
 
 
                        &lt;div class=&quot;img-responsive center-block&quot;&gt;
-              
+
                          &lt;div class=&quot;iconbox&quot;&gt;
-                  
+
                            &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
+
+
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                      
+
                            &lt;/div&gt;
 
 
@@ -1593,34 +1797,34 @@
                               &lt;a href=&quot;/project-item/As-One/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
                                  &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
-                            
-&lt;!-- 
+
+
+
+&lt;!--
                             &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt; --&gt;
 
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
-                    &lt;/div&gt; 
+                    &lt;/div&gt;
                    &lt;/div&gt;
                   &lt;/div&gt;
 
@@ -1646,35 +1850,35 @@
       <item>
         <title> </title>
         <description>&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;description&quot;&gt; 
+  &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
 
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-        &amp;lt; &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Videos &lt;/h1&gt;
-        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; I spent a couple years working in video production and post production while I lived in Portland. 
-         &lt;/i&gt; &lt;/p&gt; 
+         &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Videos &lt;/h1&gt;
+        &lt;!-- &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; I used to shoot music videos in college
+         &lt;/i&gt; &lt;/p&gt; --&gt;
 
-          
+
 
 
               &lt;h1 class=&quot;title-main-about&quot;&gt; On the Steps &lt;/h1&gt;
               &lt;!-- &lt;p class=&quot;lead&quot;&gt; My favorite part about rappers is their work ethic - the hustle, the grind - having a dayjob and hitting the studio at night. I guess it&#39;s the same reason I love startups. It&#39;s about being young, living your dreams while everyones telling you your stupid. &lt;/p&gt; --&gt;
 
-               &lt;p class=&quot;lead&quot;&gt;  This track is slow, so everything from the shutter speed to the editing cuts are slow to keep the style smooth. Tighter focal length and careful lighting. &lt;p&gt;
+               &lt;!-- &lt;p class=&quot;lead&quot;&gt;  This track is slow, so everything from the shutter speed to the editing cuts are slow to keep the style smooth. Tighter focal length and careful lighting. &lt;p&gt; --&gt;
 
 
                &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
                   &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/JkA_sGRfyKA&quot;&gt;&lt;/iframe&gt;
                &lt;/div&gt;
 
-&lt;!-- 
+&lt;!--
               &lt;h1 class=&quot;title-main-about&quot;&gt; S.O.S. &lt;/h1&gt;
               &lt;p class=&quot;lead&quot;&gt; In recent years, the most popular rap videos are shot on cropped sensors with tight lenses,  it&#39;s a nice raw style. &lt;p&gt;
 
-                 &lt;p class=&quot;lead&quot;&gt; 
+                 &lt;p class=&quot;lead&quot;&gt;
                 This video looks different because many shots are much wider. Wider lenses are great for high energy shots. Wider lenses allow for greater subject movement across the frame while reducing camera movement and shakiness. &lt;/p&gt;
 
-                 &lt;p class=&quot;lead&quot;&gt; 
+                 &lt;p class=&quot;lead&quot;&gt;
                 In hindsight the intro I created was too long. For the 10k viewers of the video, half of them probably stopped watching it before the video even started. &lt;/p&gt;
 
 
@@ -1686,9 +1890,9 @@
 
 
                &lt;h1 class=&quot;title-main-about&quot;&gt; Salad Days &lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; 
-                 &lt;b&gt; &lt;a href=&quot;http://pickathon.com/&quot;&gt;Pickathon &lt;/a&gt; &lt;/b&gt; 
-                is Portland&#39;s largest music festival. Like everything in Portland, it&#39;s super underground and happens in a forest.&lt;/p&gt;
+              &lt;!-- &lt;p class=&quot;lead&quot;&gt;
+                 &lt;b&gt; &lt;a href=&quot;http://pickathon.com/&quot;&gt;Pickathon &lt;/a&gt; &lt;/b&gt;
+                is Portland&#39;s largest music festival. Like everything in Portland, it&#39;s super underground and happens in a forest.&lt;/p&gt; --&gt;
 
                &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
                   &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/VoGNw78eYzc&quot;&gt;&lt;/iframe&gt;
@@ -1700,11 +1904,11 @@
               &lt;div class=&quot;fnav&quot;&gt;
 
                &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
-        
+
                   &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
                 More Projects &lt;h1&gt; 
-            
-               
+
+
               
 
                 &lt;div class=&quot;row text-center&quot;&gt;
@@ -1712,22 +1916,22 @@
 
 
                        &lt;div class=&quot;img-responsive center-block&quot;&gt;
-              
+
                          &lt;div class=&quot;iconbox&quot;&gt;
-                  
+
                            &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
+
+
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                      
+
                            &lt;/div&gt;
 
 
@@ -1735,34 +1939,34 @@
                               &lt;a href=&quot;/project-item/As-One/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
                                  &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
-                            
-&lt;!-- 
+
+
+
+&lt;!--
                             &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt; --&gt;
 
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
-                    &lt;/div&gt; 
+                    &lt;/div&gt;
                    &lt;/div&gt;
                   &lt;/div&gt;
 
@@ -1773,7 +1977,7 @@
     
   
 
-&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 01 Jan 2002 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/Music-Videos/</link>
@@ -1787,38 +1991,98 @@
       <item>
         <title> </title>
         <description>&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;description&quot;&gt; 
+  &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
 
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
         &lt;h1 class=&quot;title-main-about&quot;&gt;  &lt;/h1&gt;
 
 
-        &lt;div class=&quot;container-fluid&quot;&gt;
-          &lt;div class=&quot;description&quot;&gt; 
+        &lt;div class=&quot;container&quot; id=&quot;more-gifs&quot;&gt;
+          &lt;div class=&quot;description&quot;&gt;
             &lt;div class=&quot;row text-left buffer0&quot;&gt;
 
 
 
-                   &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Just the tip&lt;/h1&gt;
-            &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; &lt;/i&gt;&lt;/p&gt;
+                   &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; 🌈 Misc adventures 🌈&lt;/h1&gt;
+            &lt;p class=&quot;lead&quot;&gt; &lt;i&gt;  &lt;/i&gt;&lt;/p&gt;
 
 
-              
+&lt;!--
+                 &lt;h1 class=&quot;title-main-about&quot;&gt;Communities I&#39;m a part of that you shoud totally check out&lt;/h1&gt;
+              &lt;p class=&quot;lead&quot;&gt;
+
+              CPC (Cardinal Pitch Club) &lt;br&gt;
+              HH Design (Hackathon Hackers) &lt;br&gt;
+              AIGA (American Institute of Graphic Arts)&lt;br&gt;
+              TechShop &lt;br&gt;
+
+               &lt;/p&gt; --&gt;
 
 
-              &lt;h1 class=&quot;title-main-about&quot;&gt;DASH Hack&lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; Exploring tactile feedback for robots. &lt;/p&gt;
-              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/more/dash.gif&quot; alt=&quot;Jeff&quot; /&gt;
 
-              &lt;h1 class=&quot;title-main-about&quot;&gt;Twilio valentine cards&lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; Digital cupid - hey we made 60 matches over valentine weekend.&lt;/p&gt;
-              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/more/valentree.gif&quot; alt=&quot;Jeff&quot; /&gt;
+
+
 
               &lt;h1 class=&quot;title-main-about&quot;&gt;Ride planner&lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; Look at this spontaneous trip planner for recreational riding. &lt;/p&gt;
-              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/more/cont2.gif&quot; alt=&quot;Jeff&quot; /&gt;
-&lt;!-- 
+              &lt;p class=&quot;lead&quot;&gt; Ionic/cordova mobile app using TTS for spontaneous motorcycle riding/routing &lt;/p&gt;
+              &lt;img class=&quot;content-image content-gif&quot; src=&quot;../../images/projects/more/cont2.gif&quot; alt=&quot;Jeff&quot; /&gt;
+
+              &lt;h1 class=&quot;title-main-about&quot;&gt;Twilio valentine cards&lt;/h1&gt;
+              &lt;p class=&quot;lead&quot;&gt; Made 60 matches at Treehacks over valentine weekend 😇 &lt;/p&gt;
+              &lt;img class=&quot;content-image content-gif&quot; src=&quot;../../images/projects/more/valentree.gif&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+              &lt;h1 class=&quot;title-main-about&quot;&gt;Pokestop App&lt;/h1&gt;
+              &lt;p class=&quot;lead&quot;&gt; Pokedex inspired design + playing around with react native at the linkedin hackathon &lt;/p&gt;
+              &lt;img class=&quot;content-image content-gif&quot; src=&quot;../../images/projects/more/poke1.gif&quot; alt=&quot;Jeff&quot; /&gt;
+
+              &lt;h1 class=&quot;title-main-about&quot;&gt;DASH Hack&lt;/h1&gt;
+              &lt;p class=&quot;lead&quot;&gt; Exploring tactile feedback with flex sensors on a small legged robot &lt;/p&gt;
+              &lt;img class=&quot;content-image content-gif&quot; src=&quot;../../images/projects/more/dash.gif&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+              &lt;h1 class=&quot;title-main-about&quot;&gt;Breathlyzer Photobooth&lt;/h1&gt;
+              &lt;p class=&quot;lead&quot;&gt; Built a breathlyzer and made a webapp that overlays the blood alcohol level and snaps photos when you&#39;re drunk &lt;/p&gt;
+              &lt;img class=&quot;content-image content-gif&quot; src=&quot;../../images/projects/more/breath1.gif&quot; alt=&quot;Jeff&quot; /&gt;
+              &lt;img class=&quot;content-image content-gif&quot; src=&quot;../../images/projects/more/breath2.gif&quot; alt=&quot;Jeff&quot; /&gt;
+              &lt;img class=&quot;content-image content-gif&quot; src=&quot;../../images/projects/more/breath3.gif&quot; alt=&quot;Jeff&quot; /&gt;
+              &lt;img class=&quot;content-image content-gif&quot; src=&quot;../../images/projects/more/breath4.gif&quot; alt=&quot;Jeff&quot; /&gt;
+
+              &lt;h1 class=&quot;title-main-about&quot;&gt;AR Fish tank&lt;/h1&gt;
+              &lt;p class=&quot;lead&quot;&gt; Experimenting AR use case with LCD TFT screens and opencv &lt;/p&gt; &lt;/div&gt;
+              &lt;div class=&quot;row&quot;&gt;
+              &lt;div class=&quot;col-sm-6 col-sm-offset-0&quot;&gt;
+              &lt;img class=&quot;content-image content-gif&quot; src=&quot;../../images/projects/more/tank2.gif&quot; alt=&quot;Jeff&quot; /&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col-sm-6 col-sm-offset-0&quot;&gt;
+              &lt;img class=&quot;content-image content-gif&quot; src=&quot;../../images/projects/more/tank1.gif&quot; alt=&quot;Jeff&quot; /&gt;
+              &lt;/div&gt;
+              &lt;/div&gt;
+
+
+              &lt;h1 class=&quot;title-main-about&quot;&gt;Talking teddy bear&lt;/h1&gt;
+              &lt;p class=&quot;lead&quot;&gt; Cute/creepy talking teddy bear using raspberry pi loaded with Alexa voice service running custom skills &lt;/p&gt;
+              &lt;img class=&quot;content-image content-gif&quot; src=&quot;../../images/projects/more/bear0.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+              &lt;img class=&quot;content-image content-gif&quot; src=&quot;../../images/projects/more/bear1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+              &lt;img class=&quot;content-image content-gif&quot; src=&quot;../../images/projects/more/bear3.gif&quot; alt=&quot;Jeff&quot; /&gt;
+              &lt;img class=&quot;content-image content-gif&quot; src=&quot;../../images/projects/more/bear2.gif&quot; alt=&quot;Jeff&quot; /&gt;
+
+
+               &lt;!-- &lt;h1 class=&quot;title-main-about&quot;&gt;About me&lt;/h1&gt;
+              &lt;p class=&quot;lead&quot;&gt;  --&gt;
+           &lt;!--      My name is Jeff and I&#39;m a designer that loves to build things and solve complex problems.
+
+                I hope my portfolio gives you an idea into how I think and solve problems. My background in philosophy, hacking, video production, and startups, and general tinkering
+
+                I can make beautiful interfaces, find identity and style for products. I can analyze and research complex problems while communicating conciesely. I strongly believe in building out my designs. In termso prototyping I can code my ideas and make prototypes with real data and http requests. Circuits and 3d printing are also part of my belt. With VR i have worked with unity. --&gt;
+               
+
+
+
+
+
+&lt;!--
               &lt;h1 class=&quot;title-main-about&quot;&gt;TBT jammin w/ friends&lt;/h1&gt;
               &lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/33963267&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
 
@@ -1826,9 +2090,9 @@
            &lt;!--    &lt;h1 class=&quot;title-main-about&quot;&gt;#instagram&lt;/h1&gt;
                &lt;iframe width=&quot;100%&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;http://widget.websta.me/in/heyjeffshaw/?r=1&amp;w=5&amp;h=4&amp;b=1&amp;p=5&amp;sb=off&quot;&gt;&lt;/iframe&gt; --&gt;
 
-          
 
-&lt;!-- 
+
+&lt;!--
            &lt;embed class=&quot;resume&quot; src=&quot;../../images/rresume.pdf&quot; alt=&quot;pdf viewer only&quot; width=&quot;100%&quot; height=&quot;500px&quot; alt=&quot;pdf&quot; pluginspage=&quot;http://www.adobe.com/products/acrobat/readstep2.html&quot;&gt;
 
               &lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
@@ -1840,34 +2104,35 @@
               &lt;div class=&quot;fnav&quot;&gt;
 
                &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
-        
+
                   &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
                 More Projects &lt;h1&gt; 
-            
-               
+
+
               
 
                 &lt;div class=&quot;row text-center&quot;&gt;
 
 
 
+
                        &lt;div class=&quot;img-responsive center-block&quot;&gt;
-              
+
                          &lt;div class=&quot;iconbox&quot;&gt;
-                  
+
                            &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
+
+
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                      
+
                            &lt;/div&gt;
 
 
@@ -1875,42 +2140,42 @@
                               &lt;a href=&quot;/project-item/As-One/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
                                  &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                         
+
                            &lt;/div&gt;
-       
-                          
-                            
-&lt;!-- 
+
+
+
+&lt;!--
                             &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt; --&gt;
 
                              &lt;div class=&quot;name-footer&quot;&gt;
                               &lt;a href=&quot;/&quot;&gt;
                               &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
                                   &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-                     
+
                            &lt;/div&gt;
 
-                    &lt;/div&gt; 
+                    &lt;/div&gt;
                    &lt;/div&gt;
                   &lt;/div&gt;
 
 
 
- --&amp;gt;
 
-		
+
+
             
           
         
@@ -1918,7 +2183,7 @@
     
   
 
-&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 01 Jan 2001 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/More-Projects/</link>

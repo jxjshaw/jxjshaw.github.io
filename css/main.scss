@@ -60,7 +60,7 @@ $on-laptop:        800px;
 @font-face {
     font-family: TakeOut;
     src: url(fonts/CHINESETAKEAWAY.ttf);
-} 
+}
 
 ul {
   margin: 0;
@@ -70,7 +70,7 @@ ul {
 .project-list-item {
   display: inline-block;
   list-style: none;
-  padding: 20px;  
+  padding: 20px;
   transition: margin 0.1s ease-in-out;
   transition: all 0.1s ease-in-out;
 }
@@ -96,8 +96,7 @@ opacity: 0.75;
 }
 
 .project-gif:hover {
-  opacity: 1.0;
-
+  opacity: 0.87;
 }
 
 
@@ -108,18 +107,19 @@ opacity: 0.75;
   letter-spacing: 0.3pt;
   transition: font-weight 0.1s ease;
   transition: letter-spacing 0.1s ease;
+  display: none;
 }
 
 img.content-image {
   width: 100%;
-  padding-bottom: 24px;
+  padding-bottom: 0px;
   margin-top: 0px;
 
 }
 
 img.content-image-vertical {
   width: 50%;
-  padding-bottom: 24px;
+  padding-bottom: 0px;
   margin-top: 0px;
 }
 
@@ -145,11 +145,13 @@ iframe {
   transition: letter-spacing 0.1s ease;
   transition: all 0.3s ease;
 
+}
 
+#email{
 
-
-
-
+padding-top: 100px;
+letter-spacing: 2px;
+transition: ease all 0.1s;
 
 }
 
@@ -162,7 +164,7 @@ opacity: 0.75;
   /*opacity: 0.3;
   letter-spacing: 5.9pt*/
  /* opacity: 0.6;*/
-  letter-spacing: -9.5pt
+  letter-spacing: -6.5pt
 
 }
 
@@ -213,7 +215,7 @@ a {
 .title-main {
   font-weight: 100;
   font-size: 32px;
-  letter-spacing: 1pt; 
+  letter-spacing: 1pt;
 }
 
 .title-main-about {
@@ -258,16 +260,22 @@ h4 {
   letter-spacing: 0.0px;
   margin-bottom: 24px;
   font-weight: normal;
-  
+
 }
 .lead-center {
   opacity: 0.7;
   font-size: 16px;
   line-height: 1.8em;
   text-align: center
-} 
+}
 
 
+.row {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+
+}
 
 
 .project-gif-footer {
@@ -301,7 +309,7 @@ transition: all ease 0.3s;
 
 
 
-  
+
 
 
 .tagline {
@@ -345,12 +353,12 @@ body .projectSVG {
 
 .iconbox {
   padding-bottom: 15px;
-    
+
 
 }
 .iconbox > div {
     text-align: center;
- 
+
     display: inline-block;
 }
 .iconbox p {
@@ -360,7 +368,7 @@ body .projectSVG {
 
 
   .project-col {
-    width: 350px;
+    width: 450px;
     margin-right: auto;
     margin-left: auto;
     padding-top: 0px;
@@ -381,12 +389,12 @@ body .projectSVG {
 
 
 .header-text {
- 
+
   letter-spacing: 6pt;
-  font-size: 12.8em;
+  font-size: 9.8em;
    letter-spacing: -10pt;
 
- 
+
 
 
 }
@@ -398,19 +406,31 @@ body .projectSVG {
 #header-row{
   opacity: 1.0;
   transition: opacity 0.3s ease;
+  max-width: 700px;
   // transition-delay: 0.3s;
 }
 
-
+@media screen and (min-width: 1px) and (max-width:720px) {
+#email {
+  letter-spacing: 15px;
+}
+}
 
 //responsive
 @media screen and (min-width: 401px) and (max-width:9999px) {
 
+  div#project-description{
+    width: 360px;
+  }
 
   .project-gif {
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     opacity: 1.0;
+  }
+
+  .project-gif:hover {
+    opacity: 0.87;
   }
 
   .header-text {
@@ -423,19 +443,19 @@ body .projectSVG {
 
   .project-list-item {
       margin: 0px;
-      padding: 15px;
-      padding-top: 10px;
+      padding: 5px;
+      // padding-top: 10px;
       transition: all 0.3s ease;
 
   }
 
   .header-text {
- 
+
   letter-spacing: 6pt;
   font-size: 9.8em;
    letter-spacing: -10pt;
 
- 
+
 
 
 }
@@ -445,6 +465,8 @@ body .projectSVG {
 }
 
 //responsive
+
+// SMALL MOBILE
 @media screen and (min-width: 1px) and (max-width:401px) {
 
 
@@ -463,6 +485,7 @@ body .projectSVG {
   padding-top: 0px;
   margin-top: -10px;
 
+
   }
 
   .project-list-item {
@@ -479,13 +502,19 @@ font-size: 11px;
 
   }
 
+  #project-description {
+    width: 95%;
+  }
+
+
   .header-text {
- 
 
-  font-size: 8.8em;
-   letter-spacing: -28pt;
 
- 
+  font-size: 500%;
+   letter-spacing: 0;
+
+
+
 
 
 }
@@ -493,8 +522,8 @@ font-size: 11px;
 }
 
 
-
-@media screen and (min-width: 800px) {
+// EXTRA LARGE DESKTOP
+@media screen and (min-width: 768px) {
   /*.project-col {
     width: 350px;
     margin-right: auto;
@@ -539,15 +568,26 @@ font-size: 11px;
     }
 
     .header-text {
- 
+
   letter-spacing: 6pt;
-  font-size: 12.8em;
-   letter-spacing: -10pt;
-
- 
-
+  font-size: 9.8em;
+   letter-spacing: -5pt;
 
 }
+
+  .lead {
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+
+  .title-main-about {
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+
+    .row {
+      max-width: 1200px;
+  }
 
 }
 
@@ -599,16 +639,9 @@ font-size: 11px;
 #loading-row {
   padding: 0px;
   margin: 0px;
-  padding-bottom: 25px;
+  // padding-bottom: 25px;
 }
 
-.row {
-  margin-left: auto;
-  margin-right: auto;
-
-  max-width: 700px
-  
-}
 
 p {
   opacity: 0.87;
@@ -621,14 +654,14 @@ p {
   line-height: 2;
   margin-left: 15px;
   margin-right: -3px;
+  padding-top: 70px;
+  padding-bottom: 70px;
 
 }
 
-#email{
 
-padding-top: 100px; 
 
-}
+
 
 .title-main-about {
 font-size: 18px;
@@ -645,7 +678,7 @@ font-family: Roboto;
 
 #blurb-loading {
  text-align: center;
-  
+
 }
 
 
@@ -684,7 +717,7 @@ font-family: Roboto;
   top: 0; left: 0; bottom: 0; right: 0;
   transition: all 0.3s ease;
 
- 
+
 }
 
 #loading-caption {
@@ -704,7 +737,7 @@ transition: all 0.3s ease;
 
 
 .name {
-padding-top: 30px;  
+padding-top: 30px;
 padding-left: 30px;
 padding-right: 30px;
 padding-bottom: 30px;
@@ -729,7 +762,7 @@ transition: all 0.3s ease;
 }
 
 #loading-container {
- 
+
 }
 
 // * {
@@ -794,10 +827,63 @@ font-weight: 800;
     margin-bottom: 24px;
     letter-spacing: 0px;
     font-weight: 900;
-    font-family: roboto;   
+    font-family: roboto;
 
 }
 
 a:hover {
   color: red;
+}
+
+.caption {
+
+    opacity: 0.54;
+    font-size: 12px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    line-height: 24px;
+
+}
+
+#iframecaption {
+  margin-top: 15px;
+}
+
+.project-caption {
+  position: absolute;
+  text-align: center;
+  width: 100px;
+  margin-top: -60px;
+  color: #eeeeee;
+  font-weight: 200;
+  letter-spacing: 1.2px;
+  font-size: 12px;
+  z-index: 100;
+  transition: ease all 0.1s;
+  opacity: 0.0;
+}
+
+.project-shader {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #002b45;
+  background-color: #009fff;
+  background-color: #005b91;
+  background-color: #222222;
+  opacity: 0.55;
+  margin-top: -100px;
+  z-index: 99;
+  transition: ease all 0.1s;
+  opacity: 0.0;
+}
+
+#more-gifs {
+  max-width: 600px;
 }
