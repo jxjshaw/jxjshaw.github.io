@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Aug 2016 01:36:12 -0700</pubDate>
-    <lastBuildDate>Thu, 25 Aug 2016 01:36:12 -0700</lastBuildDate>
+    <pubDate>Thu, 25 Aug 2016 01:44:42 -0700</pubDate>
+    <lastBuildDate>Thu, 25 Aug 2016 01:44:42 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -1654,17 +1654,9 @@ project-title: Wifi Beerbong
                            &lt;/div&gt;
 
 
-                  &lt;!-- MODAL --&gt;
-                  &lt;div class=&quot;modal fade&quot; id=&quot;imagemodal&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-labelledby=&quot;myModalLabel&quot; aria-hidden=&quot;true&quot;&gt;
-                    &lt;div class=&quot;modal-dialog&quot;&gt;
-                      &lt;div class=&quot;modal-content&quot;&gt;              
-                        &lt;div class=&quot;modal-body&quot;&gt;
-                        	&lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/span&gt;&lt;span class=&quot;sr-only&quot;&gt;Close&lt;/span&gt;&lt;/button&gt;
-                          &lt;img src=&quot;&quot; class=&quot;imagepreview&quot; style=&quot;width: 100%;&quot; /&gt;
-                        &lt;/div&gt;
-                      &lt;/div&gt;
-                    &lt;/div&gt;
-                  &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
 
 
 
@@ -1689,7 +1681,7 @@ project-title: Wifi Beerbong
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt; --&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
         <link>http://heyjeffshaw.com/project-item/Mixergy-Mobile/</link>
