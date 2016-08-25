@@ -62,6 +62,11 @@ $on-laptop:        800px;
     src: url(fonts/CHINESETAKEAWAY.ttf);
 }
 
+@font-face {
+    font-family: inconsolata;
+    src: url(fonts/Inconsolata.otf);
+}
+
 ul {
   margin: 0;
   padding: 0;
@@ -866,6 +871,11 @@ a:hover {
   z-index: 100;
   // transition: ease all 0.1s;
   opacity: 0.0;
+  font-family: inconsolata;
+}
+
+#blurb {
+  font-family: inconsolata;
 }
 
 .project-shader {

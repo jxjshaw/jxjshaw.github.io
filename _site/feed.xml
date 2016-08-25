@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Aug 2016 01:44:42 -0700</pubDate>
-    <lastBuildDate>Thu, 25 Aug 2016 01:44:42 -0700</lastBuildDate>
+    <pubDate>Thu, 25 Aug 2016 13:23:59 -0700</pubDate>
+    <lastBuildDate>Thu, 25 Aug 2016 13:23:59 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -135,10 +135,7 @@
 
                    &lt;p class=&quot;caption&quot; id=&quot;iframecaption&quot;&gt; A video demonstrating types of interactions possible with powerful GPUs &lt;/p&gt;
 
-        
-
       
-    
 
  &lt;!-- DESKTOP FOOTER NAV --&gt;
 
@@ -469,18 +466,16 @@
 
                            &lt;/div&gt;
 
-                    &lt;/div&gt;
-                   &lt;/div&gt;
-                  &lt;/div&gt;
+                    
 
 
 
 
 
                   &lt;/div&gt;
-                
-              
-            
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
 &lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 01 Jan 2008 00:00:00 -0800</pubDate>
@@ -514,8 +509,7 @@
 
         &lt;!-- Landing Page --&gt;
          &lt;h1 class=&quot;title-main-about&quot;&gt; Aligning the vision with the brand &lt;/h1&gt;
-          &lt;p class=&quot;lead&quot;&gt; For the Mercedes driver, time is the only currency that matters. Yet when leaving a parking garage or passing a toll booth, time is still wasted fumbling for coins and credit cards.
-          We&#39;re not getting from point A to point B in the fastest way possible. So we created Benzpay to move the point of sale into the car.&lt;/p&gt;
+          &lt;p class=&quot;lead&quot;&gt; Unlike our android app, the web component carries a lighter layout intended for desktop. Whether it&#39;s the victim reporting an incident, lawyers browsing client folders, or public viewers reading fact-oriented stories, the aim is a wide variety of media without dumbing content down. &lt;/p&gt;
            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/homepage.jpg&quot; alt=&quot;Jeff&quot; /&gt;
            &lt;p class=&quot;caption&quot;&gt; Landing page and graphics &lt;/p&gt;
 
