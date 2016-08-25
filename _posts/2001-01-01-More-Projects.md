@@ -94,7 +94,6 @@ project-title: More ✨
                 I hope my portfolio gives you an idea into how I think and solve problems. My background in philosophy, hacking, video production, and startups, and general tinkering
 
                 I can make beautiful interfaces, find identity and style for products. I can analyze and research complex problems while communicating conciesely. I strongly believe in building out my designs. In termso prototyping I can code my ideas and make prototypes with real data and http requests. Circuits and 3d printing are also part of my belt. With VR i have worked with unity. -->
-               </p>
 
 
 
@@ -121,10 +120,10 @@ project-title: More ✨
 
               <div class="fnav">
 
-               <div class="col-sm-10 col-sm-offset-0 text-center">
+               <div class="col-sm-12 col-sm-offset-0 text-center">
 
                   <h1 class="title-main-about" id="footer-caption">
-                More Projects </h1>>
+                More Projects </h1>
 
 
               </div>
