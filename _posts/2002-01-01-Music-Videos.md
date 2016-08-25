@@ -27,6 +27,11 @@ project-title: Music Videos
                <div class="embed-responsive embed-responsive-16by9">
                   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JkA_sGRfyKA"></iframe>
                </div>
+<!--
+               <h1 class="title-main-about"> On the Steps </h1>
+               <div class="embed-responsive embed-responsive-16by9">
+                  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JkA_sGRfyKA"></iframe>
+               </div> -->
 
 <!--
               <h1 class="title-main-about"> S.O.S. </h1>
@@ -60,10 +65,10 @@ project-title: Music Videos
 
               <div class="fnav">
 
-               <div class="col-sm-10 col-sm-offset-1 text-center">
+               <div class="col-sm-12 col-sm-offset-0 text-center">
 
                   <h1 class="title-main-about" id="footer-caption">
-                More Projects <h1> </a>
+                More Stuff Projects </h1>
 
 
               </div>
