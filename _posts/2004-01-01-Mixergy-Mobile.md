@@ -84,7 +84,7 @@ project-title: Mixergy
               <div class="fnav">
                <div class="col-sm-10 col-sm-offset-1 text-center">
                   <h1 class="title-main-about" id="footer-caption">
-                More Stuff <h1> </a>
+                More Stuff </h1>
 
 
               </div>
@@ -141,10 +141,6 @@ project-title: Mixergy
                                   <p><b><br>Home</b></p> </a>
 
                            </div>
-
-                    </div>
-                   </div>
-                  </div>
 
 
                   <!-- MODAL -->
