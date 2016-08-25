@@ -2,7 +2,7 @@
 layout: post
 categories: project-item
 img-path: images/kk1.gif
-project-title: More
+project-title: More ✨
 ---
 
 
