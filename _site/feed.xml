@@ -5,8 +5,8 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Aug 2016 13:23:59 -0700</pubDate>
-    <lastBuildDate>Thu, 25 Aug 2016 13:23:59 -0700</lastBuildDate>
+    <pubDate>Fri, 30 Sep 2016 12:12:19 -0700</pubDate>
+    <lastBuildDate>Fri, 30 Sep 2016 12:12:19 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -887,6 +887,9 @@
        Usually, it had something to do with making sure friends are ok. When your friend goes missing, they&#39;re not picking up their phone andit&#39;s hard to tell whether or not their phone is dead. They&#39;re probably not in enough danger to call campus safety, but that doesn&#39;t mean you don&#39;t care where they are. &lt;/p&gt;
 
       &lt;p class=&quot;lead&quot;&gt; That&#39;s why we built asOne. It&#39;s a better way to communicate in groups when going out. Instead of annoying group messages, we create temporary friend groups that shares information about each member&#39;s location, battery level, and the time they want to go home. &lt;/p&gt;
+
+      &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/wireframe.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+      &lt;p class=&quot;caption&quot;&gt;  Informal interviews and wireframe iterations are important to my design process &lt;/p&gt;
         &lt;!-- ADD notebook image here --&gt;
 
 
@@ -926,8 +929,8 @@
 
         &lt;/p&gt;   
 
-            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/wireframe.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-            &lt;p class=&quot;caption&quot;&gt;  Informal interviews and wireframe iterations are important to my design process &lt;/p&gt;
+            &lt;!-- &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/asone/new/tap.jpg&quot; alt=&quot;Jeff&quot; &gt;
+            &lt;p class=&quot;caption&quot;&gt; The main goal was taking the friction out of communication &lt;/p&gt; --&gt;
 
 
 
@@ -946,7 +949,7 @@
         &lt;h1 class=&quot;title-main-about&quot;&gt;Collaborating with engineers&lt;/h1&gt;  
 
         &lt;p class=&quot;lead&quot;&gt; Usually when everyone&#39;s ready to go home, there&#39;s that one person that nobody can find. So I designed a detailed extension to the group view. Tapping on the friend brings you to more actions such as sending a push notification and enabling audio. Additionally we automatically set the true north of the inline map to that of the selected friend. &lt;/p&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/briandetail.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/new/detail1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
          &lt;p class=&quot;caption&quot;&gt; The individual dash combines visual data with a panel of actions&lt;/p&gt;
 
 

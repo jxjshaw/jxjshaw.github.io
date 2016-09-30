@@ -5638,6 +5638,9 @@ button.close {
 @font-face {
   font-family: TakeOut;
   src: url(fonts/CHINESETAKEAWAY.ttf); }
+@font-face {
+  font-family: inconsolata;
+  src: url(fonts/Inconsolata.otf); }
 ul {
   margin: 0;
   padding: 0; }
