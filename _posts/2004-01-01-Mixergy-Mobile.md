@@ -52,6 +52,8 @@ project-title: Mixergy
               <h1 class="title-main-about">4. Design: feedback and cross platform layout </h1>
               <p class="lead"> After considering all approaches, I started laying out the initial sequence of events and defining visual components. Lots of back and forth between me and the dev.  </p>
 
+              <!-- <img class="content-image"  src="../../images/projects/mixergy/brand_guide.jpg" alt="Jeff" > -->
+
               <img class="content-image"  src="../../images/projects/mixergy/keynote_2.jpg" alt="Jeff" >
 
 
@@ -62,6 +64,8 @@ project-title: Mixergy
 
 
               <img class="content-image"  src="../../images/projects/mixergy/keynote_5.jpg" alt="Jeff" >
+
+              <img class="content-image"  src="../../images/projects/mixergy/keynote_6.jpg" alt="Jeff" >
 
 
 
