@@ -5,139 +5,162 @@
     <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
     <link>http://heyjeffshaw.com/</link>
     <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Oct 2016 14:44:23 -0700</pubDate>
-    <lastBuildDate>Tue, 18 Oct 2016 14:44:23 -0700</lastBuildDate>
+    <pubDate>Thu, 20 Oct 2016 14:41:28 -0700</pubDate>
+    <lastBuildDate>Thu, 20 Oct 2016 14:41:28 -0700</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
-        <title></title>
+        <title>Benzpay</title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
 
-             &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Advanced UX Design&lt;/h1&gt;
-          &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Here&#39;s a project of mine from working at &lt;b&gt;Mercedes-Benz R&amp;amp;D North America&lt;/b&gt;.  The R&amp;amp;D focus is on innovations such as fuelcell, self-driving, 3d graphics, and advanced design. As with all super cool projects I&#39;m under an NDA, so instead I&#39;ll highlight the process and problems surrounding my AI project. &lt;/i&gt;&lt;/p&gt;
+        &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; BenzPay&lt;/h1&gt;
 
-
-
-
-                    &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
+        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; This is the project that caught the attention of Daimler&#39;s board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to Mercedes.&lt;/i&gt; &lt;/p&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/new/resting_screen-169.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+         &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
 
          &lt;p class=&quot;lead&quot;&gt;
-          &lt;b&gt;Topics&lt;/b&gt;: Artificial Intelligence, Voice interface, Maps, Natural language, Self driving cars&lt;br /&gt;
-          &lt;b&gt;Roles&lt;/b&gt;: Interaction design, Interface design, Software prototyping &lt;br /&gt;
-          &lt;b&gt;Tools&lt;/b&gt;: QT/QML (Javascript), AJAX, Sketch 3, Various voice services and providers  &lt;br /&gt;
-
+          &lt;b&gt;Topics&lt;/b&gt;: Connected Cars, Fintech &lt;br /&gt;
+          &lt;b&gt;Roles&lt;/b&gt;: Visual design, Interaction design, Interface design &lt;br /&gt;
+          &lt;b&gt;Tools&lt;/b&gt;: Adobe Illustrator, Adobe Photoshop, Sketch 3 &lt;br /&gt;
+          &lt;b&gt;Team&lt;/b&gt;: 1 designer, 1 pm, 2 engineers &lt;br /&gt;
           &lt;p&gt;
 
 
 
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Aligning the vision with the brand &lt;/h1&gt;
+
+         &lt;p class=&quot;lead&quot;&gt; For the Mercedes driver, time is the only currency that matters. Yet when leaving a parking garage or passing a toll booth, time is still wasted fumbling for coins and credit cards.
+         We&#39;re not getting from point A to point B in the fastest way possible. So we created Benzpay to move the point of sale into the car.&lt;/p&gt;
+          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+          &lt;p class=&quot;caption&quot;&gt; The future of cars is wildly uncertain, however time will always be money  &lt;/p&gt;
+
+         &lt;h1 class=&quot;title-main-about&quot;&gt; Research and planning&lt;/h1&gt;
+
+         &lt;p class=&quot;lead&quot;&gt; Knowing senior management has a short attention span, so I designed our prototype with three clear use cases in mind.
+
+          Speaking to drivers and industry experts, it became clear gas and parking were two popular use cases. For the third use case, it was important to be creative and take a risk on a use case a little more out there.&lt;p&gt;
+          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/storyboard2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+          &lt;p class=&quot;caption&quot;&gt; Drafting a storyboard helped convey a day in the life with Benzpay to stakeholders&lt;/p&gt;
 
 
+           &lt;h1 class=&quot;title-main-about&quot;&gt; Taking a risk &lt;/h1&gt;
 
-
-                &lt;h1 class=&quot;title-main-about&quot;&gt;Designing intelligence&lt;/h1&gt;
-                &lt;p class=&quot;lead&quot;&gt;
-                Most people are not sold on the value of siri, alexa, and similar natural language voice interfaces. Some interfaces may disappoint users by sounding smarter than they really are, but what people really mean to say is that &lt;b&gt; the voice interface isn&#39;t smart enough. &lt;/b&gt; &lt;p&gt;
-
-                &lt;p class=&quot;lead&quot;&gt;
-                At first, that may seem like an easy problem to grasp. Smart design means putting the user first, meaning.. (1) start with a need (2) design an intuitive layout, (3) provide interactive content, (4) optimize by testing &lt;p&gt;
-
-                &lt;p class=&quot;lead&quot;&gt;
-                Unfortunately, this isn&#39;t the case. &lt;b&gt;When designing for intelligence, simple is not better&lt;/b&gt;. The goal is to replicate the subtle complexity of another human. The cool thing about interacting with humans is that you&#39;re not going to catch everything in your first read. For example, when you interact with a person, there&#39;s always more to discover and something new to learn. So to have software replicate this intelligent relationship also means that we&#39;re moving away from dumb software requiring really mind numbing user input. I&#39;m really excited about this shift because it&#39;s a chance for us ourselves to become smarter and more human because of the technology we interact with. &lt;p&gt;
-
-                &lt;h1 class=&quot;title-main-about&quot;&gt;Design process&lt;/h1&gt;
-                &lt;p class=&quot;lead&quot;&gt;
-                &lt;br /&gt;&lt;b&gt;1.&lt;/b&gt; Defining existing problems, brainstorm sessions with team
-                &lt;br /&gt;&lt;b&gt;2.&lt;/b&gt; Outline interactions, designing example dialogues, find relevant literature
-                &lt;br /&gt;&lt;b&gt;3.&lt;/b&gt; Start sketching and wireframing the GUI aspect of the agent.
-                &lt;br /&gt;&lt;b&gt;4.&lt;/b&gt; Low fidelity testing using static mockups and off board text agent
-                &lt;br /&gt;&lt;b&gt;5.&lt;/b&gt; Code up the GUI
-                &lt;br /&gt;&lt;b&gt;6.&lt;/b&gt; Add in the logic, voice interface, recognizer, TTS
-                &lt;br /&gt;&lt;b&gt;7.&lt;/b&gt; Run in the app in the car, tune the speech response, train agent with more examples
-                &lt;/p&gt;
-
-
-
-
-
-                &lt;h1 class=&quot;title-main-about&quot;&gt;Natural language processing&lt;/h1&gt;
-                &lt;p class=&quot;lead&quot;&gt;
-                &lt;b&gt; So how do you replicate the intelligence of a human? &lt;/b&gt; In my case, it&#39;s through a voice agent. So I&#39;ve been working on how the agent understands what you&#39;re saying as well as how it should talk back. Here are some specific problems I&#39;ve identified and spent my time solving:
-                &lt;p&gt;
-
-
-
-
-
-
-                  &lt;p class=&quot;lead&quot;&gt;  &lt;i&gt;How do you dynamically create and update non-verbal context  in voice interaction?&lt;/i&gt;
-
-                &lt;p class=&quot;lead&quot;&gt; &lt;i&gt;  Teaching an agent to extract a combination of names, titles, and descriptions referenced in a single utterance &lt;/i&gt;
-
-                &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Taking an indirect reference made by the user and assigning it to an object with the help of prepositions&lt;/i&gt;&lt;p&gt;
-
-                 &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Sometimes it&#39;s still better to show then tell, so how do you anthropomorphize a GUI without being creepy?&lt;/i&gt;&lt;p&gt;
-
-
-
-
+          &lt;p class=&quot;lead&quot;&gt;
+          Not everyone was a fan of going with &quot;events&quot; instead of &quot;toll booth&quot; but here is my reasoning: (1) Payment solutions for toll booths such as FasTrak already exist. (2) It&#39;s one thing to make your life easier, it&#39;s another to make it more interesting. I want to appeal to the emotional side of the product. (3) Completing event transactions on ticketmaster or eventbrite requires no major external infrastructure.
 
 
                 &lt;p&gt;
+
+            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+            &lt;p class=&quot;caption&quot;&gt; The event feature allows passengers to plan and purchase from the car &lt;/p&gt;
+
+
+
+
+
+          &lt;h1 class=&quot;title-main-about&quot;&gt; Interface design &lt;/h1&gt;    
+
+
+
+        &lt;p class=&quot;lead&quot;&gt;  
+        To make user input more intuitive, I created a user interface with a clear hierarchy of menus. A common gripe from Mercedes c300 owners is that the heads-up display looks like it&#39;s touchscreen but it&#39;s not. For interfaces without touch support, it&#39;s common to get lost or forget where you are. &lt;p&gt;
+
+        &lt;p class=&quot;lead&quot;&gt;  
+        That&#39;s why I made the navigation bar visible at all times. The drawback is this takes up a lot of valuable space on the interface. My solution was a bar with a smaller footprint. I achieved this by increasing the background transparency and reducing icon clutter, with the compromise being that icons are no longer labelled.   &lt;p&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+        &lt;p class=&quot;caption&quot;&gt; At the time, flat UI design was considered outlandish by many car manufactures. &lt;/p&gt;
+
+
+
+         &lt;h1 class=&quot;title-main-about&quot;&gt; User experience&lt;/h1&gt;    
+
+
+
+        &lt;p class=&quot;lead&quot;&gt;  
+        Typography and layout are especially important factors for a safe driving experience. I used a variation of color, contrast, and weight to distinguish what really matters at a glance from details that matter on a closer read.
+       &lt;p&gt;
+
+
+
+              &lt;p class=&quot;lead&quot;&gt;
+                An example of this can be seen in the payment history view. The first thing the driver sees is the amount paid followed by the vendor name. Payment details such as credit card number and bitcoin address are more confidential and significantly less visible from a distance.  &lt;p&gt;
+
+                &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+                &lt;p class=&quot;caption&quot;&gt; In the prototype, payments were demonstrated with simple bitcoin transactions  &lt;/p&gt;
+
+
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Mapping interaction with existing hardware &lt;/h1&gt;   
+
+
+
+         &lt;p class=&quot;lead&quot;&gt;
+        Rotating the wheel BlackBerry style makes the selector scroll up, down, in and out of the menus depending on the context of the selector. Shifting the wheel left and right toggles different views like &quot;payment history,&quot; &quot;payment preferences,&quot; and &quot;nearby transactions.&quot;
+        &lt;p&gt;
+         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/g.gif&quot; alt=&quot;Jeff&quot; /&gt;
+         &lt;p class=&quot;caption&quot;&gt; The c300 input module supports a disorienting number of user interactions  &lt;/p&gt;
+
+
+
+
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Product and results &lt;/h1&gt;
+
+
+
+        &lt;p class=&quot;lead&quot;&gt;  
+        When driving, there&#39;s no time to type in amounts and add in signatures. Transactions are triggered based on geolocation, prices are programmatically calculated. Using GPS coordinates to initiate transactions also makes it more secure.
+        In other words, the driver just needs to confirm the transaction with a click of a button.&lt;p&gt;
+
+         &lt;p class=&quot;lead&quot;&gt;
+        &lt;p&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/benzpay.gif&quot; alt=&quot;Jeff&quot; /&gt;   
+        &lt;p class=&quot;caption&quot;&gt; A clip from the video shown at the yearly executive meeting &lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 &lt;!--
-               &lt;h1 class=&quot;title-main-about&quot;&gt;Shortcuts for the sake of prototyping&lt;/h1&gt;
-               &lt;p class=&quot;lead&quot;&gt;   
-               &lt;b&gt; Even if there were such a thing as a clear linguistic rulebook, it wouldn&#39;t be worth teaching to my voice agent&lt;/b&gt;.  On one hand, I had to find (scalable) ways to map out, compromise, then phrase these linguistic rules into functional statements. On the other hand, users don&#39;t always follow all of these grammatical rules to begin with. So generally speaking, my solution combined outlining basic linguistic conventions with training through user input. Because my focus was designing interactions, it didn&#39;t make sense to feed the machine large amounts of data for marginal improvements and extreme wildcards. For the loose ends, it was more practical to tape it together with scripts.
-               &lt;p&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Demo video &lt;/h1&gt;  
 
+         &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;https://www.crunchbase.com/person/yashad-kulkarni#/entity&quot;&gt;
 
+          &lt;b&gt; Yashad &lt;/b&gt;from TechCrunch &lt;/a&gt;filmed this video for us.
 
-               &lt;p class=&quot;lead&quot;&gt;
-               &lt;b&gt; Language is more intuitive to humans than any graphical computer interface a user has been trained to navigate &lt;/b&gt;. So to put myself in the shoes of the user, all I had to do was stop thinking about how computers worked and start talking like I would to a person.. My first example dialogues were me pretending to speak to my mother. Although some designers recommend speaking to the agent like you&#39;re asking a stranger a question, my goal was to design a smarter agent; one where you could say less yet have it understand more. After this initial training stage, I broadened my syntax and incrementally made myself harder to understand.
-               At the same time, I started designing and developing the GUI that I eventually hooked up to my voice interface and loaded onto the car&#39;s linux machine.
-               &lt;p&gt;
+           &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+                      &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/132971331&quot;&gt;&lt;/iframe&gt;
+                  &lt;/div&gt;
  --&gt;
-
-             &lt;!--     &lt;h1 class=&quot;title-main-about&quot;&gt;Relevant design meme&lt;/h1&gt;
-                &lt;p class=&quot;lead-center&quot;&gt;
-                &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/mercedes/meme.jpg&quot; alt=&quot;Jeff&quot; &gt;&lt;p&gt; --&gt;
-
-                &lt;h1 class=&quot;title-main-about&quot;&gt;Takeaways&lt;/h1&gt;
-                &lt;p class=&quot;lead&quot;&gt;
-                &lt;b&gt;Designers are practical problem solvers&lt;/b&gt;. For us it&#39;s more about the functionality; there&#39;s no such thing as a proper way. You can&#39;t really &quot;fake&quot; a natural language demo, but there are still more and less practical ways of achieving your goal. What I learned in the process was that &lt;i&gt; even though &lt;/i&gt; we have these new techniques like deep learning at our hands, the agent/program doesn&#39;t have to think the same way a human does in order to present itself like it thinks the same way a human does.
-                &lt;p&gt;
-
-                &lt;p class=&quot;lead&quot;&gt;
-                &lt;b&gt;There&#39;s nothing wrong with artificial intelligence being artificial&lt;/b&gt;. We ourselves rely on this phenomenon all the time - for instance during interviews, or when someone asks you for advice. Realizing this was a big jedi milestone as a designer fighting the temptation to code too much.
-                &lt;p&gt;
-
-                &lt;h1 class=&quot;title-main-about&quot;&gt;Related projects&lt;/h1&gt;
-                &lt;p class=&quot;lead&quot;&gt;
-                &lt;b&gt;Each year some work from our studio is shown publicly at CES&lt;/b&gt;. If you want to get a better idea of how intelligent interaction plays into cars, check out these projects my team has worked on in the past. Just to be clear, I was not involved in either of these past projects.
-                &lt;p&gt;
-
-                  &lt;h1 class=&quot;title-main-about&quot;&gt;2015 F 015&lt;/h1&gt;
-
-                  &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-                      &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/GAz42C5Vvt8&quot;&gt;&lt;/iframe&gt;
-                  &lt;/div&gt;
-                  &lt;p class=&quot;caption&quot; id=&quot;iframecaption&quot;&gt; A video showing interactions that make this driverless cars friendly to humans. &lt;/p&gt;
-
-                   &lt;h1 class=&quot;title-main-about&quot;&gt;2016 concept IAA&lt;/h1&gt;
+               &lt;!--    &lt;h1 class=&quot;title-main-about&quot;&gt; Further reading &lt;/h1&gt;  
 
 
-                  &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-                      &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/fBwmH7TAupI&quot;&gt;&lt;/iframe&gt;
-                  &lt;/div&gt;
+            &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/benzpay/team.jpg&quot; alt=&quot;Jeff&quot; &gt;
 
-                   &lt;p class=&quot;caption&quot; id=&quot;iframecaption&quot;&gt; A video demonstrating types of interactions possible with powerful GPUs &lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://www.mobilegeeks.com/mercedes-benz-hack-a-thon-a-snapshot-of-developing-for-automotive/&quot;&gt;  &lt;b&gt;  Writeup &lt;/b&gt; by Mobile Geeks &lt;/a&gt;  &lt;p&gt;
 
-      
+           &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://360.here.com/2015/08/11/here-gives-direction-at-mercedes-benz-hackathon/&quot;&gt; &lt;b&gt; Article  &lt;/b&gt; by HERE maps&lt;/a&gt; &lt;p&gt;
 
- &lt;!-- DESKTOP FOOTER NAV --&gt;
+            --&gt;
+
+
+
+
+
+          &lt;!-- DESKTOP FOOTER NAV --&gt;
 
               &lt;div class=&quot;fnav&quot;&gt;
 
@@ -208,55 +231,19 @@
                    &lt;/div&gt;
                   &lt;/div&gt;
 
-               &lt;!--         &lt;div class=&quot;row text-center&quot;&gt;
-
-                       &lt;div class=&quot;img-responsive center-block&quot;&gt;
-
-                         &lt;div class=&quot;iconbox&quot;&gt;
-
-                           &lt;div class=&quot;name-footer&quot;&gt;
-
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-
-                           &lt;/div&gt;
-
-
-                             &lt;div class=&quot;name-footer&quot;&gt;
-
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-
-                           &lt;/div&gt;
-
-                              &lt;div class=&quot;name-footer&quot;&gt;
-
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-
-                           &lt;/div&gt;
-
-                              &lt;div class=&quot;name-footer&quot;&gt;
-
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
-
-                           &lt;/div&gt;
 
 
 
-                    &lt;/div&gt;
-                   &lt;/div&gt;
-                  &lt;/div&gt; --&gt;
 
-                  &lt;/div&gt;
 
-  
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+
+      &lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate>
-        <link>http://heyjeffshaw.com/project-item/Mercedes/</link>
-        <guid isPermaLink="true">http://heyjeffshaw.com/project-item/Mercedes/</guid>
+        <link>http://heyjeffshaw.com/project-item/BenzPay/</link>
+        <guid isPermaLink="true">http://heyjeffshaw.com/project-item/BenzPay/</guid>
         
         
         <category>project-item</category>
@@ -466,7 +453,7 @@
 
                            &lt;/div&gt;
 
-                    
+
 
 
 
@@ -1074,157 +1061,134 @@
       </item>
     
       <item>
-        <title>Benzpay</title>
+        <title></title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; BenzPay&lt;/h1&gt;
+             &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Advanced UX Design&lt;/h1&gt;
+          &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Here&#39;s a project of mine from working at &lt;b&gt;Mercedes-Benz R&amp;amp;D North America&lt;/b&gt;.  The R&amp;amp;D focus is on innovations such as fuelcell, self-driving, 3d graphics, and advanced design. As with all super cool projects I&#39;m under an NDA, so instead I&#39;ll highlight the process and problems surrounding my AI project. &lt;/i&gt;&lt;/p&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; This is the project that caught the attention of Daimler&#39;s board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to Mercedes.&lt;/i&gt; &lt;/p&gt;
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/new/resting_screen-169.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-         &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
+
+
+
+                    &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
 
          &lt;p class=&quot;lead&quot;&gt;
-          &lt;b&gt;Topics&lt;/b&gt;: Connected Cars, Fintech &lt;br /&gt;
-          &lt;b&gt;Roles&lt;/b&gt;: Visual design, Interaction design, Interface design &lt;br /&gt;
-          &lt;b&gt;Tools&lt;/b&gt;: Adobe Illustrator, Adobe Photoshop, Sketch 3 &lt;br /&gt;
-          &lt;b&gt;Team&lt;/b&gt;: 1 designer, 1 pm, 2 engineers &lt;br /&gt;
+          &lt;b&gt;Topics&lt;/b&gt;: Artificial Intelligence, Voice interface, Maps, Natural language, Self driving cars&lt;br /&gt;
+          &lt;b&gt;Roles&lt;/b&gt;: Interaction design, Interface design, Software prototyping &lt;br /&gt;
+          &lt;b&gt;Tools&lt;/b&gt;: QT/QML (Javascript), AJAX, Sketch 3, Various voice services and providers  &lt;br /&gt;
+
           &lt;p&gt;
 
 
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Aligning the vision with the brand &lt;/h1&gt;
-
-         &lt;p class=&quot;lead&quot;&gt; For the Mercedes driver, time is the only currency that matters. Yet when leaving a parking garage or passing a toll booth, time is still wasted fumbling for coins and credit cards.
-         We&#39;re not getting from point A to point B in the fastest way possible. So we created Benzpay to move the point of sale into the car.&lt;/p&gt;
-          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-          &lt;p class=&quot;caption&quot;&gt; The future of cars is wildly uncertain, however time will always be money  &lt;/p&gt;
-
-         &lt;h1 class=&quot;title-main-about&quot;&gt; Research and planning&lt;/h1&gt;
-
-         &lt;p class=&quot;lead&quot;&gt; Knowing senior management has a short attention span, so I designed our prototype with three clear use cases in mind.
-
-          Speaking to drivers and industry experts, it became clear gas and parking were two popular use cases. For the third use case, it was important to be creative and take a risk on a use case a little more out there.&lt;p&gt;
-          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/storyboard2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-          &lt;p class=&quot;caption&quot;&gt; Drafting a storyboard helped convey a day in the life with Benzpay to stakeholders&lt;/p&gt;
 
 
-           &lt;h1 class=&quot;title-main-about&quot;&gt; Taking a risk &lt;/h1&gt;
 
-          &lt;p class=&quot;lead&quot;&gt;
-          Not everyone was a fan of going with &quot;events&quot; instead of &quot;toll booth&quot; but here is my reasoning: (1) Payment solutions for toll booths such as FasTrak already exist. (2) It&#39;s one thing to make your life easier, it&#39;s another to make it more interesting. I want to appeal to the emotional side of the product. (3) Completing event transactions on ticketmaster or eventbrite requires no major external infrastructure.
+
+                &lt;h1 class=&quot;title-main-about&quot;&gt;Designing intelligence&lt;/h1&gt;
+                &lt;p class=&quot;lead&quot;&gt;
+                Most people are not sold on the value of siri, alexa, and similar natural language voice interfaces. Some interfaces may disappoint users by sounding smarter than they really are, but what people really mean to say is that &lt;b&gt; the voice interface isn&#39;t smart enough. &lt;/b&gt; &lt;p&gt;
+
+                &lt;p class=&quot;lead&quot;&gt;
+                At first, that may seem like an easy problem to grasp. Smart design means putting the user first, meaning.. (1) start with a need (2) design an intuitive layout, (3) provide interactive content, (4) optimize by testing &lt;p&gt;
+
+                &lt;p class=&quot;lead&quot;&gt;
+                Unfortunately, this isn&#39;t the case. &lt;b&gt;When designing for intelligence, simple is not better&lt;/b&gt;. The goal is to replicate the subtle complexity of another human. The cool thing about interacting with humans is that you&#39;re not going to catch everything in your first read. For example, when you interact with a person, there&#39;s always more to discover and something new to learn. So to have software replicate this intelligent relationship also means that we&#39;re moving away from dumb software requiring really mind numbing user input. I&#39;m really excited about this shift because it&#39;s a chance for us ourselves to become smarter and more human because of the technology we interact with. &lt;p&gt;
+
+                &lt;h1 class=&quot;title-main-about&quot;&gt;Design process&lt;/h1&gt;
+                &lt;p class=&quot;lead&quot;&gt;
+                &lt;br /&gt;&lt;b&gt;1.&lt;/b&gt; Defining existing problems, brainstorm sessions with team
+                &lt;br /&gt;&lt;b&gt;2.&lt;/b&gt; Outline interactions, designing example dialogues, find relevant literature
+                &lt;br /&gt;&lt;b&gt;3.&lt;/b&gt; Start sketching and wireframing the GUI aspect of the agent.
+                &lt;br /&gt;&lt;b&gt;4.&lt;/b&gt; Low fidelity testing using static mockups and off board text agent
+                &lt;br /&gt;&lt;b&gt;5.&lt;/b&gt; Code up the GUI
+                &lt;br /&gt;&lt;b&gt;6.&lt;/b&gt; Add in the logic, voice interface, recognizer, TTS
+                &lt;br /&gt;&lt;b&gt;7.&lt;/b&gt; Run in the app in the car, tune the speech response, train agent with more examples
+                &lt;/p&gt;
+
+
+
+
+
+                &lt;h1 class=&quot;title-main-about&quot;&gt;Natural language processing&lt;/h1&gt;
+                &lt;p class=&quot;lead&quot;&gt;
+                &lt;b&gt; So how do you replicate the intelligence of a human? &lt;/b&gt; In my case, it&#39;s through a voice agent. So I&#39;ve been working on how the agent understands what you&#39;re saying as well as how it should talk back. Here are some specific problems I&#39;ve identified and spent my time solving:
+                &lt;p&gt;
+
+
+
+
+
+
+                  &lt;p class=&quot;lead&quot;&gt;  &lt;i&gt;How do you dynamically create and update non-verbal context  in voice interaction?&lt;/i&gt;
+
+                &lt;p class=&quot;lead&quot;&gt; &lt;i&gt;  Teaching an agent to extract a combination of names, titles, and descriptions referenced in a single utterance &lt;/i&gt;
+
+                &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Taking an indirect reference made by the user and assigning it to an object with the help of prepositions&lt;/i&gt;&lt;p&gt;
+
+                 &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Sometimes it&#39;s still better to show then tell, so how do you anthropomorphize a GUI without being creepy?&lt;/i&gt;&lt;p&gt;
+
+
+
+
 
 
                 &lt;p&gt;
 
-            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-            &lt;p class=&quot;caption&quot;&gt; The event feature allows passengers to plan and purchase from the car &lt;/p&gt;
-
-
-
-
-
-          &lt;h1 class=&quot;title-main-about&quot;&gt; Interface design &lt;/h1&gt;    
-
-
-
-        &lt;p class=&quot;lead&quot;&gt;  
-        To make user input more intuitive, I created a user interface with a clear hierarchy of menus. A common gripe from Mercedes c300 owners is that the heads-up display looks like it&#39;s touchscreen but it&#39;s not. For interfaces without touch support, it&#39;s common to get lost or forget where you are. &lt;p&gt;
-
-        &lt;p class=&quot;lead&quot;&gt;  
-        That&#39;s why I made the navigation bar visible at all times. The drawback is this takes up a lot of valuable space on the interface. My solution was a bar with a smaller footprint. I achieved this by increasing the background transparency and reducing icon clutter, with the compromise being that icons are no longer labelled.   &lt;p&gt;
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;p class=&quot;caption&quot;&gt; At the time, flat UI design was considered outlandish by many car manufactures. &lt;/p&gt;
-
-
-
-         &lt;h1 class=&quot;title-main-about&quot;&gt; User experience&lt;/h1&gt;    
-
-
-
-        &lt;p class=&quot;lead&quot;&gt;  
-        Typography and layout are especially important factors for a safe driving experience. I used a variation of color, contrast, and weight to distinguish what really matters at a glance from details that matter on a closer read.
-       &lt;p&gt;
-
-
-
-              &lt;p class=&quot;lead&quot;&gt;
-                An example of this can be seen in the payment history view. The first thing the driver sees is the amount paid followed by the vendor name. Payment details such as credit card number and bitcoin address are more confidential and significantly less visible from a distance.  &lt;p&gt;
-
-                &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-                &lt;p class=&quot;caption&quot;&gt; In the prototype, payments were demonstrated with simple bitcoin transactions  &lt;/p&gt;
-
-
-
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Mapping interaction with existing hardware &lt;/h1&gt;   
-
-
-
-         &lt;p class=&quot;lead&quot;&gt;
-        Rotating the wheel BlackBerry style makes the selector scroll up, down, in and out of the menus depending on the context of the selector. Shifting the wheel left and right toggles different views like &quot;payment history,&quot; &quot;payment preferences,&quot; and &quot;nearby transactions.&quot;
-        &lt;p&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/g.gif&quot; alt=&quot;Jeff&quot; /&gt;
-         &lt;p class=&quot;caption&quot;&gt; The c300 input module supports a disorienting number of user interactions  &lt;/p&gt;
-
-
-
-
-
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Product and results &lt;/h1&gt;
-
-
-
-        &lt;p class=&quot;lead&quot;&gt;  
-        When driving, there&#39;s no time to type in amounts and add in signatures. Transactions are triggered based on geolocation, prices are programmatically calculated. Using GPS coordinates to initiate transactions also makes it more secure.
-        In other words, the driver just needs to confirm the transaction with a click of a button.&lt;p&gt;
-
-         &lt;p class=&quot;lead&quot;&gt;
-        &lt;p&gt;
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/benzpay.gif&quot; alt=&quot;Jeff&quot; /&gt;   
-        &lt;p class=&quot;caption&quot;&gt; A clip from the video shown at the yearly executive meeting &lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 &lt;!--
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Demo video &lt;/h1&gt;  
+               &lt;h1 class=&quot;title-main-about&quot;&gt;Shortcuts for the sake of prototyping&lt;/h1&gt;
+               &lt;p class=&quot;lead&quot;&gt;   
+               &lt;b&gt; Even if there were such a thing as a clear linguistic rulebook, it wouldn&#39;t be worth teaching to my voice agent&lt;/b&gt;.  On one hand, I had to find (scalable) ways to map out, compromise, then phrase these linguistic rules into functional statements. On the other hand, users don&#39;t always follow all of these grammatical rules to begin with. So generally speaking, my solution combined outlining basic linguistic conventions with training through user input. Because my focus was designing interactions, it didn&#39;t make sense to feed the machine large amounts of data for marginal improvements and extreme wildcards. For the loose ends, it was more practical to tape it together with scripts.
+               &lt;p&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;https://www.crunchbase.com/person/yashad-kulkarni#/entity&quot;&gt;
 
-          &lt;b&gt; Yashad &lt;/b&gt;from TechCrunch &lt;/a&gt;filmed this video for us.
 
-           &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-                      &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/132971331&quot;&gt;&lt;/iframe&gt;
-                  &lt;/div&gt;
+               &lt;p class=&quot;lead&quot;&gt;
+               &lt;b&gt; Language is more intuitive to humans than any graphical computer interface a user has been trained to navigate &lt;/b&gt;. So to put myself in the shoes of the user, all I had to do was stop thinking about how computers worked and start talking like I would to a person.. My first example dialogues were me pretending to speak to my mother. Although some designers recommend speaking to the agent like you&#39;re asking a stranger a question, my goal was to design a smarter agent; one where you could say less yet have it understand more. After this initial training stage, I broadened my syntax and incrementally made myself harder to understand.
+               At the same time, I started designing and developing the GUI that I eventually hooked up to my voice interface and loaded onto the car&#39;s linux machine.
+               &lt;p&gt;
  --&gt;
-               &lt;!--    &lt;h1 class=&quot;title-main-about&quot;&gt; Further reading &lt;/h1&gt;  
+
+             &lt;!--     &lt;h1 class=&quot;title-main-about&quot;&gt;Relevant design meme&lt;/h1&gt;
+                &lt;p class=&quot;lead-center&quot;&gt;
+                &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/mercedes/meme.jpg&quot; alt=&quot;Jeff&quot; &gt;&lt;p&gt; --&gt;
+
+                &lt;h1 class=&quot;title-main-about&quot;&gt;Takeaways&lt;/h1&gt;
+                &lt;p class=&quot;lead&quot;&gt;
+                &lt;b&gt;Designers are practical problem solvers&lt;/b&gt;. For us it&#39;s more about the functionality; there&#39;s no such thing as a proper way. You can&#39;t really &quot;fake&quot; a natural language demo, but there are still more and less practical ways of achieving your goal. What I learned in the process was that &lt;i&gt; even though &lt;/i&gt; we have these new techniques like deep learning at our hands, the agent/program doesn&#39;t have to think the same way a human does in order to present itself like it thinks the same way a human does.
+                &lt;p&gt;
+
+                &lt;p class=&quot;lead&quot;&gt;
+                &lt;b&gt;There&#39;s nothing wrong with artificial intelligence being artificial&lt;/b&gt;. We ourselves rely on this phenomenon all the time - for instance during interviews, or when someone asks you for advice. Realizing this was a big jedi milestone as a designer fighting the temptation to code too much.
+                &lt;p&gt;
+
+                &lt;h1 class=&quot;title-main-about&quot;&gt;Related projects&lt;/h1&gt;
+                &lt;p class=&quot;lead&quot;&gt;
+                &lt;b&gt;Each year some work from our studio is shown publicly at CES&lt;/b&gt;. If you want to get a better idea of how intelligent interaction plays into cars, check out these projects my team has worked on in the past. Just to be clear, I was not involved in either of these past projects.
+                &lt;p&gt;
+
+                  &lt;h1 class=&quot;title-main-about&quot;&gt;2015 F 015&lt;/h1&gt;
+
+                  &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+                      &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/GAz42C5Vvt8&quot;&gt;&lt;/iframe&gt;
+                  &lt;/div&gt;
+                  &lt;p class=&quot;caption&quot; id=&quot;iframecaption&quot;&gt; A video showing interactions that make this driverless cars friendly to humans. &lt;/p&gt;
+
+                   &lt;h1 class=&quot;title-main-about&quot;&gt;2016 concept IAA&lt;/h1&gt;
 
 
-            &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/benzpay/team.jpg&quot; alt=&quot;Jeff&quot; &gt;
+                  &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+                      &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/fBwmH7TAupI&quot;&gt;&lt;/iframe&gt;
+                  &lt;/div&gt;
 
-              &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://www.mobilegeeks.com/mercedes-benz-hack-a-thon-a-snapshot-of-developing-for-automotive/&quot;&gt;  &lt;b&gt;  Writeup &lt;/b&gt; by Mobile Geeks &lt;/a&gt;  &lt;p&gt;
-
-           &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://360.here.com/2015/08/11/here-gives-direction-at-mercedes-benz-hackathon/&quot;&gt; &lt;b&gt; Article  &lt;/b&gt; by HERE maps&lt;/a&gt; &lt;p&gt;
-
-            --&gt;
+                   &lt;p class=&quot;caption&quot; id=&quot;iframecaption&quot;&gt; A video demonstrating types of interactions possible with powerful GPUs &lt;/p&gt;
 
 
 
-
-
-          &lt;!-- DESKTOP FOOTER NAV --&gt;
+ &lt;!-- DESKTOP FOOTER NAV --&gt;
 
               &lt;div class=&quot;fnav&quot;&gt;
 
@@ -1295,19 +1259,55 @@
                    &lt;/div&gt;
                   &lt;/div&gt;
 
+               &lt;!--         &lt;div class=&quot;row text-center&quot;&gt;
+
+                       &lt;div class=&quot;img-responsive center-block&quot;&gt;
+
+                         &lt;div class=&quot;iconbox&quot;&gt;
+
+                           &lt;div class=&quot;name-footer&quot;&gt;
+
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
+
+                           &lt;/div&gt;
+
+
+                             &lt;div class=&quot;name-footer&quot;&gt;
+
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
+
+                           &lt;/div&gt;
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
+
+                           &lt;/div&gt;
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/mj4.gif&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;Record&lt;/b&gt;&lt;/p&gt;
+
+                           &lt;/div&gt;
 
 
 
+                    &lt;/div&gt;
+                   &lt;/div&gt;
+                  &lt;/div&gt; --&gt;
 
+                  &lt;/div&gt;
 
-
-
-      &lt;/div&gt;
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate>
-        <link>http://heyjeffshaw.com/project-item/BenzPay/</link>
-        <guid isPermaLink="true">http://heyjeffshaw.com/project-item/BenzPay/</guid>
+        <link>http://heyjeffshaw.com/project-item/Mercedes/</link>
+        <guid isPermaLink="true">http://heyjeffshaw.com/project-item/Mercedes/</guid>
         
         
         <category>project-item</category>
