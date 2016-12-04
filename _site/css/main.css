@@ -5692,7 +5692,7 @@ iframe {
   font-family: TakeOut;
   color: white;
   /* Fallback: assume this color ON TOP of image */
-  background: url(../images/header4.gif);
+  background: url(https://media.giphy.com/media/PCjL8GcUHqRKE/giphy.gif);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   letter-spacing: 15pt;
@@ -5770,13 +5770,14 @@ h4 {
   font-size: 16px; }
 
 .lead {
-  opacity: 0.87;
+  opacity: 1.0;
   font-size: 14px;
   line-height: 1.9em;
   line-height: 24px;
   letter-spacing: 0.0px;
   margin-bottom: 24px;
-  font-weight: normal; }
+  font-weight: normal;
+  color: #545454; }
 
 .lead-center {
   opacity: 0.7;
@@ -5894,8 +5895,8 @@ body .projectSVG {
     height: 100px;
     opacity: 1.0; }
 
-  .project-col {
-    width: 200px; }
+  .container {
+    padding: 0; }
 
   .header-text {
     padding-top: 0px;
@@ -5914,7 +5915,7 @@ body .projectSVG {
     width: 95%; }
 
   .header-text {
-    font-size: 500%;
+    font-size: 30vw;
     letter-spacing: 0; } }
 @media screen and (min-width: 768px) {
   /*.project-col {
