@@ -6170,9 +6170,10 @@ a:hover {
   padding-left: 0;
   padding-right: 0; }
 
-#c-image {
+.project-image {
+  display: none;
   opacity: 0.0;
-  transition: 0.3s ease all; }
+  width: 100%; }
 
 input {
   font-family: inconsolata;

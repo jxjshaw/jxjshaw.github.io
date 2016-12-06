@@ -13,7 +13,8 @@ function validatePassword(){
 
   } else {
         $('#login').css('display', 'none');
-        $('.content-image').css('opacity', '1');
+        $('.project-image').css('display', 'table');
+        $('.project-image').css('opacity', '1');
 
 
   }
