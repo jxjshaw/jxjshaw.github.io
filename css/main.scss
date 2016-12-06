@@ -907,3 +907,20 @@ a:hover {
   padding-left: 0;
   padding-right: 0;
 }
+
+#c-image {
+  opacity: 0.0;
+  transition: 0.3s ease all;
+}
+
+input {
+    font-family: inconsolata;
+    border: 1px solid grey;
+}
+
+button#enter {
+    border: 1px solid grey;
+    background-color: transparent;
+    padding-top: 1px;
+    padding-bottom: 1px;
+  }
