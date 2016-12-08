@@ -15,6 +15,7 @@ function validatePassword(){
         $('#login').css('display', 'none');
         $('.project-image').css('display', 'table');
         $('.project-image').css('opacity', '1');
+        $('#lock').text("🔓")
 
 
   }
