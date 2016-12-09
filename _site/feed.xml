@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeff Shaw</title>
-    <description>Jeff Shaw&#39;s portfolio featuring interaction user interface and user experience design.</description>
-    <link>http://heyjeffshaw.com/</link>
-    <atom:link href="http://heyjeffshaw.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Dec 2016 02:03:38 -0800</pubDate>
-    <lastBuildDate>Thu, 08 Dec 2016 02:03:38 -0800</lastBuildDate>
-    <generator>Jekyll v3.1.0</generator>
+    <description>Jeff Shaw's portfolio featuring interaction user interface and user experience design.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 09 Dec 2016 04:06:01 -0800</pubDate>
+    <lastBuildDate>Fri, 09 Dec 2016 04:06:01 -0800</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Benzpay</title>
@@ -18,7 +18,7 @@
 
         &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; BenzPay&lt;/h1&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; This is the project that caught the attention of Daimler&#39;s board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to Mercedes.&lt;/i&gt; &lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; This is the project that caught the attention of Daimler's board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to Mercedes.&lt;/i&gt; &lt;/p&gt;
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/new/resting_screen-169.jpg&quot; alt=&quot;Jeff&quot; /&gt;
          &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
 
@@ -34,7 +34,7 @@
         &lt;h1 class=&quot;title-main-about&quot;&gt; Aligning the vision with the brand &lt;/h1&gt;
 
          &lt;p class=&quot;lead&quot;&gt; For the Mercedes driver, time is the only currency that matters. Yet when leaving a parking garage or passing a toll booth, time is still wasted fumbling for coins and credit cards.
-         We&#39;re not getting from point A to point B in the fastest way possible. So we created Benzpay to move the point of sale into the car.&lt;/p&gt;
+         We're not getting from point A to point B in the fastest way possible. So we created Benzpay to move the point of sale into the car.&lt;/p&gt;
           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
           &lt;p class=&quot;caption&quot;&gt; The future of cars is wildly uncertain, however time will always be money  &lt;/p&gt;
 
@@ -50,7 +50,7 @@
            &lt;h1 class=&quot;title-main-about&quot;&gt; Taking a risk &lt;/h1&gt;
 
           &lt;p class=&quot;lead&quot;&gt;
-          Not everyone was a fan of going with &quot;events&quot; instead of &quot;toll booth&quot; but here is my reasoning: (1) Payment solutions for toll booths such as FasTrak already exist. (2) It&#39;s one thing to make your life easier, it&#39;s another to make it more interesting. I want to appeal to the emotional side of the product. (3) Completing event transactions on ticketmaster or eventbrite requires no major external infrastructure.
+          Not everyone was a fan of going with &quot;events&quot; instead of &quot;toll booth&quot; but here is my reasoning: (1) Payment solutions for toll booths such as FasTrak already exist. (2) It's one thing to make your life easier, it's another to make it more interesting. I want to appeal to the emotional side of the product. (3) Completing event transactions on ticketmaster or eventbrite requires no major external infrastructure.
 
 
                 &lt;p&gt;
@@ -67,10 +67,10 @@
 
 
         &lt;p class=&quot;lead&quot;&gt;  
-        To make user input more intuitive, I created a user interface with a clear hierarchy of menus. A common gripe from Mercedes c300 owners is that the heads-up display looks like it&#39;s touchscreen but it&#39;s not. For interfaces without touch support, it&#39;s common to get lost or forget where you are. &lt;p&gt;
+        To make user input more intuitive, I created a user interface with a clear hierarchy of menus. A common gripe from Mercedes c300 owners is that the heads-up display looks like it's touchscreen but it's not. For interfaces without touch support, it's common to get lost or forget where you are. &lt;p&gt;
 
         &lt;p class=&quot;lead&quot;&gt;  
-        That&#39;s why I made the navigation bar visible at all times. The drawback is this takes up a lot of valuable space on the interface. My solution was a bar with a smaller footprint. I achieved this by increasing the background transparency and reducing icon clutter, with the compromise being that icons are no longer labelled.   &lt;p&gt;
+        That's why I made the navigation bar visible at all times. The drawback is this takes up a lot of valuable space on the interface. My solution was a bar with a smaller footprint. I achieved this by increasing the background transparency and reducing icon clutter, with the compromise being that icons are no longer labelled.   &lt;p&gt;
         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
         &lt;p class=&quot;caption&quot;&gt; At the time, flat UI design was considered outlandish by many car manufactures. &lt;/p&gt;
 
@@ -113,7 +113,7 @@
 
 
         &lt;p class=&quot;lead&quot;&gt;  
-        When driving, there&#39;s no time to type in amounts and add in signatures. Transactions are triggered based on geolocation, prices are programmatically calculated. Using GPS coordinates to initiate transactions also makes it more secure.
+        When driving, there's no time to type in amounts and add in signatures. Transactions are triggered based on geolocation, prices are programmatically calculated. Using GPS coordinates to initiate transactions also makes it more secure.
         In other words, the driver just needs to confirm the transaction with a click of a button.&lt;p&gt;
 
          &lt;p class=&quot;lead&quot;&gt;
@@ -242,8 +242,8 @@
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate>
-        <link>http://heyjeffshaw.com/project-item/BenzPay/</link>
-        <guid isPermaLink="true">http://heyjeffshaw.com/project-item/BenzPay/</guid>
+        <link>http://localhost:4000/project-item/BenzPay/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-item/BenzPay/</guid>
         
         
         <category>project-item</category>
@@ -251,7 +251,7 @@
       </item>
     
       <item>
-        <title></title>
+        <title>Mirror</title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
@@ -366,8 +366,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 01 Jan 2008 00:00:00 -0800</pubDate>
-        <link>http://heyjeffshaw.com/project-item/Mirror/</link>
-        <guid isPermaLink="true">http://heyjeffshaw.com/project-item/Mirror/</guid>
+        <link>http://localhost:4000/project-item/Mirror/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-item/Mirror/</guid>
         
         
         <category>project-item</category>
@@ -399,7 +399,7 @@
           &lt;!-- Research --&gt;
             &lt;h1 class=&quot;title-main-about&quot;&gt; 1. The problem of air quality &lt;/h1&gt;
             &lt;p class=&quot;lead&quot;&gt;
-              As a team, we grew up in some of the world&#39;s most polluted cities -- Shanghai, Bangalore, Warsaw, and the Central Valley. We knew people wanted clean air, but we didn&#39;t know how created their conception of clean air. &lt;/p&gt; &lt;p class=&quot;lead&quot;&gt; From a product stand point, my biggest challenge was taking people&#39;s conception of clean air, breaking that into physically measurable units for our hardware, and then turning those units back into naturally intuitive indicators of clean air for our users.
+              As a team, we grew up in some of the world's most polluted cities -- Shanghai, Bangalore, Warsaw, and the Central Valley. We knew people wanted clean air, but we wanted to figure out how to show people how clean their air was. &lt;/p&gt; &lt;p class=&quot;lead&quot;&gt; From a product stand point, my biggest challenge was taking people's conception of clean air, breaking that into physically measurable units for our hardware, and then turning those units back into naturally intuitive indicators of clean air for our users.
             &lt;/p&gt;
             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/new/team.jpg&quot; alt=&quot;Market research&quot; /&gt;
             &lt;p class=&quot;caption&quot;&gt; Collecting feedback from customers helped us iterate &lt;/p&gt;
@@ -415,7 +415,7 @@
           &lt;!-- Product Design --&gt;
             &lt;h1 class=&quot;title-main-about&quot;&gt; 3. User Interface Design &lt;/h1&gt;
             &lt;p class=&quot;lead&quot;&gt;
-              When creating the visual language, I wanted to keep the graphics organic and the indicators intuitive. Like many weather apps, I went with an animated environmental background. In our case, it gets more grey the more polluted our readings. I&#39;m not a fan of separating each gas into its own chart, so in the future a goal is to plot out the relationship between gases.
+              When creating the visual language, I wanted to keep the graphics organic and the indicators intuitive. Like many weather apps, I went with an animated environmental background. In our case, it gets more grey the more polluted our readings. I'm not a fan of separating each gas into its own chart, so in the future a goal is to plot out the relationship between gases.
             &lt;/p&gt;
             &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/new/wireframe_3.jpg&quot; alt=&quot;Market research&quot; /&gt;
             &lt;p class=&quot;caption&quot;&gt; Device overview and monitoring &lt;/p&gt;
@@ -474,7 +474,7 @@
 
                   &lt;p class=&quot;lead&quot;&gt;
 
-             To meet the first criteria, I focused on making our device more portable. It must have its own battery while being small enough to carry. Air quality is mostly important when it&#39;s relevant to our surrounding. In other words, I didn&#39;t see much value in building a device that plugs into the wall and sits by a nightstand all day.  &lt;p&gt;
+             To meet the first criteria, I focused on making our device more portable. It must have its own battery while being small enough to carry. Air quality is mostly important when it's relevant to our surrounding. In other words, I didn't see much value in building a device that plugs into the wall and sits by a nightstand all day.  &lt;p&gt;
 
 
                   &lt;h1 class=&quot;title-main-about&quot;&gt;Restructured backend and frontend facelift&lt;/h1&gt;
@@ -501,7 +501,7 @@
                       After testing in different homes and installing our device at a few schools around Sacramento, we ran into many unforseen obstacles. School and offices often have secured wifi networks that are hard for our device to connect with. &lt;p&gt;
 
                       &lt;p class=&quot;lead&quot;&gt;
-                      In one instance, the school principle even used his own phone as a hotspot for connecting the device. Although the workarounds weren&#39;t always pretty, people were more tolerant than I anticipated because we were providing a better solution to monitor surrounding air quality.
+                      In one instance, the school principle even used his own phone as a hotspot for connecting the device. Although the workarounds weren't always pretty, people were more tolerant than I anticipated because we were providing a better solution to monitor surrounding air quality.
                     &lt;/p&gt;
 
                     &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/airquail/schoool.jpg&quot; alt=&quot;Jeff&quot; &gt;
@@ -590,8 +590,8 @@
 &lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 01 Jan 2007 00:00:00 -0800</pubDate>
-        <link>http://heyjeffshaw.com/project-item/AirQuail/</link>
-        <guid isPermaLink="true">http://heyjeffshaw.com/project-item/AirQuail/</guid>
+        <link>http://localhost:4000/project-item/AirQuail/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-item/AirQuail/</guid>
         
         
         <category>project-item</category>
@@ -599,7 +599,7 @@
       </item>
     
       <item>
-        <title> </title>
+        <title>Fed Up</title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
@@ -608,11 +608,11 @@
 
 
              &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Fedup&lt;/h1&gt;
-            &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; It&#39;s crazy that in the 21st century law enforcement/legal system still rely heavily on foggy testimony and paper police reports. So at HTN we made an ecosystem for users to document, review and share evidence without having to go through anyone else.&lt;/i&gt;&lt;/p&gt;
+            &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; It's crazy that in the 21st century law enforcement/legal system still rely heavily on foggy testimony and paper police reports. So at HTN we made an ecosystem for users to document, review and share evidence without having to go through anyone else.&lt;/i&gt;&lt;/p&gt;
 
 
 
-          &lt;!--   &lt;p class=&quot;lead&quot;&gt;It&#39;s crazy that in the 21st century law enforcement/legal system still rely heavily on foggy testimony and paper police reports. So we built a complete ecosystem for users to directly document, review and share evidence without having to go through anyone else. &lt;/p&gt; --&gt;
+          &lt;!--   &lt;p class=&quot;lead&quot;&gt;It's crazy that in the 21st century law enforcement/legal system still rely heavily on foggy testimony and paper police reports. So we built a complete ecosystem for users to directly document, review and share evidence without having to go through anyone else. &lt;/p&gt; --&gt;
 
          &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
           &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/xdvQbL0FFj8&quot;&gt;&lt;/iframe&gt;
@@ -620,7 +620,7 @@
 
         &lt;!-- Landing Page --&gt;
          &lt;h1 class=&quot;title-main-about&quot;&gt; Aligning the vision with the brand &lt;/h1&gt;
-          &lt;p class=&quot;lead&quot;&gt; Unlike our android app, the web component carries a lighter layout intended for desktop. Whether it&#39;s the victim reporting an incident, lawyers browsing client folders, or public viewers reading fact-oriented stories, the aim is a wide variety of media without dumbing content down. &lt;/p&gt;
+          &lt;p class=&quot;lead&quot;&gt; Unlike our android app, the web component carries a lighter layout intended for desktop. Whether it's the victim reporting an incident, lawyers browsing client folders, or public viewers reading fact-oriented stories, the aim is a wide variety of media without dumbing content down. &lt;/p&gt;
            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/homepage.jpg&quot; alt=&quot;Jeff&quot; /&gt;
            &lt;p class=&quot;caption&quot;&gt; Landing page and graphics &lt;/p&gt;
 
@@ -653,7 +653,7 @@
 
       &lt;!--   &lt;h1 class=&quot;title-main-about&quot;&gt;Design considerations&lt;/h1&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; The mission is to make citizens feel more empowered, so we&#39;re equipping citizens with a badge of their own.&lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; The mission is to make citizens feel more empowered, so we're equipping citizens with a badge of their own.&lt;/p&gt;
 
 
 
@@ -685,13 +685,13 @@
                    &lt;/div&gt;
                     &lt;/div&gt;
 
-                       &lt;p class=&quot;lead&quot;&gt; Like a badge, the app is designed so that it functions concealed in a pocket or worn around the user&#39;s neck. The dark interface creates a &quot;tactical&quot; appearance while lending itself to greater usability in dim lighting conditions. &lt;p&gt;
+                       &lt;p class=&quot;lead&quot;&gt; Like a badge, the app is designed so that it functions concealed in a pocket or worn around the user's neck. The dark interface creates a &quot;tactical&quot; appearance while lending itself to greater usability in dim lighting conditions. &lt;p&gt;
 
 
 
          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/ff4.jpg&quot; alt=&quot;Jeff&quot; &gt;
 
-        &lt;p class=&quot;lead&quot;&gt; Unlike our android app, the web component carries a lighter layout intended for desktop. Whether it&#39;s the victim reporting an incident, lawyers browsing client folders, or public viewers reading fact-oriented stories, the aim is a wide variety of media without dumbing content down. &lt;p&gt; --&gt;
+        &lt;p class=&quot;lead&quot;&gt; Unlike our android app, the web component carries a lighter layout intended for desktop. Whether it's the victim reporting an incident, lawyers browsing client folders, or public viewers reading fact-oriented stories, the aim is a wide variety of media without dumbing content down. &lt;p&gt; --&gt;
 
 
       &lt;!--      &lt;p class=&quot;lead&quot;&gt;  At the same time, we wanted to protect user privacy and allow them to run the app from their pocket. For this reason, we went recording audio instead of recording Video. Video would have also made our technology less usable in conditions with poor lighting.&lt;/p&gt; --&gt;
@@ -703,7 +703,7 @@
 
 
 
-          &lt;p class=&quot;lead&quot;&gt; After deciding to continue this project, we&#39;ve officially partnered with the
+          &lt;p class=&quot;lead&quot;&gt; After deciding to continue this project, we've officially partnered with the
 
 
             &lt;b&gt; &lt;a href=&quot;https://www.aclu.org/feature/aclu-apps-record-police-conduct&quot;&gt;
@@ -720,7 +720,7 @@
             mobile justice.
 
 
-             We have also connected with Harvard Law&#39;s
+             We have also connected with Harvard Law's
 
 
             &lt;b&gt; &lt;a href=&quot;https://cyber.law.harvard.edu/&quot;&gt;
@@ -945,8 +945,8 @@
   &lt;/div&gt;
 </description>
         <pubDate>Sun, 01 Jan 2006 00:00:00 -0800</pubDate>
-        <link>http://heyjeffshaw.com/project-item/Fed-Up/</link>
-        <guid isPermaLink="true">http://heyjeffshaw.com/project-item/Fed-Up/</guid>
+        <link>http://localhost:4000/project-item/Fed-Up/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-item/Fed-Up/</guid>
         
         
         <category>project-item</category>
@@ -954,7 +954,7 @@
       </item>
     
       <item>
-        <title> </title>
+        <title>As One</title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
@@ -963,7 +963,7 @@
 
       &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Chimehack is a hackathon hosted by Twitter to promote hacking for change. Over the weekend, my friends and I built an entire iOS app in 48 hours. We named our app asOne because it helps keep a big group of friends together when out at the bars or traveling.  &lt;/i&gt; &lt;/p&gt;
       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/icons.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-      &lt;p class=&quot;caption&quot;&gt; Symmetry, balance, and strong colors helped convey our app&#39;s purpose. &lt;/p&gt;
+      &lt;p class=&quot;caption&quot;&gt; Symmetry, balance, and strong colors helped convey our app's purpose. &lt;/p&gt;
 
 
 
@@ -985,9 +985,9 @@
        &lt;p class=&quot;lead&quot;&gt;
        To brainstorm, I spoke with a wide range of people. &lt;p&gt;
 
-      &lt;p class=&quot;lead&quot;&gt; Testimony &quot;I would totally use this when I&#39;m going out with my friends&quot; working proffesional&lt;p&gt;
+      &lt;p class=&quot;lead&quot;&gt; Testimony &quot;I would totally use this when I'm going out with my friends&quot; working proffesional&lt;p&gt;
       &lt;p class=&quot;lead&quot;&gt; Testimony &quot;Campus safety is actually a big topic at our school right now. Our campus safety is actually trying out this new app similar to your idea&quot; student &lt;p&gt;
-      &lt;p class=&quot;lead&quot;&gt; Testimony &quot;We&#39;ve seen a lot of panic button apps. People don&#39;t realize feeling unsafe doesn&#39;t always mean you want the police involved.&quot; - non profit director&lt;p&gt; --&gt;
+      &lt;p class=&quot;lead&quot;&gt; Testimony &quot;We've seen a lot of panic button apps. People don't realize feeling unsafe doesn't always mean you want the police involved.&quot; - non profit director&lt;p&gt; --&gt;
 
 
 
@@ -995,9 +995,9 @@
 
 
        &lt;p class=&quot;lead&quot;&gt;
-       Usually, it had something to do with making sure friends are ok. When your friend goes missing, they&#39;re not picking up their phone andit&#39;s hard to tell whether or not their phone is dead. They&#39;re probably not in enough danger to call campus safety, but that doesn&#39;t mean you don&#39;t care where they are. &lt;/p&gt;
+       Usually, it had something to do with making sure friends are ok. When your friend goes missing, they're not picking up their phone andit's hard to tell whether or not their phone is dead. They're probably not in enough danger to call campus safety, but that doesn't mean you don't care where they are. &lt;/p&gt;
 
-      &lt;p class=&quot;lead&quot;&gt; That&#39;s why we built asOne. It&#39;s a better way to communicate in groups when going out. Instead of annoying group messages, we create temporary friend groups that shares information about each member&#39;s location, battery level, and the time they want to go home. &lt;/p&gt;
+      &lt;p class=&quot;lead&quot;&gt; That's why we built asOne. It's a better way to communicate in groups when going out. Instead of annoying group messages, we create temporary friend groups that shares information about each member's location, battery level, and the time they want to go home. &lt;/p&gt;
 
       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/wireframe.jpg&quot; alt=&quot;Jeff&quot; /&gt;
       &lt;p class=&quot;caption&quot;&gt;  Informal interviews and wireframe iterations are important to my design process &lt;/p&gt;
@@ -1014,7 +1014,7 @@
           &lt;h1 class=&quot;title-main-about&quot;&gt;Empathizing with the user&lt;/h1&gt;  
 
 
-        &lt;p class=&quot;lead&quot;&gt;  The resting screen is our main view. It&#39;s the dashboard that is designed to replace the logistical hassle of a group message. The resting screen makes it easy to check up on your friends periodically. Without any engagement from the user, the dashboard automatically displays information we&#39;re able to natively access from each friend&#39;s phone. &lt;p&gt;
+        &lt;p class=&quot;lead&quot;&gt;  The resting screen is our main view. It's the dashboard that is designed to replace the logistical hassle of a group message. The resting screen makes it easy to check up on your friends periodically. Without any engagement from the user, the dashboard automatically displays information we're able to natively access from each friend's phone. &lt;p&gt;
 
 
 
@@ -1036,7 +1036,7 @@
 
           &lt;p class=&quot;lead&quot;&gt;
 
-          &lt;b&gt;4. &lt;/b&gt;A way to make sure their phone isn&#39;t dead&lt;p&gt;
+          &lt;b&gt;4. &lt;/b&gt;A way to make sure their phone isn't dead&lt;p&gt;
 
         &lt;/p&gt;   
 
@@ -1049,7 +1049,7 @@
 
          &lt;p class=&quot;lead&quot;&gt; Usability and the onboarding process was a key concern in my design. Nobody was going have this app at their fingertips, if it was hard to sign up, log in, and immediately delivering value. Because we were at twitter, we received fantastic feedback about the challenges facing products that only works when many users buy into the system. &lt;p&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; With that in mind, it became clear to me we weren&#39;t here to build yet another social media app. Having a social network was only the means to our end of which was making it easier for college students to look after their friends. We didn&#39;t need to create our own user id system, if we integrate facebook profiles using their SDK. &lt;/p&gt;
+         &lt;p class=&quot;lead&quot;&gt; With that in mind, it became clear to me we weren't here to build yet another social media app. Having a social network was only the means to our end of which was making it easier for college students to look after their friends. We didn't need to create our own user id system, if we integrate facebook profiles using their SDK. &lt;/p&gt;
 
          &lt;p class=&quot;lead&quot;&gt;
           The key drawback to with leveraging existing profiles is potential concerns over privacy. Our remedy was a system where formed groups only last until the next morning. To use the app again, a new group must be created. To minimize friction in this process, we included recent and nearby friends at the top of the contact list.&lt;p&gt;
@@ -1059,7 +1059,7 @@
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Collaborating with engineers&lt;/h1&gt;  
 
-        &lt;p class=&quot;lead&quot;&gt; Usually when everyone&#39;s ready to go home, there&#39;s that one person that nobody can find. So I designed a detailed extension to the group view. Tapping on the friend brings you to more actions such as sending a push notification and enabling audio. Additionally we automatically set the true north of the inline map to that of the selected friend. &lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; Usually when everyone's ready to go home, there's that one person that nobody can find. So I designed a detailed extension to the group view. Tapping on the friend brings you to more actions such as sending a push notification and enabling audio. Additionally we automatically set the true north of the inline map to that of the selected friend. &lt;/p&gt;
          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/new/detail1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
          &lt;p class=&quot;caption&quot;&gt; The individual dash combines visual data with a panel of actions&lt;/p&gt;
 
@@ -1082,7 +1082,7 @@
 
         &lt;p class=&quot;lead&quot;&gt; We built this app because this was a tool missing from our everyday lives. For the rest of the summer we would often use it as a tool to ping and find eachother. Since then, similar apps such as Friend Finder and Companion have made their way into the market. &lt;/p&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; In retrospect, the technology wasn&#39;t earth shattering, but this is a great example of how fast a talented team can work decisively when there is good chemistry. In one weekend, we shipped a product that would take a company at least half a year to assemble.&lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; In retrospect, the technology wasn't earth shattering, but this is a great example of how fast a talented team can work decisively when there is good chemistry. In one weekend, we shipped a product that would take a company at least half a year to assemble.&lt;/p&gt;
              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/asonetest3.gif&quot; alt=&quot;Jeff&quot; /&gt;
              &lt;p class=&quot;caption&quot;&gt; Harmony is an important principle in motion design &lt;/p&gt;
 
@@ -1176,8 +1176,8 @@
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate>
-        <link>http://heyjeffshaw.com/project-item/As-One/</link>
-        <guid isPermaLink="true">http://heyjeffshaw.com/project-item/As-One/</guid>
+        <link>http://localhost:4000/project-item/As-One/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-item/As-One/</guid>
         
         
         <category>project-item</category>
@@ -1185,7 +1185,7 @@
       </item>
     
       <item>
-        <title> </title>
+        <title>Wifi Beerbong</title>
         <description>&lt;!-- ---
 layout: post
 categories: project-item
@@ -1207,24 +1207,24 @@ project-title: Wifi Beerbong
 
         &lt;!-- &lt;h1 class=&quot;title-main-about&quot;&gt;Inspiration&lt;/h1&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; I showed up to Mhacks 6 with a giant briefcase of hardware. It&#39;s really important for me to make things other people haven&#39;t, so whenever I find a novel gadget or sensor, I toss it in my hardware collection. &lt;p&gt;
+        &lt;p class=&quot;lead&quot;&gt; I showed up to Mhacks 6 with a giant briefcase of hardware. It's really important for me to make things other people haven't, so whenever I find a novel gadget or sensor, I toss it in my hardware collection. &lt;p&gt;
 
           &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/beerbong/kit.jpg&quot; alt=&quot;Jeff&quot; &gt;
 
           &lt;p class=&quot;lead&quot;&gt;
-            I flew in to Ann Arbor a few days early to visit a few friends at the school. Long story short, there was a block party, a bunch of people were standing on top of my friend&#39;s table and it snapped. &lt;p&gt;
+            I flew in to Ann Arbor a few days early to visit a few friends at the school. Long story short, there was a block party, a bunch of people were standing on top of my friend's table and it snapped. &lt;p&gt;
 
              &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/beerbong/table.jpg&quot; alt=&quot;Jeff&quot; &gt;
 
             &lt;p class=&quot;lead&quot;&gt;
-            While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor..... &lt;i&gt; In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories. &lt;/i&gt; At that point, it became very clear to me that for Mhacks 6 I was going to make the world&#39;s first wifi enabled beer bong. &lt;p&gt; --&gt;
+            While looking for screws the next day at the hardware store, I come across something you would only see in Ann Arbor..... &lt;i&gt; In the gardening section there was an entire aisle dedicated to beer bong funnels, hoses, and accesories. &lt;/i&gt; At that point, it became very clear to me that for Mhacks 6 I was going to make the world's first wifi enabled beer bong. &lt;p&gt; --&gt;
 
 
 
 
 
 
-              &lt;h1 class=&quot;title-main-about&quot;&gt;The world&#39;s first wifi enabled beerbong&lt;/h1&gt;
+              &lt;h1 class=&quot;title-main-about&quot;&gt;The world's first wifi enabled beerbong&lt;/h1&gt;
 
 
           &lt;p class=&quot;lead&quot;&gt; I had a lot of unanswered questions, so I started to lay them out in my notebook. Where am I getting power? How am I going to display the data? How can I make drinking a hyper-social activity?  &lt;/p&gt;
@@ -1236,7 +1236,7 @@ project-title: Wifi Beerbong
 
 
           &lt;h1 class=&quot;title-main-about&quot;&gt;Hardware constraints&lt;/h1&gt;
-         &lt;p class=&quot;lead&quot;&gt; The annoying thing with &lt;a href=&quot;https://www.particle.io/&quot;&gt; &lt;b&gt; Particle &lt;/b&gt; &lt;/a&gt; photons is that they run off 3.3v and a lot of sensors run off 5v. Since we were powering the photon with a usb battery pack, the original plan was to use that power with a voltage divider. I&#39;m not an electrical engineer, so I just decided to just tap into the VIN of the photon. People were telling me not to do that, but it&#39;s been working as long as the ground wasn&#39;t floating around.  &lt;/p&gt;
+         &lt;p class=&quot;lead&quot;&gt; The annoying thing with &lt;a href=&quot;https://www.particle.io/&quot;&gt; &lt;b&gt; Particle &lt;/b&gt; &lt;/a&gt; photons is that they run off 3.3v and a lot of sensors run off 5v. Since we were powering the photon with a usb battery pack, the original plan was to use that power with a voltage divider. I'm not an electrical engineer, so I just decided to just tap into the VIN of the photon. People were telling me not to do that, but it's been working as long as the ground wasn't floating around.  &lt;/p&gt;
 
 
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/schem.jpg&quot; alt=&quot;Jeff&quot; /&gt;
@@ -1247,7 +1247,7 @@ project-title: Wifi Beerbong
 
 
       &lt;h1 class=&quot;title-main-about&quot;&gt;Wiring it up and weather proofing&lt;/h1&gt;
-       &lt;p class=&quot;lead&quot;&gt; We fried the circuit while testing the flow sensor with some real liquid. When making the final changes to the circuit, I wasn&#39;t going to take any chances on shorting out the last board I had. Made sure this time nothing was hanging out in the open.   &lt;/p&gt;
+       &lt;p class=&quot;lead&quot;&gt; We fried the circuit while testing the flow sensor with some real liquid. When making the final changes to the circuit, I wasn't going to take any chances on shorting out the last board I had. Made sure this time nothing was hanging out in the open.   &lt;/p&gt;
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/p1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
 
@@ -1263,7 +1263,7 @@ project-title: Wifi Beerbong
 
                 &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/beerbong/userfloww.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-                 &lt;p class=&quot;lead&quot;&gt;   Some features, like the score ranking, we just didn&#39;t get around to implementing. Other features, like the facebook login, I think we could have been better off avoiding. Although it&#39;s important for social games to link to social profiles, I think there are easier ways for someone to login than to type in their facebook email and password. In the future, one option I would love to explore would be installing a camera on the beerbong and leveraging a facial recognition service to tag participants.&lt;p&gt;
+                 &lt;p class=&quot;lead&quot;&gt;   Some features, like the score ranking, we just didn't get around to implementing. Other features, like the facebook login, I think we could have been better off avoiding. Although it's important for social games to link to social profiles, I think there are easier ways for someone to login than to type in their facebook email and password. In the future, one option I would love to explore would be installing a camera on the beerbong and leveraging a facial recognition service to tag participants.&lt;p&gt;
 
 
                   &lt;h1 class=&quot;title-main-about&quot;&gt;Check it out&lt;/h1&gt;
@@ -1283,10 +1283,10 @@ project-title: Wifi Beerbong
                &lt;div class=&quot;col-sm-10 col-sm-offset-1 text-center&quot;&gt;
 
                   &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
-                More Projects &lt;h1&gt; 
+                More Projects &lt;h1&gt; &amp;lt;/a&amp;gt;
 
 
-              
+              &amp;lt;/div&amp;gt;
 
                 &lt;div class=&quot;row text-center&quot;&gt;
 
@@ -1353,10 +1353,10 @@ project-title: Wifi Beerbong
 
 
 
-        
-      
-    
-  
+        &amp;lt;/div&amp;gt;
+      &amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+  &amp;lt;/div&amp;gt;
 
 &lt;!--   &lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;row text-center&quot;&gt;
@@ -1377,21 +1377,21 @@ project-title: Wifi Beerbong
 &lt;/h1&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
-        <link>http://heyjeffshaw.com/Wifi-Beerbong/</link>
-        <guid isPermaLink="true">http://heyjeffshaw.com/Wifi-Beerbong/</guid>
+        <link>http://localhost:4000/Wifi-Beerbong/</link>
+        <guid isPermaLink="true">http://localhost:4000/Wifi-Beerbong/</guid>
         
         
       </item>
     
       <item>
-        <title></title>
+        <title>Mercedes</title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
 
              &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Advanced UX Design&lt;/h1&gt;
-          &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Here&#39;s a project of mine from working at &lt;b&gt;Mercedes-Benz R&amp;amp;D North America&lt;/b&gt;.  The R&amp;amp;D focus is on innovations such as fuelcell, self-driving, 3d graphics, and advanced design. As with all super cool projects I&#39;m under an NDA, so instead I&#39;ll highlight the process and problems surrounding my AI project. &lt;/i&gt;&lt;/p&gt;
+          &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Here's a project of mine from working at &lt;b&gt;Mercedes-Benz R&amp;amp;D North America&lt;/b&gt;.  The R&amp;amp;D focus is on innovations such as fuelcell, self-driving, 3d graphics, and advanced design. As with all super cool projects I'm under an NDA, so instead I'll highlight the process and problems surrounding my AI project. &lt;/i&gt;&lt;/p&gt;
 
 
 
@@ -1413,13 +1413,13 @@ project-title: Wifi Beerbong
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Designing intelligence&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt;
-                Most people are not sold on the value of siri, alexa, and similar natural language voice interfaces. Some interfaces may disappoint users by sounding smarter than they really are, but what people really mean to say is that &lt;b&gt; the voice interface isn&#39;t smart enough. &lt;/b&gt; &lt;p&gt;
+                Most people are not sold on the value of siri, alexa, and similar natural language voice interfaces. Some interfaces may disappoint users by sounding smarter than they really are, but what people really mean to say is that &lt;b&gt; the voice interface isn't smart enough. &lt;/b&gt; &lt;p&gt;
 
                 &lt;p class=&quot;lead&quot;&gt;
                 At first, that may seem like an easy problem to grasp. Smart design means putting the user first, meaning.. (1) start with a need (2) design an intuitive layout, (3) provide interactive content, (4) optimize by testing &lt;p&gt;
 
                 &lt;p class=&quot;lead&quot;&gt;
-                Unfortunately, this isn&#39;t the case. &lt;b&gt;When designing for intelligence, simple is not better&lt;/b&gt;. The goal is to replicate the subtle complexity of another human. The cool thing about interacting with humans is that you&#39;re not going to catch everything in your first read. For example, when you interact with a person, there&#39;s always more to discover and something new to learn. So to have software replicate this intelligent relationship also means that we&#39;re moving away from dumb software requiring really mind numbing user input. I&#39;m really excited about this shift because it&#39;s a chance for us ourselves to become smarter and more human because of the technology we interact with. &lt;p&gt;
+                Unfortunately, this isn't the case. &lt;b&gt;When designing for intelligence, simple is not better&lt;/b&gt;. The goal is to replicate the subtle complexity of another human. The cool thing about interacting with humans is that you're not going to catch everything in your first read. For example, when you interact with a person, there's always more to discover and something new to learn. So to have software replicate this intelligent relationship also means that we're moving away from dumb software requiring really mind numbing user input. I'm really excited about this shift because it's a chance for us ourselves to become smarter and more human because of the technology we interact with. &lt;p&gt;
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Design process&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt;
@@ -1438,7 +1438,7 @@ project-title: Wifi Beerbong
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Natural language processing&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt;
-                &lt;b&gt; So how do you replicate the intelligence of a human? &lt;/b&gt; In my case, it&#39;s through a voice agent. So I&#39;ve been working on how the agent understands what you&#39;re saying as well as how it should talk back. Here are some specific problems I&#39;ve identified and spent my time solving:
+                &lt;b&gt; So how do you replicate the intelligence of a human? &lt;/b&gt; In my case, it's through a voice agent. So I've been working on how the agent understands what you're saying as well as how it should talk back. Here are some specific problems I've identified and spent my time solving:
                 &lt;p&gt;
 
 
@@ -1452,7 +1452,7 @@ project-title: Wifi Beerbong
 
                 &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Taking an indirect reference made by the user and assigning it to an object with the help of prepositions&lt;/i&gt;&lt;p&gt;
 
-                 &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Sometimes it&#39;s still better to show then tell, so how do you anthropomorphize a GUI without being creepy?&lt;/i&gt;&lt;p&gt;
+                 &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Sometimes it's still better to show then tell, so how do you anthropomorphize a GUI without being creepy?&lt;/i&gt;&lt;p&gt;
 
 
 
@@ -1464,14 +1464,14 @@ project-title: Wifi Beerbong
 &lt;!--
                &lt;h1 class=&quot;title-main-about&quot;&gt;Shortcuts for the sake of prototyping&lt;/h1&gt;
                &lt;p class=&quot;lead&quot;&gt;   
-               &lt;b&gt; Even if there were such a thing as a clear linguistic rulebook, it wouldn&#39;t be worth teaching to my voice agent&lt;/b&gt;.  On one hand, I had to find (scalable) ways to map out, compromise, then phrase these linguistic rules into functional statements. On the other hand, users don&#39;t always follow all of these grammatical rules to begin with. So generally speaking, my solution combined outlining basic linguistic conventions with training through user input. Because my focus was designing interactions, it didn&#39;t make sense to feed the machine large amounts of data for marginal improvements and extreme wildcards. For the loose ends, it was more practical to tape it together with scripts.
+               &lt;b&gt; Even if there were such a thing as a clear linguistic rulebook, it wouldn't be worth teaching to my voice agent&lt;/b&gt;.  On one hand, I had to find (scalable) ways to map out, compromise, then phrase these linguistic rules into functional statements. On the other hand, users don't always follow all of these grammatical rules to begin with. So generally speaking, my solution combined outlining basic linguistic conventions with training through user input. Because my focus was designing interactions, it didn't make sense to feed the machine large amounts of data for marginal improvements and extreme wildcards. For the loose ends, it was more practical to tape it together with scripts.
                &lt;p&gt;
 
 
 
                &lt;p class=&quot;lead&quot;&gt;
-               &lt;b&gt; Language is more intuitive to humans than any graphical computer interface a user has been trained to navigate &lt;/b&gt;. So to put myself in the shoes of the user, all I had to do was stop thinking about how computers worked and start talking like I would to a person.. My first example dialogues were me pretending to speak to my mother. Although some designers recommend speaking to the agent like you&#39;re asking a stranger a question, my goal was to design a smarter agent; one where you could say less yet have it understand more. After this initial training stage, I broadened my syntax and incrementally made myself harder to understand.
-               At the same time, I started designing and developing the GUI that I eventually hooked up to my voice interface and loaded onto the car&#39;s linux machine.
+               &lt;b&gt; Language is more intuitive to humans than any graphical computer interface a user has been trained to navigate &lt;/b&gt;. So to put myself in the shoes of the user, all I had to do was stop thinking about how computers worked and start talking like I would to a person.. My first example dialogues were me pretending to speak to my mother. Although some designers recommend speaking to the agent like you're asking a stranger a question, my goal was to design a smarter agent; one where you could say less yet have it understand more. After this initial training stage, I broadened my syntax and incrementally made myself harder to understand.
+               At the same time, I started designing and developing the GUI that I eventually hooked up to my voice interface and loaded onto the car's linux machine.
                &lt;p&gt;
  --&gt;
 
@@ -1481,11 +1481,11 @@ project-title: Wifi Beerbong
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Takeaways&lt;/h1&gt;
                 &lt;p class=&quot;lead&quot;&gt;
-                &lt;b&gt;Designers are practical problem solvers&lt;/b&gt;. For us it&#39;s more about the functionality; there&#39;s no such thing as a proper way. You can&#39;t really &quot;fake&quot; a natural language demo, but there are still more and less practical ways of achieving your goal. What I learned in the process was that &lt;i&gt; even though &lt;/i&gt; we have these new techniques like deep learning at our hands, the agent/program doesn&#39;t have to think the same way a human does in order to present itself like it thinks the same way a human does.
+                &lt;b&gt;Designers are practical problem solvers&lt;/b&gt;. For us it's more about the functionality; there's no such thing as a proper way. You can't really &quot;fake&quot; a natural language demo, but there are still more and less practical ways of achieving your goal. What I learned in the process was that &lt;i&gt; even though &lt;/i&gt; we have these new techniques like deep learning at our hands, the agent/program doesn't have to think the same way a human does in order to present itself like it thinks the same way a human does.
                 &lt;p&gt;
 
                 &lt;p class=&quot;lead&quot;&gt;
-                &lt;b&gt;There&#39;s nothing wrong with artificial intelligence being artificial&lt;/b&gt;. We ourselves rely on this phenomenon all the time - for instance during interviews, or when someone asks you for advice. Realizing this was a big jedi milestone as a designer fighting the temptation to code too much.
+                &lt;b&gt;There's nothing wrong with artificial intelligence being artificial&lt;/b&gt;. We ourselves rely on this phenomenon all the time - for instance during interviews, or when someone asks you for advice. Realizing this was a big jedi milestone as a designer fighting the temptation to code too much.
                 &lt;p&gt;
 
                 &lt;h1 class=&quot;title-main-about&quot;&gt;Related projects&lt;/h1&gt;
@@ -1625,12 +1625,12 @@ project-title: Wifi Beerbong
 
                   &lt;/div&gt;
 
-  
+  &amp;lt;/div&amp;gt;
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
-        <link>http://heyjeffshaw.com/project-item/Mercedes/</link>
-        <guid isPermaLink="true">http://heyjeffshaw.com/project-item/Mercedes/</guid>
+        <link>http://localhost:4000/project-item/Mercedes/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-item/Mercedes/</guid>
         
         
         <category>project-item</category>
@@ -1638,7 +1638,7 @@ project-title: Wifi Beerbong
       </item>
     
       <item>
-        <title> </title>
+        <title>Mixergy Mobile</title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left &quot;&gt;
@@ -1665,8 +1665,8 @@ project-title: Wifi Beerbong
               &lt;h1 class=&quot;title-main-about&quot;&gt;2. Analysis: interpreting findings &lt;/h1&gt;
               &lt;p class=&quot;lead&quot;&gt; After a week interviewing customers through phone and facebook, I started seeing some trends. &lt;/p&gt;
               &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;(1)&lt;/b&gt; Listeners expressed being very busy people - because the majority were business owners, their time with Mixergy was always while doing something else - e.g. driving to work or exercising in the morning. &lt;/p&gt;
-              &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;(2)&lt;/b&gt; Existing products didn&#39;t provide enough background about the guests starring in interviews - this made people hesitant to commit to a 1 hour podcast. &lt;/p&gt;
-              &lt;p class=&quot;lead&quot;&gt;  &lt;b&gt;(3)&lt;/b&gt; Many premium users have been listeners for 3 years or more. Over time they loose count of what they&#39;ve learned. Users could benefit from a way to look back and reconnect with past tracks. &lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;(2)&lt;/b&gt; Existing products didn't provide enough background about the guests starring in interviews - this made people hesitant to commit to a 1 hour podcast. &lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt;  &lt;b&gt;(3)&lt;/b&gt; Many premium users have been listeners for 3 years or more. Over time they loose count of what they've learned. Users could benefit from a way to look back and reconnect with past tracks. &lt;/p&gt;
 
 
             &lt;!-- Brainstorm --&gt;
@@ -1809,8 +1809,8 @@ project-title: Wifi Beerbong
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 01 Jan 2003 00:00:00 -0800</pubDate>
-        <link>http://heyjeffshaw.com/project-item/Mixergy-Mobile/</link>
-        <guid isPermaLink="true">http://heyjeffshaw.com/project-item/Mixergy-Mobile/</guid>
+        <link>http://localhost:4000/project-item/Mixergy-Mobile/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-item/Mixergy-Mobile/</guid>
         
         
         <category>project-item</category>
@@ -1818,7 +1818,7 @@ project-title: Wifi Beerbong
       </item>
     
       <item>
-        <title> </title>
+        <title>Music Videos</title>
         <description>&lt;!-- ---
 layout: post
 categories: project-item
@@ -1839,7 +1839,7 @@ project-title: Music Videos
 
 
               &lt;h1 class=&quot;title-main-about&quot;&gt; On the Steps &lt;/h1&gt;
-              &lt;!-- &lt;p class=&quot;lead&quot;&gt; My favorite part about rappers is their work ethic - the hustle, the grind - having a dayjob and hitting the studio at night. I guess it&#39;s the same reason I love startups. It&#39;s about being young, living your dreams while everyones telling you your stupid. &lt;/p&gt; --&gt;
+              &lt;!-- &lt;p class=&quot;lead&quot;&gt; My favorite part about rappers is their work ethic - the hustle, the grind - having a dayjob and hitting the studio at night. I guess it's the same reason I love startups. It's about being young, living your dreams while everyones telling you your stupid. &lt;/p&gt; --&gt;
 
                &lt;!-- &lt;p class=&quot;lead&quot;&gt;  This track is slow, so everything from the shutter speed to the editing cuts are slow to keep the style smooth. Tighter focal length and careful lighting. &lt;p&gt; --&gt;
 
@@ -1855,7 +1855,7 @@ project-title: Music Videos
 
 &lt;!--
               &lt;h1 class=&quot;title-main-about&quot;&gt; S.O.S. &lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; In recent years, the most popular rap videos are shot on cropped sensors with tight lenses,  it&#39;s a nice raw style. &lt;p&gt;
+              &lt;p class=&quot;lead&quot;&gt; In recent years, the most popular rap videos are shot on cropped sensors with tight lenses,  it's a nice raw style. &lt;p&gt;
 
                  &lt;p class=&quot;lead&quot;&gt;
                 This video looks different because many shots are much wider. Wider lenses are great for high energy shots. Wider lenses allow for greater subject movement across the frame while reducing camera movement and shakiness. &lt;/p&gt;
@@ -1874,7 +1874,7 @@ project-title: Music Videos
                &lt;h1 class=&quot;title-main-about&quot;&gt; Salad Days &lt;/h1&gt;
               &lt;!-- &lt;p class=&quot;lead&quot;&gt;
                  &lt;b&gt; &lt;a href=&quot;http://pickathon.com/&quot;&gt;Pickathon &lt;/a&gt; &lt;/b&gt;
-                is Portland&#39;s largest music festival. Like everything in Portland, it&#39;s super underground and happens in a forest.&lt;/p&gt; --&gt;
+                is Portland's largest music festival. Like everything in Portland, it's super underground and happens in a forest.&lt;/p&gt; --&gt;
 
                &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
                   &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/VoGNw78eYzc&quot;&gt;&lt;/iframe&gt;
@@ -1962,14 +1962,14 @@ project-title: Music Videos
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 01 Jan 2002 00:00:00 -0800</pubDate>
-        <link>http://heyjeffshaw.com/Music-Videos/</link>
-        <guid isPermaLink="true">http://heyjeffshaw.com/Music-Videos/</guid>
+        <link>http://localhost:4000/Music-Videos/</link>
+        <guid isPermaLink="true">http://localhost:4000/Music-Videos/</guid>
         
         
       </item>
     
       <item>
-        <title></title>
+        <title>Firebird</title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
@@ -1990,7 +1990,7 @@ project-title: Music Videos
 
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r7.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
-       &lt;p class=&quot;caption&quot;&gt; At least I didn&#39;t set the dorm on fire &lt;/p&gt;
+       &lt;p class=&quot;caption&quot;&gt; At least I didn't set the dorm on fire &lt;/p&gt;
 
        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
 
@@ -2092,8 +2092,8 @@ project-title: Music Videos
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 01 Jan 2002 00:00:00 -0800</pubDate>
-        <link>http://heyjeffshaw.com/project-item/Firebird/</link>
-        <guid isPermaLink="true">http://heyjeffshaw.com/project-item/Firebird/</guid>
+        <link>http://localhost:4000/project-item/Firebird/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-item/Firebird/</guid>
         
         
         <category>project-item</category>
