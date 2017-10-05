@@ -5685,8 +5685,7 @@ img.content-image-vertical {
   margin-top: 0px; }
 
 iframe {
-  width: 100%;
-  height: 400px; }
+  width: 100%; }
 
 .header-text {
   font-family: TakeOut;
@@ -6174,6 +6173,11 @@ a:hover {
 .project-image {
   display: none;
   opacity: 0.0;
+  width: 100%; }
+
+.project-image-bart {
+  display: visible;
+  opacity: 1.0;
   width: 100%; }
 
 input {
