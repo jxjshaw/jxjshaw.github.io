@@ -89,6 +89,7 @@ ul {
   object-fit: cover;
   opacity: 0.9;
   transition: opacity 0.1s ease;
+  vertical-align: middle;
   //transition-delay: 0.05s;
 
 
@@ -423,7 +424,7 @@ body .projectSVG {
 }
 
 //responsive
-@media screen and (min-width: 401px) and (max-width:9999px) {
+@media screen and (min-width: 415px) and (max-width:9999px) {
 
   div#project-description{
     width: 360px;
@@ -459,12 +460,18 @@ body .projectSVG {
 
   letter-spacing: 6pt;
   font-size: 9.8em;
-   letter-spacing: -10pt;
+   letter-spacing: -10pt;}
+
+   .slick-prev, .slick-next,  {
+   color: #EEEEEE;
+   // height: 10px;
+   width: 0px;
+   }
 
 
 
 
-}
+
 
 
 
@@ -473,7 +480,7 @@ body .projectSVG {
 //responsive
 
 // SMALL MOBILE
-@media screen and (min-width: 1px) and (max-width:401px) {
+@media screen and (min-width: 1px) and (max-width:415px) {
 
 
   .project-gif {
@@ -521,13 +528,17 @@ font-size: 11px;
 
 
   font-size: 30vw;
-   letter-spacing: 0;
+   letter-spacing: 0;}
 
 
 
+   .slick-prev, .slick-next, .slick-prev:before, .slick-next:before {
+   color: #EEEEEE;
+   // height: 10px;
+   width: 0px;
+   }
 
 
-}
 
 }
 
@@ -598,6 +609,19 @@ font-size: 11px;
     .row {
       max-width: 1200px;
   }
+
+  .slick-prev, .slick-next, .slick-prev:before, .slick-next:before {
+  color: #EEEEEE;
+  // height: 10px;
+  width: 20px;
+  margin-left: -32px;
+  margin-right: -32px;
+  }
+
+  .slick-dots {
+    bottom: -48px;
+  }
+
 
 }
 
@@ -961,4 +985,12 @@ body {
 
 iframe {
 
+}
+
+.slick-list.draggable {
+    box-shadow: 18px 40px 200px rgba(0, 0, 0, 0.24);
+}
+
+.slick-dots {
+  bottom: -48px;
 }

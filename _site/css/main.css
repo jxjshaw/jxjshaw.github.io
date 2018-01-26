@@ -5658,7 +5658,8 @@ ul {
   border-radius: 50%;
   object-fit: cover;
   opacity: 0.9;
-  transition: opacity 0.1s ease; }
+  transition: opacity 0.1s ease;
+  vertical-align: middle; }
 
 .project-gif:active {
   opacity: 0.75; }
@@ -5863,7 +5864,7 @@ body .projectSVG {
 @media screen and (min-width: 1px) and (max-width: 720px) {
   #email {
     letter-spacing: 15px; } }
-@media screen and (min-width: 401px) and (max-width: 9999px) {
+@media screen and (min-width: 415px) and (max-width: 9999px) {
   div#project-description {
     width: 360px; }
 
@@ -5888,8 +5889,12 @@ body .projectSVG {
   .header-text {
     letter-spacing: 6pt;
     font-size: 9.8em;
-    letter-spacing: -10pt; } }
-@media screen and (min-width: 1px) and (max-width: 401px) {
+    letter-spacing: -10pt; }
+
+  .slick-prev, .slick-next {
+    color: #EEEEEE;
+    width: 0px; } }
+@media screen and (min-width: 1px) and (max-width: 415px) {
   .project-gif {
     width: 100px;
     height: 100px;
@@ -5916,7 +5921,11 @@ body .projectSVG {
 
   .header-text {
     font-size: 30vw;
-    letter-spacing: 0; } }
+    letter-spacing: 0; }
+
+  .slick-prev, .slick-next, .slick-prev:before, .slick-next:before {
+    color: #EEEEEE;
+    width: 0px; } }
 @media screen and (min-width: 768px) {
   /*.project-col {
     width: 350px;
@@ -5961,7 +5970,16 @@ body .projectSVG {
     padding-right: 15%; }
 
   .row {
-    max-width: 1200px; } }
+    max-width: 1200px; }
+
+  .slick-prev, .slick-next, .slick-prev:before, .slick-next:before {
+    color: #EEEEEE;
+    width: 20px;
+    margin-left: -32px;
+    margin-right: -32px; }
+
+  .slick-dots {
+    bottom: -48px; } }
 .buffer {
   margin-top: 20px; }
 
@@ -6200,3 +6218,9 @@ button#enter {
 
 #lock {
   padding-top: 10px; }
+
+.slick-list.draggable {
+  box-shadow: 18px 40px 200px rgba(0, 0, 0, 0.24); }
+
+.slick-dots {
+  bottom: -48px; }

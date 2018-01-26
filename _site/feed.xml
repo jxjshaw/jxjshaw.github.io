@@ -5,167 +5,84 @@
     <description>Jeff Shaw's portfolio featuring interaction user interface and user experience design.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Oct 2017 00:09:57 -0700</pubDate>
-    <lastBuildDate>Thu, 05 Oct 2017 00:09:57 -0700</lastBuildDate>
+    <pubDate>Fri, 26 Jan 2018 02:27:48 -0800</pubDate>
+    <lastBuildDate>Fri, 26 Jan 2018 02:27:48 -0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>Benzpay</title>
+        <title>Munchery</title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt;
-    &lt;div class=&quot;row text-left&quot;&gt;
+    &lt;div class=&quot;row text-left &quot;&gt;
+
+
+
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+      &lt;!-- img-path: images/munchery8.gif --&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; BenzPay&lt;/h1&gt;
+              &lt;!-- Intro --&gt;
+              &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Munchery &lt;/h1&gt;
+              &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Munchery delivers chilled food to your door. It's available in SF, NY, SEA, LA, plus surrounding areas. As one of the two product designers, I took ownership of the mobile experience, conversion and a/b testing on web, and evolving our design system.  &lt;/i&gt;&lt;/p&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; This is the project that caught the attention of Daimler's board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to Mercedes.&lt;/i&gt; &lt;/p&gt;
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/new/resting_screen-169.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-         &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
+              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/context.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+              &lt;!-- &lt;p class=&quot;caption&quot;&gt; Mixergy has a strong online community so setting up user interviews was easy &lt;/p&gt; --&gt;
 
-         &lt;p class=&quot;lead&quot;&gt;
-          &lt;b&gt;Topics&lt;/b&gt;: Connected Cars, Fintech &lt;br /&gt;
-          &lt;b&gt;Roles&lt;/b&gt;: Visual design, Interaction design, Interface design &lt;br /&gt;
-          &lt;b&gt;Tools&lt;/b&gt;: Adobe Illustrator, Adobe Photoshop, Sketch 3 &lt;br /&gt;
-          &lt;b&gt;Team&lt;/b&gt;: 1 designer, 1 pm, 2 engineers &lt;br /&gt;
-          &lt;p&gt;
 
+              &lt;!-- Mobile --&gt;
+                &lt;h1 class=&quot;title-main-about&quot;&gt; &quot;Mobile design&quot; &lt;/h1&gt;
 
+                &lt;!-- Despite all the surprsies and uncertainy that comes with being a struggling startup, the strongest memory I have is from my first week at munchery during a QA with a mobiel engineer.  --&gt;
+                &lt;p class=&quot;lead&quot;&gt;
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Aligning the vision with the brand &lt;/h1&gt;
+                Lead mobile design for iOS and Android. The designers before my time did a beautiful job and I think they even won some awards. So I strived to carry on that design reputation, evolving the platform and creating a more mature design language. Although I wanted to make a 5 star app, still proud of 4.7 star rating and top 200 downloaded for food/drink in app store. App primarily used by frequent customers. Gross conversion &amp;gt;90% although for new users very much under 2%. Design goals for iOS focused around existing user flows, increasing order frequency, building a rich connection between the user and the food. &lt;/p&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; For the Mercedes driver, time is the only currency that matters. Yet when leaving a parking garage or passing a toll booth, time is still wasted fumbling for coins and credit cards.
-         We're not getting from point A to point B in the fastest way possible. So we created Benzpay to move the point of sale into the car.&lt;/p&gt;
-          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-          &lt;p class=&quot;caption&quot;&gt; The future of cars is wildly uncertain, however time will always be money  &lt;/p&gt;
+                &lt;!--
+                                The strongest memory I have with Munchery is an interaction I had with a mobile engineer during a QA. It was the first feature I handed off, so I had something to prove and wanted everything to be perfect. and going back and forth about the fontsize and letterspacing on tablet. Tablet is something we don't prioritize, and so naturally the body text was slightly off. I apologized for the trouble it will take to make style changes to tablet independetly. But he told me it's okay because he's here to make 5 star apps. Since then our relationship has revovled around making 5 star apps. Whenever we're stuck on a decision I go back to making a5 star app. Admittedly sometimes we loose scope and bite off more than we can chew, but it's the commitment to craft and building sometinge exceptional that really inspires me to bring my best. --&gt;
 
-         &lt;h1 class=&quot;title-main-about&quot;&gt; Research and planning&lt;/h1&gt;
+                &lt;div class=&quot;your-class&quot;&gt;
+                  &lt;!-- &lt;div&gt;  &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/munchery/neat.jpg&quot; alt=&quot;Jeff&quot; &gt;&lt;/div&gt; --&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; Knowing senior management has a short attention span, so I designed our prototype with three clear use cases in mind.
+                  &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/iOS/delivery.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
+                  &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/iOS/order.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
+                  &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/iOS/listview.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
+                  &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/iOS/weekly.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
 
-          Speaking to drivers and industry experts, it became clear gas and parking were two popular use cases. For the third use case, it was important to be creative and take a risk on a use case a little more out there.&lt;p&gt;
-          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/storyboard2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-          &lt;p class=&quot;caption&quot;&gt; Drafting a storyboard helped convey a day in the life with Benzpay to stakeholders&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;!-- Add motion, appsee? --&gt;
 
 
-           &lt;h1 class=&quot;title-main-about&quot;&gt; Taking a risk &lt;/h1&gt;
+            &lt;!-- Menu A/B test --&gt;
+              &lt;h1 class=&quot;title-main-about&quot;&gt;Performance and conversion&lt;/h1&gt;
 
-          &lt;p class=&quot;lead&quot;&gt;
-          Not everyone was a fan of going with &quot;events&quot; instead of &quot;toll booth&quot; but here is my reasoning: (1) Payment solutions for toll booths such as FasTrak already exist. (2) It's one thing to make your life easier, it's another to make it more interesting. I want to appeal to the emotional side of the product. (3) Completing event transactions on ticketmaster or eventbrite requires no major external infrastructure.
+              &lt;p class=&quot;lead&quot;&gt; Had no experience using data to design when I joined. But soon grew into my area of expertise. Designed and executed dozens of a/b and multi arm bandit experiments throughout different landing pages, menus, checkout pages. Had a lot of fun digging into analytics, forming strategies, designing the variations, and coding them up. Some wins were easy (brought homepage conversion up from 30% to 40% for ~8-10k users/day) while others were counterintuitive flops. &lt;/p&gt;
 
+              &lt;div class=&quot;your-class&quot;&gt;
+                &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/sidecart/d.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
+                &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/sidecart/c.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
+                &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/sidecart/b.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
+                &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/sidecart/e.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
+              &lt;/div&gt;
 
-                &lt;p&gt;
+              &lt;!-- Design system stuff here, research, app store --&gt;
 
-            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-            &lt;p class=&quot;caption&quot;&gt; The event feature allows passengers to plan and purchase from the car &lt;/p&gt;
+              &lt;h1 class=&quot;title-main-about&quot;&gt;Personal growth &lt;/h1&gt;
 
+              &lt;p class=&quot;lead&quot;&gt; Munchery was a blast. The product was popular enough that my contribution was very tangible and easy to quantify. Yet the office was small enough that I developed unforgettable friendships and was able to refine my craft across so many different types of design. &lt;/p&gt;
 
+              &lt;div class=&quot;your-class&quot;&gt;
+                &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/process/appstore2.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
+                &lt;!-- &lt;div&gt;  &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/munchery/sidecart/c.jpg&quot; alt=&quot;Jeff&quot; &gt;&lt;/div&gt;
+                &lt;div&gt;  &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/munchery/sidecart/b.jpg&quot; alt=&quot;Jeff&quot; &gt;&lt;/div&gt;
+                &lt;div&gt;  &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/munchery/sidecart/e.jpg&quot; alt=&quot;Jeff&quot; &gt;&lt;/div&gt; --&gt;
+              &lt;/div&gt;
 
 
 
-          &lt;h1 class=&quot;title-main-about&quot;&gt; Interface design &lt;/h1&gt;    
 
-
-
-        &lt;p class=&quot;lead&quot;&gt;  
-        To make user input more intuitive, I created a user interface with a clear hierarchy of menus. A common gripe from Mercedes c300 owners is that the heads-up display looks like it's touchscreen but it's not. For interfaces without touch support, it's common to get lost or forget where you are. &lt;p&gt;
-
-        &lt;p class=&quot;lead&quot;&gt;  
-        That's why I made the navigation bar visible at all times. The drawback is this takes up a lot of valuable space on the interface. My solution was a bar with a smaller footprint. I achieved this by increasing the background transparency and reducing icon clutter, with the compromise being that icons are no longer labelled.   &lt;p&gt;
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;p class=&quot;caption&quot;&gt; At the time, flat UI design was considered outlandish by many car manufactures. &lt;/p&gt;
-
-
-
-         &lt;h1 class=&quot;title-main-about&quot;&gt; User experience&lt;/h1&gt;    
-
-
-
-        &lt;p class=&quot;lead&quot;&gt;  
-        Typography and layout are especially important factors for a safe driving experience. I used a variation of color, contrast, and weight to distinguish what really matters at a glance from details that matter on a closer read.
-       &lt;p&gt;
-
-
-
-              &lt;p class=&quot;lead&quot;&gt;
-                An example of this can be seen in the payment history view. The first thing the driver sees is the amount paid followed by the vendor name. Payment details such as credit card number and bitcoin address are more confidential and significantly less visible from a distance.  &lt;p&gt;
-
-                &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-                &lt;p class=&quot;caption&quot;&gt; In the prototype, payments were demonstrated with simple bitcoin transactions  &lt;/p&gt;
-
-
-
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Mapping interaction with existing hardware &lt;/h1&gt;   
-
-
-
-         &lt;p class=&quot;lead&quot;&gt;
-        Rotating the wheel BlackBerry style makes the selector scroll up, down, in and out of the menus depending on the context of the selector. Shifting the wheel left and right toggles different views like &quot;payment history,&quot; &quot;payment preferences,&quot; and &quot;nearby transactions.&quot;
-        &lt;p&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/g.gif&quot; alt=&quot;Jeff&quot; /&gt;
-         &lt;p class=&quot;caption&quot;&gt; The c300 input module supports a disorienting number of user interactions  &lt;/p&gt;
-
-
-
-
-
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Product and results &lt;/h1&gt;
-
-
-
-        &lt;p class=&quot;lead&quot;&gt;  
-        When driving, there's no time to type in amounts and add in signatures. Transactions are triggered based on geolocation, prices are programmatically calculated. Using GPS coordinates to initiate transactions also makes it more secure.
-        In other words, the driver just needs to confirm the transaction with a click of a button.&lt;p&gt;
-
-         &lt;p class=&quot;lead&quot;&gt;
-        &lt;p&gt;
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/benzpay.gif&quot; alt=&quot;Jeff&quot; /&gt;   
-        &lt;p class=&quot;caption&quot;&gt; A clip from the video shown at the yearly executive meeting &lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;!--
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Demo video &lt;/h1&gt;  
-
-         &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;https://www.crunchbase.com/person/yashad-kulkarni#/entity&quot;&gt;
-
-          &lt;b&gt; Yashad &lt;/b&gt;from TechCrunch &lt;/a&gt;filmed this video for us.
-
-           &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-                      &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/132971331&quot;&gt;&lt;/iframe&gt;
-                  &lt;/div&gt;
- --&gt;
-               &lt;!--    &lt;h1 class=&quot;title-main-about&quot;&gt; Further reading &lt;/h1&gt;  
-
-
-            &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/benzpay/team.jpg&quot; alt=&quot;Jeff&quot; &gt;
-
-              &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://www.mobilegeeks.com/mercedes-benz-hack-a-thon-a-snapshot-of-developing-for-automotive/&quot;&gt;  &lt;b&gt;  Writeup &lt;/b&gt; by Mobile Geeks &lt;/a&gt;  &lt;p&gt;
-
-           &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://360.here.com/2015/08/11/here-gives-direction-at-mercedes-benz-hackathon/&quot;&gt; &lt;b&gt; Article  &lt;/b&gt; by HERE maps&lt;/a&gt; &lt;p&gt;
-
-            --&gt;
-
-
-
-
-
-          &lt;!-- DESKTOP FOOTER NAV --&gt;
+                   &lt;!-- DESKTOP FOOTER NAV --&gt;
 
               &lt;div class=&quot;fnav&quot;&gt;
-
                &lt;div class=&quot;col-sm-12 col-sm-offset-0 text-center&quot;&gt;
-
                   &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
                 More Stuff &lt;/h1&gt;
 
@@ -173,8 +90,6 @@
               &lt;/div&gt;
 
                 &lt;div class=&quot;row text-center&quot;&gt;
-
-
 
                        &lt;div class=&quot;img-responsive center-block&quot;&gt;
 
@@ -227,23 +142,39 @@
 
                            &lt;/div&gt;
 
-                    &lt;/div&gt;
-                   &lt;/div&gt;
-                  &lt;/div&gt;
-
-
-
-
-
-
-
 
       &lt;/div&gt;
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;!--   &lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row text-center&quot;&gt;
+   &lt;div class=&quot;description&quot;&gt;
+    &lt;div class=&quot;tagline&quot;&gt;
+
+
+          &lt;p class=&quot;lead&quot;&gt;
+         We short circuited everything on our first test. Luckily I had a seconded particle photon with me. Made sure our enclosure was waterproof.
+        &lt;/p&gt;
+
+           &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/beerbong/a1.gif&quot; alt=&quot;Jeff&quot; &gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt; --&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/project-item/BenzPay/</link>
-        <guid isPermaLink="true">http://localhost:4000/project-item/BenzPay/</guid>
+        <link>http://localhost:4000/project-item/Munchery/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-item/Munchery/</guid>
         
         
         <category>project-item</category>
@@ -1638,87 +1569,162 @@ project-title: Wifi Beerbong
       </item>
     
       <item>
-        <title>Mixergy Mobile</title>
+        <title>Benzpay</title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt;
-    &lt;div class=&quot;row text-left &quot;&gt;
-
-
-
+    &lt;div class=&quot;row text-left&quot;&gt;
       &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
 
+        &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; BenzPay&lt;/h1&gt;
 
-            &lt;!-- Intro --&gt;
-            &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Mixergy Mobile App &lt;/h1&gt;
-            &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; For 7 years, Mixergy has been the site where proven entrepreneurs teach. Working through Toptal, I was hired to research and design their upcoming mobile app.  &lt;/i&gt;&lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; This is the project that caught the attention of Daimler's board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to Mercedes.&lt;/i&gt; &lt;/p&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/new/resting_screen-169.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+         &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
 
-
-
-            &lt;!-- Research --&gt;
-              &lt;h1 class=&quot;title-main-about&quot;&gt;1. Research: discovering pain points for mobile users &lt;/h1&gt;
-
-              &lt;p class=&quot;lead&quot;&gt; With over 7 years of podcasts and 1000 interviews, it makes sense to move the channel into a dedicated app. But before jumping into the design, it was important to learn more about how listeners use their phones. How do customers use the existing website? Do listeners browse chronologically or hop around between subjects? Do power users and trail users need separate interactions? &lt;/p&gt;
-
-              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/brian_interview3.png&quot; alt=&quot;Jeff&quot; /&gt;
-              &lt;p class=&quot;caption&quot;&gt; Mixergy has a strong online community so setting up user interviews was easy &lt;/p&gt;
-
-              &lt;h1 class=&quot;title-main-about&quot;&gt;2. Analysis: interpreting findings &lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; After a week interviewing customers through phone and facebook, I started seeing some trends. &lt;/p&gt;
-              &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;(1)&lt;/b&gt; Listeners expressed being very busy people - because the majority were business owners, their time with Mixergy was always while doing something else - e.g. driving to work or exercising in the morning. &lt;/p&gt;
-              &lt;p class=&quot;lead&quot;&gt; &lt;b&gt;(2)&lt;/b&gt; Existing products didn't provide enough background about the guests starring in interviews - this made people hesitant to commit to a 1 hour podcast. &lt;/p&gt;
-              &lt;p class=&quot;lead&quot;&gt;  &lt;b&gt;(3)&lt;/b&gt; Many premium users have been listeners for 3 years or more. Over time they loose count of what they've learned. Users could benefit from a way to look back and reconnect with past tracks. &lt;/p&gt;
-
-
-            &lt;!-- Brainstorm --&gt;
-              &lt;h1 class=&quot;title-main-about&quot;&gt;3. Brainstorm: defining convenience &lt;/h1&gt;
-
-              &lt;p class=&quot;lead&quot;&gt; Before investing time in layout and visuals, I wanted to think deeply about experience paradigms. What does it even mean to make podcast listening easier for busy users? I imagined 3 different interpretations of convenience with varying degrees of freedom for the user. &lt;/p&gt;
-
-              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/brainstorm_1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/brainstorm_2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/brainstorm_3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/brainstorm_4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-              &lt;p class=&quot;caption&quot;&gt; Different listening paradigms for experiencing the discovery and collection function  &lt;/p&gt;
-
-            &lt;!-- Design --&gt;
-              &lt;h1 class=&quot;title-main-about&quot;&gt;4. Design: feedback and cross platform layout &lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; After considering all approaches, I started laying out the initial sequence of events and defining visual components. Lots of back and forth between me and the dev.  &lt;/p&gt;
-
-              &lt;!-- &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/mixergy/brand_guide.jpg&quot; alt=&quot;Jeff&quot; &gt; --&gt;
-
-              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/keynote_2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-
-              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/keynote_3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-
-              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/keynote_4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-
-              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/keynote_5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mixergy/keynote_6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+         &lt;p class=&quot;lead&quot;&gt;
+          &lt;b&gt;Topics&lt;/b&gt;: Connected Cars, Fintech &lt;br /&gt;
+          &lt;b&gt;Roles&lt;/b&gt;: Visual design, Interaction design, Interface design &lt;br /&gt;
+          &lt;b&gt;Tools&lt;/b&gt;: Adobe Illustrator, Adobe Photoshop, Sketch 3 &lt;br /&gt;
+          &lt;b&gt;Team&lt;/b&gt;: 1 designer, 1 pm, 2 engineers &lt;br /&gt;
+          &lt;p&gt;
 
 
 
-            &lt;!-- Next Steps --&gt;
-              &lt;!-- &lt;h1 class=&quot;title-main-about&quot;&gt;4. Next steps: Review essential components &lt;/h1&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Aligning the vision with the brand &lt;/h1&gt;
 
-              &lt;p class=&quot;lead&quot;&gt; I had a lot of unanswered questions, so I started to lay them out in my notebook. Where am I getting power? How am I going to display the data? How can I make drinking a hyper-social activity?  &lt;/p&gt;
+         &lt;p class=&quot;lead&quot;&gt; For the Mercedes driver, time is the only currency that matters. Yet when leaving a parking garage or passing a toll booth, time is still wasted fumbling for coins and credit cards.
+         We're not getting from point A to point B in the fastest way possible. So we created Benzpay to move the point of sale into the car.&lt;/p&gt;
+          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+          &lt;p class=&quot;caption&quot;&gt; The future of cars is wildly uncertain, however time will always be money  &lt;/p&gt;
 
-              &lt;p class=&quot;lead&quot;&gt; A single device had to support multiple users, so it made sense to have a log-in feature that integrated well with social media.   &lt;/p&gt;
+         &lt;h1 class=&quot;title-main-about&quot;&gt; Research and planning&lt;/h1&gt;
 
-              &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/beerbong/f1.jpg&quot; alt=&quot;Jeff&quot; &gt;
+         &lt;p class=&quot;lead&quot;&gt; Knowing senior management has a short attention span, so I designed our prototype with three clear use cases in mind.
 
-              &lt;p class=&quot;caption&quot;&gt; In the prototype, payments were demonstrated with simple bitcoin transactions  &lt;/p&gt;
+          Speaking to drivers and industry experts, it became clear gas and parking were two popular use cases. For the third use case, it was important to be creative and take a risk on a use case a little more out there.&lt;p&gt;
+          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/storyboard2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+          &lt;p class=&quot;caption&quot;&gt; Drafting a storyboard helped convey a day in the life with Benzpay to stakeholders&lt;/p&gt;
+
+
+           &lt;h1 class=&quot;title-main-about&quot;&gt; Taking a risk &lt;/h1&gt;
+
+          &lt;p class=&quot;lead&quot;&gt;
+          Not everyone was a fan of going with &quot;events&quot; instead of &quot;toll booth&quot; but here is my reasoning: (1) Payment solutions for toll booths such as FasTrak already exist. (2) It's one thing to make your life easier, it's another to make it more interesting. I want to appeal to the emotional side of the product. (3) Completing event transactions on ticketmaster or eventbrite requires no major external infrastructure.
+
+
+                &lt;p&gt;
+
+            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+            &lt;p class=&quot;caption&quot;&gt; The event feature allows passengers to plan and purchase from the car &lt;/p&gt;
+
+
+
+
+
+          &lt;h1 class=&quot;title-main-about&quot;&gt; Interface design &lt;/h1&gt;    
+
+
+
+        &lt;p class=&quot;lead&quot;&gt;  
+        To make user input more intuitive, I created a user interface with a clear hierarchy of menus. A common gripe from Mercedes c300 owners is that the heads-up display looks like it's touchscreen but it's not. For interfaces without touch support, it's common to get lost or forget where you are. &lt;p&gt;
+
+        &lt;p class=&quot;lead&quot;&gt;  
+        That's why I made the navigation bar visible at all times. The drawback is this takes up a lot of valuable space on the interface. My solution was a bar with a smaller footprint. I achieved this by increasing the background transparency and reducing icon clutter, with the compromise being that icons are no longer labelled.   &lt;p&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+        &lt;p class=&quot;caption&quot;&gt; At the time, flat UI design was considered outlandish by many car manufactures. &lt;/p&gt;
+
+
+
+         &lt;h1 class=&quot;title-main-about&quot;&gt; User experience&lt;/h1&gt;    
+
+
+
+        &lt;p class=&quot;lead&quot;&gt;  
+        Typography and layout are especially important factors for a safe driving experience. I used a variation of color, contrast, and weight to distinguish what really matters at a glance from details that matter on a closer read.
+       &lt;p&gt;
+
+
+
+              &lt;p class=&quot;lead&quot;&gt;
+                An example of this can be seen in the payment history view. The first thing the driver sees is the amount paid followed by the vendor name. Payment details such as credit card number and bitcoin address are more confidential and significantly less visible from a distance.  &lt;p&gt;
+
+                &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+                &lt;p class=&quot;caption&quot;&gt; In the prototype, payments were demonstrated with simple bitcoin transactions  &lt;/p&gt;
+
+
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Mapping interaction with existing hardware &lt;/h1&gt;   
+
+
+
+         &lt;p class=&quot;lead&quot;&gt;
+        Rotating the wheel BlackBerry style makes the selector scroll up, down, in and out of the menus depending on the context of the selector. Shifting the wheel left and right toggles different views like &quot;payment history,&quot; &quot;payment preferences,&quot; and &quot;nearby transactions.&quot;
+        &lt;p&gt;
+         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/g.gif&quot; alt=&quot;Jeff&quot; /&gt;
+         &lt;p class=&quot;caption&quot;&gt; The c300 input module supports a disorienting number of user interactions  &lt;/p&gt;
+
+
+
+
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Product and results &lt;/h1&gt;
+
+
+
+        &lt;p class=&quot;lead&quot;&gt;  
+        When driving, there's no time to type in amounts and add in signatures. Transactions are triggered based on geolocation, prices are programmatically calculated. Using GPS coordinates to initiate transactions also makes it more secure.
+        In other words, the driver just needs to confirm the transaction with a click of a button.&lt;p&gt;
+
+         &lt;p class=&quot;lead&quot;&gt;
+        &lt;p&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/benzpay.gif&quot; alt=&quot;Jeff&quot; /&gt;   
+        &lt;p class=&quot;caption&quot;&gt; A clip from the video shown at the yearly executive meeting &lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;!--
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Demo video &lt;/h1&gt;  
+
+         &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;https://www.crunchbase.com/person/yashad-kulkarni#/entity&quot;&gt;
+
+          &lt;b&gt; Yashad &lt;/b&gt;from TechCrunch &lt;/a&gt;filmed this video for us.
+
+           &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+                      &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/132971331&quot;&gt;&lt;/iframe&gt;
+                  &lt;/div&gt;
  --&gt;
+               &lt;!--    &lt;h1 class=&quot;title-main-about&quot;&gt; Further reading &lt;/h1&gt;  
+
+
+            &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/benzpay/team.jpg&quot; alt=&quot;Jeff&quot; &gt;
+
+              &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://www.mobilegeeks.com/mercedes-benz-hack-a-thon-a-snapshot-of-developing-for-automotive/&quot;&gt;  &lt;b&gt;  Writeup &lt;/b&gt; by Mobile Geeks &lt;/a&gt;  &lt;p&gt;
+
+           &lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://360.here.com/2015/08/11/here-gives-direction-at-mercedes-benz-hackathon/&quot;&gt; &lt;b&gt; Article  &lt;/b&gt; by HERE maps&lt;/a&gt; &lt;p&gt;
+
+            --&gt;
 
 
 
-                   &lt;!-- DESKTOP FOOTER NAV --&gt;
+
+
+          &lt;!-- DESKTOP FOOTER NAV --&gt;
 
               &lt;div class=&quot;fnav&quot;&gt;
+
                &lt;div class=&quot;col-sm-12 col-sm-offset-0 text-center&quot;&gt;
+
                   &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
                 More Stuff &lt;/h1&gt;
 
@@ -1726,6 +1732,8 @@ project-title: Wifi Beerbong
               &lt;/div&gt;
 
                 &lt;div class=&quot;row text-center&quot;&gt;
+
+
 
                        &lt;div class=&quot;img-responsive center-block&quot;&gt;
 
@@ -1778,39 +1786,23 @@ project-title: Wifi Beerbong
 
                            &lt;/div&gt;
 
+                    &lt;/div&gt;
+                   &lt;/div&gt;
+                  &lt;/div&gt;
+
+
+
+
+
+
+
 
       &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-&lt;!--   &lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row text-center&quot;&gt;
-   &lt;div class=&quot;description&quot;&gt;
-    &lt;div class=&quot;tagline&quot;&gt;
-
-
-          &lt;p class=&quot;lead&quot;&gt;
-         We short circuited everything on our first test. Luckily I had a seconded particle photon with me. Made sure our enclosure was waterproof.
-        &lt;/p&gt;
-
-           &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/beerbong/a1.gif&quot; alt=&quot;Jeff&quot; &gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt; --&gt;
-&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Wed, 01 Jan 2003 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/project-item/Mixergy-Mobile/</link>
-        <guid isPermaLink="true">http://localhost:4000/project-item/Mixergy-Mobile/</guid>
+        <link>http://localhost:4000/project-item/BenzPay/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-item/BenzPay/</guid>
         
         
         <category>project-item</category>

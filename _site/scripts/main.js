@@ -5,6 +5,7 @@ $(window).load(function()
 {
    // executes when complete page is fully loaded, including all frames, objects and images
 
+
      console.log("add me on snapchat: screwglue");
      console.log("instagram: @heyjeffshaw");
      //alert("fadeddd");
@@ -71,15 +72,38 @@ $(window).load(function()
       });
 
       //expand image on click
-      $(function() {
-		    $('.content-image').on('click', function() {
-			    $('.imagepreview').attr('src', $(this).find('img').attr('src'));
-			    $('#imagemodal').modal('show');
-      		});
+      // $(function() {
+		  //   $('.content-image').on('click', function() {
+			//     $('.imagepreview').attr('src', $(this).find('img').attr('src'));
+			//     $('#imagemodal').modal('show');
+      // 		});
+      // });
+
+      $('.your-class').slick({
+          dots: true,
+          arrows: true,
+          // nextArrow: '<i class="fa fa-arrow-right" style="block"></i>',
+          // prevArrow: '<i class="fa fa-arrow-left"></i>',
+          nextArrow:"<img class='a-right control-c next slick-next' src='../../css/icons/chevron-right.svg'>",
+          prevArrow:"<img class='a-left control-c prev slick-prev' src='../../css/icons/chevron-left.svg'>",
       });
 
+      $('.multiple-items').slick({
+        infinite: true,
+        dots: true,
+        arrows: true,
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        nextArrow:"<img class='a-right control-c next slick-next' src='../../css/icons/chevron-right.svg'>",
+        prevArrow:"<img class='a-left control-c prev slick-prev' src='../../css/icons/chevron-left.svg'>"
+      });
+
+      // inject video for food
+      $('.project-gif').eq(0).replaceWith('<video class="project-gif" src="https://res.cloudinary.com/mmmm/video/upload/v1509563698/Jeff%20Drop/test11_1.mp4" playsinline loop muted autoplay></video>');
 
 });
+
+
 
 
 
