@@ -5641,6 +5641,9 @@ button.close {
 @font-face {
   font-family: inconsolata;
   src: url(fonts/Inconsolata.otf); }
+@font-face {
+  font-family: akkurat-mono;
+  src: url(fonts/Akkurat-Mono.otf); }
 ul {
   margin: 0;
   padding: 0; }
@@ -5778,7 +5781,10 @@ h4 {
   letter-spacing: 0.0px;
   margin-bottom: 24px;
   font-weight: normal;
-  color: #545454; }
+  color: #545454;
+  font-family: akkurat-mono;
+  font-size: 12px;
+  opacity: 0.7; }
 
 .lead-center {
   opacity: 0.7;
@@ -6034,8 +6040,11 @@ p {
   line-height: 24px;
   letter-spacing: 0.0;
   margin-top: 96px;
-  margin-bottom: 12px;
-  font-family: Roboto; }
+  margin-bottom: 8px;
+  font-family: strato;
+  font-size: 18px;
+  font-weight: 100;
+  opacity: 0.7; }
 
 #blurb-loading {
   text-align: center; }
@@ -6119,7 +6128,7 @@ body {
   /* WebKit/Blink Browsers */ }
 
 #footer-caption {
-  font-weight: 800; }
+  font-family: akkurat-mono; }
 
 .project-gif-footer:hover {
   opacity: 1.0; }
@@ -6131,7 +6140,11 @@ body {
   margin-bottom: 24px;
   letter-spacing: 0px;
   font-weight: 900;
-  font-family: roboto; }
+  font-family: roboto;
+  font-family: strato;
+  font-size: 48px;
+  font-weight: 200;
+  opacity: 0.7; }
 
 a:hover {
   color: red; }
@@ -6199,7 +6212,7 @@ a:hover {
   width: 100%; }
 
 input {
-  font-family: inconsolata;
+  font-family: akkurat-mono;
   border: 1px solid grey; }
 
 button#enter {
@@ -6220,7 +6233,11 @@ button#enter {
   padding-top: 10px; }
 
 .slick-list.draggable {
-  box-shadow: 18px 40px 200px rgba(0, 0, 0, 0.24); }
+  box-shadow: 18px 40px 200px rgba(0, 0, 0, 0.08); }
 
 .slick-dots {
-  bottom: -48px; }
+  bottom: -48px;
+  opacity: 0.30; }
+
+.slick-arrow {
+  opacity: 0.10; }

@@ -5,8 +5,8 @@
     <description>Jeff Shaw's portfolio featuring interaction user interface and user experience design.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jan 2018 02:27:48 -0800</pubDate>
-    <lastBuildDate>Fri, 26 Jan 2018 02:27:48 -0800</lastBuildDate>
+    <pubDate>Wed, 14 Feb 2018 01:29:34 -0800</pubDate>
+    <lastBuildDate>Wed, 14 Feb 2018 01:29:34 -0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -34,7 +34,7 @@
                 &lt;!-- Despite all the surprsies and uncertainy that comes with being a struggling startup, the strongest memory I have is from my first week at munchery during a QA with a mobiel engineer.  --&gt;
                 &lt;p class=&quot;lead&quot;&gt;
 
-                Lead mobile design for iOS and Android. The designers before my time did a beautiful job and I think they even won some awards. So I strived to carry on that design reputation, evolving the platform and creating a more mature design language. Although I wanted to make a 5 star app, still proud of 4.7 star rating and top 200 downloaded for food/drink in app store. App primarily used by frequent customers. Gross conversion &amp;gt;90% although for new users very much under 2%. Design goals for iOS focused around existing user flows, increasing order frequency, building a rich connection between the user and the food. &lt;/p&gt;
+                Lead mobile design for iOS and Android. The designers before my time (s/o to them) did a beautiful job laying down structural foundations, creating cohesive icons, defining the warm and friendly design identity (think they even one some award). My personal goal was maintaining Munchery's design reputation and designing a 5 star app. I did find the product needlessly confusing, unclear microcopy, and generally lacking interactivity. Design goals for iOS focused around existing user flows, increasing order frequency, building a rich connection between the user and the food.Although I wanted to make a 5 star app, still proud of 4.7 star rating and top 200 downloaded for food/drink in app store. App primarily used by frequent customers. Gross conversion &amp;gt;90% although for new users very much under 2%.  &lt;/p&gt;
 
                 &lt;!--
                                 The strongest memory I have with Munchery is an interaction I had with a mobile engineer during a QA. It was the first feature I handed off, so I had something to prove and wanted everything to be perfect. and going back and forth about the fontsize and letterspacing on tablet. Tablet is something we don't prioritize, and so naturally the body text was slightly off. I apologized for the trouble it will take to make style changes to tablet independetly. But he told me it's okay because he's here to make 5 star apps. Since then our relationship has revovled around making 5 star apps. Whenever we're stuck on a decision I go back to making a5 star app. Admittedly sometimes we loose scope and bite off more than we can chew, but it's the commitment to craft and building sometinge exceptional that really inspires me to bring my best. --&gt;

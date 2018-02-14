@@ -67,6 +67,11 @@ $on-laptop:        800px;
     src: url(fonts/Inconsolata.otf);
 }
 
+@font-face {
+    font-family: akkurat-mono;
+    src: url(fonts/Akkurat-Mono.otf);
+}
+
 ul {
   margin: 0;
   padding: 0;
@@ -268,6 +273,9 @@ h4 {
   margin-bottom: 24px;
   font-weight: normal;
   color: #545454;
+  font-family: akkurat-mono;
+  font-size: 12px;
+  opacity: 0.7;
 }
 .lead-center {
   opacity: 0.7;
@@ -704,8 +712,11 @@ opacity: 0.83;
 line-height: 24px;
 letter-spacing: 0.0;
 margin-top: 96px;
-margin-bottom: 12px;
-font-family: Roboto;
+margin-bottom: 8px;
+font-family: strato;
+font-size: 18px;
+font-weight: 100;
+opacity: 0.7;
 
 
 }
@@ -836,7 +847,7 @@ body {
 
 
 #footer-caption {
-font-weight: 800;
+font-family: akkurat-mono;
 
 }
 
@@ -862,6 +873,11 @@ font-weight: 800;
     letter-spacing: 0px;
     font-weight: 900;
     font-family: roboto;
+
+    font-family: strato;
+    font-size: 48px;
+    font-weight: 200;
+    opacity: 0.7;
 
 }
 
@@ -947,7 +963,7 @@ a:hover {
 }
 
 input {
-    font-family: inconsolata;
+    font-family: akkurat-mono;
     border: 1px solid grey;
 }
 
@@ -988,9 +1004,14 @@ iframe {
 }
 
 .slick-list.draggable {
-    box-shadow: 18px 40px 200px rgba(0, 0, 0, 0.24);
+    box-shadow: 18px 40px 200px rgba(0, 0, 0, 0.08);
 }
 
 .slick-dots {
   bottom: -48px;
+  opacity: 0.30;
+}
+
+.slick-arrow {
+    opacity: 0.10;
 }
