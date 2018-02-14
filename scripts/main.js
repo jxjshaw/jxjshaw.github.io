@@ -19,6 +19,27 @@ $(window).load(function()
     $('.loading').delay(800).css("visibility", "hidden");
     $('.loading-caption-container').delay(800).css("visibility", "hidden")
 
+
+    // carousel
+    $('.your-class').slick({
+        dots: true,
+        arrows: true,
+        // nextArrow: '<i class="fa fa-arrow-right" style="block"></i>',
+        // prevArrow: '<i class="fa fa-arrow-left"></i>',
+        nextArrow:"<img class='a-right control-c next slick-next' src='../../css/icons/chevron-right.svg'>",
+        prevArrow:"<img class='a-left control-c prev slick-prev' src='../../css/icons/chevron-left.svg'>",
+    });
+
+    $('.multiple-items').slick({
+      infinite: true,
+      dots: true,
+      arrows: true,
+      slidesToShow: 3,
+      slidesToScroll: 3,
+      nextArrow:"<img class='a-right control-c next slick-next' src='../../css/icons/chevron-right.svg'>",
+      prevArrow:"<img class='a-left control-c prev slick-prev' src='../../css/icons/chevron-left.svg'>"
+    });
+
  // $(".description").css("opacity", "0.9");
     // reveal description
     $('.header-text').click(function(){
@@ -79,24 +100,6 @@ $(window).load(function()
       // 		});
       // });
 
-      $('.your-class').slick({
-          dots: true,
-          arrows: true,
-          // nextArrow: '<i class="fa fa-arrow-right" style="block"></i>',
-          // prevArrow: '<i class="fa fa-arrow-left"></i>',
-          nextArrow:"<img class='a-right control-c next slick-next' src='../../css/icons/chevron-right.svg'>",
-          prevArrow:"<img class='a-left control-c prev slick-prev' src='../../css/icons/chevron-left.svg'>",
-      });
-
-      $('.multiple-items').slick({
-        infinite: true,
-        dots: true,
-        arrows: true,
-        slidesToShow: 3,
-        slidesToScroll: 3,
-        nextArrow:"<img class='a-right control-c next slick-next' src='../../css/icons/chevron-right.svg'>",
-        prevArrow:"<img class='a-left control-c prev slick-prev' src='../../css/icons/chevron-left.svg'>"
-      });
 
       // inject video for food
       $('.project-gif').eq(0).replaceWith('<video class="project-gif" src="https://res.cloudinary.com/mmmm/video/upload/v1509563698/Jeff%20Drop/test11_1.mp4" playsinline loop muted autoplay></video>');
