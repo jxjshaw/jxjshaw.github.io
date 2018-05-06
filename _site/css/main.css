@@ -5644,6 +5644,9 @@ button.close {
 @font-face {
   font-family: akkurat-mono;
   src: url(fonts/Akkurat-Mono.otf); }
+@font-face {
+  font-family: strato;
+  src: url(fonts/StratoRoman.ttf); }
 ul {
   margin: 0;
   padding: 0; }
@@ -5775,7 +5778,6 @@ h4 {
 
 .lead {
   opacity: 1.0;
-  font-size: 14px;
   line-height: 1.9em;
   line-height: 24px;
   letter-spacing: 0.0px;
@@ -5783,7 +5785,7 @@ h4 {
   font-weight: normal;
   color: #545454;
   font-family: akkurat-mono;
-  font-size: 12px;
+  font-size: 16px;
   opacity: 0.7; }
 
 .lead-center {
@@ -6233,7 +6235,7 @@ button#enter {
   padding-top: 10px; }
 
 .slick-list.draggable {
-  box-shadow: 18px 40px 200px rgba(0, 0, 0, 0.08); }
+  box-shadow: 18px 40px 200px rgba(0, 0, 0, 0.15); }
 
 .slick-dots {
   bottom: -48px;
@@ -6241,3 +6243,7 @@ button#enter {
 
 .slick-arrow {
   opacity: 0.10; }
+
+.slick-dotted.slick-slider {
+  margin-top: 80px;
+  margin-bottom: 60px; }

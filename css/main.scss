@@ -7,7 +7,7 @@
 
 // Our variables
 $base-font-family: "Roboto", Helvetica, Arial, sans-serif;
-$base-font-size:   14px;
+$base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -271,7 +271,6 @@ h4 {
 
 .lead {
   opacity: 1.0;
-  font-size: 14px;
   line-height: 1.9em;
   line-height: 24px;
   letter-spacing: 0.0px;
@@ -279,7 +278,7 @@ h4 {
   font-weight: normal;
   color: #545454;
   font-family: akkurat-mono;
-  font-size: 12px;
+  font-size: 16px;
   opacity: 0.7;
 }
 .lead-center {
@@ -1019,4 +1018,9 @@ iframe {
 
 .slick-arrow {
     opacity: 0.10;
+}
+
+.slick-dotted.slick-slider {
+    margin-top: 80px;
+    margin-bottom: 60px;
 }

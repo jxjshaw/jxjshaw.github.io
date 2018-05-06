@@ -5,8 +5,8 @@
     <description>Jeff Shaw's portfolio featuring interaction user interface and user experience design.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Feb 2018 01:29:34 -0800</pubDate>
-    <lastBuildDate>Wed, 14 Feb 2018 01:29:34 -0800</lastBuildDate>
+    <pubDate>Sun, 06 May 2018 01:34:58 -0700</pubDate>
+    <lastBuildDate>Sun, 06 May 2018 01:34:58 -0700</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -22,19 +22,19 @@
 
               &lt;!-- Intro --&gt;
               &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Munchery &lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Munchery delivers chilled food to your door. It's available in SF, NY, SEA, LA, plus surrounding areas. As one of the two product designers, I took ownership of the mobile experience, conversion and a/b testing on web, and evolving our design system.  &lt;/i&gt;&lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Munchery cooks and delivers chilled food to your door. With over 125M in funding, it's one of the larger startups in the  crowded food delivery market. As one of the two product designers, I took ownership of the mobile experience, conversion and a/b testing on web, and efforts arond evolving our design language. &lt;/i&gt;&lt;/p&gt;
 
               &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/context.jpg&quot; alt=&quot;Jeff&quot; /&gt;
               &lt;!-- &lt;p class=&quot;caption&quot;&gt; Mixergy has a strong online community so setting up user interviews was easy &lt;/p&gt; --&gt;
 
 
               &lt;!-- Mobile --&gt;
-                &lt;h1 class=&quot;title-main-about&quot;&gt; &quot;Mobile design&quot; &lt;/h1&gt;
+                &lt;h1 class=&quot;title-main-about&quot;&gt; # Mobile design &lt;/h1&gt;
 
                 &lt;!-- Despite all the surprsies and uncertainy that comes with being a struggling startup, the strongest memory I have is from my first week at munchery during a QA with a mobiel engineer.  --&gt;
                 &lt;p class=&quot;lead&quot;&gt;
 
-                Lead mobile design for iOS and Android. The designers before my time (s/o to them) did a beautiful job laying down structural foundations, creating cohesive icons, defining the warm and friendly design identity (think they even one some award). My personal goal was maintaining Munchery's design reputation and designing a 5 star app. I did find the product needlessly confusing, unclear microcopy, and generally lacking interactivity. Design goals for iOS focused around existing user flows, increasing order frequency, building a rich connection between the user and the food.Although I wanted to make a 5 star app, still proud of 4.7 star rating and top 200 downloaded for food/drink in app store. App primarily used by frequent customers. Gross conversion &amp;gt;90% although for new users very much under 2%.  &lt;/p&gt;
+                Lead design for the mobile apps. Goals were around increasing order frequency, building a rich connection between the user and the food. Worked closely with mobile engineers to slowly refine the apps, gradually raising the app store rating to 4.7 stars with top 200 downloads in the app store for its category. &lt;/p&gt;
 
                 &lt;!--
                                 The strongest memory I have with Munchery is an interaction I had with a mobile engineer during a QA. It was the first feature I handed off, so I had something to prove and wanted everything to be perfect. and going back and forth about the fontsize and letterspacing on tablet. Tablet is something we don't prioritize, and so naturally the body text was slightly off. I apologized for the trouble it will take to make style changes to tablet independetly. But he told me it's okay because he's here to make 5 star apps. Since then our relationship has revovled around making 5 star apps. Whenever we're stuck on a decision I go back to making a5 star app. Admittedly sometimes we loose scope and bite off more than we can chew, but it's the commitment to craft and building sometinge exceptional that really inspires me to bring my best. --&gt;
@@ -52,9 +52,9 @@
 
 
             &lt;!-- Menu A/B test --&gt;
-              &lt;h1 class=&quot;title-main-about&quot;&gt;Performance and conversion&lt;/h1&gt;
+              &lt;h1 class=&quot;title-main-about&quot;&gt;# Performance and conversion&lt;/h1&gt;
 
-              &lt;p class=&quot;lead&quot;&gt; Had no experience using data to design when I joined. But soon grew into my area of expertise. Designed and executed dozens of a/b and multi arm bandit experiments throughout different landing pages, menus, checkout pages. Had a lot of fun digging into analytics, forming strategies, designing the variations, and coding them up. Some wins were easy (brought homepage conversion up from 30% to 40% for ~8-10k users/day) while others were counterintuitive flops. &lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; When I joined leveraging data was my weakness, but it eventually became my strength. Designed and executed dozens of a/b and multi arm bandit experiments throughout different landing pages, menus, checkout pages. Some wins were easy (brought homepage conversion up from 30% to 40% for ~8-10k users/day) while others were counterintuitive flops. &lt;/p&gt;
 
               &lt;div class=&quot;your-class&quot;&gt;
                 &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/sidecart/d.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
@@ -65,9 +65,9 @@
 
               &lt;!-- Design system stuff here, research, app store --&gt;
 
-              &lt;h1 class=&quot;title-main-about&quot;&gt;Personal growth &lt;/h1&gt;
+              &lt;h1 class=&quot;title-main-about&quot;&gt;# Personal growth &lt;/h1&gt;
 
-              &lt;p class=&quot;lead&quot;&gt; Munchery was a blast. The product was popular enough that my contribution was very tangible and easy to quantify. Yet the office was small enough that I developed unforgettable friendships and was able to refine my craft across so many different types of design. &lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; I will always look back at Munchery and the people there very fondly. It was a great place to learn about product ownership and how designers deliver value in a revenue driven business. The product was popular enough that my contribution was very tangible and easy to quantify. Yet the office was small enough that I developed unforgettable friendships while refining my craft across so many different areas of design. &lt;/p&gt;
 
               &lt;div class=&quot;your-class&quot;&gt;
                 &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/process/appstore2.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
