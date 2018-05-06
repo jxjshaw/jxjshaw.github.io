@@ -5645,8 +5645,8 @@ button.close {
   font-family: akkurat-mono;
   src: url(fonts/Akkurat-Mono.otf); }
 @font-face {
-  font-family: strato;
-  src: url(fonts/StratoRoman.ttf); }
+  font-family: akkurat;
+  src: url(fonts/Akkurat-Bold.ttf); }
 ul {
   margin: 0;
   padding: 0; }
@@ -6043,8 +6043,9 @@ p {
   letter-spacing: 0.0;
   margin-top: 96px;
   margin-bottom: 8px;
-  font-family: strato;
-  font-size: 18px;
+  font-family: akkurat-mono;
+  font-size: 16px;
+  color: #545454;
   font-weight: 100;
   opacity: 0.7; }
 
@@ -6130,7 +6131,7 @@ body {
   /* WebKit/Blink Browsers */ }
 
 #footer-caption {
-  font-family: akkurat-mono; }
+  font-family: akkurat; }
 
 .project-gif-footer:hover {
   opacity: 1.0; }
@@ -6146,7 +6147,11 @@ body {
   font-family: strato;
   font-size: 48px;
   font-weight: 200;
-  opacity: 0.7; }
+  opacity: 0.7;
+  font-family: akkurat;
+  font-size: 48px;
+  opacity: 0.7;
+  color: rgba(0, 0, 0, 0.8); }
 
 a:hover {
   color: red; }
