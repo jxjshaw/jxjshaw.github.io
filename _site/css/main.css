@@ -6246,7 +6246,7 @@ button#enter {
   padding-top: 10px; }
 
 .slick-list.draggable {
-  box-shadow: 18px 40px 200px rgba(0, 0, 0, 0.15); }
+  box-shadow: 18px 40px 200px rgba(0, 0, 0, 0.08); }
 
 .slick-dots {
   bottom: -48px;
