@@ -5,8 +5,8 @@
     <description>Jeff Shaw's portfolio featuring interaction user interface and user experience design.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 May 2018 01:57:37 -0700</pubDate>
-    <lastBuildDate>Sun, 06 May 2018 01:57:37 -0700</lastBuildDate>
+    <pubDate>Sun, 06 May 2018 02:11:50 -0700</pubDate>
+    <lastBuildDate>Sun, 06 May 2018 02:11:50 -0700</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -22,7 +22,7 @@
 
               &lt;!-- Intro --&gt;
               &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Munchery &lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Munchery cooks and delivers chilled food to your door. With over 125M in funding, it's one of the larger startups in the  crowded food delivery market. As one of the two product designers, I took ownership of the mobile experience, conversion and a/b testing on web, and efforts arond evolving our design language. &lt;/i&gt;&lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Munchery cooks and delivers chilled food to your door. With over 125M in funding, it's one of the larger startups in the  crowded food delivery market. As one of the two product designers, I was responsible for the mobile experience, conversion and a/b testing on web, and efforts around evolving our design language. &lt;/i&gt;&lt;/p&gt;
 
               &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/context.jpg&quot; alt=&quot;Jeff&quot; /&gt;
               &lt;!-- &lt;p class=&quot;caption&quot;&gt; Mixergy has a strong online community so setting up user interviews was easy &lt;/p&gt; --&gt;
