@@ -5,8 +5,8 @@
     <description>Jeff Shaw's portfolio featuring interaction user interface and user experience design.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 May 2018 02:18:48 -0700</pubDate>
-    <lastBuildDate>Sun, 06 May 2018 02:18:48 -0700</lastBuildDate>
+    <pubDate>Mon, 07 May 2018 02:33:47 -0700</pubDate>
+    <lastBuildDate>Mon, 07 May 2018 02:33:47 -0700</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -22,7 +22,7 @@
 
               &lt;!-- Intro --&gt;
               &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Munchery &lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Munchery cooks and delivers chilled food to your door. With over 125M in funding, it's one of the larger startups in the  crowded food delivery market. As one of the two product designers, I was responsible for the mobile experience, conversion and a/b testing on web, and efforts around evolving our design language. &lt;/i&gt;&lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Munchery cooks and delivers chilled food to your door. With over $125M in funding, it's one of the larger startups in the highly competitive food delivery market. As one of the two product designers, I was responsible for the mobile experience, conversion and a/b testing on web, and efforts around evolving our design language. &lt;/i&gt;&lt;/p&gt;
 
               &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/context.jpg&quot; alt=&quot;Jeff&quot; /&gt;
               &lt;!-- &lt;p class=&quot;caption&quot;&gt; Mixergy has a strong online community so setting up user interviews was easy &lt;/p&gt; --&gt;
@@ -548,36 +548,35 @@
          &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
           &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/xdvQbL0FFj8&quot;&gt;&lt;/iframe&gt;
          &lt;/div&gt;
+            &lt;!-- &lt;p class=&quot;caption&quot;&gt; Hackathon demo &lt;/p&gt; --&gt;
 
         &lt;!-- Landing Page --&gt;
-         &lt;h1 class=&quot;title-main-about&quot;&gt; Aligning the vision with the brand &lt;/h1&gt;
-          &lt;p class=&quot;lead&quot;&gt; Unlike our android app, the web component carries a lighter layout intended for desktop. Whether it's the victim reporting an incident, lawyers browsing client folders, or public viewers reading fact-oriented stories, the aim is a wide variety of media without dumbing content down. &lt;/p&gt;
-           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/homepage.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-           &lt;p class=&quot;caption&quot;&gt; Landing page and graphics &lt;/p&gt;
+         &lt;!-- &lt;h1 class=&quot;title-main-about&quot;&gt; Aligning the vision with the brand &lt;/h1&gt; --&gt;
+          &lt;p class=&quot;lead&quot;&gt; &lt;br /&gt; &lt;br /&gt;&lt;br /&gt;&lt;br /&gt; After the hackathon we were able to get in contact with the ACLU of Missouri. With their support and collaboration, we continued working on the project. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt; &lt;/p&gt;
 
-           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/brainstorm.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-           &lt;p class=&quot;caption&quot;&gt; Diagram created with omnigraffle &lt;/p&gt;
-
-           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/research_findings.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/refresh2018/landingpage.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;!-- &lt;p class=&quot;caption&quot;&gt; Diagram created with omnigraffle &lt;/p&gt; --&gt;
+&lt;!--
+           &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/fedup/new/research_findings.jpg&quot; alt=&quot;Jeff&quot; &gt;
            &lt;p class=&quot;caption&quot;&gt; Researching market  &lt;/p&gt;
 
-           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/user_flow.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/fedup/new/user_flow.jpg&quot; alt=&quot;Jeff&quot; &gt;
            &lt;p class=&quot;caption&quot;&gt; Case creation user flow  &lt;/p&gt;
 
-           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/user_flow2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-           &lt;p class=&quot;caption&quot;&gt; Wireframes for case creation  &lt;/p&gt;
+           &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/fedup/new/user_flow2.jpg&quot; alt=&quot;Jeff&quot; &gt;
+           &lt;p class=&quot;caption&quot;&gt; Wireframes for case creation  &lt;/p&gt; --&gt;
 
            &lt;!-- &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/fedup/new/design_paradigms.jpg&quot; alt=&quot;Jeff&quot; &gt;
            &lt;p class=&quot;caption&quot;&gt; Case preview component design &lt;/p&gt; --&gt;
 
-           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/design_guide.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;!-- &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/fedup/new/design_guide.jpg&quot; alt=&quot;Jeff&quot; &gt;
            &lt;p class=&quot;caption&quot;&gt; Website style guide  &lt;/p&gt;
 
-           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/prototype.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/fedup/new/prototype.jpg&quot; alt=&quot;Jeff&quot; &gt;
            &lt;p class=&quot;caption&quot;&gt; Coding the site &lt;/p&gt;
 
-           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/fedup/new/cta.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-           &lt;p class=&quot;caption&quot;&gt; Looking for contributors!  &lt;/p&gt;
+           &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/fedup/new/cta.jpg&quot; alt=&quot;Jeff&quot; &gt;
+           &lt;p class=&quot;caption&quot;&gt; Looking for contributors!  &lt;/p&gt; --&gt;
 
 
 
