@@ -5,8 +5,8 @@
     <description>Jeff Shaw's portfolio featuring interaction user interface and user experience design.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 May 2018 19:01:40 -0700</pubDate>
-    <lastBuildDate>Sun, 20 May 2018 19:01:40 -0700</lastBuildDate>
+    <pubDate>Sun, 20 May 2018 21:56:51 -0700</pubDate>
+    <lastBuildDate>Sun, 20 May 2018 21:56:51 -0700</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -34,7 +34,7 @@
                 &lt;!-- Despite all the surprsies and uncertainy that comes with being a struggling startup, the strongest memory I have is from my first week at munchery during a QA with a mobiel engineer.  --&gt;
                 &lt;p class=&quot;lead&quot;&gt;
 
-                Lead design for the mobile apps. Goals were around increasing order frequency, building a rich connection between the user and the food. Worked closely with mobile engineers to slowly refine the apps, gradually raising the app store rating to 4.7 stars with top 200 downloads in the app store for its category. &lt;/p&gt;
+                I was responsible for our mobile designs. Our goals were around increasing order frequency, building a rich connection between the user and the food. Worked closely with mobile engineers to slowly refine the apps, gradually raising the app store rating to 4.7 stars with top 200 downloads in the app store for its category. &lt;/p&gt;
 
                 &lt;!--
                                 The strongest memory I have with Munchery is an interaction I had with a mobile engineer during a QA. It was the first feature I handed off, so I had something to prove and wanted everything to be perfect. and going back and forth about the fontsize and letterspacing on tablet. Tablet is something we don't prioritize, and so naturally the body text was slightly off. I apologized for the trouble it will take to make style changes to tablet independetly. But he told me it's okay because he's here to make 5 star apps. Since then our relationship has revovled around making 5 star apps. Whenever we're stuck on a decision I go back to making a5 star app. Admittedly sometimes we loose scope and bite off more than we can chew, but it's the commitment to craft and building sometinge exceptional that really inspires me to bring my best. --&gt;
@@ -319,7 +319,6 @@
             &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
             &lt;p class=&quot;lead&quot;&gt;
             &lt;b&gt;Topics&lt;/b&gt;: Internet of Things, Hardware startup, Environment, Health, Data analysis&lt;br /&gt;
-            &lt;b&gt;Roles&lt;/b&gt;: Product design (Landing page, iOS app, Webapp, Hardware enclosure and specs) and CEO stuff (project management, pitching, biz dev) &lt;br /&gt;
             &lt;b&gt;Tools&lt;/b&gt;: Zeplin (Sketch plugin), HTML/CSS, Fusion 360, 3d printing &lt;br /&gt;
             &lt;b&gt;Team&lt;/b&gt;: 1 designer, 1 operation, 1 hardware engineer, 4 software engineers, advisors &lt;br /&gt;
             &lt;p&gt;
@@ -345,7 +344,7 @@
             &lt;p class=&quot;lead&quot;&gt;
               When creating the visual language, I wanted to keep the graphics organic and the indicators intuitive. Like many weather apps, I went with an animated environmental background. In our case, it gets more grey the more polluted our readings. I'm not a fan of separating each gas into its own chart, so in the future a goal is to plot out the relationship between gases.
             &lt;/p&gt;
-            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/new/wireframe_3.jpg&quot; alt=&quot;Market research&quot; /&gt;
+            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/DemoDesktop.png&quot; alt=&quot;Market research&quot; /&gt;
             &lt;p class=&quot;caption&quot;&gt; Device overview and monitoring &lt;/p&gt;
 
           &lt;!-- User Interface --&gt;
