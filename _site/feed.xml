@@ -5,8 +5,8 @@
     <description>Jeff Shaw's portfolio featuring interaction user interface and user experience design.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 May 2018 02:35:54 -0700</pubDate>
-    <lastBuildDate>Mon, 07 May 2018 02:35:54 -0700</lastBuildDate>
+    <pubDate>Sun, 20 May 2018 19:01:40 -0700</pubDate>
+    <lastBuildDate>Sun, 20 May 2018 19:01:40 -0700</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -17,7 +17,7 @@
 
 
 
-      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+      &lt;div class=&quot;col-xs-12&quot;&gt;
       &lt;!-- img-path: images/munchery8.gif --&gt;
 
               &lt;!-- Intro --&gt;
@@ -40,12 +40,12 @@
                                 The strongest memory I have with Munchery is an interaction I had with a mobile engineer during a QA. It was the first feature I handed off, so I had something to prove and wanted everything to be perfect. and going back and forth about the fontsize and letterspacing on tablet. Tablet is something we don't prioritize, and so naturally the body text was slightly off. I apologized for the trouble it will take to make style changes to tablet independetly. But he told me it's okay because he's here to make 5 star apps. Since then our relationship has revovled around making 5 star apps. Whenever we're stuck on a decision I go back to making a5 star app. Admittedly sometimes we loose scope and bite off more than we can chew, but it's the commitment to craft and building sometinge exceptional that really inspires me to bring my best. --&gt;
 
                 &lt;div class=&quot;your-class&quot;&gt;
-                  &lt;!-- &lt;div&gt;  &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/munchery/neat.jpg&quot; alt=&quot;Jeff&quot; &gt;&lt;/div&gt; --&gt;
+                  &lt;!-- &lt;div&gt;  &lt;img class=&quot;carousel-image&quot;  src=&quot;../../images/projects/munchery/neat.jpg&quot; alt=&quot;Jeff&quot; &gt;&lt;/div&gt; --&gt;
 
-                  &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/iOS/delivery.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
-                  &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/iOS/order.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
-                  &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/iOS/listview.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
-                  &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/iOS/weekly.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
+                  &lt;div&gt;  &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/munchery/iOS/delivery.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
+                  &lt;div&gt;  &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/munchery/iOS/order.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
+                  &lt;div&gt;  &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/munchery/iOS/listview.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
+                  &lt;div&gt;  &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/munchery/iOS/weekly.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
 
                 &lt;/div&gt;
                 &lt;!-- Add motion, appsee? --&gt;
@@ -57,24 +57,21 @@
               &lt;p class=&quot;lead&quot;&gt; When I joined leveraging data was my weakness, but it eventually became my strength. Designed and executed dozens of a/b and multi arm bandit experiments throughout different landing pages, menus, checkout pages. Some wins were easy (brought homepage conversion up from 30% to 40% for ~8-10k users/day) while others were counterintuitive flops. &lt;/p&gt;
 
               &lt;div class=&quot;your-class&quot;&gt;
-                &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/sidecart/d.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
-                &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/sidecart/c.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
-                &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/sidecart/b.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
-                &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/sidecart/e.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
+                &lt;div&gt;  &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/munchery/sidecart/d.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
+                &lt;div&gt;  &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/munchery/sidecart/c.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
+                &lt;div&gt;  &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/munchery/sidecart/b.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
+                &lt;div&gt;  &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/munchery/sidecart/e.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
               &lt;/div&gt;
 
               &lt;!-- Design system stuff here, research, app store --&gt;
 
               &lt;h1 class=&quot;title-main-about&quot;&gt;# Personal growth &lt;/h1&gt;
 
-              &lt;p class=&quot;lead&quot;&gt; I will always look back at Munchery and the people there very fondly. It was a great place to learn about product ownership and how designers deliver value in a revenue driven business. The product was popular enough that my contribution was very tangible and easy to quantify. Yet the office was small enough that I developed unforgettable friendships while refining my craft across so many different areas of design. &lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; I will always look back at Munchery and the people there very fondly. It was a great place to learn about product ownership and how designers deliver value in a revenue driven business. The product was popular enough that my contribution was very tangible and easy to quantify. Yet the office was small enough that I developed unforgettable friendships while refining my craft across so many different areas of design. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-              &lt;div class=&quot;your-class&quot;&gt;
-                &lt;div&gt;  &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/process/appstore2.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
-                &lt;!-- &lt;div&gt;  &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/munchery/sidecart/c.jpg&quot; alt=&quot;Jeff&quot; &gt;&lt;/div&gt;
-                &lt;div&gt;  &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/munchery/sidecart/b.jpg&quot; alt=&quot;Jeff&quot; &gt;&lt;/div&gt;
-                &lt;div&gt;  &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/munchery/sidecart/e.jpg&quot; alt=&quot;Jeff&quot; &gt;&lt;/div&gt; --&gt;
-              &lt;/div&gt;
+
+                &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/process/appstore2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
 
 
 
@@ -164,7 +161,7 @@
          We short circuited everything on our first test. Luckily I had a seconded particle photon with me. Made sure our enclosure was waterproof.
         &lt;/p&gt;
 
-           &lt;img class=&quot;content-image-vertical&quot; src=&quot;../../images/projects/beerbong/a1.gif&quot; alt=&quot;Jeff&quot; &gt;
+           &lt;img class=&quot;carousel-image-vertical&quot; src=&quot;../../images/projects/beerbong/a1.gif&quot; alt=&quot;Jeff&quot; &gt;
 
     &lt;/div&gt;
   &lt;/div&gt;
@@ -187,43 +184,43 @@
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
 
-      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+      &lt;div class=&quot;col-xs-12&quot;&gt;
         &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Mirror &lt;/h1&gt;
         &lt;!-- &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; I used to shoot music videos in college
          &lt;/i&gt; &lt;/p&gt; --&gt;
 
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/2.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/3.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/4.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/5.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/6.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/7.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/8.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/9.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/10.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/11.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/12.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/13.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/14.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/15.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/16.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/17.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/18.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/19.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/20.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/21.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/22.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/23.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/24.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/25.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/26.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/27.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/28.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/29.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/30.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/31.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/33.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/mirror/32.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/2.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/3.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/4.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/5.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/6.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/7.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/8.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/9.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/10.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/11.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/12.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/13.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/14.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/15.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/16.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/17.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/18.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/19.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/20.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/21.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/22.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/23.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/24.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/25.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/26.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/27.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/28.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/29.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/30.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/31.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/33.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/32.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
 
 
 
@@ -311,7 +308,7 @@
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
 
-      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+      &lt;div class=&quot;col-xs-12&quot;&gt;
 
           &lt;!-- INTRO --&gt;
             &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Airquail&lt;/h1&gt;
@@ -888,12 +885,12 @@
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
-&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+&lt;div class=&quot;col-xs-12&quot;&gt;
        &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; asOne &lt;/h1&gt;
 
       &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Chimehack is a hackathon hosted by Twitter to promote hacking for change. Over the weekend, my friends and I built an entire iOS app in 48 hours. We named our app asOne because it helps keep a big group of friends together when out at the bars or traveling.  &lt;/i&gt; &lt;/p&gt;
       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/icons.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-      &lt;p class=&quot;caption&quot;&gt; Symmetry, balance, and strong colors helped convey our app's purpose. &lt;/p&gt;
+      &lt;p class=&quot;caption&quot;&gt; I wanted to convey harmony and a feeling of relaxation by combining warm colors &lt;/p&gt;
 
 
 
@@ -901,64 +898,37 @@
 
          &lt;p class=&quot;lead&quot;&gt;
          &lt;b&gt;Topics&lt;/b&gt;: Social, Safety &lt;br /&gt;
-         &lt;b&gt;Roles&lt;/b&gt;: Mobile interface design, User experience &lt;br /&gt;
-          &lt;b&gt;Tools&lt;/b&gt;: Adobe Illustrator, Sketch 3, Xcode, Git &lt;br /&gt;
          &lt;b&gt;Team&lt;/b&gt;: 1 designer, 4 engineers &lt;br /&gt;
+         &lt;b&gt;Duration&lt;/b&gt;: 48 hrs &lt;br /&gt;
 
 
 
-&lt;!--
-      &lt;h1 class=&quot;title-main-about&quot;&gt;Background and market research&lt;/h1&gt;
-
-      &lt;p class=&quot;lead&quot;&gt; Campus safety was a key theme at Chimehack. It was an issue my teammates and I had recently witnessed in college.  &lt;p&gt;
-
-       &lt;p class=&quot;lead&quot;&gt;
-       To brainstorm, I spoke with a wide range of people. &lt;p&gt;
-
-      &lt;p class=&quot;lead&quot;&gt; Testimony &quot;I would totally use this when I'm going out with my friends&quot; working proffesional&lt;p&gt;
-      &lt;p class=&quot;lead&quot;&gt; Testimony &quot;Campus safety is actually a big topic at our school right now. Our campus safety is actually trying out this new app similar to your idea&quot; student &lt;p&gt;
-      &lt;p class=&quot;lead&quot;&gt; Testimony &quot;We've seen a lot of panic button apps. People don't realize feeling unsafe doesn't always mean you want the police involved.&quot; - non profit director&lt;p&gt; --&gt;
 
 
 
-       &lt;h1 class=&quot;title-main-about&quot;&gt;Designing for a solution&lt;/h1&gt;
+
+       &lt;h1 class=&quot;title-main-about&quot;&gt;Vision&lt;/h1&gt;
 
 
-       &lt;p class=&quot;lead&quot;&gt;
-       Usually, it had something to do with making sure friends are ok. When your friend goes missing, they're not picking up their phone andit's hard to tell whether or not their phone is dead. They're probably not in enough danger to call campus safety, but that doesn't mean you don't care where they are. &lt;/p&gt;
-
-      &lt;p class=&quot;lead&quot;&gt; That's why we built asOne. It's a better way to communicate in groups when going out. Instead of annoying group messages, we create temporary friend groups that shares information about each member's location, battery level, and the time they want to go home. &lt;/p&gt;
+      &lt;p class=&quot;lead&quot;&gt;asOne is a low effort way to communicate with people you are out with. Instead of overwhelming chat groups, we share information about each member's location, battery level, and the time they want to go home without waiting for a response. &lt;/p&gt;
 
       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/wireframe.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-      &lt;p class=&quot;caption&quot;&gt;  Informal interviews and wireframe iterations are important to my design process &lt;/p&gt;
+      &lt;p class=&quot;caption&quot;&gt; I wanted to get my designs to the engineers asap so I focused on the primary flow &lt;/p&gt;
         &lt;!-- ADD notebook image here --&gt;
 
 
-            &lt;h1 class=&quot;title-main-about&quot;&gt;Creating a distinct visual style&lt;/h1&gt;  
 
-          &lt;p class=&quot;lead&quot;&gt; Inclusiveness was a major theme throughout both Chimehack and the mission our technology. Using our app is essentially making a pact within your friends. To embody this feeling of warmth, unity, and trust in a visual language, I designed a logo with a symmetrical heart pattern and warm blends. &lt;p&gt;
-
+          &lt;h1 class=&quot;title-main-about&quot;&gt;Design goals&lt;/h1&gt;  
 
 
-
-          &lt;h1 class=&quot;title-main-about&quot;&gt;Empathizing with the user&lt;/h1&gt;  
-
-
-        &lt;p class=&quot;lead&quot;&gt;  The resting screen is our main view. It's the dashboard that is designed to replace the logistical hassle of a group message. The resting screen makes it easy to check up on your friends periodically. Without any engagement from the user, the dashboard automatically displays information we're able to natively access from each friend's phone. &lt;p&gt;
-
-
-
-            &lt;p class=&quot;lead&quot;&gt;
-
-         I thought back to all the things I wish I could do when my friends are not pick up their phone:
 
           &lt;p class=&quot;lead&quot;&gt;
 
-         &lt;b&gt; 1. &lt;/b&gt; An easy way to get a simple a status update &lt;p&gt;
+         &lt;b&gt; 1. &lt;/b&gt; An easy way to get a simple a status update &lt;/p&gt;
 
           &lt;p class=&quot;lead&quot;&gt;
 
-         &lt;b&gt;  2. &lt;/b&gt; An easy way to check in with everyone without calling them individually &lt;p&gt;
+         &lt;b&gt;  2. &lt;/b&gt; An easy way to check in with everyone without calling them individually &lt;/p&gt;
 
           &lt;p class=&quot;lead&quot;&gt;
 
@@ -966,7 +936,7 @@
 
           &lt;p class=&quot;lead&quot;&gt;
 
-          &lt;b&gt;4. &lt;/b&gt;A way to make sure their phone isn't dead&lt;p&gt;
+          &lt;b&gt;4. &lt;/b&gt;A way to make sure their phone isn't dead&lt;/p&gt;
 
         &lt;/p&gt;   
 
@@ -982,9 +952,17 @@
          &lt;p class=&quot;lead&quot;&gt; With that in mind, it became clear to me we weren't here to build yet another social media app. Having a social network was only the means to our end of which was making it easier for college students to look after their friends. We didn't need to create our own user id system, if we integrate facebook profiles using their SDK. &lt;/p&gt;
 
          &lt;p class=&quot;lead&quot;&gt;
-          The key drawback to with leveraging existing profiles is potential concerns over privacy. Our remedy was a system where formed groups only last until the next morning. To use the app again, a new group must be created. To minimize friction in this process, we included recent and nearby friends at the top of the contact list.&lt;p&gt;
+          The key drawback to with leveraging existing profiles is potential concerns over user privacy. Our remedy was a system where formed groups only last until the next morning. To use the app again, a new group must be created. To minimize friction in this process, we included recent and nearby friends at the top of the contact list.&lt;p&gt;
            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/notificationalert.jpg&quot; alt=&quot;Jeff&quot; /&gt;
            &lt;p class=&quot;caption&quot;&gt; Users seeking privacy can leave the group early&lt;/p&gt;
+
+
+                       &lt;h1 class=&quot;title-main-about&quot;&gt;Creating a distinct visual style&lt;/h1&gt;  
+
+                     &lt;p class=&quot;lead&quot;&gt; Inclusiveness was a major theme throughout both Chimehack and the mission our technology. Using our app is essentially making a pact within your friends. To embody this feeling of warmth, unity, and trust in a visual language, I designed a logo with a symmetrical heart pattern that blends warmly together. &lt;/p&gt;
+
+
+
 
 
         &lt;h1 class=&quot;title-main-about&quot;&gt;Collaborating with engineers&lt;/h1&gt;  
@@ -1012,9 +990,9 @@
 
         &lt;p class=&quot;lead&quot;&gt; We built this app because this was a tool missing from our everyday lives. For the rest of the summer we would often use it as a tool to ping and find eachother. Since then, similar apps such as Friend Finder and Companion have made their way into the market. &lt;/p&gt;
 
-        &lt;p class=&quot;lead&quot;&gt; In retrospect, the technology wasn't earth shattering, but this is a great example of how fast a talented team can work decisively when there is good chemistry. In one weekend, we shipped a product that would take a company at least half a year to assemble.&lt;/p&gt;
+        &lt;p class=&quot;lead&quot;&gt; In retrospect, the technology wasn't earth shattering, but this is a great example of how fast a talented team can work decisively when there is good chemistry. In one weekend, we shipped a polished product that could have taken some people half a year.&lt;/p&gt;
              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/asone/asonetest3.gif&quot; alt=&quot;Jeff&quot; /&gt;
-             &lt;p class=&quot;caption&quot;&gt; Harmony is an important principle in motion design &lt;/p&gt;
+             &lt;p class=&quot;caption&quot;&gt; Some of the minor polish that I'm proud of &lt;/p&gt;
 
 
 
@@ -1103,7 +1081,7 @@
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/project-item/As-One/</link>
@@ -1129,7 +1107,7 @@ project-title: Wifi Beerbong
 
 
 
-      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+      &lt;div class=&quot;col-xs-12&quot;&gt;
 
 
              &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Wifi Beerbong&lt;/h1&gt;
@@ -1318,10 +1296,10 @@ project-title: Wifi Beerbong
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
-      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+      &lt;div class=&quot;col-xs-12&quot;&gt;
 
              &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Advanced UX Design&lt;/h1&gt;
-          &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Here's a project of mine from working at &lt;b&gt;Mercedes-Benz R&amp;amp;D North America&lt;/b&gt;.  The R&amp;amp;D focus is on innovations such as fuelcell, self-driving, 3d graphics, and advanced design. As with all super cool projects I'm under an NDA, so instead I'll highlight the process and problems surrounding my AI project. &lt;/i&gt;&lt;/p&gt;
+          &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; A project from my time at &lt;b&gt;Mercedes-Benz R&amp;amp;D North America&lt;/b&gt;.  The R&amp;amp;D focus is on innovations such as fuelcell, self-driving, 3d graphics, and advanced design. As with all super cool projects I'm under an NDA, so instead I'll highlight the process and problems surrounding my AI project. &lt;/i&gt;&lt;/p&gt;
 
 
 
@@ -1554,8 +1532,6 @@ project-title: Wifi Beerbong
                   &lt;/div&gt; --&gt;
 
                   &lt;/div&gt;
-
-  &amp;lt;/div&amp;gt;
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
@@ -1572,12 +1548,12 @@ project-title: Wifi Beerbong
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
-      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+      &lt;div class=&quot;col-xs-12 &quot;&gt;
 
         &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; BenzPay&lt;/h1&gt;
 
         &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; This is the project that caught the attention of Daimler's board members. We had the chance to meet Dr. Z as well as all the other executives during their yearly meeting. They were extremely impressed, and subsequently what lead me to Mercedes.&lt;/i&gt; &lt;/p&gt;
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/new/resting_screen-169.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
          &lt;h1 class=&quot;title-main-about&quot;&gt;Overview&lt;/h1&gt;
 
          &lt;p class=&quot;lead&quot;&gt;
@@ -1589,23 +1565,24 @@ project-title: Wifi Beerbong
 
 
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Aligning the vision with the brand &lt;/h1&gt;
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Vision &lt;/h1&gt;
 
          &lt;p class=&quot;lead&quot;&gt; For the Mercedes driver, time is the only currency that matters. Yet when leaving a parking garage or passing a toll booth, time is still wasted fumbling for coins and credit cards.
          We're not getting from point A to point B in the fastest way possible. So we created Benzpay to move the point of sale into the car.&lt;/p&gt;
-          &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-          &lt;p class=&quot;caption&quot;&gt; The future of cars is wildly uncertain, however time will always be money  &lt;/p&gt;
+         &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+
+          &lt;p class=&quot;caption&quot;&gt; Transaction history &lt;/p&gt;
 
          &lt;h1 class=&quot;title-main-about&quot;&gt; Research and planning&lt;/h1&gt;
 
-         &lt;p class=&quot;lead&quot;&gt; Knowing senior management has a short attention span, so I designed our prototype with three clear use cases in mind.
+         &lt;p class=&quot;lead&quot;&gt; Knowing senior management has a short attention span, I designed our prototype with three clear use cases in mind.
 
-          Speaking to drivers and industry experts, it became clear gas and parking were two popular use cases. For the third use case, it was important to be creative and take a risk on a use case a little more out there.&lt;p&gt;
+          Speaking to drivers and industry experts, it became clear gas and parking were two popular use cases. For the third use case, I wanted to pitch something more out there and more memorable.&lt;p&gt;
           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/storyboard2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
           &lt;p class=&quot;caption&quot;&gt; Drafting a storyboard helped convey a day in the life with Benzpay to stakeholders&lt;/p&gt;
 
 
-           &lt;h1 class=&quot;title-main-about&quot;&gt; Taking a risk &lt;/h1&gt;
+           &lt;!-- &lt;h1 class=&quot;title-main-about&quot;&gt; Taking a risk &lt;/h1&gt;
 
           &lt;p class=&quot;lead&quot;&gt;
           Not everyone was a fan of going with &quot;events&quot; instead of &quot;toll booth&quot; but here is my reasoning: (1) Payment solutions for toll booths such as FasTrak already exist. (2) It's one thing to make your life easier, it's another to make it more interesting. I want to appeal to the emotional side of the product. (3) Completing event transactions on ticketmaster or eventbrite requires no major external infrastructure.
@@ -1613,14 +1590,14 @@ project-title: Wifi Beerbong
 
                 &lt;p&gt;
 
-            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+            &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/benzpay/a4.jpg&quot; alt=&quot;Jeff&quot; &gt;
             &lt;p class=&quot;caption&quot;&gt; The event feature allows passengers to plan and purchase from the car &lt;/p&gt;
+ --&gt;
 
 
 
 
-
-          &lt;h1 class=&quot;title-main-about&quot;&gt; Interface design &lt;/h1&gt;    
+          &lt;!-- &lt;h1 class=&quot;title-main-about&quot;&gt; Interface design &lt;/h1&gt;    
 
 
 
@@ -1629,30 +1606,30 @@ project-title: Wifi Beerbong
 
         &lt;p class=&quot;lead&quot;&gt;  
         That's why I made the navigation bar visible at all times. The drawback is this takes up a lot of valuable space on the interface. My solution was a bar with a smaller footprint. I achieved this by increasing the background transparency and reducing icon clutter, with the compromise being that icons are no longer labelled.   &lt;p&gt;
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-        &lt;p class=&quot;caption&quot;&gt; At the time, flat UI design was considered outlandish by many car manufactures. &lt;/p&gt;
+        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a6.jpg&quot; alt=&quot;Jeff&quot; &gt;
+        &lt;p class=&quot;caption&quot;&gt; At the time, flat UI design was considered outlandish by many car manufactures. &lt;/p&gt; --&gt;
 
 
-
+&lt;!--
          &lt;h1 class=&quot;title-main-about&quot;&gt; User experience&lt;/h1&gt;    
 
 
 
         &lt;p class=&quot;lead&quot;&gt;  
         Typography and layout are especially important factors for a safe driving experience. I used a variation of color, contrast, and weight to distinguish what really matters at a glance from details that matter on a closer read.
-       &lt;p&gt;
+       &lt;p&gt; --&gt;
 
 
-
+&lt;!--
               &lt;p class=&quot;lead&quot;&gt;
                 An example of this can be seen in the payment history view. The first thing the driver sees is the amount paid followed by the vendor name. Payment details such as credit card number and bitcoin address are more confidential and significantly less visible from a distance.  &lt;p&gt;
 
-                &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-                &lt;p class=&quot;caption&quot;&gt; In the prototype, payments were demonstrated with simple bitcoin transactions  &lt;/p&gt;
+                &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/benzpay/a5.jpg&quot; alt=&quot;Jeff&quot; &gt;
+                &lt;p class=&quot;caption&quot;&gt; In the prototype, payments were demonstrated with simple bitcoin transactions  &lt;/p&gt; --&gt;
 
 
 
-        &lt;h1 class=&quot;title-main-about&quot;&gt; Mapping interaction with existing hardware &lt;/h1&gt;   
+        &lt;h1 class=&quot;title-main-about&quot;&gt; Interaction &lt;/h1&gt;   
 
 
 
@@ -1797,7 +1774,7 @@ project-title: Wifi Beerbong
 
 
       &lt;/div&gt;
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Wed, 01 Jan 2003 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/project-item/BenzPay/</link>
@@ -1821,7 +1798,7 @@ project-title: Music Videos
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
 
-      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+      &lt;div class=&quot;col-xs-12&quot;&gt;
          &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Videos &lt;/h1&gt;
         &lt;!-- &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; I used to shoot music videos in college
          &lt;/i&gt; &lt;/p&gt; --&gt;
@@ -1965,7 +1942,7 @@ project-title: Music Videos
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
 
-      &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+      &lt;div class=&quot;col-xs-12&quot;&gt;
       &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; 1972 Firebird &lt;/h1&gt;
             &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; When I was a freshmen in college, I bought a muscle car with holes in the floor and worms in the seats.&lt;/i&gt;&lt;/p&gt;
 

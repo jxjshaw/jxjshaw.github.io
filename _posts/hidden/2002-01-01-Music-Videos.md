@@ -10,7 +10,7 @@ project-title: Music Videos
   <div class="description">
     <div class="row text-left">
 
-      <div class="col-sm-10 col-sm-offset-1">
+      <div class="col-xs-12">
          <h1 class="title-main-about" id="projectIntro"> Videos </h1>
         <!-- <p class="lead"> <i> I used to shoot music videos in college
          </i> </p> -->
