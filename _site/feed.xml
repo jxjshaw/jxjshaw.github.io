@@ -5,8 +5,8 @@
     <description>Jeff Shaw's portfolio featuring interaction user interface and user experience design.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 May 2018 21:56:51 -0700</pubDate>
-    <lastBuildDate>Sun, 20 May 2018 21:56:51 -0700</lastBuildDate>
+    <pubDate>Mon, 21 May 2018 01:03:28 -0700</pubDate>
+    <lastBuildDate>Mon, 21 May 2018 01:03:28 -0700</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -527,7 +527,14 @@
     
       <item>
         <title>Fed Up</title>
-        <description>&lt;div class=&quot;container&quot;&gt;
+        <description>&lt;!-- ---
+layout: post
+categories: project-item
+img-path: images/mj4.gif
+project-title: Mobile Justice
+--- --&gt;
+
+&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
       &lt;div class=&quot;col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2&quot;&gt;
@@ -869,6 +876,137 @@
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2006 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/Fed-Up/</link>
+        <guid isPermaLink="true">http://localhost:4000/Fed-Up/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Fed Up</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;description&quot;&gt;
+    &lt;div class=&quot;row text-left&quot;&gt;
+      &lt;div class=&quot;col-sm-12 &quot;&gt;
+
+
+
+             &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Febreeze &lt;/h1&gt;
+            &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Winning project at the P&amp;amp;G Febreeze hackathon. The number of pointless smart home devices is getting out of hand. What could you possibly do with a wifi enabled air refreshener? The solution we arrived at strings a variety scattered devices together to create a magical experience. &lt;/i&gt;&lt;/p&gt;
+
+
+
+
+            &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+                        &lt;iframe src=&quot;https://player.vimeo.com/video/271041279&quot; width=&quot;405&quot; height=&quot;720&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+                        &lt;p class=&quot;caption&quot;&gt; Hackathon demo &lt;/p&gt;
+
+                       &lt;p class=&quot;lead&quot;&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+
+           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/febreeze/main.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;p class=&quot;caption&quot;&gt; I was heavily inspired by patterns used in cinematic and travel apps.  &lt;/p&gt;
+
+           &lt;p class=&quot;lead&quot;&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+
+
+           &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/febreeze/details4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
+            &lt;p class=&quot;caption&quot;&gt; The destinations are hand selected, but the environment is pulled live from Dark Sky and adjusted for comfort &lt;/p&gt;
+
+            &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+
+            &lt;iframe src=&quot;https://player.vimeo.com/video/271046012&quot; width=&quot;405&quot; height=&quot;720&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+
+
+
+
+
+&lt;!-- nav  --&gt;
+
+
+           &lt;div class=&quot;fnav&quot;&gt;
+
+            &lt;div class=&quot;col-sm-12 col-sm-offset-0 text-center&quot;&gt;
+
+               &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
+             More Stuff &lt;/h1&gt;
+
+
+           &lt;/div&gt;
+
+             &lt;div class=&quot;row text-center&quot;&gt;
+
+
+
+                    &lt;div class=&quot;img-responsive center-block&quot;&gt;
+
+                      &lt;div class=&quot;iconbox&quot;&gt;
+
+                        &lt;div class=&quot;name-footer&quot;&gt;
+                           &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
+                           &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
+                               &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                        &lt;/div&gt;
+
+
+                          &lt;div class=&quot;name-footer&quot;&gt;
+                           &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
+                           &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
+                               &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                        &lt;/div&gt;
+
+
+                           &lt;div class=&quot;name-footer&quot;&gt;
+                           &lt;a href=&quot;/project-item/As-One/&quot;&gt;
+                           &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
+                               &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                        &lt;/div&gt;
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+                           &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
+                           &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
+                               &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                        &lt;/div&gt;
+
+
+
+&lt;!--
+                         &lt;div class=&quot;name-footer&quot;&gt;
+                           &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
+                           &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
+                               &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                        &lt;/div&gt; --&gt;
+
+                          &lt;div class=&quot;name-footer&quot;&gt;
+                           &lt;a href=&quot;/&quot;&gt;
+                           &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
+                               &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                        &lt;/div&gt;
+
+                 &lt;/div&gt;
+                &lt;/div&gt;
+               &lt;/div&gt;
+
+
+
+
+
+
+
+        &lt;/div&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Sun, 01 Jan 2006 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/project-item/Fed-Up/</link>
@@ -1932,138 +2070,6 @@ project-title: Music Videos
         <link>http://localhost:4000/Music-Videos/</link>
         <guid isPermaLink="true">http://localhost:4000/Music-Videos/</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>Firebird</title>
-        <description>&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;description&quot;&gt;
-    &lt;div class=&quot;row text-left&quot;&gt;
-
-      &lt;div class=&quot;col-xs-12&quot;&gt;
-      &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; 1972 Firebird &lt;/h1&gt;
-            &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; When I was a freshmen in college, I bought a muscle car with holes in the floor and worms in the seats.&lt;/i&gt;&lt;/p&gt;
-
-
-
-       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r1.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-       &lt;p class=&quot;caption&quot;&gt; I rebuilt the motor in my dorm parking lot. Me retapping an engine block thread: &lt;/p&gt;
-
-       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-       &lt;p class=&quot;caption&quot;&gt; My hallmates complained it always smelled like gasoline &lt;/p&gt;
-
-       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r7.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-       &lt;p class=&quot;caption&quot;&gt; At least I didn't set the dorm on fire &lt;/p&gt;
-
-       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r3.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-       &lt;p class=&quot;caption&quot;&gt; Rewiring all the electronics &lt;/p&gt;
-
-       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r4.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-        &lt;p class=&quot;caption&quot;&gt; Made my own dash out of pine and a segment display&lt;/p&gt;
-
-       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r5.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-       &lt;p class=&quot;caption&quot;&gt; I usually drive it around without the hood &lt;/p&gt;
-
-       &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r6.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-       &lt;p class=&quot;caption&quot;&gt; UPDATE: I have a hood now &lt;/p&gt;
-
-        &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/firebird/r8.jpg&quot; alt=&quot;Jeff&quot; /&gt;
-
-        &lt;p class=&quot;caption&quot;&gt; TLDR I like cars 😊 &lt;/p&gt;
-
-
-         &lt;!-- DESKTOP FOOTER NAV --&gt;
-
-              &lt;div class=&quot;fnav&quot;&gt;
-
-               &lt;div class=&quot;col-sm-12 col-sm-offset-0 text-center&quot;&gt;
-
-                  &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
-                More Stuff &lt;/h1&gt;
-
-
-              &lt;/div&gt;
-
-                &lt;div class=&quot;row text-center&quot;&gt;
-
-
-
-                       &lt;div class=&quot;img-responsive center-block&quot;&gt;
-
-                         &lt;div class=&quot;iconbox&quot;&gt;
-
-                           &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-
-                           &lt;/div&gt;
-
-
-                             &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-
-                           &lt;/div&gt;
-
-
-                              &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/As-One/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-
-                           &lt;/div&gt;
-
-                                 &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-
-                           &lt;/div&gt;
-
-
-
-&lt;!--
-                            &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-
-                           &lt;/div&gt; --&gt;
-
-                             &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-
-                           &lt;/div&gt;
-
-
-
-
-
-
-     &lt;/div&gt;
-   &lt;/div&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-</description>
-        <pubDate>Tue, 01 Jan 2002 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/project-item/Firebird/</link>
-        <guid isPermaLink="true">http://localhost:4000/project-item/Firebird/</guid>
-        
-        
-        <category>project-item</category>
         
       </item>
     
