@@ -5,8 +5,8 @@
     <description>Jeff Shaw's portfolio featuring interaction user interface and user experience design.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 May 2018 01:03:28 -0700</pubDate>
-    <lastBuildDate>Mon, 21 May 2018 01:03:28 -0700</lastBuildDate>
+    <pubDate>Thu, 04 Jul 2019 14:36:15 -0700</pubDate>
+    <lastBuildDate>Thu, 04 Jul 2019 14:36:15 -0700</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -22,7 +22,7 @@
 
               &lt;!-- Intro --&gt;
               &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Munchery &lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Munchery cooks and delivers chilled food to your door. With over $125M in funding, it's one of the larger startups in the highly competitive food delivery market. As one of the two product designers, I was responsible for the mobile experience, conversion and a/b testing on web, and efforts around evolving our design language. &lt;/i&gt;&lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Munchery cooks and delivers chilled food to your door. I worked across our iOS, android, and web commerce products.  &lt;/i&gt;&lt;/p&gt;
 
               &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/context.jpg&quot; alt=&quot;Jeff&quot; /&gt;
               &lt;!-- &lt;p class=&quot;caption&quot;&gt; Mixergy has a strong online community so setting up user interviews was easy &lt;/p&gt; --&gt;
@@ -34,7 +34,7 @@
                 &lt;!-- Despite all the surprsies and uncertainy that comes with being a struggling startup, the strongest memory I have is from my first week at munchery during a QA with a mobiel engineer.  --&gt;
                 &lt;p class=&quot;lead&quot;&gt;
 
-                I was responsible for our mobile designs. Our goals were around increasing order frequency, building a rich connection between the user and the food. Worked closely with mobile engineers to slowly refine the apps, gradually raising the app store rating to 4.7 stars with top 200 downloads in the app store for its category. &lt;/p&gt;
+                In addition to increasing order frequency, I worked closely with our mobile engineers to elevate our culinary experience. Since joining we gradually raised the app store rating from 4.3 to 4.7 stars, rising to the list of 200 most downloads in the apple store for food &amp;amp; drink  &lt;/p&gt;
 
                 &lt;!--
                                 The strongest memory I have with Munchery is an interaction I had with a mobile engineer during a QA. It was the first feature I handed off, so I had something to prove and wanted everything to be perfect. and going back and forth about the fontsize and letterspacing on tablet. Tablet is something we don't prioritize, and so naturally the body text was slightly off. I apologized for the trouble it will take to make style changes to tablet independetly. But he told me it's okay because he's here to make 5 star apps. Since then our relationship has revovled around making 5 star apps. Whenever we're stuck on a decision I go back to making a5 star app. Admittedly sometimes we loose scope and bite off more than we can chew, but it's the commitment to craft and building sometinge exceptional that really inspires me to bring my best. --&gt;
@@ -54,7 +54,7 @@
             &lt;!-- Menu A/B test --&gt;
               &lt;h1 class=&quot;title-main-about&quot;&gt;# Performance and conversion&lt;/h1&gt;
 
-              &lt;p class=&quot;lead&quot;&gt; When I joined leveraging data was my weakness, but it eventually became my strength. Designed and executed dozens of a/b and multi arm bandit experiments throughout different landing pages, menus, checkout pages. Some wins were easy (brought homepage conversion up from 30% to 40% for ~8-10k users/day) while others were counterintuitive flops. &lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; When I joined leveraging data was my weakness, but it eventually became my strength. Designed and executed dozens of a/b and multi arm bandit experiments throughout different landing pages, menus, checkout pages. Some wins were easy (increased homepage conversion from 30% to 40% for ~8-10k users/day) but many were dead ends with insignificant findings. &lt;/p&gt;
 
               &lt;div class=&quot;your-class&quot;&gt;
                 &lt;div&gt;  &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/munchery/sidecart/d.jpg&quot; alt=&quot;Jeff&quot; /&gt;&lt;/div&gt;
@@ -67,7 +67,7 @@
 
               &lt;h1 class=&quot;title-main-about&quot;&gt;# Personal growth &lt;/h1&gt;
 
-              &lt;p class=&quot;lead&quot;&gt; I will always look back at Munchery and the people there very fondly. It was a great place to learn about product ownership and how designers deliver value in a revenue driven business. The product was popular enough that my contribution was very tangible and easy to quantify. Yet the office was small enough that I developed unforgettable friendships while refining my craft across so many different areas of design. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+              &lt;p class=&quot;lead&quot;&gt; I will always look back at Munchery and the time with our team very fondly. It was a great place to learn about product ownership and how design adds its value in a revenue driven environment. The product was popular enough that my contribution was very tangible and easy to quantify. yet the office was small enough that I developed unforgettable friendships while refining my craft across so many different areas of design. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 
                 &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/munchery/process/appstore2.jpg&quot; alt=&quot;Jeff&quot; /&gt;
@@ -179,6 +179,193 @@
       </item>
     
       <item>
+        <title>Cruise</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;description&quot;&gt;
+    &lt;div class=&quot;row text-left&quot;&gt;
+      &lt;div class=&quot;col-xs-12&quot;&gt;
+       &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; asOne &lt;/h1&gt;
+
+          &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; Webviz is an open source robotics visualization tool.   &lt;/i&gt; &lt;/p&gt;
+
+              &lt;video class=&quot;content-image&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; poster=&quot;https://open-source-webviz-ui.s3-us-west-2.amazonaws.com/landing/fullsmall.gif&quot;&gt;
+                &lt;source src=&quot;https://open-source-webviz-ui.s3-us-west-2.amazonaws.com/landing/rawvelodyne.webm&quot; type=&quot;video/webm&quot; /&gt;
+            &lt;/video&gt;
+
+          &lt;p class=&quot;caption&quot;&gt; Caption &lt;/p&gt;
+
+          
+
+
+
+
+
+
+       &lt;h1 class=&quot;title-main-about&quot;&gt;Vision&lt;/h1&gt;
+
+
+      &lt;p class=&quot;lead&quot;&gt;asOne is a low effort way to communicate with people you are out with. Instead of overwhelming chat groups, we share information about each member's location, battery level, and the time they want to go home without waiting for a response. &lt;/p&gt;
+
+      &lt;img class=&quot;content-image&quot; src=&quot;https://miro.medium.com/max/1000/1*ptDKfqj4fJfXotmXV3SqRA.gif&quot; alt=&quot;Jeff&quot; /&gt;
+      &lt;p class=&quot;caption&quot;&gt; Importing bag files &lt;/p&gt;
+        &lt;!-- ADD notebook image here --&gt;
+
+
+
+        
+            &lt;!-- &lt;img class=&quot;content-image&quot;  src=&quot;../../images/projects/asone/new/tap.jpg&quot; alt=&quot;Jeff&quot; &gt;
+            &lt;p class=&quot;caption&quot;&gt; The main goal was taking the friction out of communication &lt;/p&gt; --&gt;
+
+
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Creating trust and protecting privacy&lt;/h1&gt;  
+
+         &lt;p class=&quot;lead&quot;&gt; Usability and the onboarding process was a key concern in my design. Nobody was going have this app at their fingertips, if it was hard to sign up, log in, and immediately delivering value. Because we were at twitter, we received fantastic feedback about the challenges facing products that only works when many users buy into the system. &lt;p&gt;
+
+
+
+         &lt;p class=&quot;lead&quot;&gt;
+          The key drawback to with leveraging existing profiles is potential concerns over user privacy. Our remedy was a system where formed groups only last until the next morning. To use the app again, a new group must be created. To minimize friction in this process, we included recent and nearby friends at the top of the contact list.&lt;p&gt;
+           &lt;img class=&quot;content-image&quot; src=&quot;https://miro.medium.com/max/1000/1*5_znlSZIb8QXUyHG3L1tDw.gif&quot; alt=&quot;Jeff&quot; /&gt;
+           &lt;p class=&quot;caption&quot;&gt; Users seeking privacy can leave the group early&lt;/p&gt;
+
+
+                       &lt;h1 class=&quot;title-main-about&quot;&gt;Creating a distinct visual style&lt;/h1&gt;  
+
+                     &lt;p class=&quot;lead&quot;&gt; Inclusiveness was a major theme throughout both Chimehack and the mission our technology. Using our app is essentially making a pact within your friends. To embody this feeling of warmth, unity, and trust in a visual language, I designed a logo with a symmetrical heart pattern that blends warmly together. &lt;/p&gt;
+
+
+
+
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Collaborating with engineers&lt;/h1&gt;  
+
+        &lt;p class=&quot;lead&quot;&gt; Usually when everyone's ready to go home, there's that one person that nobody can find. So I designed a detailed extension to the group view. Tapping on the friend brings you to more actions such as sending a push notification and enabling audio. Additionally we automatically set the true north of the inline map to that of the selected friend. &lt;/p&gt;
+         &lt;img class=&quot;content-image&quot; src=&quot;https://miro.medium.com/max/1400/1*ZfV3rnmHAVFRYnYinYI9bg.gif&quot; alt=&quot;Jeff&quot; /&gt;
+         &lt;p class=&quot;caption&quot;&gt; The individual dash combines visual data with a panel of actions&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+       &lt;!--  &lt;img class=&quot;content-image-vertical&quot;  src=&quot;../../images/asone.gif&quot; alt=&quot;Jeff&quot; &gt;    --&gt;
+
+
+        &lt;h1 class=&quot;title-main-about&quot;&gt;Conclusion&lt;/h1&gt;
+
+        &lt;p class=&quot;lead&quot;&gt; We built this app because this was a tool missing from our everyday lives. For the rest of the summer we would often use it as a tool to ping and find eachother. Since then, similar apps such as Friend Finder and Companion have made their way into the market. &lt;/p&gt;
+
+        &lt;p class=&quot;lead&quot;&gt; In retrospect, the technology wasn't earth shattering, but this is a great example of how fast a talented team can work decisively when there is good chemistry. In one weekend, we shipped a polished product that could have taken some people half a year.&lt;/p&gt;
+             &lt;img class=&quot;content-image&quot; src=&quot;https://miro.medium.com/max/2000/1*Qb-BK54ltSEB5W066yDu-g.gif&quot; alt=&quot;Jeff&quot; /&gt;
+             &lt;p class=&quot;caption&quot;&gt; Some of the minor polish that I'm proud of &lt;/p&gt;
+
+
+
+
+
+  &lt;!-- DESKTOP FOOTER NAV --&gt;
+
+              &lt;div class=&quot;fnav&quot;&gt;
+
+               &lt;div class=&quot;col-sm-12 col-sm-offset-0 text-center&quot;&gt;
+
+                  &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
+                More Stuff &lt;/h1&gt;
+
+
+              &lt;/div&gt;
+
+                &lt;div class=&quot;row text-center&quot;&gt;
+
+
+
+                       &lt;div class=&quot;img-responsive center-block&quot;&gt;
+
+                         &lt;div class=&quot;iconbox&quot;&gt;
+
+                           &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                           &lt;/div&gt;
+
+
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                           &lt;/div&gt;
+
+
+                              &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/As-One/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                           &lt;/div&gt;
+
+                                 &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                           &lt;/div&gt;
+
+
+
+&lt;!--
+                            &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                           &lt;/div&gt; --&gt;
+
+                             &lt;div class=&quot;name-footer&quot;&gt;
+                              &lt;a href=&quot;/&quot;&gt;
+                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
+                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
+
+                           &lt;/div&gt;
+
+
+
+       &lt;!--  &lt;h1 class=&quot;title-main-about&quot;&gt;More about Chimehack&lt;/h1&gt;
+        &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+        &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/86ECVBcPWcg&quot;&gt;&lt;/iframe&gt;
+      &lt;/div&gt; --&gt;
+        &lt;/div&gt;
+
+
+
+
+
+
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/project-item/Cruise/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-item/Cruise/</guid>
+        
+        
+        <category>project-item</category>
+        
+      </item>
+    
+      <item>
         <title>Mirror</title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt;
@@ -215,9 +402,9 @@
          &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/25.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
          &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/26.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
          &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/27.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/28.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/29.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
-         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/30.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
+         &lt;!-- &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/28.jpeg&quot; alt=&quot;Jeff Shaw&quot;&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/29.jpeg&quot; alt=&quot;Jeff Shaw&quot;&gt;
+         &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/30.jpeg&quot; alt=&quot;Jeff Shaw&quot;&gt; --&gt;
          &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/31.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
          &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/33.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
          &lt;img class=&quot;carousel-image&quot; src=&quot;../../images/projects/mirror/32.jpeg&quot; alt=&quot;Jeff Shaw&quot; /&gt;
@@ -248,13 +435,13 @@
                 &lt;/div&gt;
 
 
-                &lt;div class=&quot;name-footer&quot;&gt;
+                &lt;!-- &lt;div class=&quot;name-footer&quot;&gt;
                   &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
-                    &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
-                    &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt;
+                    &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot;&gt;
+                    &lt;p&gt;&lt;b&gt;&lt;br&gt;Airquail&lt;/b&gt;&lt;/p&gt;
                   &lt;/a&gt;
 
-                &lt;/div&gt;
+                &lt;/div&gt; --&gt;
 
 
                 &lt;div class=&quot;name-footer&quot;&gt;
@@ -324,20 +511,21 @@
             &lt;p&gt;
 
           &lt;!-- Research --&gt;
-            &lt;h1 class=&quot;title-main-about&quot;&gt; 1. The problem of air quality &lt;/h1&gt;
+            &lt;h1 class=&quot;title-main-about&quot;&gt; 1. The Problem of Air Quality &lt;/h1&gt;
             &lt;p class=&quot;lead&quot;&gt;
               As a team, we grew up in some of the world's most polluted cities -- Shanghai, Bangalore, Warsaw, and the Central Valley. We knew people wanted clean air, but we wanted to figure out how to show people how clean their air was. &lt;/p&gt; &lt;p class=&quot;lead&quot;&gt; From a product stand point, my biggest challenge was taking people's conception of clean air, breaking that into physically measurable units for our hardware, and then turning those units back into naturally intuitive indicators of clean air for our users.
             &lt;/p&gt;
-            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/new/team.jpg&quot; alt=&quot;Market research&quot; /&gt;
+              &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/new/information_architecture.jpg&quot; alt=&quot;Market research&quot; /&gt;
+
             &lt;p class=&quot;caption&quot;&gt; Collecting feedback from customers helped us iterate &lt;/p&gt;
 
           &lt;!-- Architecture --&gt;
-            &lt;h1 class=&quot;title-main-about&quot;&gt; 2. Architecture and integration &lt;/h1&gt;
+            &lt;h1 class=&quot;title-main-about&quot;&gt; 2. Ecosystem and Integration &lt;/h1&gt;
             &lt;p class=&quot;lead&quot;&gt;
               IoT devices become powerful when integrated into a cohesive environment. It was important for me to map out early on how the device interfaces with other home appliances as well as understand what overlaps there are between the readings from our device and the readings from public weather stations.
             &lt;/p&gt;
-            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/new/information_architecture.jpg&quot; alt=&quot;Market research&quot; /&gt;
-            &lt;p class=&quot;caption&quot;&gt; Diagram outlining general information architecture &lt;/p&gt;
+            &lt;img class=&quot;content-image&quot; src=&quot;../../images/projects/airquail/tbtAIRQUAIL223cropped.jpg&quot; alt=&quot;Market research&quot; /&gt;
+            &lt;p class=&quot;caption&quot;&gt; Testing our readings with our iOS app &lt;/p&gt;
 
           &lt;!-- Product Design --&gt;
             &lt;h1 class=&quot;title-main-about&quot;&gt; 3. User Interface Design &lt;/h1&gt;
@@ -1430,7 +1618,14 @@ project-title: Wifi Beerbong
     
       <item>
         <title>Mercedes</title>
-        <description>&lt;div class=&quot;container&quot;&gt;
+        <description>&lt;!-- ---
+layout: post
+categories: project-item
+img-path: images/benzux.gif
+project-title: Mercedes
+--- --&gt;
+
+&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;description&quot;&gt;
     &lt;div class=&quot;row text-left&quot;&gt;
       &lt;div class=&quot;col-xs-12&quot;&gt;
@@ -1672,11 +1867,9 @@ project-title: Wifi Beerbong
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/project-item/Mercedes/</link>
-        <guid isPermaLink="true">http://localhost:4000/project-item/Mercedes/</guid>
+        <link>http://localhost:4000/Mercedes/</link>
+        <guid isPermaLink="true">http://localhost:4000/Mercedes/</guid>
         
-        
-        <category>project-item</category>
         
       </item>
     
@@ -1919,157 +2112,6 @@ project-title: Wifi Beerbong
         
         
         <category>project-item</category>
-        
-      </item>
-    
-      <item>
-        <title>Music Videos</title>
-        <description>&lt;!-- ---
-layout: post
-categories: project-item
-img-path: images/yh.gif
-project-title: Music Videos
---- --&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;description&quot;&gt;
-    &lt;div class=&quot;row text-left&quot;&gt;
-
-      &lt;div class=&quot;col-xs-12&quot;&gt;
-         &lt;h1 class=&quot;title-main-about&quot; id=&quot;projectIntro&quot;&gt; Videos &lt;/h1&gt;
-        &lt;!-- &lt;p class=&quot;lead&quot;&gt; &lt;i&gt; I used to shoot music videos in college
-         &lt;/i&gt; &lt;/p&gt; --&gt;
-
-
-
-
-              &lt;h1 class=&quot;title-main-about&quot;&gt; On the Steps &lt;/h1&gt;
-              &lt;!-- &lt;p class=&quot;lead&quot;&gt; My favorite part about rappers is their work ethic - the hustle, the grind - having a dayjob and hitting the studio at night. I guess it's the same reason I love startups. It's about being young, living your dreams while everyones telling you your stupid. &lt;/p&gt; --&gt;
-
-               &lt;!-- &lt;p class=&quot;lead&quot;&gt;  This track is slow, so everything from the shutter speed to the editing cuts are slow to keep the style smooth. Tighter focal length and careful lighting. &lt;p&gt; --&gt;
-
-
-               &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-                  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/JkA_sGRfyKA&quot;&gt;&lt;/iframe&gt;
-               &lt;/div&gt;
-&lt;!--
-               &lt;h1 class=&quot;title-main-about&quot;&gt; On the Steps &lt;/h1&gt;
-               &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-                  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/JkA_sGRfyKA&quot;&gt;&lt;/iframe&gt;
-               &lt;/div&gt; --&gt;
-
-&lt;!--
-              &lt;h1 class=&quot;title-main-about&quot;&gt; S.O.S. &lt;/h1&gt;
-              &lt;p class=&quot;lead&quot;&gt; In recent years, the most popular rap videos are shot on cropped sensors with tight lenses,  it's a nice raw style. &lt;p&gt;
-
-                 &lt;p class=&quot;lead&quot;&gt;
-                This video looks different because many shots are much wider. Wider lenses are great for high energy shots. Wider lenses allow for greater subject movement across the frame while reducing camera movement and shakiness. &lt;/p&gt;
-
-                 &lt;p class=&quot;lead&quot;&gt;
-                In hindsight the intro I created was too long. For the 10k viewers of the video, half of them probably stopped watching it before the video even started. &lt;/p&gt;
-
-
-
-               &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-                  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/1zxIuoUDaXA&quot;&gt;&lt;/iframe&gt;
-               &lt;/div&gt;
- --&gt;
-
-
-               &lt;h1 class=&quot;title-main-about&quot;&gt; Salad Days &lt;/h1&gt;
-              &lt;!-- &lt;p class=&quot;lead&quot;&gt;
-                 &lt;b&gt; &lt;a href=&quot;http://pickathon.com/&quot;&gt;Pickathon &lt;/a&gt; &lt;/b&gt;
-                is Portland's largest music festival. Like everything in Portland, it's super underground and happens in a forest.&lt;/p&gt; --&gt;
-
-               &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-                  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/VoGNw78eYzc&quot;&gt;&lt;/iframe&gt;
-               &lt;/div&gt;
-
-
-                 &lt;!-- DESKTOP FOOTER NAV --&gt;
-
-              &lt;div class=&quot;fnav&quot;&gt;
-
-               &lt;div class=&quot;col-sm-12 col-sm-offset-0 text-center&quot;&gt;
-
-                  &lt;h1 class=&quot;title-main-about&quot; id=&quot;footer-caption&quot;&gt;
-                More Stuff Projects &lt;/h1&gt;
-
-
-              &lt;/div&gt;
-
-                &lt;div class=&quot;row text-center&quot;&gt;
-
-
-
-                       &lt;div class=&quot;img-responsive center-block&quot;&gt;
-
-                         &lt;div class=&quot;iconbox&quot;&gt;
-
-                           &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/Mercedes/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/benzux.gif&quot; alt=&quot;Mercedes&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Mercedes&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-
-                           &lt;/div&gt;
-
-
-                             &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/AirQuail/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/iot.gif&quot; alt=&quot;AirQuail&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Airquail&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-
-                           &lt;/div&gt;
-
-
-                              &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/As-One/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk2.gif&quot; alt=&quot;asOne&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;asOne&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-
-                           &lt;/div&gt;
-
-                                 &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/BenzPay/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/bpay.gif&quot; alt=&quot;Benzpay&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Benzpay&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-
-                           &lt;/div&gt;
-
-
-
-&lt;!--
-                            &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/project-item/More-Projects/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/kk1.gif&quot; alt=&quot;Other&quot;&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br&gt;More&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-
-                           &lt;/div&gt; --&gt;
-
-                             &lt;div class=&quot;name-footer&quot;&gt;
-                              &lt;a href=&quot;/&quot;&gt;
-                              &lt;img class=&quot;project-gif-footer&quot; src=&quot;../../images/homecircle2.jpg&quot; alt=&quot;Home&quot; /&gt;
-                                  &lt;p&gt;&lt;b&gt;&lt;br /&gt;Home&lt;/b&gt;&lt;/p&gt; &lt;/a&gt;
-
-                           &lt;/div&gt;
-
-                    &lt;/div&gt;
-                   &lt;/div&gt;
-                  &lt;/div&gt;
-
-
-
-
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 01 Jan 2002 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/Music-Videos/</link>
-        <guid isPermaLink="true">http://localhost:4000/Music-Videos/</guid>
-        
         
       </item>
     
