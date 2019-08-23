@@ -74,8 +74,8 @@ p {
   padding-right: 64px;
 }
 
-.container-item-text-full {
-  width: 100%;
+.container-item-text-profile {
+  width: 40%;
 }
 
 .img-item {
@@ -105,7 +105,6 @@ p {
   max-width: 640px;
   font-size: 24px;
   line-height: 32px;
-  padding: 72px;
 }
 
 
@@ -138,11 +137,7 @@ p {
   height: 80px;
 }
 
-canvas, #test {
-  /* /* position: absolute; */
-  z-index: -1;
-  top: 0; */
-}
+
 
 #test {
   
@@ -184,4 +179,11 @@ body {
     font-weight: bold;
     transform: rotate(90deg);
     
+}
+
+canvas {
+  position: absolute;
+  z-index: -1;
+  right: 0;
+  top: 0;
 }
