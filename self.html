@@ -24,6 +24,8 @@
     <meta name="msapplication-TileImage" content="/mstile-144x144.png">
     <meta name="theme-color" content="#000000">
     <link rel="stylesheet" href="./css/main.css">
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/5.0.0/css/font-awesome.min.css"> -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css">
   </head>
 
   <body>
@@ -47,7 +49,7 @@
     </header>
 
         
-    <div class="container-item" id="test"> </div>
+    <div class="container-item container-item-lead" id="test"> </div>
         <div class="container-item">
           <!-- <h1 class="text-about"> 06/<br>28<br>/94 </h1> -->
           <!-- <div class="container-counter">
@@ -64,8 +66,8 @@
                 <span class="text-unit">h</span>
             </div>
           </div> -->
-            <div class="container-item-text-profile profile-text">
-              <h2> I am <span id="percent"> </span> complete</h2>
+            <div class="container-item-text-profile">
+              <h1 class="counter"> Age: <span id="percent"> </span></h1>
               <p class="profile-text">
                 I grew up in rural minnesota
                 hanging out at the gas station,
@@ -89,9 +91,63 @@
                 making new friends. To me these are the inrgredients
                 that make life magical. 
                 </p>
-              </p>
+                
+                <div class="project-col">
+                    <p id="email">                        
+                     <b> <a href="https://www.instagram.com/heyjeffshaw/" target="_blank"> <i class="fab fa-instagram"></i> </a> </b>
+                     <b> <a href="https://github.com/jxjshaw" target="_blank"> <i class="fab fa-github"></i> </a> </b>
+                     <b> <a href="https://www.linkedin.com/in/jeff-shaw-78b30670" target="_blank"> <i class="fab fa-linkedin"></i> </a> </b>
+                     <b> <a href="mailto:sup@heyjeffshaw.com" target="_blank"> <i class="fas fa-envelope"></i> </a> </b>
+            
+                     </p>
+            
+                    </div>
             </div>
-            <div id="profile-p5"></div>
+            <div class="profile-content-container">
+                <div class="profile-content-block"> <img class="img-item profile" src="./assets/images/about/past/music.jpg"> </div>
+               
+              <div class="profile-content-block" id=""><img class="img-item profile" src="./assets/images/about/25yo3.jpg"> </div>
+             
+              <div class="profile-content-block" id="playlist"><iframe id="playlist" src="https://open.spotify.com/embed/playlist/7lgXbDNUTMPUxxbZVF0VvL"  height="416px" width="100%" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
+          
+             
+
+                
+                <!-- <div class="profile-content-block" id="graphics">
+                  </div> -->
+                <div class="profile-content-block" id="playlist">
+                    <img class="img-item profile" src="./assets/images/about/past/fbird.jpg">
+                  </div>
+                  
+                  <div class="profile-content-block" id="playlist"><img class="img-item profile" src="./assets/images/about/car/c3.jpg"></div>
+                  <div class="profile-content-block">
+                      <img class="img-item profile" src="./assets/images/about/past/hills.jpg">
+                  </div>
+                  
+                  
+                <!-- <div class="profile-content-block" id="playlist"><img class="img-item profile" src="./assets/images/about/past/music.jpg"></div> -->
+                <!-- <div class="profile-content-block"><img class="img-item profile" src="./assets/images/about/past/camping.jpg"></div>
+                <div class="profile-content-block" id="playlist"><img class="img-item profile" src="./assets/images/about/car/r7.jpg"></div> -->
+      
+
+                <!-- <div class="profile-content-block" id="playlist">
+                    <img class="img-item profile" src="./assets/images/about/room.jpg">
+                  </div>
+              <div class="profile-content-block">
+                  <img class="img-item profile" src="./assets/images/about/past/hyperloop.jpg">
+              </div> -->
+              
+
+                <!-- <div class="profile-content-block" id="graphics">
+                </div> -->
+              <!-- <div class="profile-content-block" id="">
+                  <img class="img-item profile" src="./assets/images/about/car/r7.jpg">
+              </div>
+              <div class="profile-content-block" id="">
+                  <img class="img-item profile" src="./assets/images/about/music.jpg">
+              </div> -->
+              
+            </div>
 
 <!-- 
             <div class="container-item container-item-lead">
@@ -150,7 +206,9 @@
           // document.getElementById("demo").innerHTML = years +"." + days + ". " + hours + ". "
           // + minutes + ". " + seconds + "... ";
 
-          document.getElementById("percent").innerHTML = journey.toFixed(6)+"%";
+          percent = journey.toFixed(7)
+
+          document.getElementById("percent").innerHTML = percent+"%";
           // document.getElementById("years").innerHTML = years +"";
           // document.getElementById("days").innerHTML = days +"";
           // document.getElementById("hours").innerHTML = hours +"";
@@ -164,50 +222,73 @@
           }
         }, 1000);
 
-        let orbiters = [];
-        function setup(){
-          createCanvas(windowWidth/2,windowHeight/2);
-          angleMode(DEGREES);
-          for(let y = height/80; y < 70; y++){
-            for(let x = 0; x < width/10; x++){
-              orbiters.push(new Orbiter(x*10,y*10,(y+x)*-5));
-            }
+        function makeNumber(number){
+            Math.floor(Math.random(number) * 10);
+            console.log(Math.floor(Math.random() * 10));
           }
-        }
+  
+
+        // let orbiters = [];
+        // function setup(){
+        //   parent = document.querySelector('#graphics');
+        //   parentWidth = parent.offsetWidth;
+        //   parentHeight = parent.offsetHeight;
+        //   console.log(parentWidth);
+        //   var sketchCanvas = createCanvas(parentWidth,parentHeight);
+        //   sketchCanvas.parent("graphics");
+        //   console.log(sketchCanvas.canvas.width);
+        //   console.log(document.querySelector('#graphics').offsetWidth);
+
+        //   angleMode(DEGREES);
+        //   for(let y = 1; y < height/10; y++){
+        //     for(let x = 1; x < width/10; x++){
+        //       var rand = Math.floor(Math.random() * 2000);
+        //       orbiters.push(new Orbiter(x*10,y*10,(y+x)*-4));
+        //     }
+        //   }
+        // }
 
 
-        function draw(){
-          background(0);
+        // function draw(){
+        //   background(16);
           
-          for(orbit of orbiters){
-            orbit.draw();
-          }
-        }
+        //   for(orbit of orbiters){
+        //     orbit.draw();
+        //   }
+        // }
 
-        class Orbiter{
-          constructor(x,y,a){
-            this.x = x;
-            this.y = y;
-            this.a = a;
-            this.r = 8;
-          }
+        // class Orbiter{
+        //   constructor(x,y,a){
+        //     this.x = x;
+        //     this.y = y;
+        //     this.a = a;
+        //     this.r = 8;
+        //   }
+
+       
           
-          draw(){
-            push();
-            noStroke(0);
-            noFill();
-            translate(this.x,this.y);
-            ellipse(0,0,this.r*4);
+        //   draw(){
+        //     var rand = Math.floor(Math.random() * 4);
+        //     var rand2 = Math.floor(Math.random() * 10);
+        //     var rand250 = Math.floor(Math.random() * 250);
+        //     push();
+        //     noStroke(0);
+        //     noFill();
+        //     translate(this.x,this.y);
+        //     ellipse(0,0,this.r*4);
             
-            let x = this.r*sin(this.a);
-            let y = this.r*cos(this.a);
+        //     let x = this.r*sin(this.a);
+        //     let y = this.r*cos(this.a);
             
-            fill(250,250,250);
-            ellipse(x,y,1);
-            pop();
-            this.a-=3;
-          }
-        }
+        //     fill(250);
+        //     ellipse(x,y,1.5);
+        //     pop();
+        //     this.a-=3;
+        //   }
+        // }
+
+        var el = document.querySelector(".i4ewOd-pzNkMb-haAclf");
+        console.log(el);
         </script>
 
   </body>

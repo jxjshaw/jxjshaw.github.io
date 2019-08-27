@@ -89,13 +89,6 @@ p {
   transition: 0.3s ease;
 }
 
-.profile {
-  width: 10%;
-  object-fit: cover;
-  margin: 4px;
-  /* transform: rotate(180deg); */
-}
-
 
 /* .img-item:hover{
   opacity: 1.0 !important;
@@ -103,8 +96,11 @@ p {
 
 .profile-text {
   max-width: 640px;
-  font-size: 24px;
+  /* font-size: 24px; */
   line-height: 32px;
+  font-weight: 200;
+  font-size: 24px;
+  padding-right: 56px;  
 }
 
 
@@ -140,7 +136,7 @@ p {
 
 
 #test {
-  
+  d
 }
 
 body {
@@ -182,8 +178,66 @@ body {
 }
 
 canvas {
-  position: absolute;
+  
   z-index: -1;
-  right: 0;
-  top: 0;
+  border-radius: 12px;
+
+}
+
+#graphics {
+  /* width: 84%; */
+  /* background-color: red; */
+  /* width: 60%; */
+  /* border-radius: 16px; */
+}
+
+#playlist{
+  /* width: 40%; */
+  border-radius: 12px;
+}
+
+.profile-content-container {
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: fit-content;
+}
+
+.profile-content-block {
+  width: 44%;
+  height: 200px;
+  border-radius: 12px;
+  margin: 8px;
+  background-color: rgba(255,255,255,0.15);
+}
+
+.block-double {
+  height: 480px;
+}
+
+
+.profile {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  /* margin: 4px; */
+  /* transform: rotate(180deg); */
+}
+
+.mapouter, .gmap_canvas {
+  border-radius: 12px;
+}
+
+.i4ewOd-pzNkMb-haAclf {
+  background-color: rgb(24,24,24) !important;
+}
+
+.mapouter {
+  background-color: black;
+  
+}
+
+.counter {
+  font-size: 16px;
 }
