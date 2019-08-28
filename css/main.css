@@ -184,15 +184,7 @@ canvas {
 
 }
 
-#graphics {
-  /* width: 84%; */
-  /* background-color: red; */
-  /* width: 60%; */
-  /* border-radius: 16px; */
-}
-
 #playlist{
-  /* width: 40%; */
   border-radius: 12px;
 }
 
@@ -241,3 +233,75 @@ canvas {
 .counter {
   font-size: 16px;
 }
+
+
+
+@media only screen
+and (max-width : 720px)
+ {
+
+  .container-item {
+    flex-direction: column;
+    /* s */
+  }
+
+  .container-item-lead {
+    margin-top: 92px;
+}
+
+  .container-item-text {
+    max-width: 520px;
+    width: 88%;
+    padding-bottom: 48px;
+  }
+
+
+  /* pinterest */
+  .pinterest>.pic {
+    width: 24%;
+    margin: 0.5%;
+  }
+
+  /* portfolio image */
+  .img-item, .pinterest, 
+  .profile-content-container {
+    width: 100%;
+  }
+
+  .no-text {
+    display: none;
+  }
+
+
+  /* profile stuff clean up */
+
+  .container-item-text-profile {
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  .profile-text, .container-item-text {
+    padding-right: 0;
+  }
+
+  .profile-content-block {
+    width: 100%;
+    height: 80px;
+  }
+
+  
+  /* .profile-content-container {
+    
+  }
+
+  .container-item-text-profile {
+    width: 100%;
+    min-width: 480px;
+  }
+
+  .profile-content-block {
+    width: 100%;
+  } */
+  
+
+ }
