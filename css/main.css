@@ -276,6 +276,7 @@ and (max-width : 720px)
   /* pinterest */
   .pinterest>.pic {
     width: 24%;
+    height: 160px;
     margin: 0.5%;
   }
 
