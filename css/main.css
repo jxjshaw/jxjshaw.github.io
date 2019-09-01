@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: akkurat-mono;
-  src: url(./assets/fonts/Akkurat-Mono.otf); }
+  src: url(../assets/fonts/Akkurat-Mono.otf); }
 @font-face {
   font-family: akkurat;
-  src: url(./assets/fonts/Akkurat-Bold.ttf); }
-
+  src: url(../assets/fonts/Akkurat-Bold.ttf); }
+    
 html {
   background-color: black;
   color: white;
