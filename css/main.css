@@ -26,12 +26,13 @@ header {
   
 }
 
-a, .text-unit {
+a, .text-unit, .counter {
   color: #11FFD4;
   text-decoration: none;
   font-family: akkurat-mono;
-  font-size: 14px;
+  font-size: 12px;
   letter-spacing: 0.2px;
+  letter-spacing: 1.6px;
 }
 
 a:hover {
@@ -45,11 +46,21 @@ header a, footer a {
 h2 {
   font-weight: normal;
    margin: 0;
-   font-size: 28px;
+   font-size: 32px;
+   line-height: 36px;
+   letter-spacing: 0px;
+   margin-block-start: 80px;
+   margin-block-end: 24px;
+   word-break: break-all;
+   text-transform: lowercase;
 }
 
 p {
   font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+  margin-block-start: 16px;
+  margin-block-end: 0px;
 }
 
 .container-projects {
@@ -97,8 +108,8 @@ p {
 .profile-text {
   max-width: 640px;
   /* font-size: 24px; */
-  line-height: 32px;
-  font-weight: 200;
+  line-height: 36px;
+  font-weight: 400;
   font-size: 24px;
   padding-right: 56px;  
 }
@@ -119,8 +130,8 @@ p {
 .pinterest>.pic{
   /* width: 280px;
   height: 280px; */
-  width: 120px;
-  height: 80px;
+  width: 140px;
+  height: 64px;
   display: block;
   margin: 4px;
   border-radius: 4px;
@@ -168,7 +179,7 @@ body {
 
 
 .text-unit {
-    font-size: 14px;
+    /* font-size: 12px; */
     letter-spacing: normal;
     padding-left: 8px;
     /* text-transform: capitalize; */
@@ -231,9 +242,14 @@ canvas {
 }
 
 .counter {
-  font-size: 16px;
+  /* font-size: 14px; */
 }
 
+.theory-text {
+  min-width: 240px;
+  width: 50%;
+  max-width: 340px;
+ }
 
 
 @media only screen
@@ -253,6 +269,7 @@ and (max-width : 720px)
     max-width: 520px;
     width: 88%;
     padding-bottom: 48px;
+    min-width: 0px;
   }
 
 
@@ -286,7 +303,11 @@ and (max-width : 720px)
 
   .profile-content-block {
     width: 100%;
-    height: 80px;
+    height: 160px;
+  }
+
+  .hide {
+    display: none;
   }
 
   
@@ -305,3 +326,14 @@ and (max-width : 720px)
   
 
  }
+
+ .container-item-text > a {
+  /* font-size: 12px; */
+ }
+
+.fab {
+  padding: 4px;
+  padding-bottom: 52px;
+}
+
+
