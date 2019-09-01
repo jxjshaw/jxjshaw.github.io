@@ -52,17 +52,16 @@
     <div class="container-item container-item-lead" id="test"> </div>
         <div class="container-item">
             <div class="container-item-text-profile">
-              <h1 class="counter"> Age: <span id="percent"> </span></h1>
+              <h1 class="counter"> <span id="percent"> </span></h1>
               <p class="profile-text">
                 I grew up in rural minnesota
                 hanging out at the gas station,
                 working on cars, buildings rafts,
                 playing world of warcraft.
-                Two moments 
-                shaped by Plato and the Big Lebowski.
+                Life started to make more sense after coming across Plato and the Big Lebowski.
                 I studied philosophy in school,
                 but it was in design
-                where 
+                where i found the practice of humanities.
               </p>
               <p class="profile-text"> For fun I like learning things like bass and piano.
                   I find peace in harmony, and beauty in tension.
@@ -85,13 +84,13 @@
             </div>
             <div class="profile-content-container">
              <div class="profile-content-block"> <img class="img-item profile" src="./assets/images/about/past/music.jpg"> </div> 
-              <div class="profile-content-block" id=""><img class="img-item profile" src="./assets/images/about/25yo3.jpg"> </div>
+              <div class="profile-content-block hide" id=""><img class="img-item profile" src="./assets/images/about/25yo3.jpg"> </div>
               <div class="profile-content-block" id="playlist"><iframe id="playlist" src="https://open.spotify.com/embed/playlist/7lgXbDNUTMPUxxbZVF0VvL"  height="416px" width="100%" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
-              <div class="profile-content-block" id="playlist">
+              <div class="profile-content-block hide" id="playlist">
                     <img class="img-item profile" src="./assets/images/about/past/fbird.jpg">
                   </div>
-                  <div class="profile-content-block" id="playlist"><img class="img-item profile" src="./assets/images/about/car/c3.jpg"></div>
-                  <div class="profile-content-block">
+                  <div class="profile-content-block hide" id="playlist"><img class="img-item profile" src="./assets/images/about/car/c3.jpg"></div>
+                  <div class="profile-content-block hide">
                       <img class="img-item profile" src="./assets/images/about/past/hills.jpg">
                   </div>
             </div>
@@ -120,11 +119,16 @@
           var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
           var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
           var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+          var yearsNotRounded = distance / (1000 * 60 * 60 * 24 * 365);
         
 
           percent = journey.toFixed(7)
+          yearsRounded = yearsNotRounded.toFixed(8);
 
-          document.getElementById("percent").innerHTML = percent+"%";
+          document.getElementById("percent").innerHTML = yearsRounded;
+          
+          //expired code
           if (distance < 0) {
             clearInterval(x);
             document.getElementById("demo").innerHTML = "EXPIRED";
