@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Jeff Shaw</title>
+    <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/favicons/png" href="/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/favicons/png" href="/favicons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/favicons/png" href="/favicons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/favicons/png" href="/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+    <meta name="theme-color" content="#000000">
+    <link rel="stylesheet" href="./css/main.css">
+  </head>
+
+  <body>
+      
+    <!-- Google Tag Manager -->
+      <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PG8K3C"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-PG8K3C');</script>
+    <!-- End Google Tag Manager -->
+
+    <header>
+        <a href="./theory.html">theory</a>
+        <a href="./work.html">work</a>
+        <a href="./self.html">self</a>
+    </header>
+
+        <!-- Principles to my process -->
+        <!-- Pragmatism -->
+        <div class="container-item container-item-lead">
+            <div class="container-item-text">
+              <h2>Pragmatism </h2>
+              <p>
+
+                
+                  I assess design based on its functional value. The problem comes  before the process
+                  Compromising and adapting is 
+                  
+                  I believe the problem must come before the process. 
+                   Design must include doing research, and it also means having a hand in development.</p>
+              <a href="">more inspiration ></a>
+            </div>
+            <div class="pinterest group"></div>
+        </div>
+
+        <!-- New perspectives -->
+        <div class="container-item container-item-lead">
+          <div class="container-item-text">
+            <h2>2. Create new perspectives</h2>
+            <p>
+
+                How can revisit the timeless joys of humanity uniqley and possible only today?</p>
+            <a href="">more inspiration ></a>
+          </div>
+          <div class="pinterest group"></div>
+        </div>
+
+        <!-- Structure -->
+        <div class="container-item container-item-lead">
+            <div class="container-item-text">
+              <h2>3. Expose true structure</h2>
+              <p>A new perspective combines the latest technology with timeless human interaction patterns.
+  
+                  The power of the human perspective is seeing the same thing in a different way.
+                  
+                  I believe fundamentally humans have not changed in the last 3000 years. 
+                  <br><br>
+                  How can revisit the timeless joys of humanity in a way that is only possible now</p>
+              <a href="">more inspiration ></a>
+            </div>
+            <div class="pinterest group"></div>
+          </div>
+
+          <!--  -->
+
+          <!-- 4 -->
+        <div class="container-item container-item-lead">
+            <div class="container-item-text">
+              <h2>4. Confront tension</h2>
+
+                  <br><br>
+                  How can revisit the pillars of human joy in a way that is only possible today? </p>
+              <a href="">more inspiration ></a>
+            </div>
+            <div class="pinterest group"></div>
+          </div>
+
+             <!-- New technology -->
+        <div class="container-item container-item-lead">
+            <div class="container-item-text">
+              <h2>4. Question reality</h2>
+              <p>A new perspective combines the latest technology with timeless human interaction patterns.
+  
+                  The power of the human perspective is seeing the same thing in a different way.
+                  
+                  I believe fundamentally humans have not changed in the last 3000 years. 
+                  <br><br>
+                  How can revisit the timeless joys of humanity in a way that is only possible now</p>
+              <a href="">more inspiration ></a>
+            </div>
+            <div class="pinterest group"></div>
+          </div>
+
+    
+
+    
+
+    
+
+    <footer> </footer>
+
+    <script>
+    
+    let feed = [];
+
+   
+
+    const list = document.querySelectorAll('.pinterest');
+    const container = document.querySelectorAll('.container-item');
+    const heading = document.createElement('h1');
+    const picCount = document.createElement('div');
+
+    // Pull and apply JSON data
+    function viewJSON(boards,index) {
+
+    var xhr = new XMLHttpRequest();
+    xhr.onreadystatechange = function() {
+
+      if (xhr.readyState === 4) {
+        feed = JSON.parse(xhr.responseText);
+
+        console.log(feed);
+        console.log(feed.data.pins.length); 
+
+        picCount.append(feed.data.pins.length);
+        console.log(boards[index]);
+        
+        for (let i=0; i < feed.data.pins.length; i++) {
+          list[index].innerHTML += '<div class="pic" style="background: url(\'' + feed.data.pins[i].images["237x"].url + '\') 50% no-repeat; background-size: cover;"></div>'; 
+          list[index].innerHTML = list[index].innerHTML.replace('237x','736x')
+
+        }
+
+      }
+
+    };
+    xhr.open('GET', 'https://api.pinterest.com/v3/pidgets/boards/jxjshaw/'+ boards[index] +'/pins/?access_token=AQnH60vIsJtYcssWyfWyCVBVudGQFO8NbCXJxehEaEqbdgArzAAAAAA&fields=id%2Clink%2Cnote%2Curl');
+    xhr.send();
+    }
+
+    
+
+    // viewJSON();
+    container.forEach((container,index) => {
+        const boards = ["function","newoldnew","texture","tool","digital-dash"];
+        container.appendChild(list[index]);
+        viewJSON(boards, index)
+    });
+
+    // header.setAttribute('class', 'group');
+    // header.setAttribute('style', 'position: relative; padding: 0 20px 10px;');
+
+    // footer.setAttribute('style', 'color: #666; text-align: center; padding: 0 20px 20px');
+    // footer.innerHTML = '&copy; 2017';
+
+    // heading.setAttribute('style', 'float: left; font-size: 2.5em;padding-top: 20px;')
+    // heading.append("Guinea Pigs");
+
+    // picCount.setAttribute('style','float:right;font-size: 1.5em;padding-top: 30px;');
+    // picCount.prepend('Pictures: ');
+
+    // document.body.appendChild(header);
+    // document.body.appendChild(list);
+    
+    // var i = document.createElement('input'); 
+    // i.setAttribute('class', 'myclass');
+    // document.forms[0].appendChild(i);
+    // document.body.appendChild(footer);
+
+    // header.appendChild(heading);
+    // header.appendChild(picCount);
+
+    
+    
+    </script>
+
+  </body>
+
+</html>
