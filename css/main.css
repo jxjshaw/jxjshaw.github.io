@@ -7,7 +7,7 @@
   src: url(../assets/fonts/Akkurat-Mono.otf); }
 @font-face {
   font-family: akkurat;
-  src: url(../assets/fonts/Akkurat-Medium.ttf); }
+  src: url(../assets/fonts/Akkurat.ttf); }
     
 html {
   background-color: black;
@@ -205,6 +205,7 @@ canvas {
   flex-wrap: wrap;
   justify-content: center;
   height: fit-content;
+  padding-top: 100px;
 }
 
 .profile-content-block {
@@ -242,7 +243,8 @@ canvas {
 }
 
 .counter {
-  /* font-size: 14px; */
+  padding-bottom: 80px;
+  padding-top: 8px;
 }
 
 .theory-text {
@@ -332,9 +334,15 @@ and (max-width : 720px)
   /* font-size: 12px; */
  }
 
-.fab {
+.fab, .fas {
   padding: 4px;
   padding-bottom: 52px;
+  padding-top: 24px;
+  font-size: 20px;
+}
+
+.fas{
+  font-size: 20px;
 }
 
 
