@@ -301,6 +301,14 @@ and (max-width : 720px)
     display: none;
   }
 
+  header {
+    touch-action: manipulation;
+  }
+
+  /* header > a {
+    font-size: 16px;
+  } */
+
 
   /* profile stuff clean up */
 
@@ -322,10 +330,6 @@ and (max-width : 720px)
     padding-top: 40px;
   }
 
-
-  #playlist{
-    /* height: 900px; */
-  }
 
  
 
