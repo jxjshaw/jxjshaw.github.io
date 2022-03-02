@@ -26,13 +26,13 @@ header {
   
 }
 
-a, .text-unit, .counter {
+a, .text-unit, .counter, .mono-head {
   color: #FFFFFF;
   text-decoration: none;
   font-family: akkurat-mono;
   font-size: 12px;
   /* letter-spacing: 0.2px; */
-  letter-spacing: 1.6px;
+  letter-spacing: 0.8px;
   transition: all .135s cubic-bezier(.4,0,.6,1)
 }
 
@@ -54,6 +54,10 @@ a:hover {
 
 header a, footer a {
   margin: 8px;
+}
+
+.mono-head {
+  font-size: 11px;
 }
 
 h2 {
